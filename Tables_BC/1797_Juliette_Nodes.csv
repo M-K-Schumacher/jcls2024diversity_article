@@ -1,0 +1,153 @@
+Id,Label,node type,gender
+Abbé Ducroz,Abbé Ducroz,Figur,
+D'Albert,D'Albert,Figur,
+Délben,Délben,Figur,
+Délbens Bruder,Délbens Bruder,Figur,
+Dienerin Mondors,Dienerin Mondors,Figur,
+Duvergier,Duvergier,Figur,
+Eglée,Eglée,Figur,
+ein Richter,ein Richter,Figur,
+eine Gruppe von Männern,eine Gruppe von Männern,Figur,
+eine Nonne,eine Nonne,Figur,
+Elisabeth,Elisabeth,Figur,
+Euphrosine,Euphrosine,Figur,
+Flavia,Flavia,Figur,
+Fontenille,Fontenille,Figur,
+Frau von Volmar,Frau von Volmar,Figur,
+Henriette,Henriette,Figur,
+Juliette,Juliette,Figur,
+Justine,Justine,Figur,
+Koch der Duvergier,Koch der Duvergier,Figur,
+Kolleginnen von Juliette,Kolleginnen von Juliette,Figur,
+König,König,Figur,
+Laurette,Laurette,Figur,
+Lolotte,Lolotte,Figur,
+Lubin,Lubin,Figur,
+Lurdane,Lurdane,Figur,
+Madame de Noirceuil,Madame de Noirceuil,Figur,
+Minette,Minette,Figur,
+Mondor,Mondor,Figur,
+Mutter von Juliette,Mutter von Juliette,Figur,
+Noirceuil,Noirceuil,Figur,
+Onkel von Laurette,Onkel von Laurette,Figur,
+Pater Télème,Pater Télème,Figur,
+Seinte Elmé,Seinte Elmé,Figur,
+Tochter von Saint-Fond,Tochter von Saint-Fond,Figur,
+Vater von Juliette,Vater von Juliette,Figur,
+vier Mädchen,vier Mädchen,Figur,
+Vorsteherin der Novizen,Vorsteherin der Novizen,Figur,
+Äbtissin,Äbtissin,Rolle,weiblich
+Bacchantin,Bacchantin,Rolle,weiblich
+Beichtvater,Beichtvater,Rolle,männlich
+Blumengöttin,Blumengöttin,Rolle,weiblich
+Bruder,Bruder,Rolle,männlich
+Cousine,Cousine,Rolle,weiblich
+Dame,Dame,Rolle,weiblich
+Diener,Diener,Rolle,männlich
+Dienerin,Dienerin,Rolle,weiblich
+Ehehälfte,Ehehälfte,Rolle,genderneutral
+Engel,Engel,Rolle,genderneutral
+Erzieherin,Erzieherin,Rolle,weiblich
+Frau,Frau,Rolle,weiblich
+Frau ohne Ehre,Frau ohne Ehre,Rolle,weiblich
+Fräulein,Fräulein,Rolle,weiblich
+Freudenmädchen,Freudenmädchen,Rolle,weiblich
+Freund,Freund,Rolle,männlich
+Freundenknabe,Freundenknabe,Rolle,männlich
+Freundin,Freundin,Rolle,weiblich
+Frevler,Frevler,Rolle,männlich
+Führerin,Führerin,Rolle,weiblich
+Gatte,Gatte,Rolle,männlich
+Gattin,Gattin,Rolle,weiblich
+Gaunerin,Gaunerin,Rolle,weiblich
+gefallenes Weib,gefallenes Weib,Rolle,weiblich
+Geizhals,Geizhals,Rolle,genderneutral
+Geliebte,Geliebte,Rolle,weiblich
+Geliebter,Geliebter,Rolle,männlich
+Gemahlin,Gemahlin,Rolle,weiblich
+Genossin,Genossin,Rolle,weiblich
+Genossinen,Genossinen,Rolle,weiblich
+Gerichtsvorsitzender,Gerichtsvorsitzender,Rolle,männlich
+Geschöpf,Geschöpf,Rolle,genderneutral
+Gnaden,Gnaden,Rolle,genderneutral
+Gode,Gode,Rolle,weiblich
+Gott,Gott,Rolle,genderneutral
+Gottesmann,Gottesmann,Rolle,männlich
+Großvikar,Großvikar,Rolle,männlich
+Gute,Gute,Rolle,weiblich
+Haushälterin,Haushälterin,Rolle,weiblich
+Henker,Henker,Rolle,männlich
+Herr,Herr,Rolle,männlich
+Herr Dentemar,Herr Dentemar,Rolle,männlich
+Herzchen,Herzchen,Rolle,genderneutral
+Hohepriester,Hohepriester,Rolle,männlich
+Hure,Hure,Rolle,weiblich
+Huren,Huren,Rolle,weiblich
+Intimus,Intimus,Rolle,männlich
+junger Mann,junger Mann,Rolle,männlich
+junges Mädchen,junges Mädchen,Rolle,weiblich
+Jungfernräuber,Jungfernräuber,Rolle,männlich
+Jungfrau,Jungfrau,Rolle,weiblich
+Jurist,Jurist,Rolle,männlich
+Kind,Kind,Rolle,genderneutral
+Kleine,Kleine,Rolle,weiblich
+Klosterschülerin,Klosterschülerin,Rolle,weiblich
+Knabe,Knabe,Rolle,männlich
+Koch,Koch,Rolle,männlich
+Krösus,Krösus,Rolle,weiblich
+Kupplerin,Kupplerin,Rolle,weiblich
+Lakai,Lakai,Rolle,männlich
+Liebhaber,Liebhaber,Rolle,männlich
+Liebling,Liebling,Rolle,genderneutral
+Lumpenweib,Lumpenweib,Rolle,weiblich
+Lustknabe,Lustknabe,Rolle,männlich
+Lüstling,Lüstling,Rolle,männlich
+Madame,Madame,Rolle,weiblich
+Mädchen,Mädchen,Rolle,weiblich
+Mann,Mann,Rolle,männlich
+Matrone,Matrone,Rolle,weiblich
+Meister,Meister,Rolle,männlich
+Mensch,Mensch,Rolle,genderneutral
+Millionär,Millionär,Rolle,männlich
+Minister,Minister,Rolle,männlich
+Minister Saint-Fond,Minister Saint-Fond,Rolle,männlich
+Mutter,Mutter,Rolle,weiblich
+Niederträchtiger,Niederträchtiger,Rolle,männlich
+Nonne,Nonne,Rolle,weiblich
+Novizin,Novizin,Rolle,weiblich
+Oberin,Oberin,Rolle,weiblich
+Onkel,Onkel,Rolle,männlich
+Opfer,Opfer,Rolle,genderneutral
+Pensionärin,Pensionärin,Rolle,weiblich
+Person,Person,Rolle,genderneutral
+Priesterinnen,Priesterinnen,Rolle,weiblich
+Schelm,Schelm,Rolle,männlich
+Schelmin,Schelmin,Rolle,weiblich
+Schuft,Schuft,Rolle,männlich
+Schuldige,Schuldige,Rolle,weiblich
+Schwester,Schwester,Rolle,weiblich
+Schwiegersohn,Schwiegersohn,Rolle,männlich
+sechs Männer,sechs Männer,Rolle,männlich
+Sechziger,Sechziger,Rolle,männlich
+Sklave,Sklave,Rolle,männlich
+Sterbende,Sterbende,Rolle,weiblich
+Teilnehmer,Teilnehmer,Rolle,genderneutral
+Teure,Teure,Rolle,weiblich
+Tochter,Tochter,Rolle,weiblich
+Unglückliche,Unglückliche,Rolle,weiblich
+Vater,Vater,Rolle,männlich
+Verbrecher,Verbrecher,Rolle,männlich
+Verbrecherin,Verbrecherin,Rolle,weiblich
+Verräter,Verräter,Rolle,männlich
+Vorsteherin,Vorsteherin,Rolle,weiblich
+Waise,Waise,Rolle,genderneutral
+Weib,Weib,Rolle,weiblich
+Wesen,Wesen,Rolle,genderneutral
+Wirtin,Wirtin,Rolle,weiblich
+Wohltäter,Wohltäter,Rolle,männlich
+Wüstling,Wüstling,Rolle,männlich
+Zeugin,Zeugin,Rolle,weiblich
+Zierpuppe,Zierpuppe,Rolle,weiblich
+zwei Knaben,zwei Knaben,Rolle,männlich
+Freundlin,,Rolle,weiblich
+Sklavin,Sklavin,Rolle,weiblich

@@ -1,0 +1,319 @@
+Source,Target,Type,Label,Weight,source type,target type,gender
+Freund,Freund,Undirected,,1,Figur,Genderrolle,Mann
+Despoten,Despoten,Undirected,,1,Figur,Genderrolle,Genderneutral
+Italiäner,Italiäner,Undirected,,1,Figur,Genderrolle,Genderneutral
+Carraccis,Caraccis,Undirected,,1,Figur,Genderrolle,Genderneutral
+Madonna di Foligno,Madonna di Foligno,Undirected,,1,Figur,Genderrolle,Frau
+Raffael,Raffael,Undirected,,1,Figur,Genderrolle,Mann
+Perugin,Perugin,Undirected,,1,Figur,Genderrolle,Mann
+Johann Bellin,Johann Bellin,Undirected,,1,Figur,Genderrolle,Mann
+Meister,Meister,Undirected,,1,Figur,Genderrolle,Mann
+Julio Romano,Julio Romano,Undirected,,1,Figur,Genderrolle,Mann
+Franzosen,Franzosen,Undirected,,1,Figur,Genderrolle,Genderneutral
+Fortuna,Fortuna,Undirected,,1,Figur,Genderrolle,Frau
+Guido,Guido,Undirected,,1,Figur,Genderrolle,Mann
+Rinaldo,Rinaldo,Undirected,,1,Figur,Genderrolle,Mann
+Armide,Armide,Undirected,,1,Figur,Genderrolle,Frau
+Areneas,Areneas,Undirected,,1,Figur,Genderrolle,Mann
+Anchises,Anchises,Undirected,,1,Figur,Genderrolle,Mann
+Domenichino,Domenichino,Undirected,,1,Figur,Genderrolle,Mann
+Katharina,Katharina,Undirected,,1,Figur,Genderrolle,Frau
+Correggio,Correggio,Undirected,,1,Figur,Genderrolle,Mann
+Visconti,Visconti,Undirected,,1,Figur,Genderrolle,Mann
+Liebhaber,Liebhaber,Undirected,,1,Figur,Genderrolle,Mann
+Correggio,Künstler,Undirected,,1,Figur,Genderrolle,Mann
+Raffael,Meister,Undirected,,1,Figur,Genderrolle,Mann
+Madonna,Madonna,Undirected,,1,Figur,Genderrolle,Frau
+Carraccis,Carraccis,Undirected,,1,Figur,Genderrolle,Genderneutral
+Guido,Maler,Undirected,,1,Figur,Genderrolle,Mann
+Domenichino,Maler,Undirected,,1,Figur,Genderrolle,Mann
+Correggio,Maler,Undirected,,1,Figur,Genderrolle,Mann
+Julio Romano,Maler,Undirected,,1,Figur,Genderrolle,Mann
+Andrea del Sarto,Maler,Undirected,,1,Figur,Genderrolle,Mann
+Correggio,Figuren,Undirected,,1,Figur,Genderrolle,Genderneutral
+Julio Romano,Figuren,Undirected,,1,Figur,Genderrolle,Genderneutral
+Andrea del Sarto,Figuren,Undirected,,1,Figur,Genderrolle,Genderneutral
+Mensch,Mensch,Undirected,,1,Figur,Genderrolle,Genderneutral
+Fra Bartholomeo,Meister,Undirected,,1,Figur,Genderrolle,Mann
+Marcus,Marcus,Undirected,,1,Figur,Genderrolle,Mann
+Christus,Christus,Undirected,,1,Figur,Genderrolle,Mann
+Evangelisten,Evangelisten,Undirected,,1,Figur,Genderrolle,Genderneutral
+Marcus,Gestalt,Undirected,,1,Figur,Genderrolle,Genderneutral
+Fra Bartholomeo,Fra Bartholomeo,Undirected,,1,Figur,Genderrolle,Mann
+Bellin,Bellin,Undirected,,1,Figur,Genderrolle,Mann
+Feind,Feind,Undirected,,1,Figur,Genderrolle,Mann
+Prophet,Prophet,Undirected,,1,Figur,Genderrolle,Mann
+Mantegna,Mantegna,Undirected,,1,Figur,Genderrolle,Mann
+Zuschauer,Zuschauer,Undirected,,1,Figur,Genderrolle,Mann
+Merkur,Merkur,Undirected,,1,Figur,Genderrolle,Mann
+Apollo,Apollo,Undirected,,1,Figur,Genderrolle,Mann
+Vulkan,Vulkan,Undirected,,1,Figur,Genderrolle,Mann
+Musen,Musen,Undirected,,1,Figur,Genderrolle,Frau
+Mars,Gott,Undirected,,1,Figur,Genderrolle,Mann
+Venus,Venus,Undirected,,1,Figur,Genderrolle,Frau
+Amor,Amor,Undirected,,1,Figur,Genderrolle,Mann
+Mars,Mars,Undirected,,1,Figur,Genderrolle,Mann
+Mantegna,Maler,Undirected,,1,Figur,Genderrolle,Mann
+Muse,Muse,Undirected,,1,Figur,Genderrolle,Frau
+Gesellschafter,Gesellschafter,Undirected,,1,Figur,Genderrolle,Mann
+Frauen,Frauen,Undirected,,1,Figur,Genderrolle,Frau
+Engel,Engel,Undirected,,1,Figur,Genderrolle,Genderneutral
+Wesen,Wesen,Undirected,,1,Figur,Genderrolle,Genderneutral
+Priesterinnen,Hauptperson,Undirected,,1,Figur,Genderrolle,Genderneutral
+Wesen,Ignorantia,Undirected,,1,Figur,Genderrolle,Frau
+Wesen,Ingratitudo,Undirected,,1,Figur,Genderrolle,Mann
+Wesen,Insertia,Undirected,,1,Figur,Genderrolle,Frau
+Geister,Geister,Undirected,,1,Figur,Genderrolle,Genderneutral
+Kind,Kind,Undirected,,1,Figur,Genderrolle,Genderneutral
+Kind,Gewürm,Undirected,,1,Figur,Genderrolle,Genderneutral
+Kind,Fledermaus,Undirected,,1,Figur,Genderrolle,Genderneutral
+Dante,Maler,Undirected,,1,Figur,Genderrolle,Mann
+Maler,Maler,Undirected,,1,Figur,Genderrolle,Mann
+Madonna della Vittoria,Madonna della Vittoria,Undirected,,1,Figur,Genderrolle,Frau
+Mantegna,Meister,Undirected,,1,Figur,Genderrolle,Mann
+Bellin,Meister,Undirected,,1,Figur,Genderrolle,Mann
+Fra Bartholomeo,Maler,Undirected,,1,Figur,Genderrolle,Mann
+Fra Bartholomeo,Künstler,Undirected,,1,Figur,Genderrolle,Mann
+Tizian,Tizian,Undirected,,1,Figur,Genderrolle,Mann
+Männer,Männer,Undirected,,1,Figur,Genderrolle,Mann
+Räuber,Räuber,Undirected,,1,Figur,Genderrolle,Mann
+Männer,Märtyrer,Undirected,,1,Figur,Genderrolle,Mann
+Menschen,Menschen,Undirected,,1,Figur,Genderrolle,Genderneutral
+Holbein,Holbein,Undirected,,1,Figur,Genderrolle,Mann
+Leonardo,Leonardo,Undirected,,1,Figur,Genderrolle,Mann
+Tizian,Künstler,Undirected,,1,Figur,Genderrolle,Mann
+Madonnen,Madonnen,Undirected,,1,Figur,Genderrolle,Frau
+Paul Veronese,Paul Veronese,Undirected,,1,Figur,Genderrolle,Mann
+Pilger,Pilger,Undirected,,1,Figur,Genderrolle,Mann
+Künstler,Künstler,Undirected,,1,Figur,Genderrolle,Mann
+Tizian,Maler,Undirected,,1,Figur,Genderrolle,Mann
+Christus,Mensch,Undirected,,1,Figur,Genderrolle,Genderneutral
+Andrea del Sarto,Andrea del Sarto,Undirected,,1,Figur,Genderrolle,Mann
+Joseph,Joseph,Undirected,,1,Figur,Genderrolle,Mann
+Person,Person,Undirected,,1,Figur,Genderrolle,Mann
+Palma Vecchio,Palma Vecchio,Undirected,,1,Figur,Genderrolle,Mann
+Hirt,Hirt,Undirected,,1,Figur,Genderrolle,Mann
+Christus,Christkind,Undirected,,1,Figur,Genderrolle,Genderneutral
+Julio Romano,Künstler,Undirected,,1,Figur,Genderrolle,Mann
+Rochus,Rochus,Undirected,,1,Figur,Genderrolle,Mann
+Raffael,Lehrer,Undirected,,1,Figur,Genderrolle,Mann
+Julio Romano,Schüler,Undirected,,1,Figur,Genderrolle,Mann
+Familie,Familie,Undirected,,1,Figur,Genderrolle,Genderneutral
+Urheber,Urheber,Undirected,,1,Figur,Genderrolle,Mann
+Raffael,Schüler,Undirected,,1,Figur,Genderrolle,Mann
+Gelehrte,Gelehrte,Undirected,,1,Figur,Genderrolle,Genderneutral
+Urteilende,Urteilende,Undirected,,1,Figur,Genderrolle,Genderneutral
+Placidus,Placidus,Undirected,,1,Figur,Genderrolle,Mann
+Flavia,Flavia,Undirected,,1,Figur,Genderrolle,Frau
+Sebastian,Sebastian,Undirected,,1,Figur,Genderrolle,Mann
+Magdalena,Magdalena,Undirected,,1,Figur,Genderrolle,Frau
+Hieonimus,Hieronimus,Undirected,,1,Figur,Genderrolle,Mann
+Georgio,Georgio,Undirected,,1,Figur,Genderrolle,Mann
+Dichter,Dichter,Undirected,,1,Figur,Genderrolle,Genderneutral
+Musiker,Musiker,Undirected,,1,Figur,Genderrolle,Mann
+Gestalten,Gestalten,Undirected,,1,Figur,Genderrolle,Genderneutral
+Gestalt,Alte,Undirected,,1,Figur,Genderrolle,Frau
+Gestalt,Hirt,Undirected,,1,Figur,Genderrolle,Mann
+Personen,Personen,Undirected,,1,Figur,Genderrolle,Genderneutral
+Maria,Maria,Undirected,,1,Figur,Genderrolle,Frau
+Johannes,Gestalt,Undirected,,1,Figur,Genderrolle,Genderneutral
+Mutter,Mutter,Undirected,,1,Figur,Genderrolle,Frau
+Gott,Gott,Undirected,,1,Figur,Genderrolle,Genderneutral
+Mutter,Sonne,Undirected,,1,Figur,Genderrolle,Frau
+Johannes,Täufer,Undirected,,1,Figur,Genderrolle,Mann
+Franziskus,Franziskus,Undirected,,1,Figur,Genderrolle,Mann
+Correggio,Meister,Undirected,,1,Figur,Genderrolle,Mann
+Christkind,Christkind,Undirected,,1,Figur,Genderrolle,Genderneutral
+Figur,Tod,Undirected,,1,Figur,Genderrolle,Genderneutral
+Figuren,Figürchen,Undirected,,1,Figur,Genderrolle,Genderneutral
+Figuren,Figuren,Undirected,,1,Figur,Genderrolle,Genderneutral
+Christus,Leiche,Undirected,,1,Figur,Genderrolle,Genderneutral
+Personen,Klagende,Undirected,,1,Figur,Genderrolle,Genderneutral
+Christus,Erlöser,Undirected,,1,Figur,Genderrolle,Mann
+Vater,Vater,Undirected,,1,Figur,Genderrolle,Mann
+Knabe,Knabe,Undirected,,1,Figur,Genderrolle,Mann
+Sohn,Sohn,Undirected,,1,Figur,Genderrolle,Mann
+Betrachter,Betrachter,Undirected,,1,Figur,Genderrolle,Mann
+Gestalt,Gestalt,Undirected,,1,Figur,Genderrolle,Genderneutral
+Unthier,Unthier,Undirected,,1,Figur,Genderrolle,Genderneutral
+Unthier,Unwesen,Undirected,,1,Figur,Genderrolle,Genderneutral
+Unthier,Wesen,Undirected,,1,Figur,Genderrolle,Genderneutral
+Kenner,Kenner,Undirected,,1,Figur,Genderrolle,Genderneutral
+Hieronymus,Hieronymus,Undirected,,1,Figur,Genderrolle,Mann
+Magdalena,Schmeichlerin,Undirected,,1,Figur,Genderrolle,Frau
+Magdalena,Weib,Undirected,,1,Figur,Genderrolle,Frau
+Beschauer,Beschauer,Undirected,,1,Figur,Genderrolle,Mann
+Kunstliebhaber,Kunstliebhaber,Undirected,,1,Figur,Genderrolle,Genderneutral
+Maler,Heldenkünstler,Undirected,,1,Figur,Genderrolle,Mann
+Alegri,Heldenkünstler,Undirected,,1,Figur,Genderrolle,Mann
+Leonardo,Dichter,Undirected,,1,Figur,Genderrolle,Mann
+Figur,Figur,Undirected,,1,Figur,Genderrolle,Genderneutral
+Schüler,Schüler,Undirected,,1,Figur,Genderrolle,Mann
+Leonardo,Maler,Undirected,,1,Figur,Genderrolle,Mann
+Johannes,Johannes,Undirected,,1,Figur,Genderrolle,Mann
+Jesus,Jesus,Undirected,,1,Figur,Genderrolle,Mann
+St. Michael,St. Michale,Undirected,,1,Figur,Genderrolle,Mann
+Christus,Heiland,Undirected,,1,Figur,Genderrolle,Mann
+Leonardo,Florentiner,Undirected,,1,Figur,Genderrolle,Mann
+Leonardo,Künstler,Undirected,,1,Figur,Genderrolle,Mann
+Madonna,Mutter,Undirected,,1,Figur,Genderrolle,Frau
+Kinder,Kinder,Undirected,,1,Figur,Genderrolle,Genderneutral
+Christkind,Kind,Undirected,,1,Figur,Genderrolle,Genderneutral
+Christus,Gott,Undirected,,1,Figur,Genderrolle,Genderneutral
+Luini,Schüler,Undirected,,1,Figur,Genderrolle,Mann
+Solario,Schüler,Undirected,,1,Figur,Genderrolle,Mann
+Michael,Michael,Undirected,,1,Figur,Genderrolle,Mann
+Anna,Anna,Undirected,,1,Figur,Genderrolle,Frau
+Leonardo,Meister,Undirected,,1,Figur,Genderrolle,Mann
+Titian,Titian,Undirected,,1,Figur,Genderrolle,Mann
+Portraitmaler,Portraitmaler,Undirected,,1,Figur,Genderrolle,Mann
+Frau,Frau,Undirected,,1,Figur,Genderrolle,Frau
+Individuum,Individuum,Undirected,,1,Figur,Genderrolle,Genderneutral
+Herzog,Herzog,Undirected,,1,Figur,Genderrolle,Mann
+Madame,Madame,Undirected,,1,Figur,Genderrolle,Frau
+Garofalo,Garofalo,Undirected,,1,Figur,Genderrolle,Mann
+Garofalo,Künstler,Undirected,,1,Figur,Genderrolle,Mann
+Raffael,Künstler,Undirected,,1,Figur,Genderrolle,Mann
+Raffael,Maler,Undirected,,1,Figur,Genderrolle,Mann
+Kunstverwandte,Kunstverwandte,Undirected,,1,Figur,Genderrolle,Genderneutral
+Michel Angelo,Michel Angelo,Undirected,,1,Figur,Genderrolle,Mann
+Masaccio,Masaccio,Undirected,,1,Figur,Genderrolle,Mann
+Madonna de Foligno,Madonna de Foligno,Undirected,,1,Figur,Genderrolle,Frau
+Madonna de Foligno,Madonna,Undirected,,1,Figur,Genderrolle,Frau
+Donatarius,Geistlicher,Undirected,,1,Figur,Genderrolle,Mann
+Hieronymus,Alter,Undirected,,1,Figur,Genderrolle,Mann
+Franziskus,Figur,Undirected,,1,Figur,Genderrolle,Genderneutral
+Johannes,Figur,Undirected,,1,Figur,Genderrolle,Genderneutral
+Correggio,Original,Undirected,,1,Figur,Genderrolle,Genderneutral
+Geistkicher,Geistlicher,Undirected,,1,Figur,Genderrolle,Mann
+Laie,Laie,Undirected,,1,Figur,Genderrolle,Genderneutral
+Apostel,Apostel,Undirected,,1,Figur,Genderrolle,Mann
+Heiland,Heiland,Undirected,,1,Figur,Genderrolle,Mann
+Knabe,Unschuldiger,Undirected,,1,Figur,Genderrolle,Mann
+Weib,Weib,Undirected,,1,Figur,Genderrolle,Frau
+Michael,Engel,Undirected,,1,Figur,Genderrolle,Mann
+Teufel,Teufel,Undirected,,1,Figur,Genderrolle,Genderneutral
+Raffael,Dichter,Undirected,,1,Figur,Genderrolle,Mann
+Dürer,Dürer,Undirected,,1,Figur,Genderrolle,Mann
+Könige,Könige,Undirected,,1,Figur,Genderrolle,Mann
+Isaak,Isaak,Undirected,,1,Figur,Genderrolle,Mann
+Johann von Eyck,Johann von Eyck,Undirected,,1,Figur,Genderrolle,Mann
+Juno,Juno,Undirected,,1,Figur,Genderrolle,Frau
+Diana,Diana,Undirected,,1,Figur,Genderrolle,Frau
+Juno,Göttin,Undirected,,1,Figur,Genderrolle,Frau
+Diana,Göttin,Undirected,,1,Figur,Genderrolle,Frau
+Eyck,Eyck,Undirected,,1,Figur,Genderrolle,Mann
+Seraphim,Seraphim,Undirected,,1,Figur,Genderrolle,Genderneutral
+Jungfrauen,Chöre,Undirected,,1,Figur,Genderrolle,Frau
+Märtyrer,Märtyrer,Undirected,,1,Figur,Genderrolle,Mann
+Kirchenlehrer,Kirchenlehrer,Undirected,,1,Figur,Genderrolle,Mann
+Päpste,Päbste,Undirected,,1,Figur,Genderrolle,Mann
+Geistliche,Geistliche,Undirected,,1,Figur,Genderrolle,Mann
+Anbetende,Chöre,Undirected,,1,Figur,Genderrolle,Genderneutral
+Holbein,Künstler,Undirected,,1,Figur,Genderrolle,Mann
+Eyck,Künstler,Undirected,,1,Figur,Genderrolle,Mann
+Dürer,Künstler,Undirected,,1,Figur,Genderrolle,Mann
+Holbein,Maler,Undirected,,1,Figur,Genderrolle,Mann
+Eyck,Maler,Undirected,,1,Figur,Genderrolle,Mann
+Hauptkünstler,Hauptkünstler,Undirected,,1,Figur,Genderrolle,Mann
+Hemmerlink,Maler,Undirected,,1,Figur,Genderrolle,Mann
+Heilige,Heilige,Undirected,,1,Figur,Genderrolle,Genderneutral
+Johannes,Apostel,Undirected,,1,Figur,Genderrolle,Mann
+Dionysis,Dionysis,Undirected,,1,Figur,Genderrolle,Mann
+Karl der Große,Karl der Große,Undirected,,1,Figur,Genderrolle,Mann
+Karl der Große,Karl,Undirected,,1,Figur,Genderrolle,Mann
+Kriegsknechte,Kriegsknechte,Undirected,,1,Figur,Genderrolle,Mann
+Dionysis,Märtyrer,Undirected,,1,Figur,Genderrolle,Mann
+Christus,Gekreuzigter,Undirected,,1,Figur,Genderrolle,Mann
+Gesellen,Gesellen,Undirected,,1,Figur,Genderrolle,Mann
+Geist,Geist,Undirected,,1,Figur,Genderrolle,Genderneutral
+Dionsysis,Märtyrer,Undirected,,1,Figur,Genderrolle,Mann
+Karl der Große,Graf,Undirected,,1,Figur,Genderrolle,Mann
+Mater dolorosa,Mater dolorosa,Undirected,,1,Figur,Genderrolle,Frau
+Ludwig der Heilige,Ludwig der Heilige,Undirected,,1,Figur,Genderrolle,Mann
+Wandrer,Wandrer,Undirected,,1,Figur,Genderrolle,Mann
+Laien,Laien,Undirected,,1,Figur,Genderrolle,Mann
+Perugin,Perugino,Undirected,,1,Figur,Genderrolle,Mann
+Leser,Leser,Undirected,,1,Figur,Genderrolle,Mann
+Perugin,Meister,Undirected,,1,Figur,Genderrolle,Mann
+Perugin,Maler,Undirected,,1,Figur,Genderrolle,Mann
+Liebe,Mutter,Undirected,,1,Figur,Genderrolle,Frau
+Kleine,Kleine,Undirected,,1,Figur,Genderrolle,Genderneutral
+Caraccis,Caraccis,Undirected,,1,Figur,Genderrolle,Genderneutral
+Kunstfreund,Kunstfreund,Undirected,,1,Figur,Genderrolle,Mann
+Nachfolger,Nachfolger,Undirected,,1,Figur,Genderrolle,Genderneutral
+Poussin,Poussin,Undirected,,1,Figur,Genderrolle,Mann
+Mengs,Mengs,Undirected,,1,Figur,Genderrolle,Mann
+Aposteln,Aposteln,Undirected,,1,Figur,Genderrolle,Mann
+Herbeiführende,Herbeiführende,Undirected,,1,Figur,Genderrolle,Genderneutral
+Murrende,Murrende,Undirected,,1,Figur,Genderrolle,Genderneutral
+Heiland,Figur,Undirected,,1,Figur,Genderrolle,Genderneutral
+Donatarius,Donatarius,Undirected,,1,Figur,Genderrolle,Mann
+Madonna,Geliebte,Undirected,,1,Figur,Genderrolle,Frau
+Madonna,Königin,Undirected,,1,Figur,Genderrolle,Frau
+Raffael,Miniaturmaler,Undirected,,1,Figur,Genderrolle,Mann
+Raffael,Genie,Undirected,,1,Figur,Genderrolle,Mann
+Raffael,Mann,Undirected,,1,Figur,Genderrolle,Mann
+Madonna della Sedia,Madonna della Sedia,Undirected,,1,Figur,Genderrolle,Frau
+Raffael,Führer,Undirected,,1,Figur,Genderrolle,Mann
+Julio Romano,Venetianer,Undirected,,1,Figur,Genderrolle,Mann
+Michel Angelo,Maler,Undirected,,1,Figur,Genderrolle,Mann
+Italiener,Italiener,Undirected,,1,Figur,Genderrolle,Mann
+Bellin,Maler,Undirected,,1,Figur,Genderrolle,Mann
+Masaccio,Maler,Undirected,,1,Figur,Genderrolle,Mann
+Dante,Dante,Undirected,,1,Figur,Genderrolle,Mann
+Petrarca,Petrarca,Undirected,,1,Figur,Genderrolle,Mann
+Tasso,Tasso,Undirected,,1,Figur,Genderrolle,Mann
+Guarini,Guarini,Undirected,,1,Figur,Genderrolle,Mann
+Leonardo,Schüler,Undirected,,1,Figur,Genderrolle,Mann
+Antiope,Antiope,Undirected,,1,Figur,Genderrolle,Frau
+Amur,Gott,Undirected,,1,Figur,Genderrolle,Mann
+Hermes,Hermes,Undirected,,1,Figur,Genderrolle,Mann
+Griechen,Griechen,Undirected,,1,Figur,Genderrolle,Genderneutral
+Amorinen,Amorinen,Undirected,,1,Figur,Genderrolle,Mann
+Amoretten,Amoretten,Undirected,,1,Figur,Genderrolle,Mann
+Kleiner,Kleiner,Undirected,,1,Figur,Genderrolle,Mann
+Daphne,Daphne,Undirected,,1,Figur,Genderrolle,Frau
+Europa,Europa,Undirected,,1,Figur,Genderrolle,Frau
+Ovid,Ovid,Undirected,,1,Figur,Genderrolle,Mann
+Shakespeare,Shakespeare,Undirected,,1,Figur,Genderrolle,Frau
+Jakob Böhme,Jakob Böhme,Undirected,,1,Figur,Genderrolle,Mann
+Lucian Bonaparte,Lucian Bonaparte,Undirected,,1,Figur,Genderrolle,Mann
+Kunstfreunde,Kunstfreunde,Undirected,,1,Figur,Genderrolle,Genderneutral
+Inspirierter,Inspirierter,Undirected,,1,Figur,Genderrolle,Mann
+Murillos,Murillos,Undirected,,1,Figur,Genderrolle,Mann
+Mönch,Mönch,Undirected,,1,Figur,Genderrolle,Mann
+Begeisterter,Begeisterter,Undirected,,1,Figur,Genderrolle,Mann
+Figürchen,Figürchen,Undirected,,1,Figur,Genderrolle,Genderneutral
+Bettlerknabe,Bettlerknabe,Undirected,,1,Figur,Genderrolle,Mann
+Spanier,Spanier,Undirected,,1,Figur,Genderrolle,Mann
+Betende,Betende,Undirected,,1,Figur,Genderrolle,Frau
+Deutsche,Deutsche,Undirected,,1,Figur,Genderrolle,Genderneutral
+Michel Angelo,Künstler,Undirected,,1,Figur,Genderrolle,Mann
+Leda,Leda,Undirected,,1,Figur,Genderrolle,Frau
+Buben,Buben,Undirected,,1,Figur,Genderrolle,Mann
+Tizian,Sohn,Undirected,,1,Figur,Genderrolle,Mann
+Paul Veronesse,Paul Veronesse,Undirected,,1,Figur,Genderrolle,Mann
+Perugin,Fürst,Undirected,,1,Figur,Genderrolle,Mann
+Heiliger,Heiliger,Undirected,,1,Figur,Genderrolle,Mann
+Perugin,Künstler,Undirected,,1,Figur,Genderrolle,Mann
+Allori,Allori,Undirected,,1,Figur,Genderrolle,Frau
+Venus,Göttin,Undirected,,1,Figur,Genderrolle,Frau
+Liebesgott,Liebesgott,Undirected,,1,Figur,Genderrolle,Mann
+Venus,Weib,Undirected,,1,Figur,Genderrolle,Frau
+Götter,Götter,Undirected,,1,Figur,Genderrolle,Genderneutral
+Allori,Meister,Undirected,,1,Figur,Genderrolle,Mann
+Franz,Franz,Undirected,,1,Figur,Genderrolle,Mann
+Herodias,Herodias,Undirected,,1,Figur,Genderrolle,Frau
+Solario,Solario,Undirected,,1,Figur,Genderrolle,Mann
+Leonardo,Philosoph,Undirected,,1,Figur,Genderrolle,Mann
+Jehova,Jehova,Undirected,,1,Figur,Genderrolle,Mann
+Fattore,Maler,Undirected,,1,Figur,Genderrolle,Mann
+Madonna,Gärtnerin,Undirected,,1,Figur,Genderrolle,Frau
+Madonna del Candelabro,Madonna del Candelabro,Undirected,,1,Figur,Genderrolle,Frau
+Joseph,Alter,Undirected,,1,Figur,Genderrolle,Mann
+Nebenfigur,Nebenfigur,Undirected,,1,Figur,Genderrolle,Genderneutral
+Judith,Judith,Undirected,,1,Figur,Genderrolle,Frau
+Freunde,Freunde,Undirected,,1,Figur,Genderrolle,Genderneutral
+Gottheit,Gottheit,Undirected,,1,Figur,Genderrolle,Genderneutral
+Genie,Genie,Undirected,,1,Figur,Genderrolle,Genderneutral

@@ -1,0 +1,245 @@
+Id,Label,type,gender
+Professor Unrat,Professor Unrat,Figur,
+Ein Schub Schüler,Ein Schub Schüler,Figur,
+Kollegen Unrats,Kollegen Unrats,Figur,
+Kieselack,Kieselack,Figur,
+Lohmann,Lohmann,Figur,
+Herr Direktor,Herr Direktor,Figur,
+von Ertzums Onkel,von Ertzums Onkel,Figur,
+Der Landesherr,Der Landesherr,Figur,
+Angst,Angst,Figur,
+Johanna von Orléan,Johanna von Orléan,Figur,
+Karl,Karl,Figur,
+Die Schüler,Die Schüler,Figur,
+Homer,Homer,Figur,
+Die Einwohner,Die Einwohner,Figur,
+Schiller,Schiller,Figur,
+Rosa,Rosa,Figur,
+Lohmanns Vater,Lohmanns Vater,Figur,
+Unrats Haushälterin,Unrats Haushälterin,Figur,
+Herr Dröge,Herr Dröge,Figur,
+Wilhelm Tell,Wilhelm Tell,Figur,
+Unrats Sohn,Unrats Sohn,Figur,
+Unrats Frau,Unrats Frau,Figur,
+Blumenberg,Blumenberg,Figur,
+Heuerbaas,Heuerbaas,Figur,
+Hinnerich,Hinnerich,Figur,
+Laurenz,Laurenz,Figur,
+Lastträger,Lastträger,Rolle,
+Dienstmädchen,Dienstmädchen,Rolle,
+Der Laterenenanzünder,Der Laterenenanzünder,Figur,
+Die Zeitungsfrau,Die Zeitungsfrau,Figur,
+Ein ehemaliger Schüler,Ein ehemaliger Schüler,Figur,
+Die Straßenjugend,Die Straßenjugend,Figur,
+Der Tabakhändler,Der Tabakhändler,Figur,
+Besitzer der Café Central,Besitzer der Café Central,Figur,
+Oberlehrer Wittkopp,Oberlehrer Wittkopp,Figur,
+Musikalienhändler Kellner,Musikalienhändler Kellner,Figur,
+Johannes Rindfleisch,Johannes Rindfleisch,Figur,
+Der Schuhstergeselle,Der Schuhstergeselle,Figur,
+Tochter der Schuhsters,Tochter der Schuhsters,Figur,
+Kinder des Schuhsters,Kinder des Schuhsters,Figur,
+Frau des Schuhsters,Frau des Schuhsters,Figur,
+Ein berühmter Missionar,Ein berühmter Missionar,Figur,
+Familie des Schuhsters,Familie des Schuhsters,Figur,
+Doktor Hübbenett,Doktor Hübbenett,Figur,
+Konsul Breetpoot,Konsul Breetpoot,Figur,
+Diener des Konsuls,Diener des Konsuls,Figur,
+Eine Dame,Eine Dame,Figur,
+Oberlehrer Richter,Oberlehrer Richter,Figur,
+Klaas,Klaas,Figur,
+Zwei Arbeiter,Zwei Arbeiter,Figur,
+Wirt des blauen Engels,Wirt des blauen Engels,Figur,
+Ein älterer Bürger,Ein älterer Bürger,Figur,
+Zwei Soldaten,Zwei Soldaten,Figur,
+Mehrere Arbeiter,Mehrere Arbeiter,Figur,
+Guste,Guste,Figur,
+von Ertzum,von Ertzum,Figur,
+Eine Kuhmagd,Eine Kuhmagd,Figur,
+Ein Viehjunge,Ein Viehjunge,Figur,
+Pastor Thelander,Pastor Thelander,Figur,
+Dora Breetpoot,Dora Breetpoot,Figur,
+Assessor Knut,Assessor Knut,Figur,
+Leutnant von Gierschke,Leutnant von Gierschke,Figur,
+Sohn des Konsuls,Sohn des Konsuls,Figur,
+Der Kustos,Der Kustos,Figur,
+Tyrann,Tyrann,Genderrolle,Mann
+Raat,Raat,Genderrolle,Mann
+Unrat,Unrat,Genderrolle,Mann
+Schüler,Schüler,Genderrolle,Genderneutral
+Herren,Herren,Genderrolle,Mann
+Lehrer,Lehrer,Genderrolle,Mann
+Alter,Alter,Genderrolle,Mann
+Professor,Professor,Genderrolle,Mann
+Landjunker,Landjunker,Genderrolle,Mann
+Ordinarius,Ordinarius,Genderrolle,Mann
+Vieh,Vieh,Genderrolle,Genderneutral
+Herr,Herr,Genderrolle,Mann
+Direktor,Direktor,Genderrolle,Mann
+Abschaum,Abschaum,Genderrolle,Genderneutral
+Onkel,Onkel,Genderrolle,Mann
+Offizier,Offizier,Genderrolle,Mann
+Landesherr,Landesherr,Genderrolle,Mann
+Bursche,Bursche,Genderrolle,Mann
+Mensch,Mensch,Genderrolle,Genderneutral
+Verurteilter,Verurteilter,Genderrolle,Mann
+Primus,Primus,Genderrolle,Mann
+Jungfrau,Jungfrau,Genderrolle,Frau
+Dauphin,Dauphin,Genderrolle,Mann
+Prophetin,Prophetin,Genderrolle,Frau
+Johanna,Johanna,Genderrolle,Frau
+Hirtin,Hirtin,Genderrolle,Frau
+Hoheit,Hoheit,Genderrolle,Genderneutral
+Mädel,Mädel,Genderrolle,Frau
+Pedantin,Pedantin,Genderrolle,Frau
+Knaben,Knaben,Genderrolle,Mann
+Klasse,Klasse,Genderrolle,Genderneutral
+Grieche,Grieche,Genderrolle,Mann
+junge Hunde,junge Hunde,Genderrolle,Genderneutral
+Rangen,Rangen,Genderrolle,Genderneutral
+Selbstherrscher,Selbstherrscher,Genderrolle,Mann
+Umstürzler,Umstürzler,Genderrolle,Genderneutral
+Burschen,Burschen,Genderrolle,Mann
+Freund,Freund,Genderrolle,Mann
+Schutzherr,Schutzherr,Genderrolle,Mann
+Edelmann,Edelmann,Genderrolle,Mann
+Hanswurst,Hanswurst,Genderrolle,Mann
+Tölpel,Tölpel,Genderrolle,Genderneutral
+Schulmeister,Schulmeister,Genderrolle,Mann
+Schlucker,Schlucker,Genderrolle,Mann
+Verworfener,Verworfener,Genderrolle,Mann
+Anstürmende,Anstürmende,Genderrolle,Genderneutral
+Rebellen,Rebellen,Genderrolle,Genderneutral
+Opfer,Opfer,Genderrolle,Genderneutral
+Dichter,Dichter,Genderrolle,Mann
+Künstler,Künstler,Genderrolle,Mann
+Künstlerin,Künstlerin,Genderrolle,Frau
+Verbannte,Verbannte,Genderrolle,Genderneutral
+Erzeuger,Erzeuger,Genderrolle,Mann
+Haushälterin,Haushälterin,Genderrolle,Frau
+Fräulein,Fräulein,Genderrolle,Frau
+Sekundaner,Sekundaner,Genderrolle,Mann
+Stärkerer,Stärkerer,Genderrolle,Mann
+Krämer,Krämer,Genderrolle,Mann
+Frauensperson,Frauensperson,Genderrolle,Frau
+Schauspielerin,Schauspielerin,Genderrolle,Frau
+Bürger,Bürger,Genderrolle,Genderneutral
+Sohn,Sohn,Genderrolle,Mann
+Witwe,Witwe,Genderrolle,Frau
+Jüngling,Jüngling,Genderrolle,Mann
+Student,Student,Genderrolle,Mann
+Beamter,Beamter,Genderrolle,Mann
+Vater,Vater,Genderrolle,Mann
+Wesen,Wesen,Genderrolle,Genderneutral
+Kerl,Kerl,Genderrolle,Mann
+Herrscher,Herrscher,Genderrolle,Mann
+Schauspieler,Schauspieler,Genderrolle,Mann
+Mann,Mann,Genderrolle,Mann
+Kassierer,Kassierer,Genderrolle,Mann
+Darstellerin,Darstellerin,Genderrolle,Frau
+Dame,Dame,Genderrolle,Frau
+Verfolger,Verfolger,Genderrolle,Mann
+Fremder,Fremder,Genderrolle,Mann
+Verehrter,Verehrter,Genderrolle,Mann
+Matrosen,Matrosen,Genderrolle,Mann
+Hergekommener,Hergekommener,Genderrolle,Mann
+Pieter,Pieter,Genderrolle,Mann
+Laternenanzünder,Laternenanzünder,Genderrolle,Mann
+Zeitungsfrau,Zeitungsfrau,Genderrolle,Frau
+Handlungslehrling,Handlungslehrling,Genderrolle,Mann
+Leute,Leute,Genderrolle,Genderneutral
+Herr Professor U,Herr Professor U,Genderrolle,Mann
+Besitzer,Besitzer,Genderrolle,Mann
+Cafetier,Cafetier,Genderrolle,Mann
+Hilfslehrer,Hilfslehrer,Genderrolle,Mann
+Barfußtänzerin,Barfußtänzerin,Genderrolle,Frau
+Oberlehrer,Oberlehrer,Genderrolle,Mann
+Mitglied,Mitglied,Genderrolle,Genderneutral
+Musikalienhändler,Musikalienhändler,Genderrolle,Mann
+Schuhmachermeister,Schuhmachermeister,Genderrolle,Mann
+Herrnhuter,Herrnhuter,Genderrolle,Mann
+Geselle,Geselle,Genderrolle,Mann
+Haustochter,Haustochter,Genderrolle,Frau
+Kinder,Kinder,Genderrolle,Genderneutral
+Mutter,Mutter,Genderrolle,Frau
+Kunde,Kunde,Genderrolle,Mann
+Schuhmacher,Schuhmacher,Genderrolle,Mann
+Frau,Frau,Genderrolle,Frau
+Meister Rindfleisch,Meister Rindfleisch,Genderrolle,Mann
+Meister,Meister,Genderrolle,Mann
+Missionar,Missionar,Genderrolle,Mann
+Berühmtheit,Berühmtheit,Genderrolle,Genderneutral
+Schuster,Schuster,Genderrolle,Mann
+Tänzerin,Tänzerin,Genderrolle,Frau
+Schwester,Schwester,Genderrolle,Frau
+Sünderin,Sünderin,Genderrolle,Frau
+Weib,Weib,Genderrolle,Frau
+Herr Herre,Herr Herre,Genderrolle,Mann
+Fleischessünder,Fleischessünder,Genderrolle,Genderneutral
+Geister,Geister,Genderrolle,Genderneutral
+Seelen,Seelen,Genderrolle,Genderneutral
+Herrschende,Herrschende,Genderrolle,Genderneutral
+Verbrecher,Verbrecher,Genderrolle,Mann
+Wirtschafterin,Wirtschafterin,Genderrolle,Frau
+Mädchen,Mädchen,Genderrolle,Frau
+Elender,Elender,Genderrolle,Mann
+Ausbrecher,Ausbrecher,Genderrolle,Mann
+Michel,Michel,Genderrolle,Mann
+Konsul,Konsul,Genderrolle,Mann
+Diener,Diener,Genderrolle,Mann
+junger Mann,junger Mann,Genderrolle,Mann
+Strolch,Strolch,Genderrolle,Mann
+Wild,Wild,Genderrolle,Genderneutral
+Indianer,Indianer,Genderrolle,Mann
+Arbeiter,Arbeiter,Genderrolle,Mann
+Proletarier,Proletarier,Genderrolle,Mann
+Wirt,Wirt,Genderrolle,Mann
+Frauenperson,Frauenperson,Genderrolle,Frau
+Sängerin,Sängerin,Genderrolle,Frau
+Nachbar,Nachbar,Genderrolle,Mann
+Deern,Deern,Genderrolle,Frau
+Soldaten,Soldaten,Genderrolle,Mann
+Graf,Graf,Genderrolle,Mann
+etwas Neues,etwas Neues,Genderrolle,Genderneutral
+Lustgreis,Lustgreis,Genderrolle,Mann
+Artist,Artist,Genderrolle,Mann
+Kind,Kind,Genderrolle,Genderneutral
+Gewalthaber,Gewalthaber,Genderrolle,Mann
+Katze,Katze,Genderrolle,Genderneutral
+Pack,Pack,Genderrolle,Genderneutral
+Schuljungen,Schuljungen,Genderrolle,Mann
+Bengel,Bengel,Genderrolle,Mann
+Allerschlimmster,Allerschlimmster,Genderrolle,Mann
+Geist,Geist,Genderrolle,Genderneutral
+Dicke,Dicke,Genderrolle,Genderneutral
+Männeken,Männeken,Genderrolle,Mann
+Jungen,Jungen,Genderrolle,Mann
+Windbeutel,Windbeutel,Genderrolle,Genderneutral
+Gestalten,Gestalten,Genderrolle,Genderneutral
+Kleiner,Kleiner,Genderrolle,Mann
+Frechmops,Frechmops,Genderrolle,Genderneutral
+Kleine,Kleine,Genderrolle,Frau
+Hammel,Hammel,Genderrolle,Genderneutral
+Vormund,Vormund,Genderrolle,Genderneutral
+Baffze,Baffze,Genderrolle,Genderneutral
+Heimliche,Heimliche,Genderrolle,Genderneutral
+Zuschauer,Zuschauer,Genderrolle,Mann
+Person,Person,Genderrolle,Genderneutral
+Junker,Junker,Genderrolle,Mann
+Ekel,Ekel,Genderrolle,Genderneutral
+Hundchen,Hundchen,Genderrolle,Genderneutral
+Kamerad,Kamerad,Genderrolle,Mann
+Hund,Hund,Genderrolle,Genderneutral
+Schwächling,Schwächling,Genderrolle,Genderneutral
+Kuhmagd,Kuhmagd,Genderrolle,Frau
+Viehjunge,Viehjunge,Genderrolle,Mann
+Dirn,Dirn,Genderrolle,Frau
+Chanteuse,Chanteuse,Genderrolle,Frau
+Pastor,Pastor,Genderrolle,Mann
+Dora,Dora,Genderrolle,Frau
+Assessor,Assessor,Genderrolle,Mann
+Leutnant,Leutnant,Genderrolle,Mann
+Quartaner,Quartaner,Genderrolle,Mann
+Dirne,Dirne,Genderrolle,Frau
+Ärmste,Ärmste,Genderrolle,Genderneutral
+Kiepert,Kiepert,Figur,

@@ -1,0 +1,144 @@
+Id,Label,node type,gender
+Anna Pawlowna Scherer,Anna Pawlowna Scherer,Figur,
+Kaiser,Kaiser,Figur,
+Anatol,Anatol,Figur,
+Ippolit,Ippolit,Figur,
+Jungfern,Jungfern,Figur,
+Fürst Bolkonskis Tochter,Fürst Bolkonskis Tochter,Figur,
+Fürst Bolkonski,Fürst Bolkonski,Figur,
+Fürst Wasili,Fürst Wasili,Figur,
+Helene,Helene,Figur,
+Fürstin Bolkonskaja,Fürstin Bolkonskaja,Figur,
+Dame,Dame,Rolle,weiblich
+Leute,Leute,Figur,
+Herren,Herren,Figur,
+Lisa,Lisa,Figur,
+Pierre,Pierre,Figur,
+Abbé Morio,Abbé Morio,Figur,
+Mortemart,Mortemart,Figur,
+Herzog von Enghien,Herzog von Enghien,Figur,
+Ippolits Schwester,Ippolits Schwester,Figur,
+Gesellschaft,Gesellschaft,Figur,
+Andrej Bolkonski,Andrej Bolkonski,Figur,
+Fürstin Drubezkaja,Fürstin Drubezkaja,Figur,
+Ein Mensch,Ein Mensch,Figur,
+Anna Michailowna,Anna Michailowna,Figur,
+Napoleon,Napoleon,Figur,
+Menschen,Menschen,Figur,
+Lakaien,Lakaien,Figur,
+Anna Pawlowna,Anna Pawlowna,Figur,
+Russische Damen,Russische Damen,Figur,
+Fürst Andrei,Fürst Andrei,Figur,
+Abbé,Abbé,Figur,
+Männer,Männer,Figur,
+Ein Mann,Ein Mann,Figur,
+Wesen,Wesen,Rolle,genderneutral
+Damen,Damen,Figur,
+Frauen,Frauen,Figur,
+Dolochow,Dolochow,Figur,
+Engländer,Engländer,Figur,
+Leibhusar,Leibhusar,Figur,
+Verwandte,Verwandte,Figur,
+Natalja,Natalja,Figur,
+Tochter,Tochter,Rolle,weiblich
+Gräfin Rostow,Gräfin Rostow,Figur,
+Graf,Graf,Rolle,männlich
+Marja Lwowna Karagina,Marja Lwowna Karagina,Figur,
+Gräfin Apraxina,Gräfin Apraxina,Figur,
+Graf Besuchow,Graf Besuchow,Figur,
+Mann,Mann,Rolle,männlich
+Mensch,Mensch,Rolle,genderneutral
+Hofdame,Hofdame,Rolle,weiblich
+Vertraute,Vertraute,Rolle,weiblich
+Kaiserinmutter,Kaiserinmutter,Rolle,weiblich
+Fürst,Fürst,Rolle,männlich
+Patientin,Patientin,Rolle,weiblich
+Freundin,Freundin,Rolle,weiblich
+Freund,Freund,Rolle,männlich
+Schauspieler,Schauspieler,Rolle,männlich
+Enthusiastin,Enthusiastin,Rolle,weiblich
+Kind,Kind,Rolle,genderneutral
+Emigrant,Emigrant,Rolle,männlich
+Geist,Geist,Rolle,genderneutral
+Sekretär,Sekretär,Rolle,männlich
+Baron,Baron,Rolle,männlich
+Subjekt,Subjekt,Rolle,genderneutral
+Gönnerin,Gönnerin,Rolle,weiblich
+Majestät,Majestät,Rolle,genderneutral
+Sohn,Sohn,Rolle,männlich
+Vater,Vater,Rolle,männlich
+Narr,Narr,Rolle,männlich
+Sklave,Sklave,Rolle,männlich
+Mädchen,Mädchen,Rolle,weiblich
+Prinzessin,Prinzessin,Rolle,weiblich
+König von Preußen,König von Preußen,Rolle,männlich
+Anette,Anette,Rolle,weiblich
+Fräulein,Fräulein,Rolle,weiblich
+Frau,Frau,Rolle,weiblich
+Abiturientin,Abiturientin,Rolle,weiblich
+Mutter,Mutter,Rolle,weiblich
+Fürstin,Fürstin,Rolle,weiblich
+Annette,Annette,Rolle,weiblich
+Wirtin,Wirtin,Rolle,weiblich
+Würdenträger,Würdenträger,Rolle,männlich
+Monsieur,Monsieur,Rolle,männlich
+Herzog,Herzog,Rolle,männlich
+Weib,Weib,Rolle,weiblich
+Person,Person,Rolle,genderneutral
+Hoffräulein,Hoffräulein,Rolle,weiblich
+Schwester,Schwester,Rolle,weiblich
+Bruder,Bruder,Rolle,männlich
+Schauspielerin,Schauspielerin,Rolle,weiblich
+Italiener,Italiener,Rolle,männlich
+Gatte,Gatte,Rolle,männlich
+Adjutant,Adjutant,Rolle,männlich
+Gattin,Gattin,Rolle,weiblich
+Franzose,Franzose,Rolle,männlich
+Bär,Bär,Rolle,männlich
+Junge,Junge,Rolle,männlich
+Wohltäter,Wohltäter,Rolle,männlich
+Papa,Papa,Rolle,männlich
+Royalist,Royalist,Rolle,männlich
+Erzähler,Erzähler,Rolle,männlich
+Bursche,Bursche,Rolle,männlich
+Herr,Herr,Rolle,männlich
+Teuerster,Teuerster,Rolle,männlich
+Französin,Französin,Rolle,weiblich
+Lieber,Lieber,Rolle,männlich
+Diplomat,Diplomat,Rolle,männlich
+Freimaurer,Freimaurer,Rolle,männlich
+Kampfhahn,Kampfhahn,Rolle,männlich
+Flügeladjutant,Flügeladjutant,Rolle,männlich
+Egoist,Egoist,Rolle,männlich
+Kranke,Kranke,Rolle,weiblich
+Fremder,Fremder,Rolle,männlich
+Ehegatte,Ehegatte,Rolle,männlich
+Plauderer,Plauderer,Rolle,männlich
+Kuragin,Kuragin,Rolle,männlich
+Hausherr,Hausherr,Rolle,männlich
+Offizier,Offizier,Rolle,männlich
+Spieler,Spieler,Rolle,männlich
+Raufbold,Raufbold,Rolle,männlich
+Seemann,Seemann,Rolle,männlich
+Berühmtheit,Berühmtheit,Rolle,genderneutral
+Kraftmensch,Kraftmensch,Rolle,genderneutral
+Sitzender,Sitzender,Rolle,männlich
+Kerl,Kerl,Rolle,männlich
+Betrunkener,Betrunkener,Rolle,männlich
+Fähnrich,Fähnrich,Rolle,männlich
+Gräfin,Gräfin,Rolle,weiblich
+Krösus,Krösus,Rolle,männlich
+Lebemann,Lebemann,Rolle,männlich
+Maria Feodorowna,Maria Feodorowna,Figur,
+Vicomte Mortemart,Vicomte Mortemart,Figur,
+Baron Funke,Baron Funke,Figur,
+Bolkonskis Tochter,Bolkonskis Tochter,Figur,
+Lisa Bolkonski,Lisa Bolkonski,Figur,
+Georges,Georges,Figur,
+Fürst Andrei Bolkonski,Fürst Andrei Bolkonski,Figur,
+Boris,Boris,Figur,
+Antol,Antol,Figur,
+Stevens,Stevens,Figur,
+Borsi,Borsi,Figur,
+Natalia,Natalia,Figur,
+Dmitri Wasiljewitsch,Dmitri Wasiljewitsch,Figur,

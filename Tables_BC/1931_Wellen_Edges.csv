@@ -1,0 +1,88 @@
+Source,Target,Type,Label,Weight,source type,edge label,target type
+Louis,Junge,Undirected,,1,Figur,verkörpert,Rolle
+Susan,Schwimmerin,Undirected,,1,Figur,verkörpert,Rolle
+Mutter von Susan,Mutter,Undirected,,1,Figur,verkörpert,Rolle
+Susan,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Susan,Schwimmer,Undirected,,1,Figur,verkörpert,Rolle
+Bernard,Schwimmer,Undirected,,1,Figur,verkörpert,Rolle
+Elvedon,Stalljunge,Undirected,,1,Figur,verkörpert,Rolle
+Susan,Entdecker,Undirected,,1,Figur,verkörpert,Rolle
+Bernard,Entdecker,Undirected,,1,Figur,verkörpert,Rolle
+Susan,Marder,Undirected,,1,Figur,verkörpert,Rolle
+Bernard,Marder,Undirected,,1,Figur,verkörpert,Rolle
+Susan,Häher,Undirected,,1,Figur,verkörpert,Rolle
+Bernard,Häher,Undirected,,1,Figur,verkörpert,Rolle
+Susan,Fuchs,Undirected,,1,Figur,verkörpert,Rolle
+Bernard,Fuchs,Undirected,,1,Figur,verkörpert,Rolle
+Vater von Louis,Bankier,Undirected,,1,Figur,verkörpert,Rolle
+Bernard,Engländer,Undirected,,1,Figur,verkörpert,Rolle
+Vater von Susan,Geistlicher,Undirected,,1,Figur,verkörpert,Rolle
+Bernards Vater,Gentleman,Undirected,,1,Figur,verkörpert,Rolle
+Vater von Neville,Gentleman,Undirected,,1,Figur,verkörpert,Rolle
+Bernard,Riesen,Undirected,,1,Figur,verkörpert,Rolle
+Susan,Riesen,Undirected,,1,Figur,verkörpert,Rolle
+Rhoda,Riesen,Undirected,,1,Figur,verkörpert,Rolle
+Neville,Riesen,Undirected,,1,Figur,verkörpert,Rolle
+Jinny,Riesen,Undirected,,1,Figur,verkörpert,Rolle
+Ernest,Stier,Undirected,,1,Figur,verkörpert,Rolle
+Bernard,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Rhoda,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Neville,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Jinny,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Louis,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Bernard,Pferd,Undirected,,1,Figur,verkörpert,Rolle
+Susan,Pferd,Undirected,,1,Figur,verkörpert,Rolle
+Rhoda,Pferd,Undirected,,1,Figur,verkörpert,Rolle
+Neville,Pferd,Undirected,,1,Figur,verkörpert,Rolle
+Jinny,Pferd,Undirected,,1,Figur,verkörpert,Rolle
+Louis,Pferd,Undirected,,1,Figur,verkörpert,Rolle
+Tante von Rhoda,Tante,Undirected,,1,Figur,verkörpert,Rolle
+Muttter von Bernard,Mutter,Undirected,,1,Figur,verkörpert,Rolle
+Vazer von Bernard,Vater,Undirected,,1,Figur,verkörpert,Rolle
+Bernard,Junge,Undirected,,1,Figur,verkörpert,Rolle
+Neville,Gebieter,Undirected,,1,Figur,verkörpert,Rolle
+Stiefvater,Stifter,Undirected,,1,Figur,verkörpert,Rolle
+Crane,Direktor,Undirected,,1,Figur,verkörpert,Rolle
+Vater von Susan,Vater,Undirected,,1,Figur,verkörpert,Rolle
+Crane,Doktor,Undirected,,1,Figur,verkörpert,Rolle
+Vater von Neville,Vater,Undirected,,1,Figur,verkörpert,Rolle
+Percival,Kirchenvorsteher,Undirected,,1,Figur,verkörpert,Rolle
+Percival,Matrose,Undirected,,1,Figur,verkörpert,Rolle
+Percival,Heerführer,Undirected,,1,Figur,verkörpert,Rolle
+Dalton,Junge,Undirected,,1,Figur,verkörpert,Rolle
+Larpent,Junge,Undirected,,1,Figur,verkörpert,Rolle
+Baker,Junge,Undirected,,1,Figur,verkörpert,Rolle
+Vater von Louis,Vater,Undirected,,1,Figur,verkörpert,Rolle
+Smith,Bruder,Undirected,,1,Figur,verkörpert,Rolle
+Archie,Freiwilliger,Undirected,,1,Figur,verkörpert,Rolle
+Hugh,Freiwilliger,Undirected,,1,Figur,verkörpert,Rolle
+Parker,Freiwilliger,Undirected,,1,Figur,verkörpert,Rolle
+Dalton,Freiwilliger,Undirected,,1,Figur,verkörpert,Rolle
+Larpent,Freiwilliger,Undirected,,1,Figur,verkörpert,Rolle
+Smith,Freiwilliger,Undirected,,1,Figur,verkörpert,Rolle
+Archie,Kricketspieler,Undirected,,1,Figur,verkörpert,Rolle
+Hugh,Kricketspieler,Undirected,,1,Figur,verkörpert,Rolle
+Parker,Kricketspieler,Undirected,,1,Figur,verkörpert,Rolle
+Dalton,Kricketspieler,Undirected,,1,Figur,verkörpert,Rolle
+Larpent,Kricketspieler,Undirected,,1,Figur,verkörpert,Rolle
+Smith,Kricketspieler,Undirected,,1,Figur,verkörpert,Rolle
+Archie,Vorsitzender,Undirected,,1,Figur,verkörpert,Rolle
+Hugh,Vorsitzender,Undirected,,1,Figur,verkörpert,Rolle
+Parker,Vorsitzender,Undirected,,1,Figur,verkörpert,Rolle
+Dalton,Vorsitzender,Undirected,,1,Figur,verkörpert,Rolle
+Larpent,Vorsitzender,Undirected,,1,Figur,verkörpert,Rolle
+Smith,Vorsitzender,Undirected,,1,Figur,verkörpert,Rolle
+Mrs Crane,Herzogin,Undirected,,1,Figur,verkörpert,Rolle
+Crane,Schulmeister,Undirected,,1,Figur,verkörpert,Rolle
+Crane,Admiral,Undirected,,1,Figur,verkörpert,Rolle
+Crane,Richter,Undirected,,1,Figur,verkörpert,Rolle
+Louis,Freund,Undirected,,1,Figur,verkörpert,Rolle
+Louis,Herzog,Undirected,,1,Figur,verkörpert,Rolle
+Louis,Schüler,Undirected,,1,Figur,verkörpert,Rolle
+Louis,Gefährte,Undirected,,1,Figur,verkörpert,Rolle
+Louis,Sproß,Undirected,,1,Figur,verkörpert,Rolle
+Rhoda,Kaiserin,Undirected,,1,Figur,verkörpert,Rolle
+Crane,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Lady Hampton,Frau des Generals,Undirected,,1,Figur,verkörpert,Rolle
+Louis,Geist,Undirected,,1,Figur,verkörpert,Rolle
+Louis,Passant,Undirected,,1,Figur,verkörpert,Rolle

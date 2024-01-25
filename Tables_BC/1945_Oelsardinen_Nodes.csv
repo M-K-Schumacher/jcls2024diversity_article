@@ -1,0 +1,160 @@
+Id,Label,node type,gender
+Alfred,Alfred,Figur,
+Andy,Andy,Figur,
+Blondine,Blondine,Figur,
+Bürger,Bürger,Figur,
+Chinese,Chinese,Figur,
+Dame,Dame,Figur,
+Doc,Doc,Figur,
+Dora,Dora,Figur,
+Eddie,Eddie,Figur,
+Eva,Eva,Figur,
+Familien,Familien,Figur,
+Francis Almones,Francis Almones,Figur,
+Frankie,Frankie,Figur,
+Frankies Vater,Frankies Vater,Figur,
+Frau,Frau,Figur,
+Gassenkinder,Gassenkinder,Figur,
+Gast,Gast,Figur,
+Gay,Gay,Figur,
+Gott,Gott,Figur,
+Hausherr,Hausherr,Figur,
+Hazel,Hazel,Figur,
+Hazels Mutter,Hazels Mutter,Figur,
+Horace Abbeville,Horace Abbeville,Figur,
+Hughie,Hughie,Figur,
+Jones,Jones,Figur,
+Jungfern,Jungfern,Figur,
+Kinder,Kinder,Figur,
+Knabe,Knabe,Figur,
+Koch,Koch,Figur,
+Komitee,Komitee,Figur,
+Lee Chong,Lee Chong,Figur,
+Lee Chongs Großvater,Lee Chongs Großvater,Figur,
+Leute,Leute,Figur,
+Lou,Lou,Figur,
+Mack,Mack,Figur,
+Mädchen,Mädchen,Figur,
+Mann,Mann,Rolle,männlich
+Männer,Männer,Figur,
+Mr Carriaga,Mr Carriaga,Figur,
+Mr Malloy,Mr Malloy,Figur,
+Mütter,Mütter,Figur,
+Rattle,Rattle,Figur,
+Red,Red,Figur,
+Schriftsteller,Schriftsteller,Figur,
+Sheriff,Sheriff,Figur,
+Tänzerinnen,Tänzerinnen,Figur,
+Väter,Väter,Figur,
+Volk,Volk,Figur,
+William,William,Figur,
+Witwe,Witwe,Figur,
+Frau Abbeville 1,Frau Abbeville 1,Figur,
+Frau Abbeville 2,Frau Abbeville 2,Figur,
+Doras Mädchen,Doras Mädchen,Figur,
+Ein alter Chinese,Ein alter Chinese,Figur,
+Henri,Henri,Figur,
+Hazels Vater,Hazels Vater,Figur,
+Hazels Großtante,Hazels Großtante,Figur,
+Gays Frau,Gays Frau,Figur,
+Whitey,Whitey,Figur,
+Mr. Randolph,Mr. Randolph,Figur,
+Mr. Malloy,Mr. Malloy,Figur,
+Mrs. Malloy,Mrs. Malloy,Figur,
+Phyllis,Phyllis,Figur,
+Sparky Enea,Sparky Enea,Figur,
+Josh Billings,Josh Billings,Figur,
+Mr. Carriaga,Mr. Carriaga,Figur,
+kein Geizhals,kein Geizhals,Rolle,genderneutral
+Herr,Herr,Rolle,männlich
+Freund,Freund,Rolle,männlich
+Hinterbliebene,Hinterbliebene,Rolle,weiblich
+Anführer,Anführer,Rolle,männlich
+Häuptling,Häuptling,Rolle,männlich
+Wortführer,Wortführer,Rolle,männlich
+Kumpan,Kumpan,Rolle,männlich
+Ausbeuter,Ausbeuter,Rolle,männlich
+Jüngling,Jüngling,Rolle,männlich
+Aushilfsbarmann,Aushilfsbarmann,Rolle,männlich
+Junge,Junge,Rolle,männlich
+Katze,Katze,Rolle,genderneutral
+Wohltäter,Wohltäter,Rolle,männlich
+Mieter,Mieter,Rolle,männlich
+Kerl,Kerl,Rolle,männlich
+Krämer,Krämer,Rolle,männlich
+Wandelstern,Wandelstern,Rolle,genderneutral
+Grazie,Grazie,Rolle,weiblich
+Taugenichts,Taugenichts,Rolle,männlich
+Windhund,Windhund,Rolle,männlich
+Diebesgesindel,Diebesgesindel,Rolle,genderneutral
+Stromer,Stromer,Rolle,männlich
+Halunke,Halunke,Rolle,männlich
+Schandfleck,Schandfleck,Rolle,genderneutral
+Madam,Madam,Rolle,weiblich
+Dirne,Dirne,Rolle,weiblich
+Kerntruppe,Kerntruppe,Rolle,genderneutral
+Nachtwächter,Nachtwächter,Rolle,männlich
+Sieger,Sieger,Rolle,männlich
+Vorgänger,Vorgänger,Rolle,männlich
+Mensch,Mensch,Rolle,genderneutral
+Paria,Paria,Rolle,männlich
+Zuhälter,Zuhälter,Rolle,männlich
+Neurotiker,Neurotiker,Rolle,männlich
+Säuferin,Säuferin,Rolle,weiblich
+Bastard,Bastard,Rolle,genderneutral
+Billie,Billie,Rolle,männlich
+Grieche,Grieche,Rolle,männlich
+Bill,Bill,Rolle,männlich
+Tod,Tod,Rolle,genderneutral
+Alter,Alter,Rolle,männlich
+Gelber,Gelber,Rolle,männlich
+Chinamann,Chinamann,Rolle,männlich
+Eigentümer,Eigentümer,Rolle,männlich
+Direktor,Direktor,Rolle,männlich
+Praktikant,Praktikant,Rolle,männlich
+Aufwärter,Aufwärter,Rolle,männlich
+Maler,Maler,Rolle,männlich
+Mutter,Mutter,Rolle,weiblich
+Vater,Vater,Rolle,männlich
+Großtante,Großtante,Rolle,weiblich
+Alte,Alte,Rolle,weiblich
+Neugeborenes,Neugeborenes,Rolle,genderneutral
+Wöchnerin,Wöchnerin,Rolle,weiblich
+Denker,Denker,Rolle,männlich
+Angeredeter,Angeredeter,Rolle,männlich
+Erregter,Erregter,Rolle,männlich
+Bettloser,Bettloser,Rolle,männlich
+Mixer,Mixer,Rolle,männlich
+Mitglied,Mitglied,Rolle,genderneutral
+Hilfsbarmann,Hilfsbarmann,Rolle,männlich
+Elster,Elster,Rolle,genderneutral
+Mechaniker,Mechaniker,Rolle,männlich
+Bewohner,Bewohner,Rolle,männlich
+Gemahl,Gemahl,Rolle,männlich
+Röhrenbesitzer,Röhrenbesitzer,Rolle,männlich
+Schatz,Schatz,Rolle,genderneutral
+Treuherziger,Treuherziger,Rolle,männlich
+Schnepfe,Schnepfe,Rolle,weiblich
+Geschäftspartner,Geschäftspartner,Rolle,männlich
+Automechaniker,Automechaniker,Rolle,männlich
+Sohn,Sohn,Rolle,männlich
+kein Idiot,kein Idiot,Rolle,männlich
+Kind,Kind,Rolle,genderneutral
+Sklave,Sklave,Rolle,männlich
+Versicherungsagent,Versicherungsagent,Rolle,männlich
+Besessener,Besessener,Rolle,männlich
+Besitzer,Besitzer,Rolle,männlich
+Fischlieferant,Fischlieferant,Rolle,männlich
+Liebhaber,Liebhaber,Rolle,männlich
+Feuerwehrleute,Feuerwehrleute,Rolle,genderneutral
+Meister,Meister,Rolle,männlich
+Sankt Franziskus,Sankt Franziskus,Rolle,männlich
+Froschjäger,Froschjäger,Rolle,männlich
+Polizist,Polizist,Rolle,männlich
+Bursche,Bursche,Rolle,männlich
+Humorist,Humorist,Rolle,männlich
+Student,Student,Rolle,männlich
+Sir,Sir,Rolle,männlich
+alter Herr,alter Herr,Rolle,männlich
+Verblichener,Verblichener,Rolle,männlich
+Autor,Autor,Rolle,männlich

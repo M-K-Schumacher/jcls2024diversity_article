@@ -1,0 +1,148 @@
+Id,Label,type,gender
+Törleß,Törleß,Figur,
+Der Bahnhofsvorstand,Der Bahnhofsvorstand,Figur,
+Eine Gesellschaft,Eine Gesellschaft,Figur,
+Ein Ehepaar,Ein Ehepaar,Figur,
+Frau Törleß,Frau Törleß,Figur,
+Das Ehepaar Törleß,Das Ehepaar Törleß,Figur,
+Fürst H.,Fürst H.,Figur,
+Fürst H.s Erzieher,Fürst H.s Erzieher,Figur,
+Beineberg,Beineberg,Figur,
+Reiting,Reiting,Figur,
+Moté,Moté,Figur,
+Hofmeister,Hofmeister,Figur,
+Herr Törleß,Herr Törleß,Figur,
+Der Schaffner,Der Schaffner,Figur,
+Freunde von Törleß,Freunde von Törleß,Figur,
+Der Bauer,Der Bauer,Figur,
+Die Konditorin,Die Konditorin,Figur,
+Beinebergs Vater,Beinebergs Vater,Figur,
+Ein Dienstmädchen,Ein Dienstmädchen,Figur,
+Ein Betrunkener,Ein Betrunkener,Figur,
+Bozena,Bozena,Figur,
+Die Kellnerin,Die Kellnerin,Figur,
+Beinebergs Mutter,Beinebergs Mutter,Figur,
+Beinebergs Tante,Beinebergs Tante,Figur,
+Karl Beineberg,Karl Beineberg,Figur,
+Die Köchin,Die Köchin,Figur,
+Basini,Basini,Figur,
+Hofmeier,Hofmeier,Figur,
+Dschjusch,Dschjusch,Figur,
+Basinis Mutter,Basinis Mutter,Figur,
+Basinis Vormund,Basinis Vormund,Figur,
+Reitings Vater,Reitings Vater,Figur,
+Reitings Mutter,Reitings Mutter,Figur,
+Reitling,Reitling,Figur,
+Ein Mörder,Ein Mörder,Figur,
+Basinis Schwester,Basinis Schwester,Figur,
+Zögling,Zögling,Genderrolle,Mann
+Bahnhofsvorstand,Bahnhofsvorstand,Genderrolle,Mann
+Leute,Leute,Genderrolle,Genderneutral
+Ehepaar,Ehepaar,Genderrolle,Genderneutral
+Gruppe,Gruppe,Genderrolle,Genderneutral
+Frau Hofrat,Frau Hofrat,Genderrolle,Frau
+Dame,Dame,Genderrolle,Frau
+Kind,Kind,Genderrolle,Genderneutral
+Liebling,Liebling,Genderrolle,Genderneutral
+Junge,Junge,Genderrolle,Mann
+Knabe,Knabe,Genderrolle,Mann
+Eltern,Eltern,Genderrolle,Genderneutral
+Mutter,Mutter,Genderrolle,Frau
+Bäumchen,Bäumchen,Genderrolle,Genderneutral
+Hofrätin,Hofrätin,Genderrolle,Frau
+Mensch,Mensch,Genderrolle,Genderneutral
+Fürst,Fürst,Genderrolle,Mann
+Erzieher,Erzieher,Genderrolle,Mann
+Doktor,Doktor,Genderrolle,Mann
+Ordensgeistlicher,Ordensgeistlicher,Genderrolle,Mann
+Prinz,Prinz,Genderrolle,Mann
+Freund,Freund,Genderrolle,Mann
+Vernünftiger,Vernünftiger,Genderrolle,Mann
+Kameraden,Kameraden,Genderrolle,Mann
+Hofrat,Hofrat,Genderrolle,Mann
+Bube,Bube,Genderrolle,Mann
+Baron,Baron,Genderrolle,Mann
+Bursche,Bursche,Genderrolle,Mann
+Sohn,Sohn,Genderrolle,Mann
+Papa,Papa,Genderrolle,Mann
+Schaffner,Schaffner,Genderrolle,Mann
+Freunde,Freunde,Genderrolle,Genderneutral
+Herren,Herren,Genderrolle,Mann
+Eilende,Eilende,Genderrolle,Genderneutral
+Bauer,Bauer,Genderrolle,Mann
+Bubi,Bubi,Genderrolle,Genderneutral
+Gäste,Gäste,Genderrolle,Genderneutral
+Konditorin,Konditorin,Genderrolle,Frau
+Vater,Vater,Genderrolle,Mann
+General,General,Genderrolle,Mann
+Offizier,Offizier,Genderrolle,Mann
+Europäer,Europäer,Genderrolle,Mann
+Reiteroffizier,Reiteroffizier,Genderrolle,Mann
+Mann,Mann,Genderrolle,Mann
+Freiluftmensch,Freiluftmensch,Genderrolle,Genderneutral
+Dienstmädchen,Dienstmädchen,Genderrolle,Frau
+Gefangener,Gefangener,Genderrolle,Mann
+Aufgegebener,Aufgegebener,Genderrolle,Mann
+Abgeschlossener,Abgeschlossener,Genderrolle,Mann
+Betrunkener,Betrunkener,Genderrolle,Mann
+Dreckfink,Dreckfink,Genderrolle,Genderneutral
+Weib,Weib,Genderrolle,Frau
+Bauernlümmel,Bauernlümmel,Genderrolle,Mann
+Trunkener,Trunkener,Genderrolle,Mann
+Kellnerin,Kellnerin,Genderrolle,Frau
+Bauernmädchen,Bauernmädchen,Genderrolle,Frau
+Kammerzofe,Kammerzofe,Genderrolle,Frau
+Mädchen,Mädchen,Genderrolle,Frau
+Frau,Frau,Genderrolle,Frau
+Buben,Buben,Genderrolle,Mann
+Eintretende,Eintretende,Genderrolle,Genderneutral
+Herrchen,Herrchen,Genderrolle,Mann
+Geschöpf,Geschöpf,Genderrolle,Genderneutral
+Prostituierte,Prostituierte,Genderrolle,Frau
+Tante,Tante,Genderrolle,Frau
+Mama,Mama,Genderrolle,Frau
+Onkel,Onkel,Genderrolle,Mann
+Dragoneroffizier,Dragoneroffizier,Genderrolle,Mann
+Cousin,Cousin,Genderrolle,Mann
+Köchin,Köchin,Genderrolle,Frau
+Dirne,Dirne,Genderrolle,Frau
+Priester,Priester,Genderrolle,Mann
+Große,Große,Genderrolle,Genderneutral
+Unantastbare,Unantastbare,Genderrolle,Genderneutral
+Ruhige,Ruhige,Genderrolle,Genderneutral
+Frauenzimmer,Frauenzimmer,Genderrolle,Frau
+Bub,Bub,Genderrolle,Mann
+Genussmensch,Genussmensch,Genderrolle,Genderneutral
+Söhnchen,Söhnchen,Genderrolle,Mann
+Mitspieler,Mitspieler,Genderrolle,Genderneutral
+Kleiner,Kleiner,Genderrolle,Mann
+Spielladendieb,Spielladendieb,Genderrolle,Mann
+Graf,Graf,Genderrolle,Mann
+B.,B.,Genderrolle,Mann
+Exzellenz,Exzellenz,Genderrolle,Mann
+Stehende,Stehende,Genderrolle,Genderneutral
+Gewohnte,Gewohnte,Genderrolle,Genderneutral
+Drei,Drei,Genderrolle,Genderneutral
+Person,Person,Genderrolle,Genderneutral
+Tyrann,Tyrann,Genderrolle,Mann
+Gegner,Gegner,Genderrolle,Mann
+Schüler,Schüler,Genderrolle,Mann
+Gehilfe,Gehilfe,Genderrolle,Mann
+Generalstabschef,Generalstabschef,Genderrolle,Mann
+Vormund,Vormund,Genderrolle,Genderneutral
+Gutmütigster,Gutmütigster,Genderrolle,Mann
+Schwächerer,Schwächerer,Genderrolle,Mann
+Tierchen,Tierchen,Genderrolle,Genderneutral
+Dieb,Dieb,Genderrolle,Mann
+Mörder,Mörder,Genderrolle,Mann
+Sklave,Sklave,Genderrolle,Mann
+Magd,Magd,Genderrolle,Frau
+Schwester,Schwester,Genderrolle,Frau
+Frauen,Frauen,Genderrolle,Frau
+Insekt,Insekt,Genderrolle,Genderneutral
+Figur,Figur,Genderrolle,Genderneutral
+Kerl,Kerl,Genderrolle,Mann
+Schutzheiliger,Schutzheiliger,Genderrolle,Mann
+Wurm,Wurm,Genderrolle,Genderneutral
+Spinne,Spinne,Genderrolle,Genderneutral
+Neffe,Neffe,Genderrolle,Mann

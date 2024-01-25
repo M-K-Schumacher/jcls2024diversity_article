@@ -1,0 +1,171 @@
+Source,Target,Type,Label,Weight,source type,edge label,target type
+Abbé,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Herr von Rênal,Ritter,Undirected,,1,Figur,verkörpert,Rolle
+Herr von Rênal,Stadtoberhaupt,Undirected,,1,Figur,verkörpert,Rolle
+Herr von Rênal,Fünfziger,Undirected,,1,Figur,verkörpert,Rolle
+Herr von Rênal,Bürgermeister,Undirected,,1,Figur,verkörpert,Rolle
+Herr von Rênal,Fabrikant,Undirected,,1,Figur,verkörpert,Rolle
+Julian,Bauer,Undirected,,1,Figur,verkörpert,Rolle
+Julian,Vater,Undirected,,1,Figur,verkörpert,Rolle
+Julian,Alter,Undirected,,1,Figur,verkörpert,Rolle
+Maslon,Vikar,Undirected,,1,Figur,verkörpert,Rolle
+Maslon,Geistlicher,Undirected,,1,Figur,verkörpert,Rolle
+Abbé,Pfarrer,Undirected,,1,Figur,verkörpert,Rolle
+Stadtgärtner,Stadtgärtner,Undirected,,1,Figur,verkörpert,Rolle
+Maslon,Stabsarzt,Undirected,,1,Figur,verkörpert,Rolle
+Maslon,Jakobiner,Undirected,,1,Figur,verkörpert,Rolle
+Maslon,Bonapartist,Undirected,,1,Figur,verkörpert,Rolle
+Herr von Rênal,Royalist,Undirected,,1,Figur,verkörpert,Rolle
+Maslon,Ritter,Undirected,,1,Figur,verkörpert,Rolle
+Herr von Rênal,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Adolf,Junge,Undirected,,1,Figur,verkörpert,Rolle
+Adolf,Ältester,Undirected,,1,Figur,verkörpert,Rolle
+Frau von Rênal,Dreißigerin,Undirected,,1,Figur,verkörpert,Rolle
+Appert,Philantrop,Undirected,,1,Figur,verkörpert,Rolle
+Appert,Herr,Undirected,,1,Figur,verkörpert,Rolle
+Herr von Rênal,Lieber,Undirected,,1,Figur,verkörpert,Rolle
+Chélan,Pfarrer,Undirected,,1,Figur,verkörpert,Rolle
+Chélan,alter Mann,Undirected,,1,Figur,verkörpert,Rolle
+Marquis von la Mole,Großgrundbesitzer,Undirected,,1,Figur,verkörpert,Rolle
+Chélan,Gemütsmensch,Undirected,,1,Figur,verkörpert,Rolle
+Chélan,Geistlicher,Undirected,,1,Figur,verkörpert,Rolle
+Appert,Menschenfreund,Undirected,,1,Figur,verkörpert,Rolle
+Chélan,Führer,Undirected,,1,Figur,verkörpert,Rolle
+Herr Noiroud,Kerkermeister,Undirected,,1,Figur,verkörpert,Rolle
+Herr Noiroud,Kerl,Undirected,,1,Figur,verkörpert,Rolle
+Appert,Fremder,Undirected,,1,Figur,verkörpert,Rolle
+Herr Noiroud,Bulldogge,Undirected,,1,Figur,verkörpert,Rolle
+Valenod,Armenamtsvorstandes,Undirected,,1,Figur,verkörpert,Rolle
+zweites Kind der Rênals,Söhnchen,Undirected,,1,Figur,verkörpert,Rolle
+zweites Kind der Rênals,Junge,Undirected,,1,Figur,verkörpert,Rolle
+zweites Kind der Rênals,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Frau von Rênal,Mutter,Undirected,,1,Figur,verkörpert,Rolle
+Julian,Sohn,Undirected,,1,Figur,verkörpert,Rolle
+Julian,Priester,Undirected,,1,Figur,verkörpert,Rolle
+Julian,Lateiner,Undirected,,1,Figur,verkörpert,Rolle
+Julian,Liebling,Undirected,,1,Figur,verkörpert,Rolle
+Maslon,Ehrenlegionär,Undirected,,1,Figur,verkörpert,Rolle
+Maslon,Vetter,Undirected,,1,Figur,verkörpert,Rolle
+Maslon,Spion,Undirected,,1,Figur,verkörpert,Rolle
+Herr von Rênal,Bester,Undirected,,1,Figur,verkörpert,Rolle
+Valenod,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Valenod,junger Mann,Undirected,,1,Figur,verkörpert,Rolle
+Valenod,Bursche,Undirected,,1,Figur,verkörpert,Rolle
+Frau von Rênal,keine Diplomatin,Undirected,,1,Figur,verkörpert,Rolle
+Herr von Rênal,Gatte,Undirected,,1,Figur,verkörpert,Rolle
+Frau von Rênal,Gattin,Undirected,,1,Figur,verkörpert,Rolle
+Hauptmann von Rênal,Onkel,Undirected,,1,Figur,verkörpert,Rolle
+Hauptmann von Rênal,Hauptmann,Undirected,,1,Figur,verkörpert,Rolle
+Hauptmann von Rênal,Aristokrat,Undirected,,1,Figur,verkörpert,Rolle
+Frau von Rênal,Wesen,Undirected,,1,Figur,verkörpert,Rolle
+Julian,Gott,Undirected,,1,Figur,verkörpert,Rolle
+Valenod,Schelm,Undirected,,1,Figur,verkörpert,Rolle
+Der Sägemüller,Alter,Undirected,,1,Figur,verkörpert,Rolle
+Der Sägemüller,Bauer,Undirected,,1,Figur,verkörpert,Rolle
+Der Sägemüller,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Der Sägemüller,Vater,Undirected,,1,Figur,verkörpert,Rolle
+Julian,Gesuchter,Undirected,,1,Figur,verkörpert,Rolle
+Julian,Junge,Undirected,,1,Figur,verkörpert,Rolle
+Julian,Leser,Undirected,,1,Figur,verkörpert,Rolle
+Julian,Mißhandelter,Undirected,,1,Figur,verkörpert,Rolle
+Julian,Faulpelz,Undirected,,1,Figur,verkörpert,Rolle
+Julian,Lümmel,Undirected,,1,Figur,verkörpert,Rolle
+Julian,Mensch,Undirected,,1,Figur,verkörpert,Rolle
+Julian,Bursche,Undirected,,1,Figur,verkörpert,Rolle
+Sägemüller,Vater,Undirected,,1,Figur,verkörpert,Rolle
+Julian,Schwächling,Undirected,,1,Figur,verkörpert,Rolle
+Maslon,Kriegsmann,Undirected,,1,Figur,verkörpert,Rolle
+Sägemüller,Müller,Undirected,,1,Figur,verkörpert,Rolle
+Julian,Leseratte,Undirected,,1,Figur,verkörpert,Rolle
+Frau von Rênal,Dame,Undirected,,1,Figur,verkörpert,Rolle
+Julian,Wicht,Undirected,,1,Figur,verkörpert,Rolle
+Julian,Heuchler,Undirected,,1,Figur,verkörpert,Rolle
+Julian,Freund,Undirected,,1,Figur,verkörpert,Rolle
+Julian,Erzieher,Undirected,,1,Figur,verkörpert,Rolle
+Julian,Lakai,Undirected,,1,Figur,verkörpert,Rolle
+Julian,Schafskopf,Undirected,,1,Figur,verkörpert,Rolle
+Julian,Leckermaul,Undirected,,1,Figur,verkörpert,Rolle
+Fouqué,Freund,Undirected,,1,Figur,verkörpert,Rolle
+Fouqué,Holzhändler,Undirected,,1,Figur,verkörpert,Rolle
+Julian,Bauernkind,Undirected,,1,Figur,verkörpert,Rolle
+Der Ortsrichter,Ortsrichter,Undirected,,1,Figur,verkörpert,Rolle
+Der Ortsrichter,Vater,Undirected,,1,Figur,verkörpert,Rolle
+Ein Nagelschmied,Nagelschmied,Undirected,,1,Figur,verkörpert,Rolle
+Ein Nagelschmied,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Julian,alter Mann,Undirected,,1,Figur,verkörpert,Rolle
+Bonaparte,Artillerieleutnant,Undirected,,1,Figur,verkörpert,Rolle
+Bonaparte,Herr,Undirected,,1,Figur,verkörpert,Rolle
+Der Ortsrichter,Ehrenmann,Undirected,,1,Figur,verkörpert,Rolle
+Julian,Gottesgelehrter,Undirected,,1,Figur,verkörpert,Rolle
+Julian,Musterschüler,Undirected,,1,Figur,verkörpert,Rolle
+Julian,Feigling,Undirected,,1,Figur,verkörpert,Rolle
+Julian,Fremdling,Undirected,,1,Figur,verkörpert,Rolle
+Julian,Hauslehrer,Undirected,,1,Figur,verkörpert,Rolle
+Julian,Bauernjunge,Undirected,,1,Figur,verkörpert,Rolle
+Julian,Mädchen,Undirected,,1,Figur,verkörpert,Rolle
+Julian,Wesen,Undirected,,1,Figur,verkörpert,Rolle
+Frau von Rênal,junges Mädchen,Undirected,,1,Figur,verkörpert,Rolle
+Julian,Kerl,Undirected,,1,Figur,verkörpert,Rolle
+Julian,Herr,Undirected,,1,Figur,verkörpert,Rolle
+Julian,junger Mann,Undirected,,1,Figur,verkörpert,Rolle
+Durand,Schneider,Undirected,,1,Figur,verkörpert,Rolle
+Julian,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Herr von Rênal,Herrschaften,Undirected,,1,Figur,verkörpert,Rolle
+Frau von Rênal,Herrschaften,Undirected,,1,Figur,verkörpert,Rolle
+Julian,Ankömmling,Undirected,,1,Figur,verkörpert,Rolle
+Adolf,junger Herr,Undirected,,1,Figur,verkörpert,Rolle
+Adolf,Knabe,Undirected,,1,Figur,verkörpert,Rolle
+Herr von Rênal,Eltern,Undirected,,1,Figur,verkörpert,Rolle
+Frau von Rênal,Eltern,Undirected,,1,Figur,verkörpert,Rolle
+Die Köchin,Person,Undirected,,1,Figur,verkörpert,Rolle
+Die Köchin,Köchin,Undirected,,1,Figur,verkörpert,Rolle
+Jüngster Sohn der Rênals,Kleiner,Undirected,,1,Figur,verkörpert,Rolle
+Herr Charcot von Maugiron,Landrat,Undirected,,1,Figur,verkörpert,Rolle
+Julian,Unnahbarer,Undirected,,1,Figur,verkörpert,Rolle
+Chélan,Abgott,Undirected,,1,Figur,verkörpert,Rolle
+Adolf,Bürschchen,Undirected,,1,Figur,verkörpert,Rolle
+Zweites Kind der Rênals,Bürschchen,Undirected,,1,Figur,verkörpert,Rolle
+Jüngster Sohn der Rênals,Bürschchen,Undirected,,1,Figur,verkörpert,Rolle
+Adolf,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Zweites Kind der Rênals,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Jüngster Sohn der Rênals,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Julian,Findelkind,Undirected,,1,Figur,verkörpert,Rolle
+Brüder von Julian,Holzknechte,Undirected,,1,Figur,verkörpert,Rolle
+Elise,Kammerjungfer,Undirected,,1,Figur,verkörpert,Rolle
+Frau von Rênal,Herrin,Undirected,,1,Figur,verkörpert,Rolle
+Julian,Schulmeister,Undirected,,1,Figur,verkörpert,Rolle
+Julian,Geistlicher,Undirected,,1,Figur,verkörpert,Rolle
+Julian,Abbé,Undirected,,1,Figur,verkörpert,Rolle
+Frau von Rênal,Erbin,Undirected,,1,Figur,verkörpert,Rolle
+Frau Derville,Freundin,Undirected,,1,Figur,verkörpert,Rolle
+Julian,Lieber,Undirected,,1,Figur,verkörpert,Rolle
+Julian,Schlucker,Undirected,,1,Figur,verkörpert,Rolle
+Julian,kein Lump,Undirected,,1,Figur,verkörpert,Rolle
+Herr Valenod,Feind,Undirected,,1,Figur,verkörpert,Rolle
+Frau von Rênal,Verehrteste,Undirected,,1,Figur,verkörpert,Rolle
+Der Buchhändler,Liberaler,Undirected,,1,Figur,verkörpert,Rolle
+Julian,Theologe,Undirected,,1,Figur,verkörpert,Rolle
+Herr von Rênal,Gebieter,Undirected,,1,Figur,verkörpert,Rolle
+Julian,Student,Undirected,,1,Figur,verkörpert,Rolle
+Herr von Rênal,Hausherr,Undirected,,1,Figur,verkörpert,Rolle
+Tante,Betschwester,Undirected,,1,Figur,verkörpert,Rolle
+Chélan,Beichtvater,Undirected,,1,Figur,verkörpert,Rolle
+Elise,Mädchen,Undirected,,1,Figur,verkörpert,Rolle
+Elise,Fräulein,Undirected,,1,Figur,verkörpert,Rolle
+Chélan,Seelsorger,Undirected,,1,Figur,verkörpert,Rolle
+Julian,Narr,Undirected,,1,Figur,verkörpert,Rolle
+Julian,Bauersmann,Undirected,,1,Figur,verkörpert,Rolle
+Julian,Meister,Undirected,,1,Figur,verkörpert,Rolle
+Elise,Jungfer,Undirected,,1,Figur,verkörpert,Rolle
+Sägemüller,Handwerker,Undirected,,1,Figur,verkörpert,Rolle
+Elise,Nebenbuhlerin,Undirected,,1,Figur,verkörpert,Rolle
+Frau von Rênal,Zuschauerin,Undirected,,1,Figur,verkörpert,Rolle
+Frau von Rênal,Kleinstädterin,Undirected,,1,Figur,verkörpert,Rolle
+Frau von Rênal,Hausfrau,Undirected,,1,Figur,verkörpert,Rolle
+Herr von Rênal,Grandseigneur,Undirected,,1,Figur,verkörpert,Rolle
+Herr von Rênal,Ehegemahl,Undirected,,1,Figur,verkörpert,Rolle
+Frau von Rênal,Gebieterin,Undirected,,1,Figur,verkörpert,Rolle
+Frau von Rênal,Base,Undirected,,1,Figur,verkörpert,Rolle
+Julian,Neunzehnjähriger,Undirected,,1,Figur,verkörpert,Rolle
+Julian,König,Undirected,,1,Figur,verkörpert,Rolle
+Valenod,0,Undirected,,1,Figur,verkörpert,Rolle

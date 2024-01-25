@@ -1,0 +1,199 @@
+Id,Label,node type,gender
+Adelaida Iwanowna Karamasow,Adelaida Iwanowna Karamasow,Figur,
+Alexej,Alexej,Figur,
+Aljoscha,Aljoscha,Figur,
+Besucher,Besucher,Rolle,männlich
+Dame,Dame,Figur,
+Dmitri,Dmitri,Figur,
+Dmitri Fjodorowitschs Großmutter,Dmitri Fjodorowitschs Großmutter,Figur,
+Dulder,Dulder,Figur,
+ein Jude,ein Jude,Figur,
+ein Mönch,ein Mönch,Figur,
+einer von zwei Mönchen,einer von zwei Mönchen,Figur,
+Einsiedler,Einsiedler,Figur,
+Fachleute,Fachleute,Figur,
+Familie,Familie,Figur,
+Fjordor Pawlowitsch Karamasow,Fjordor Pawlowitsch Karamasow,Figur,
+Frau,Frau,Rolle,weiblich
+Frau Chochlakowa,Frau Chochlakowa,Figur,
+Frau Chochlakowas Tochter,Frau Chochlakowas Tochter,Figur,
+Frau Muissow,Frau Muissow,Figur,
+Frauen,Frauen,Figur,
+Freund Jefim Petrowitschs,Freund Jefim Petrowitschs,Figur,
+General,General,Figur,
+General Worochow,General Worochow,Figur,
+General Worochows Frau,General Worochows Frau,Figur,
+Grigori,Grigori,Figur,
+Gutsbesitzer,Gutsbesitzer,Rolle,männlich
+Herr Naprawnik,Herr Naprawnik,Figur,
+Isprawnik,Isprawnik,Figur,
+Iwan,Iwan,Figur,
+Jefim Petrowitsch,Jefim Petrowitsch,Figur,
+Jefim Petrowitschs Frau,Jefim Petrowitschs Frau,Figur,
+Jugendliche,Jugendliche,Figur,
+Kinder,Kinder,Figur,
+Kinderfrau,Kinderfrau,Figur,
+Köpfe,Köpfe,Figur,
+Leute,Leute,Figur,
+Liebhaber,Liebhaber,Rolle,männlich
+Maximow,Maximow,Figur,
+Menschen,Menschen,Figur,
+Miussow,Miussow,Figur,
+Mönch,Mönch,Rolle,männlich
+Moskauer Dame,Moskauer Dame,Figur,
+Narren,Narren,Figur,
+Oberster Patriarch,Oberster Patriarch,Figur,
+Pädagoge,Pädagoge,Figur,
+Paissi Welitschkowskia,Paissi Welitschkowskia,Figur,
+Persöhnlichkeiten,Persöhnlichkeiten,Figur,
+Piotr Alexandrowitsch Miussow,Piotr Alexandrowitsch Miussow,Figur,
+Piotr Fomitsch Kalganow,Piotr Fomitsch Kalganow,Figur,
+Pjotr Alexandrowitsch Miussow,Pjotr Alexandrowitsch Miussow,Figur,
+Pjotr Fomitsch Kalganow,Pjotr Fomitsch Kalganow,Figur,
+Publikum,Publikum,Figur,
+Rakitin,Rakitin,Figur,
+Russe,Russe,Figur,
+Schwindler,Schwindler,Figur,
+Seminarist,Seminarist,Figur,
+Sofja Iwanowna,Sofja Iwanowna,Figur,
+Sossima,Sossima,Figur,
+Starez,Starez,Rolle,männlich
+Sünder,Sünder,Rolle,männlich
+Tochter,Tochter,Rolle,weiblich
+Tochter der Moskauer Dame,Tochter der Moskauer Dame,Figur,
+Tochter von Frau Chochlakowa,Tochter von Frau Chochlakowa,Figur,
+Vater Paissi,Vater Paissi,Figur,
+Vater von Sofja,Vater von Sofja,Figur,
+Verwandte,Verwandte,Figur,
+Verwandtschaft,Verwandtschaft,Figur,
+Volk,Volk,Figur,
+Warsonofi,Warsonofi,Figur,
+Weiber,Weiber,Figur,
+Wesen,Wesen,Rolle,genderneutral
+Adelsmarschall,Adelsmarschall,Rolle,männlich
+Aljoschka,Aljoschka,Rolle,männlich
+Alte,Alte,Rolle,weiblich
+alte Dame,alte Dame,Rolle,weiblich
+alte Frau,alte Frau,Rolle,weiblich
+Alter,Alter,Rolle,männlich
+Anhänger,Anhänger,Rolle,männlich
+Ankömmling,Ankömmling,Rolle,männlich
+Ärmste,Ärmste,Rolle,weiblich
+Atheist,Atheist,Rolle,männlich
+Befreierin,Befreierin,Rolle,weiblich
+Bester,Bester,Rolle,männlich
+Bewahrer,Bewahrer,Rolle,männlich
+Bezirkshauptmann,Bezirkshauptmann,Rolle,männlich
+Bibliothekar,Bibliothekar,Rolle,männlich
+Braut,Braut,Rolle,weiblich
+Bruder,Bruder,Rolle,männlich
+Diakon,Diakon,Rolle,männlich
+Diener,Diener,Rolle,männlich
+Dreckskerl,Dreckskerl,Rolle,männlich
+Ehegatte,Ehegatte,Rolle,genderneutral
+Eheleute,Eheleute,Rolle,genderneutral
+Ehemann,Ehemann,Rolle,männlich
+Ehrenmann,Ehrenmann,Rolle,männlich
+Ehrwürden,Ehrwürden,Rolle,männlich
+Engel,Engel,Rolle,genderneutral
+Entflohene,Entflohene,Rolle,weiblich
+Erstgeborener,Erstgeborener,Rolle,männlich
+Erzeuger,Erzeuger,Rolle,männlich
+Erzieher,Erzieher,Rolle,männlich
+Erzieherin,Erzieherin,Rolle,weiblich
+Freidenker,Freidenker,Rolle,männlich
+Freund,Freund,Rolle,männlich
+Gast,Gast,Rolle,genderneutral
+Gattin,Gattin,Rolle,weiblich
+Geist,Geist,Rolle,genderneutral
+Generalin,Generalin,Rolle,weiblich
+Glaubensheld,Glaubensheld,Rolle,männlich
+Großmutter,Großmutter,Rolle,weiblich
+Großvater,Großvater,Rolle,männlich
+Grübler,Grübler,Rolle,männlich
+Gutsbesitzerin,Gutsbesitzerin,Rolle,weiblich
+Hauperbe,Hauperbe,Rolle,männlich
+Hausfrau,Hausfrau,Rolle,weiblich
+Heiliger,Heiliger,Rolle,männlich
+heiliger Vater,heiliger Vater,Rolle,männlich
+Held,Held,Rolle,männlich
+Herr,Herr,Rolle,männlich
+Irrer,Irrer,Rolle,männlich
+Jammerlappen,Jammerlappen,Rolle,männlich
+Jude,Jude,Rolle,männlich
+Junge,Junge,Rolle,männlich
+junge Frau,junge Frau,Rolle,weiblich
+Jungendliche,Jungendliche,Rolle,genderneutral
+junger Mann,junger Mann,Rolle,männlich
+Jüngling,Jüngling,Rolle,männlich
+Kapellmeister,Kapellmeister,Rolle,männlich
+kein Fanatiker,kein Fanatiker,Rolle,männlich
+kein König,kein König,Rolle,männlich
+kein Mystiker,kein Mystiker,Rolle,männlich
+Kerl,Kerl,Rolle,männlich
+Kind,Kind,Rolle,genderneutral
+Kirchenfürst,Kirchenfürst,Rolle,männlich
+Kleiner,Kleiner,Rolle,männlich
+Knabe,Knabe,Rolle,männlich
+Kostgänger,Kostgänger,Rolle,männlich
+Kostgängerin,Kostgängerin,Rolle,weiblich
+Lehrer,Lehrer,Rolle,männlich
+Liberaler,Liberaler,Rolle,männlich
+Liebling,Liebling,Rolle,genderneutral
+Mädchen,Mädchen,Rolle,weiblich
+Mann,Mann,Rolle,männlich
+Meister,Meister,Rolle,männlich
+Mensch,Mensch,Rolle,genderneutral
+Menschenfreund,Menschenfreund,Rolle,männlich
+Menschlein,Menschlein,Rolle,genderneutral
+Mitja,Mitja,Rolle,männlich
+Mutter,Mutter,Rolle,weiblich
+Naprawnik,Naprawnik,Rolle,männlich
+Narr,Narr,Rolle,männlich
+Novize,Novize,Rolle,männlich
+Oberleutnant,Oberleutnant,Rolle,männlich
+Offizier,Offizier,Rolle,männlich
+Onkel,Onkel,Rolle,männlich
+Pägagoge,Pägagoge,Rolle,männlich
+Papa,Papa,Rolle,männlich
+Pariser,Pariser,Rolle,männlich
+Patrizier,Patrizier,Rolle,männlich
+Peinigerin,Peinigerin,Rolle,weiblich
+Persönlichkeit,Persönlichkeit,Rolle,genderneutral
+Petruscha,Petruscha,Rolle,männlich
+Pflegetochter,Pflegetochter,Rolle,weiblich
+Possenreißer,Possenreißer,Rolle,männlich
+Priestermönch,Priestermönch,Rolle,männlich
+Prozessierende,Prozessierende,Rolle,genderneutral
+Querkopf,Querkopf,Rolle,genderneutral
+Realist,Realist,Rolle,männlich
+Säufer,Säufer,Rolle,männlich
+Schiedsrichter,Schiedsrichter,Rolle,männlich
+Schreierin,Schreierin,Rolle,weiblich
+Schutzengel,Schutzengel,Rolle,genderneutral
+Seelchen,Seelchen,Rolle,genderneutral
+Sklave,Sklave,Rolle,männlich
+Sohn,Sohn,Rolle,männlich
+Staatsbürger,Staatsbürger,Rolle,männlich
+Streitende,Streitende,Rolle,genderneutral
+Tante,Tante,Rolle,weiblich
+Theologe,Theologe,Rolle,männlich
+Tölpel,Tölpel,Rolle,genderneutral
+Träumer,Träumer,Rolle,männlich
+Trinker,Trinker,Rolle,männlich
+Typ,Typ,Rolle,männlich
+Vater,Vater,Rolle,männlich
+Verfasser,Verfasser,Rolle,männlich
+Verstorbene,Verstorbene,Rolle,weiblich
+Verwandter,Verwandter,Rolle,männlich
+Vetter,Vetter,Rolle,männlich
+Vorkämpfer,Vorkämpfer,Rolle,männlich
+Vormund,Vormund,Rolle,genderneutral
+Waise,Waise,Rolle,genderneutral
+Witwe,Witwe,Rolle,weiblich
+Wohltäter,Wohltäter,Rolle,männlich
+Wohltäterin,Wohltäterin,Rolle,weiblich
+Wüstling,Wüstling,Rolle,männlich
+Zehnjähriger,Zehnjähriger,Rolle,männlich
+Zeuge,Zeuge,Rolle,männlich
+Adelaida Iwanowna Miusow,Adelaida Iwanowna Miusow,Figur,

@@ -1,0 +1,120 @@
+Source,Target,Type,Label,Weight,source type,edge label,target type
+Anna Gordon,Braut,Undirected,,1,Figur,verkörpert,Rolle
+Anna Gordon,Irin,Undirected,,1,Figur,verkörpert,Rolle
+Anna Gordon,Frau,Undirected,,1,Figur,verkörpert,Rolle
+Sir Philip,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Anna Gordon,Anna Maloy,Undirected,,1,Figur,verkörpert,Rolle
+Anna Gordon,Geschöpf,Undirected,,1,Figur,verkörpert,Rolle
+Sir Philip,Träumer,Undirected,,1,Figur,verkörpert,Rolle
+Sir Philip,Liebender,Undirected,,1,Figur,verkörpert,Rolle
+Anna Gordon,Mensch,Undirected,,1,Figur,verkörpert,Rolle
+Sir Philip,Mensch,Undirected,,1,Figur,verkörpert,Rolle
+Anna Gordon,Mutter,Undirected,,1,Figur,verkörpert,Rolle
+Stephen,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Sir Philip,junger Mann,Undirected,,1,Figur,verkörpert,Rolle
+Stephen,Geschöpf,Undirected,,1,Figur,verkörpert,Rolle
+Stephen,Tochter,Undirected,,1,Figur,verkörpert,Rolle
+Stephen,Kröte,Undirected,,1,Figur,verkörpert,Rolle
+Stephen,Kleine,Undirected,,1,Figur,verkörpert,Rolle
+Der Pfarrer,Pfarrer,Undirected,,1,Figur,verkörpert,Rolle
+Stephen,Stephen Mary Olivia Gertrude,Undirected,,1,Figur,verkörpert,Rolle
+Sir Philip,Vater,Undirected,,1,Figur,verkörpert,Rolle
+Stephen,Hahn im Korb,Undirected,,1,Figur,verkörpert,Rolle
+Stephen,Einzelkind,Undirected,,1,Figur,verkörpert,Rolle
+Stephen,Siebenjährige,Undirected,,1,Figur,verkörpert,Rolle
+Stephen,Liebling,Undirected,,1,Figur,verkörpert,Rolle
+Anna Gordon,Mama,Undirected,,1,Figur,verkörpert,Rolle
+Collins,Hausmädchen,Undirected,,1,Figur,verkörpert,Rolle
+Collins,Zweitmädchen,Undirected,,1,Figur,verkörpert,Rolle
+Collins,Hilfskraft,Undirected,,1,Figur,verkörpert,Rolle
+Collins,Zwanzigjährige,Undirected,,1,Figur,verkörpert,Rolle
+Stephen,Miss,Undirected,,1,Figur,verkörpert,Rolle
+Mrs. Bingham,Nurse,Undirected,,1,Figur,verkörpert,Rolle
+Stephen,Schützling,Undirected,,1,Figur,verkörpert,Rolle
+Mrs. Bingham,Mensch,Undirected,,1,Figur,verkörpert,Rolle
+Collins,Übeltäterin,Undirected,,1,Figur,verkörpert,Rolle
+Collins,Nanny,Undirected,,1,Figur,verkörpert,Rolle
+Stephen,Wilhelm Tell,Undirected,,1,Figur,verkörpert,Rolle
+Stephen,Nelson,Undirected,,1,Figur,verkörpert,Rolle
+Collins,Kinderfräulein,Undirected,,1,Figur,verkörpert,Rolle
+Mrs. Wilson,Köchin,Undirected,,1,Figur,verkörpert,Rolle
+Stephen,Junge,Undirected,,1,Figur,verkörpert,Rolle
+Stephen,Jung-Nelson,Undirected,,1,Figur,verkörpert,Rolle
+Stephen,Gör,Undirected,,1,Figur,verkörpert,Rolle
+Stephen,junge Dame,Undirected,,1,Figur,verkörpert,Rolle
+Stephen,Mädchen,Undirected,,1,Figur,verkörpert,Rolle
+Stephen,Liebes,Undirected,,1,Figur,verkörpert,Rolle
+Collins,Göttin,Undirected,,1,Figur,verkörpert,Rolle
+Stephen,Heiland,Undirected,,1,Figur,verkörpert,Rolle
+Stephen,Jesus,Undirected,,1,Figur,verkörpert,Rolle
+Stephen,Ding,Undirected,,1,Figur,verkörpert,Rolle
+Collins,Biest,Undirected,,1,Figur,verkörpert,Rolle
+Stephen,Schülerin,Undirected,,1,Figur,verkörpert,Rolle
+Stephen,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Sir Philip,Papa,Undirected,,1,Figur,verkörpert,Rolle
+Sir Philip,Sportsmann,Undirected,,1,Figur,verkörpert,Rolle
+Sir Philip,Gelehrter,Undirected,,1,Figur,verkörpert,Rolle
+Sir Philip,Liebster,Undirected,,1,Figur,verkörpert,Rolle
+Collins,Magd,Undirected,,1,Figur,verkörpert,Rolle
+Henry,Diener,Undirected,,1,Figur,verkörpert,Rolle
+Arzt,Arzt,Undirected,,1,Figur,verkörpert,Rolle
+Stephen,Patientin,Undirected,,1,Figur,verkörpert,Rolle
+Sir Philip,Kamerad,Undirected,,1,Figur,verkörpert,Rolle
+Winefred,Nichte,Undirected,,1,Figur,verkörpert,Rolle
+Winefred,Stubenmädchen,Undirected,,1,Figur,verkörpert,Rolle
+Collins,Vorgängerin,Undirected,,1,Figur,verkörpert,Rolle
+Winefred,Eindringling,Undirected,,1,Figur,verkörpert,Rolle
+Collins,Dienerin des Herrn,Undirected,,1,Figur,verkörpert,Rolle
+Anna Gordon,Herrin,Undirected,,1,Figur,verkörpert,Rolle
+Anna Gordon,Göttin,Undirected,,1,Figur,verkörpert,Rolle
+Annas Mutter,Mutter,Undirected,,1,Figur,verkörpert,Rolle
+Annas Mutter,Nanny,Undirected,,1,Figur,verkörpert,Rolle
+Stephen,Löwe,Undirected,,1,Figur,verkörpert,Rolle
+Anna Gordon,Jungfrau Maria,Undirected,,1,Figur,verkörpert,Rolle
+Anna Gordon,Eltern,Undirected,,1,Figur,verkörpert,Rolle
+Sir Philip,Eltern,Undirected,,1,Figur,verkörpert,Rolle
+Anna Gordon,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Sir Philip,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Stephen,Fröstelnde,Undirected,,1,Figur,verkörpert,Rolle
+Stephen,kein Junge,Undirected,,1,Figur,verkörpert,Rolle
+Collins,Sünderin,Undirected,,1,Figur,verkörpert,Rolle
+Williams,Stallknecht,Undirected,,1,Figur,verkörpert,Rolle
+Stephen,junge Lady,Undirected,,1,Figur,verkörpert,Rolle
+Pförtner,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Stephen,Reiterin,Undirected,,1,Figur,verkörpert,Rolle
+Colonel Antrim,Master,Undirected,,1,Figur,verkörpert,Rolle
+Violet,Mädchen,Undirected,,1,Figur,verkörpert,Rolle
+Violet,Ding,Undirected,,1,Figur,verkörpert,Rolle
+Violet,Geschöpf,Undirected,,1,Figur,verkörpert,Rolle
+Violet,Puppe,Undirected,,1,Figur,verkörpert,Rolle
+Violet,Stoffpuppe,Undirected,,1,Figur,verkörpert,Rolle
+Colonel Antrim,Rüdemann,Undirected,,1,Figur,verkörpert,Rolle
+Stephen,Madam,Undirected,,1,Figur,verkörpert,Rolle
+Colonel Antrim,Jagdleiter,Undirected,,1,Figur,verkörpert,Rolle
+Roger,Junge,Undirected,,1,Figur,verkörpert,Rolle
+Roger,Tyrann,Undirected,,1,Figur,verkörpert,Rolle
+Violet,Schwester,Undirected,,1,Figur,verkörpert,Rolle
+Stephen,Rivalin,Undirected,,1,Figur,verkörpert,Rolle
+Stephen,Eindringling,Undirected,,1,Figur,verkörpert,Rolle
+Violet,Mütterchen,Undirected,,1,Figur,verkörpert,Rolle
+Violet,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Stephen,Nanny,Undirected,,1,Figur,verkörpert,Rolle
+Violet,Mutter,Undirected,,1,Figur,verkörpert,Rolle
+Mrs. Antrim,Mama,Undirected,,1,Figur,verkörpert,Rolle
+Violet,Hausmütterchen,Undirected,,1,Figur,verkörpert,Rolle
+Violet,Zimperliese,Undirected,,1,Figur,verkörpert,Rolle
+Roger,Unterlegener,Undirected,,1,Figur,verkörpert,Rolle
+Roger,Spielgefährte,Undirected,,1,Figur,verkörpert,Rolle
+Violet,Spielgefährte,Undirected,,1,Figur,verkörpert,Rolle
+Mrs. Antrim,Mutter,Undirected,,1,Figur,verkörpert,Rolle
+Roger,Volk,Undirected,,1,Figur,verkörpert,Rolle
+Violet,Volk,Undirected,,1,Figur,verkörpert,Rolle
+Stephen,Volk,Undirected,,1,Figur,verkörpert,Rolle
+Stephen,Fresssack,Undirected,,1,Figur,verkörpert,Rolle
+Violet,schlechte Esserin,Undirected,,1,Figur,verkörpert,Rolle
+Mrs. Antrim,Wegelagerer,Undirected,,1,Figur,verkörpert,Rolle
+Mrs. Antrim,Gastgeberin,Undirected,,1,Figur,verkörpert,Rolle
+Roger,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Violet,Gastgeberin,Undirected,,1,Figur,verkörpert,Rolle
+Colonel Antrim,Vater,Undirected,,1,Figur,verkörpert,Rolle
+Roger,Lügner,Undirected,,1,Figur,verkörpert,Rolle

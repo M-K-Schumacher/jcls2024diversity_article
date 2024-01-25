@@ -1,0 +1,186 @@
+Source,Target,Type,Label,Weight,source type,edge label,target type
+Amor,Backfisch,Undirected,,1,Rolle,spielt,Figur
+Vulkan,Fontan,Undirected,,1,Rolle,spielt,Figur
+Jupiter,Bosc,Undirected,,1,Rolle,spielt,Figur
+Mars,Prulière,Undirected,,1,Rolle,spielt,Figur
+Iris,Clarisse Besnus,Undirected,,1,Rolle,spielt,Figur
+Diana,Rose Mignon,Undirected,,1,Rolle,spielt,Figur
+Nana,Venus,Undirected,,1,Figur,spielt,Rolle
+Hector de la Faloise,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Fauchery,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Hector de la Faloise,Besucher,Undirected,,1,Figur,verkörpert,Rolle
+Fauchery,Besucher,Undirected,,1,Figur,verkörpert,Rolle
+Hector de la Faloise,Lieber,Undirected,,1,Figur,verkörpert,Rolle
+Bordenave,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Bordenave,Herr,Undirected,,1,Figur,verkörpert,Rolle
+Hector de la Faloise,Gefährte,Undirected,,1,Figur,verkörpert,Rolle
+Hector de la Faloise,Vetter,Undirected,,1,Figur,verkörpert,Rolle
+Bordenave,Direktor,Undirected,,1,Figur,verkörpert,Rolle
+Bordenave,Bagnoaufseher,Undirected,,1,Figur,verkörpert,Rolle
+Hector de la Faloise,Provinzler,Undirected,,1,Figur,verkörpert,Rolle
+Nana,Krähe,Undirected,,1,Figur,verkörpert,Rolle
+Nana,Komödiantin,Undirected,,1,Figur,verkörpert,Rolle
+Nana,Klotz,Undirected,,1,Figur,verkörpert,Rolle
+Bordenave,Mensch,Undirected,,1,Figur,verkörpert,Rolle
+Nana,Frauenzimmer,Undirected,,1,Figur,verkörpert,Rolle
+Hector de la Faloise,Herr,Undirected,,1,Figur,verkörpert,Rolle
+Fauchery,Herr,Undirected,,1,Figur,verkörpert,Rolle
+Nana,Weibsbild,Undirected,,1,Figur,verkörpert,Rolle
+Rose Mignon,Stern,Undirected,,1,Figur,verkörpert,Rolle
+Rose Mignon,Schauspielerin,Undirected,,1,Figur,verkörpert,Rolle
+Rose Mignon,Sängerin,Undirected,,1,Figur,verkörpert,Rolle
+Nana,Nebenbuhlerin,Undirected,,1,Figur,verkörpert,Rolle
+Nana,Künstlerin,Undirected,,1,Figur,verkörpert,Rolle
+Rose Mignon,Künstlerin,Undirected,,1,Figur,verkörpert,Rolle
+Simonne,Weibse,Undirected,,1,Figur,verkörpert,Rolle
+Clarisse Besnus,Weibse,Undirected,,1,Figur,verkörpert,Rolle
+Simonne,Mädel,Undirected,,1,Figur,verkörpert,Rolle
+Clarisse Besnus,Mädel,Undirected,,1,Figur,verkörpert,Rolle
+Migon,Gemahl,Undirected,,1,Figur,verkörpert,Rolle
+Steiner,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Migon,Lebemann,Undirected,,1,Figur,verkörpert,Rolle
+Migon,Jahrmarktherkules,Undirected,,1,Figur,verkörpert,Rolle
+Steiner,Bankier,Undirected,,1,Figur,verkörpert,Rolle
+Steiner,Herr,Undirected,,1,Figur,verkörpert,Rolle
+Nana,Debütantin,Undirected,,1,Figur,verkörpert,Rolle
+Nana,Dämchen,Undirected,,1,Figur,verkörpert,Rolle
+Bordenave,Lieber,Undirected,,1,Figur,verkörpert,Rolle
+Steiner,Schwede,Undirected,,1,Figur,verkörpert,Rolle
+Lucy Steward,Frauenzimmer,Undirected,,1,Figur,verkörpert,Rolle
+Caroline Héquet,Schönheit,Undirected,,1,Figur,verkörpert,Rolle
+Daguenet,Liebster,Undirected,,1,Figur,verkörpert,Rolle
+Daguenet,Bursche,Undirected,,1,Figur,verkörpert,Rolle
+Daguenet,Junggeselle,Undirected,,1,Figur,verkörpert,Rolle
+Blanche de Sivry,Blondine,Undirected,,1,Figur,verkörpert,Rolle
+Graf Xavier de Vandeuvres,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Fauchery,Vetter,Undirected,,1,Figur,verkörpert,Rolle
+Gaga,Dame,Undirected,,1,Figur,verkörpert,Rolle
+Gagas Tochter,Mädchen,Undirected,,1,Figur,verkörpert,Rolle
+Gagas Tochter,Tochter,Undirected,,1,Figur,verkörpert,Rolle
+Gagas Tochter,Mensch,Undirected,,1,Figur,verkörpert,Rolle
+Marquis de Chouard,Schwiegervater,Undirected,,1,Figur,verkörpert,Rolle
+Graf,Kammerherr,Undirected,,1,Figur,verkörpert,Rolle
+Marquis de Chouard,Staatsrat,Undirected,,1,Figur,verkörpert,Rolle
+Carolines Mutter,Mutter,Undirected,,1,Figur,verkörpert,Rolle
+Labordette,Herr,Undirected,,1,Figur,verkörpert,Rolle
+Clarisse Besnus,Weiberchen,Undirected,,1,Figur,verkörpert,Rolle
+Rose Mignon,Gassenjunge,Undirected,,1,Figur,verkörpert,Rolle
+Prulière,Schauspieler,Undirected,,1,Figur,verkörpert,Rolle
+Juno,Gattin,Undirected,,1,Figur,verkörpert,Rolle
+Fontan,Dorfschmied,Undirected,,1,Figur,verkörpert,Rolle
+Fontan,Kerl,Undirected,,1,Figur,verkörpert,Rolle
+Bosc,Herr,Undirected,,1,Figur,verkörpert,Rolle
+Bosc,Meister,Undirected,,1,Figur,verkörpert,Rolle
+Nana,Person,Undirected,,1,Figur,verkörpert,Rolle
+Steiner,Bester,Undirected,,1,Figur,verkörpert,Rolle
+Daguenet,Herr,Undirected,,1,Figur,verkörpert,Rolle
+Daguenet,Lieber,Undirected,,1,Figur,verkörpert,Rolle
+Fauchery,Journalist,Undirected,,1,Figur,verkörpert,Rolle
+Bosc,König Dagobert,Undirected,,1,Figur,verkörpert,Rolle
+Prulière,Kriegsgott,Undirected,,1,Figur,verkörpert,Rolle
+Fontan,Dandy,Undirected,,1,Figur,verkörpert,Rolle
+Nana,Hökerweib,Undirected,,1,Figur,verkörpert,Rolle
+Rose Mignon,Püppchen,Undirected,,1,Figur,verkörpert,Rolle
+Juno,Pächtersfrau,Undirected,,1,Figur,verkörpert,Rolle
+Fauchery,Lieber,Undirected,,1,Figur,verkörpert,Rolle
+Gräfin Muffat,Gräfin,Undirected,,1,Figur,verkörpert,Rolle
+Fauchery,Feuilletonist,Undirected,,1,Figur,verkörpert,Rolle
+Graf Muffat,Graf,Undirected,,1,Figur,verkörpert,Rolle
+Labordette,Gestalt,Undirected,,1,Figur,verkörpert,Rolle
+Blanche de Sivry,Frauenzimmer,Undirected,,1,Figur,verkörpert,Rolle
+Fauchery,Herrchen,Undirected,,1,Figur,verkörpert,Rolle
+Steiner,Freund,Undirected,,1,Figur,verkörpert,Rolle
+Steiner,Liebhaber,Undirected,,1,Figur,verkörpert,Rolle
+Auguste,Kellner,Undirected,,1,Figur,verkörpert,Rolle
+Satin,Mädchen,Undirected,,1,Figur,verkörpert,Rolle
+Satin,Straßendirn,Undirected,,1,Figur,verkörpert,Rolle
+Satin,Frauenzimmer,Undirected,,1,Figur,verkörpert,Rolle
+Steiner,Steinerchen,Undirected,,1,Figur,verkörpert,Rolle
+Rose Mignon,Frau,Undirected,,1,Figur,verkörpert,Rolle
+Madame Robert,Frau,Undirected,,1,Figur,verkörpert,Rolle
+Madame Robert,Dame,Undirected,,1,Figur,verkörpert,Rolle
+Nana,Weib,Undirected,,1,Figur,verkörpert,Rolle
+Nana,Dame,Undirected,,1,Figur,verkörpert,Rolle
+Daguenet,Nachbar,Undirected,,1,Figur,verkörpert,Rolle
+Nana,Geschöpf,Undirected,,1,Figur,verkörpert,Rolle
+Nana,Vampir,Undirected,,1,Figur,verkörpert,Rolle
+Hector de la Faloise,Freund,Undirected,,1,Figur,verkörpert,Rolle
+Nana,Göttin,Undirected,,1,Figur,verkörpert,Rolle
+Rose Mignon,Göttin,Undirected,,1,Figur,verkörpert,Rolle
+Rose Mignon,Rivalin,Undirected,,1,Figur,verkörpert,Rolle
+Fontan,Ehemann,Undirected,,1,Figur,verkörpert,Rolle
+Nana,Frau,Undirected,,1,Figur,verkörpert,Rolle
+Nana,Siegerin,Undirected,,1,Figur,verkörpert,Rolle
+Bordenave,Dickschädel,Undirected,,1,Figur,verkörpert,Rolle
+Nana,Madame,Undirected,,1,Figur,verkörpert,Rolle
+Zoé,Zofe,Undirected,,1,Figur,verkörpert,Rolle
+Zoé,Brünette,Undirected,,1,Figur,verkörpert,Rolle
+Louis,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Louis,Kleiner,Undirected,,1,Figur,verkörpert,Rolle
+Madame Lerat,Tante,Undirected,,1,Figur,verkörpert,Rolle
+Daguenet,Mimi,Undirected,,1,Figur,verkörpert,Rolle
+Louis,Herzbube,Undirected,,1,Figur,verkörpert,Rolle
+Nana,Mama,Undirected,,1,Figur,verkörpert,Rolle
+Madame Tricon,Frau,Undirected,,1,Figur,verkörpert,Rolle
+Madame Tricon,Weib,Undirected,,1,Figur,verkörpert,Rolle
+Madame Tricon,Dame,Undirected,,1,Figur,verkörpert,Rolle
+Francis,Herr,Undirected,,1,Figur,verkörpert,Rolle
+Fauchery,Wicht,Undirected,,1,Figur,verkörpert,Rolle
+Madame Lerat,Frau,Undirected,,1,Figur,verkörpert,Rolle
+Nana,Ding,Undirected,,1,Figur,verkörpert,Rolle
+Nana,Tochter,Undirected,,1,Figur,verkörpert,Rolle
+Madame Lerat,Mutter,Undirected,,1,Figur,verkörpert,Rolle
+Nana,Nichte,Undirected,,1,Figur,verkörpert,Rolle
+Nana,Kleiner,Undirected,,1,Figur,verkörpert,Rolle
+Louis,Sohn,Undirected,,1,Figur,verkörpert,Rolle
+Vater von Louis,Herren,Undirected,,1,Figur,verkörpert,Rolle
+Vater von Louis,Maurer,Undirected,,1,Figur,verkörpert,Rolle
+Louis,Prinz,Undirected,,1,Figur,verkörpert,Rolle
+Madame Lerat,Weib,Undirected,,1,Figur,verkörpert,Rolle
+Madame Maloir,Dame,Undirected,,1,Figur,verkörpert,Rolle
+Madame Maloir,Frau,Undirected,,1,Figur,verkörpert,Rolle
+Madame Maloir,Alte,Undirected,,1,Figur,verkörpert,Rolle
+Madame Maloir,Anstandsdame,Undirected,,1,Figur,verkörpert,Rolle
+Zoé,Tochter,Undirected,,1,Figur,verkörpert,Rolle
+Zoé,Geschöpf,Undirected,,1,Figur,verkörpert,Rolle
+Madame Lerat,Alte,Undirected,,1,Figur,verkörpert,Rolle
+Madame Maloir,Freundin,Undirected,,1,Figur,verkörpert,Rolle
+Daguenet,Schatz,Undirected,,1,Figur,verkörpert,Rolle
+Nana,Kleine,Undirected,,1,Figur,verkörpert,Rolle
+Nana,Mutter,Undirected,,1,Figur,verkörpert,Rolle
+Zoé,Dienstmädchen,Undirected,,1,Figur,verkörpert,Rolle
+Georges Hugon,Bürschchen,Undirected,,1,Figur,verkörpert,Rolle
+Georges Hugon,Junge,Undirected,,1,Figur,verkörpert,Rolle
+Georges Hugon,Jüngling,Undirected,,1,Figur,verkörpert,Rolle
+Nana,Herrin,Undirected,,1,Figur,verkörpert,Rolle
+Steiner,Person,Undirected,,1,Figur,verkörpert,Rolle
+Madame Lerat,Dame,Undirected,,1,Figur,verkörpert,Rolle
+Madame Maloir,Weib,Undirected,,1,Figur,verkörpert,Rolle
+Nana,Liebe,Undirected,,1,Figur,verkörpert,Rolle
+Marquis de Chouard,Kauz,Undirected,,1,Figur,verkörpert,Rolle
+Graf Muffat de Beuville,Kauz,Undirected,,1,Figur,verkörpert,Rolle
+Nana,Fürstin,Undirected,,1,Figur,verkörpert,Rolle
+Marquis de Chouard,Herr,Undirected,,1,Figur,verkörpert,Rolle
+Graf Muffat de Beuville,Herr,Undirected,,1,Figur,verkörpert,Rolle
+Nana,Bescheidene,Undirected,,1,Figur,verkörpert,Rolle
+Marquis de Chouard,Marquis,Undirected,,1,Figur,verkörpert,Rolle
+Graf Muffat de Beuville,Graf,Undirected,,1,Figur,verkörpert,Rolle
+Graf Muffat de Beuville,Herrschaft,Undirected,,1,Figur,verkörpert,Rolle
+Marquis de Chouard,Gauner,Undirected,,1,Figur,verkörpert,Rolle
+Graf Muffat de Beuville,Gauner,Undirected,,1,Figur,verkörpert,Rolle
+Marquis de Chouard,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Graf Muffat de Beuville,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Marquis de Chouard,Halunke,Undirected,,1,Figur,verkörpert,Rolle
+Graf Muffat de Beuville,Halunke,Undirected,,1,Figur,verkörpert,Rolle
+Zoé,Mädchen,Undirected,,1,Figur,verkörpert,Rolle
+Zoé,Liebe,Undirected,,1,Figur,verkörpert,Rolle
+Georges Hugon,Mensch,Undirected,,1,Figur,verkörpert,Rolle
+Georges Hugon,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Georges Hugon,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Georges Hugon,Bübchen,Undirected,,1,Figur,verkörpert,Rolle
+Georges Hugon,Kleiner,Undirected,,1,Figur,verkörpert,Rolle
+Georges Hugon,Pinsel,Undirected,,1,Figur,verkörpert,Rolle
+Francis,Coiffeur,Undirected,,1,Figur,verkörpert,Rolle
+Francis,Weltmann,Undirected,,1,Figur,verkörpert,Rolle
+Nana,Freundin,Undirected,,1,Figur,verkörpert,Rolle
+Francis,Friseur,Undirected,,1,Figur,verkörpert,Rolle

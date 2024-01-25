@@ -1,0 +1,337 @@
+Id,Label,type,gender
+Hansli Gyr,Hansli Gyr,Figur,
+Leute,Leute,Rolle,Genderneutral
+Hadrian VI,Hadrian VI,Figur,
+Eidgenossen,Eidgenossen,Rolle,Genderneutral
+LeoX,LeoX,Figur,
+Soldaten,Soldaten,Figur,
+ein Schneider,ein Schneider,Figur,
+katholisches Volk,katholisches Volk,Figur,
+Tavernengäste,Tavernengäste,Figur,
+ein Söldner,ein Söldner,Figur,
+Pfarrer,Pfarrer,Figur,
+Mütter,Mütter,Figur,
+Frauen,Frauen,Figur,
+Männer,Männer,Rolle,Mann
+Vater,Vater,Rolle,Mann
+Mutter,Mutter,Figur,
+Ursula,Ursula,Figur,
+Menschen,Menschen,Rolle,Genderneutral
+Gott,Gott,Figur,
+Heilige,Heilige,Rolle,Genderneutral
+Propheten,Propheten,Rolle,Genderneutral
+Enoch Schnurrenberger,Enoch Schnurrenberger,Figur,
+die Snurringen,die Snurringen,Figur,
+Reformgegner,Reformgegner,Figur,
+ein Wirt,ein Wirt,Figur,
+eine Wirtin,eine Wirtin,Figur,
+der Papst,der Papst,Figur,
+ Huldrych Zwingli, Huldrych Zwingli,Figur,
+Huldrych Zwingli,Huldrych Zwingli,Figur,
+Wirtz von Goßau,Wirtz von Goßau,Figur,
+ein Autor,ein Autor,Figur,
+Schneck von Agasul,Schneck von Agasul,Figur,
+Fürsten,Fürsten,Figur,
+Jakob Rosenstil,Jakob Rosenstil,Figur,
+Eltern Gyr,Eltern Gyr,Figur,
+Frau Schnurrenberger,Frau Schnurrenberger,Figur,
+die da Oben?,die da Oben?,Figur,
+Staatsbeamter,Staatsbeamter,Figur,
+ein Papist,ein Papist,Figur,
+ein Mönch,ein Mönch,Figur,
+Teufelsgesellen,Teufelsgesellen,Figur,
+eine Frau,eine Frau,Figur,
+Ulrich Zwingli,Ulrich Zwingli,Figur,
+ein Zunftvorsteher,ein Zunftvorsteher,Figur,
+ein Humanist,ein Humanist,Figur,
+ein Geistlicher,ein Geistlicher,Figur,
+ein Feldhauptmann,ein Feldhauptmann,Figur,
+Reformanhänger,Reformanhänger,Figur,
+Schüler,Schüler,Figur,
+ein Jäger,ein Jäger,Figur,
+Heuschober,Heuschober,Figur,
+Landvogt von Grüningen,Landvogt von Grüningen,Figur,
+die Baptisten,die Baptisten,Figur,
+Abraham,Abraham,Figur,
+ein Hochwächter,ein Hochwächter,Figur,
+eine Nachtwandlerin,eine Nachtwandlerin,Figur,
+ein Steuermann,ein Steuermann,Figur,
+ein Staatsmann,ein Staatsmann,Figur,
+ein Diplomat,ein Diplomat,Figur,
+Katholiken,Katholiken,Figur,
+König Ferdinand,König Ferdinand,Figur,
+jünge Soldaten,jünge Soldaten,Figur,
+ein Junge,ein Junge,Figur,
+eine Landmagd,eine Landmagd,Figur,
+ein Trompeter,ein Trompeter,Figur,
+Redner,Redner,Rolle,Mann
+ein Advokat,ein Advokat,Figur,
+Rechtsleute,Rechtsleute,Figur,
+ein Österreicher,ein Österreicher,Figur,
+die Schweizer,die Schweizer,Figur,
+Jakob Medicis,Jakob Medicis,Figur,
+die Graubündner,die Graubündner,Figur,
+Markus Sittich von Hohenems,Markus Sittich von Hohenems,Figur,
+Herzog von Mailand,Herzog von Mailand,Figur,
+Stephan Zeller,Stephan Zeller,Figur,
+Landgraf Philipp,Landgraf Philipp,Figur,
+Freska,Freska,Figur,
+ein Geselle,ein Geselle,Figur,
+der Geliebte,der Geliebte,Figur,
+ein Graf,ein Graf,Figur,
+eine Schwester,eine Schwester,Figur,
+die Befehlshaber,die Befehlshaber,Figur,
+Gelehrter,Gelehrter,Figur,
+das Kind,das Kind,Figur,
+heiliger Sebastian,heiliger Sebastian,Figur,
+englischer Bräutigam,englischer Bräutigam,Figur,
+ein Landmann,ein Landmann,Figur,
+Sohn des Landmanns,Sohn des Landmanns,Figur,
+Landmann,Landmann,Figur,
+Brüder,Brüder,Rolle,Mann
+Theseus,Theseus,Figur,
+Sokrates,Sokrates,Figur,
+Arstides,Arstides,Figur,
+Antigonus,Antigonus,Figur,
+Numa,Numa,Figur,
+Camillus,Camillus,Figur,
+Catonen,Catonen,Figur,
+Scipionen,Scipionen,Figur,
+Herkules,Herkules,Figur,
+ein Soldat,ein Soldat,Figur,
+Verwundeten,Verwundeten,Figur,
+ein Abt,ein Abt,Figur,
+Nachkommen Gyr,Nachkommen Gyr,Figur,
+Mann,Mann,Rolle,Mann
+Römer,Römer,Rolle,Mann
+Hauptleute,Hauptleute,Rolle,Genderneutral
+Hansli,Hansli,Rolle,Mann
+Rottmeister,Rottmeister,Rolle,Mann
+Träger,Träger,Rolle,Mann
+Genossen,Genossen,Rolle,Mann
+Kriegsleute,Kriegsleute,Rolle,Genderneutral
+Kriegsknechte,Kriegsknechte,Rolle,Mann
+Schneider,Schneider,Rolle,Mann
+Soldat,Soldat,Rolle,Mann
+Schweizer,Schweizer,Rolle,Mann
+Volke,Volke,Rolle,Genderneutral
+Söldner,Söldner,Rolle,Mann
+Herren von Zürch,Herren von Zürch,Rolle,Mann
+Pfaffen,Pfaffen,Rolle,Mann
+Stubenhocker,Stubenhocker,Rolle,Mann
+Duckmäuse,Duckmäuse,Rolle,Genderneutral
+Schulmeister,Schulmeister,Rolle,Mann
+Disputierter,Disputierter,Rolle,Mann
+Kriegsmann,Kriegsmann,Rolle,Mann
+Schwärmer,Schwärmer,Rolle,Mann
+Weiber,Weiber,Rolle,Frau
+Alte,Alte,Rolle,Mann
+Junge,Junge,Rolle,Mann
+Kamerad,Kamerad,Rolle,Mann
+Nachbarstochter,Nachbarstochter,Rolle,Frau
+Wesen,Wesen,Rolle,Genderneutral
+Erwachsene,Erwachsene,Rolle,Genderneutral
+Kind,Kind,Rolle,Genderneutral
+Bürgersfrau,Bürgersfrau,Rolle,Frau
+Bäuerin,Bäuerin,Rolle,Frau
+Frau,Frau,Rolle,Frau
+Frauensperson,Frauensperson,Rolle,Frau
+Jugendgenossin,Jugendgenossin,Rolle,Frau
+Kriegsläufer,Kriegsläufer,Rolle,Mann
+Weib,Weib,Rolle,Frau
+Brautleute,Brautleute,Rolle,Genderneutral
+Sündelosen,Sündelosen,Rolle,Genderneutral
+Geist Gottes,Geist Gottes,Rolle,Genderneutral
+Ursel,Ursel,Rolle,Frau
+Liebster,Liebster,Rolle,Mann
+Richter,Richter,Rolle,Mann
+Schnurrenberg,Schnurrenberg,Rolle,Mann
+Vater Enoch,Vater Enoch,Rolle,Mann
+Snurringen,Snurringen,Rolle,Genderneutral
+Possenreißer,Possenreißer,Rolle,Mann
+Geselle,Geselle,Rolle,Mann
+Fanatiker,Fanatiker,Rolle,Mann
+Maulwerker,Maulwerker,Rolle,Mann
+Spekulanten,Spekulanten,Rolle,Mann
+Mittelsmänner,Mittelsmänner,Rolle,Mann
+Winkelseher,Winkelseher,Rolle,Mann
+Wirt,Wirt,Rolle,Mann
+Wirtin,Wirtin,Rolle,Frau
+Schelm,Schelm,Rolle,Mann
+Narr,Narr,Rolle,Mann
+Eingetretener,Eingetretener,Rolle,Mann
+Liebchen,Liebchen,Rolle,Genderneutral
+Schnurrenberger,Schnurrenberger,Rolle,Mann
+Schwertträger,Schwertträger,Rolle,Mann
+Kriegsheld,Kriegsheld,Rolle,Mann
+Mädchen,Mädchen,Rolle,Frau
+Freund,Freund,Rolle,Mann
+Nachbarsmann,Nachbarsmann,Rolle,Mann
+Hans,Hans,Rolle,Mann
+Papst,Papst,Rolle,Mann
+Päpstlein,Päpstlein,Rolle,Genderneutral
+Eisenfresser,Eisenfresser,Rolle,Mann
+Großhanse,Großhanse,Rolle,Mann
+Kriegsgesellen,Kriegsgesellen,Rolle,Mann
+Ei,Ei,Rolle,Genderneutral
+Herrenpfaffen,Herrenpfaffen,Rolle,Mann
+Zwingli,Zwingli,Rolle,Mann
+Bub,Bub,Rolle,Mann
+Beisitzer,Beisitzer,Rolle,Mann
+kalte Wirtz von Goßau,kalte Wirtz von Goßau,Rolle,Mann
+kalter Wirtz,kalter Wirtz,Rolle,Mann
+Grammatikus,Grammatikus,Rolle,Mann
+Magister,Magister,Rolle,Mann
+Herr,Herr,Rolle,Mann
+Schuster,Schuster,Rolle,Mann
+Freund des Schmuckes,Freund des Schmuckes,Rolle,Mann
+Herr Gott Zebaoth,Herr Gott Zebaoth,Rolle,Mann
+Herrn,Herrn,Rolle,Mann
+Heide,Heide,Rolle,Mann
+Herrgöttlein,Herrgöttlein,Rolle,Mann
+Menschlein,Menschlein,Rolle,Genderneutral
+Gaukelmann,Gaukelmann,Rolle,Mann
+Schneck,Schneck,Rolle,Mann
+Winkelprophet,Winkelprophet,Rolle,Mann
+Breitmatter,Breitmatter,Rolle,Mann
+Gefolge,Gefolge,Rolle,Genderneutral
+Erweckter,Erweckter,Rolle,Mann
+Heiliger,Heiliger,Rolle,Mann
+Hauswirt,Hauswirt,Rolle,Mann
+Wirtz,Wirtz,Rolle,Mann
+Gesellen,Gesellen,Rolle,Mann
+Eltern,Eltern,Rolle,Genderneutral
+Schalksnarren,Schalksnarren,Rolle,Genderneutral
+Meister,Meister,Rolle,Mann
+Spießgesell,Spießgesell,Rolle,Mann
+Schlauköpfe,Schlauköpfe,Rolle,Genderneutral
+Obern,Obern,Rolle,Genderneutral
+Herrscher,Herrscher,Rolle,Mann
+Alter,Alter,Rolle,Mann
+Invalide zu Rapperswyl,Invalide zu Rapperswyl,Rolle,Mann
+Mannschaft,Mannschaft,Rolle,Genderneutral
+Obrigkeit,Obrigkeit,Rolle,Mann
+Oberhaupt,Oberhaupt,Rolle,Mann
+Ausschreitender,Ausschreitender,Rolle,Mann
+Gegner der Reformation,Gegner der Reformation,Rolle,Mann
+Streithähne,Streithähne,Rolle,Mann
+Krieger,Krieger,Rolle,Mann
+Nichtkrieger,Nichtkrieger,Rolle,Mann
+Mönch,Mönch,Rolle,Mann
+Papist,Papist,Rolle,Mann
+Stadtsoldaten,Stadtsoldaten,Rolle,Mann
+Fratzenmann,Fratzenmann,Rolle,Mann
+Zunftvorsteher,Zunftvorsteher,Rolle,Mann
+Humanist,Humanist,Rolle,Mann
+Geistlicher,Geistlicher,Rolle,Mann
+Reformator,Reformator,Rolle,Mann
+Neuangekommenen,Neuangekommenen,Rolle,Genderneutral
+Wirtzen,Wirtzen,Rolle,Mann
+Inhaber,Inhaber,Rolle,Mann
+Meister Ulrich,Meister Ulrich,Rolle,Mann
+Feldhauptmann,Feldhauptmann,Rolle,Mann
+Wehrmänner,Wehrmänner,Rolle,Mann
+kein Feind,kein Feind,Rolle,Mann
+kein Verächter,kein Verächter,Rolle,Mann
+Bruder,Bruder,Rolle,Mann
+Wehrvolk,Wehrvolk,Rolle,Genderneutral
+Begleiter,Begleiter,Rolle,Mann
+Hans Gyr,Hans Gyr,Rolle,Mann
+Kapfgenossen,Kapfgenossen,Rolle,Mann
+Zeuge,Zeuge,Rolle,Mann
+Schülerknaben,Schülerknaben,Rolle,Mann
+Dirnen,Dirnen,Rolle,Frau
+Frauensleute,Frauensleute,Rolle,Frau
+Jäger,Jäger,Rolle,Mann
+Heiland,Heiland,Rolle,Mann
+Töchterlein Zion,Töchterlein Zion,Rolle,Frau
+Andringenden,Andringenden,Rolle,Genderneutral
+Unbeweglicher,Unbeweglicher,Rolle,Mann
+Aschensack,Aschensack,Rolle,Genderneutral
+Täufer,Täufer,Rolle,Mann
+Baptisten,Baptisten,Rolle,Mann
+Engel Gabriel,Engel Gabriel,Rolle,Mann
+Gabriel,Gabriel,Rolle,Mann
+Braut,Braut,Rolle,Frau
+Ärmster,Ärmster,Rolle,Mann
+Jungfrau,Jungfrau,Rolle,Frau
+Schatz,Schatz,Rolle,Genderneutral
+Hänslein,Hänslein,Rolle,Mann
+Fläumlein,Fläumlein,Rolle,Genderneutral
+Herr Gabriel,Herr Gabriel,Rolle,Mann
+Tochter,Tochter,Rolle,Frau
+Erzvater Abraham,Erzvater Abraham,Rolle,Mann
+Rosenstil,Rosenstil,Rolle,Mann
+Verbrechr,Verbrechr,Rolle,Mann
+Verurteilter,Verurteilter,Rolle,Mann
+Hochwächter,Hochwächter,Rolle,Mann
+Wiedertäufer,Wiedertäufer,Rolle,Mann
+Nachtwandlerin,Nachtwandlerin,Rolle,Frau
+Flüchtlinge,Flüchtlinge,Rolle,Mann
+Steuermann,Steuermann,Rolle,Mann
+Staatsmann,Staatsmann,Rolle,Mann
+Diplomat,Diplomat,Rolle,Mann
+Weibspersonen,Weibspersonen,Rolle,Frau
+Katholische,Katholische,Rolle,Genderneutral
+Schwedenkönig,Schwedenkönig,Rolle,Mann
+Mustersoldat,Mustersoldat,Rolle,Mann
+Jüngere,Jüngere,Rolle,Mann
+Bursche,Bursche,Rolle,Mann
+Landmagd,Landmagd,Rolle,Frau
+Kriegsdirne,Kriegsdirne,Rolle,Frau
+Fahnenträger,Fahnenträger,Rolle,Mann
+Trompeter,Trompeter,Rolle,Mann
+Führer,Führer,Rolle,Mann
+Advokat,Advokat,Rolle,Mann
+Sprecher,Sprecher,Rolle,Mann
+Heervolk,Heervolk,Rolle,Mann
+Dammwächter,Dammwächter,Rolle,Mann
+Österreicher,Österreicher,Rolle,Mann
+Kondotterie,Kondotterie,Rolle,Mann
+Verwandter,Verwandter,Rolle,Mann
+Herr Stephan Zeller,Herr Stephan Zeller,Rolle,Mann
+Heimkehrender,Heimkehrender,Rolle,Mann
+Hauptmann,Hauptmann,Rolle,Mann
+Raubtyrann,Raubtyrann,Rolle,Mann
+Landgraf,Landgraf,Rolle,Mann
+Feldküster,Feldküster,Rolle,Mann
+Küster,Küster,Rolle,Mann
+Gesellin,Gesellin,Rolle,Frau
+Freundin,Freundin,Rolle,Frau
+Mensch,Mensch,Rolle,Genderneutral
+Geliebter,Geliebter,Rolle,Mann
+Bäcker,Bäcker,Rolle,Mann
+Wirte,Wirte,Rolle,Mann
+Bandit,Bandit,Rolle,Mann
+Graf,Graf,Rolle,Mann
+Schwester,Schwester,Rolle,Frau
+Totschläger,Totschläger,Rolle,Mann
+Verworfener,Verworfener,Rolle,Mann
+Mörder,Mörder,Rolle,Mann
+Schöne,Schöne,Rolle,Frau
+Weibsbild,Weibsbild,Rolle,Frau
+Zechbruder,Zechbruder,Rolle,Mann
+Herr Rottmeister,Herr Rottmeister,Rolle,Mann
+Befehlshaber,Befehlshaber,Rolle,Mann
+Gelehrte,Gelehrte,Rolle,Mann
+Gegner,Gegner,Rolle,Mann
+Seinige,Seinige,Rolle,Mann
+Schnurrenbergerin,Schnurrenbergerin,Rolle,Frau
+Bräutigam,Bräutigam,Rolle,Mann
+Sohne,Sohne,Rolle,Mann
+Rottmeister Gyr,Rottmeister Gyr,Rolle,Mann
+Nachbar,Nachbar,Rolle,Mann
+Vorhut,Vorhut,Rolle,Genderneutral
+Reformierte,Reformierte,Rolle,Mann
+Held,Held,Rolle,Mann
+Heiden,Heiden,Rolle,Mann
+Hänslein Gyr,Hänslein Gyr,Rolle,Mann
+Nachbarin,Nachbarin,Rolle,Frau
+Kindergespielin,Kindergespielin,Rolle,Frau
+Feldgespenst,Feldgespenst,Rolle,Mann
+Befehlhaber,Befehlhaber,Rolle,Mann
+Verwundetet,Verwundetet,Rolle,Genderneutral
+Abt,Abt,Rolle,Mann
+Verwundeter,Verwundeter,Rolle,Mann
+Ehefrau,Ehefrau,Rolle,Frau
+Nachkommen,Nachkommen,Rolle,Genderneutral

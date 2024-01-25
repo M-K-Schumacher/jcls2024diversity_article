@@ -1,0 +1,135 @@
+Id,Label,node type,gender
+Monsieur Saint-Martin,Monsieur Saint-Martin,Figur,
+Madame de Verneuil,Madame de Verneuil,Figur,
+Familie Lenoncourt,Familie Lenoncourt,Figur,
+Madame de Chessel,Madame de Chessel,Figur,
+Vater des Comte de Mortsauf,Vater des Comte de Mortsauf,Figur,
+Madeleine Mortsauf,Madeleine Mortsauf,Figur,
+Monsieur de Chessel,Monsieur de Chessel,Figur,
+Müllerburschen,Müllerburschen,Figur,
+Schwestern von Felix,Schwestern von Felix,Figur,
+Monsieur Lepître,Monsieur Lepître,Figur,
+Marquise de Listomère,Marquise de Listomère,Figur,
+Kameraden,Kameraden,Figur,
+Vater von Felix,Vater von Felix,Figur,
+Charles de Vandenesse (Bruder),Charles de Vandenesse (Bruder),Figur,
+Mademoiselle Caroline (Gouvernante),Mademoiselle Caroline (Gouvernante),Figur,
+Natalie,Natalie,Figur,
+Felix de Vandenesse,Felix de Vandenesse,Figur,
+Das Kind an sich,Das Kind an sich,Figur,
+Mutter von Felix,Mutter von Felix,Figur,
+Geschwister von Felix,Geschwister von Felix,Figur,
+Frau,Frau,Rolle,weiblich
+Neugeborenes,Neugeborenes,Rolle,genderneutral
+Mutter,Mutter,Rolle,weiblich
+Kind,Kind,Rolle,genderneutral
+Mann,Mann,Rolle,männlich
+Bruder,Bruder,Rolle,männlich
+Schwester,Schwester,Rolle,weiblich
+Enterbter,Enterbter,Rolle,männlich
+Träumer,Träumer,Rolle,männlich
+Gouvernante,Gouvernante,Rolle,weiblich
+Heimtücker,Heimtücker,Rolle,männlich
+Junge,Junge,Rolle,männlich
+Madame,Madame,Rolle,weiblich
+Lügner,Lügner,Rolle,männlich
+Liebling,Liebling,Rolle,genderneutral
+Augapfel,Augapfel,Rolle,genderneutral
+Externer,Externer,Rolle,männlich
+Zielscheibe,Zielscheibe,Rolle,genderneutral
+Spaßvogel,Spaßvogel,Rolle,genderneutral
+Vater,Vater,Rolle,männlich
+Erfinder,Erfinder,Rolle,männlich
+Portier,Portier,Rolle,männlich
+Schmugger,Schmugger,Rolle,männlich
+Vertrauter,Vertrauter,Rolle,männlich
+Meister,Meister,Rolle,männlich
+Unterhändler,Unterhändler,Rolle,männlich
+Dolmetscher,Dolmetscher,Rolle,männlich
+Fürsprecher,Fürsprecher,Rolle,männlich
+Sohn,Sohn,Rolle,männlich
+Engel,Engel,Rolle,genderneutral
+Interner,Interner,Rolle,männlich
+Schuldner,Schuldner,Rolle,männlich
+Professor,Professor,Rolle,männlich
+Dame,Dame,Rolle,weiblich
+Tante,Tante,Rolle,weiblich
+Kammerdiener,Kammerdiener,Rolle,männlich
+Edler,Edler,Rolle,männlich
+Vogel,Vogel,Rolle,genderneutral
+Greis,Greis,Rolle,männlich
+Jüngling,Jüngling,Rolle,männlich
+Rabenmutter,Rabenmutter,Rolle,weiblich
+Schauspieler,Schauspieler,Rolle,männlich
+Zwanzigjähriger,Zwanzigjähriger,Rolle,männlich
+Listomères,Listomères,Rolle,genderneutral
+Herzloser,Herzloser,Rolle,genderneutral
+Wehrloser,Wehrloser,Rolle,männlich
+Vetter,Vetter,Rolle,männlich
+Nachbarin,Nachbarin,Rolle,weiblich
+Monsieur,Monsieur,Rolle,männlich
+Königin,Königin,Rolle,weiblich
+Auserwählte,Auserwählte,Rolle,weiblich
+Tier,Tier,Rolle,genderneutral
+Freundin,Freundin,Rolle,weiblich
+Hund,Hund,Rolle,genderneutral
+Eigentümer,Eigentümer,Rolle,männlich
+Sproß,Sproß,Rolle,genderneutral
+von Lenoncourt,von Lenoncourt,Rolle,genderneutral
+Comtesse,Comtesse,Rolle,weiblich
+Gemahl,Gemahl,Rolle,männlich
+Messieur,Messieur,Rolle,männlich
+Gastgeber,Gastgeber,Rolle,männlich
+Schloßherrin,Schloßherrin,Rolle,weiblich
+Mädchen,Mädchen,Rolle,weiblich
+Begleiter,Begleiter,Rolle,männlich
+Nachbar,Nachbar,Rolle,männlich
+Gastgeberin,Gastgeberin,Rolle,weiblich
+Schwan,Schwan,Rolle,genderneutral
+Sprecherin,Sprecherin,Rolle,weiblich
+Mona Lisa,Mona Lisa,Rolle,weiblich
+Sklavin,Sklavin,Rolle,weiblich
+Naturmensch,Naturmensch,Rolle,genderneutral
+Wachtposten,Wachtposten,Rolle,männlich
+Wilder,Wilder,Rolle,männlich
+Schatz,Schatz,Rolle,genderneutral
+Comte,Comte,Rolle,männlich
+Kleine,Kleine,Rolle,weiblich
+Zigeunermädchen,Zigeunermädchen,Rolle,weiblich
+Aal,Aal,Rolle,weiblich
+Wolf,Wolf,Rolle,männlich
+Edelmann,Edelmann,Rolle,männlich
+Schlendrian,Schlendrian,Rolle,männlich
+Krautjunker,Krautjunker,Rolle,männlich
+Grundbesitzer,Grundbesitzer,Rolle,männlich
+Leser,Leser,Rolle,männlich
+Person,Person,Rolle,genderneutral
+Tochter,Tochter,Rolle,weiblich
+Liebe,Liebe,Rolle,weiblich
+Herr,Herr,Rolle,männlich
+Durand,Durand,Rolle,männlich
+D.,D.,Rolle,genderneutral
+Generaldirektor,Generaldirektor,Rolle,männlich
+Mensch,Mensch,Rolle,genderneutral
+Fürst,Fürst,Rolle,männlich
+Emigrant,Emigrant,Rolle,männlich
+Fremdling,Fremdling,Rolle,genderneutral
+Verbannter,Verbannter,Rolle,männlich
+Armer,Armer,Rolle,männlich
+Mademoiselle de Lenoncourt,Mademoiselle de Lenoncourt,Rolle,weiblich
+Adoptivmutter,Adoptivmutter,Rolle,weiblich
+Philosoph,Philosoph,Rolle,männlich
+Nichte,Nichte,Rolle,weiblich
+Neugeborener,Neugeborener,Rolle,männlich
+Charles de Vandenesse,Charles de Vendenesse,Figur,
+Schwester von Felix,Schwester von Felix,Figur,
+Madmoiselle Caroline,Mademoiselle Caroline,Figur,
+Doisy,Doisy,Figur,
+Marat,Marat,Figur,
+Monsier Lepître,Mansieur Lepître,Figur,
+Jean,Jean,Figur,
+Monsieur der Mortsauf,Monsieur der Mortsauf,Figur,
+Jacques Mortsauf,Jacques Mortsauf,Figur,
+Madeleine,Madeleine,Figur,
+Duchesse de Verneuil,Duchesse de Verneuil,Figur,
+Madame de Mortsauf,Madame de Mortsauf,Figur,

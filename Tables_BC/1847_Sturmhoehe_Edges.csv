@@ -1,0 +1,166 @@
+Source,Target,Type,Label,Weight,source type,edge label,target type
+Mr. Lockwood,Pächter,Undirected,,1,Figur,verkörpert,Rolle
+Joseph,Gesinde,Undirected,,1,Figur,verkörpert,Rolle
+Joseph,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Mr. Lockwood,Schnecke,Undirected,,1,Figur,verkörpert,Rolle
+Joseph,Knecht,Undirected,,1,Figur,verkörpert,Rolle
+Mr. Lockwood,Gast,Undirected,,1,Figur,verkörpert,Rolle
+Haushälterin,Frau,Undirected,,1,Figur,verkörpert,Rolle
+Cathy Linton,Wesen,Undirected,,1,Figur,verkörpert,Rolle
+Cathy Linton,Frau,Undirected,,1,Figur,verkörpert,Rolle
+Cathy Linton,Wirtin,Undirected,,1,Figur,verkörpert,Rolle
+Cathy Linton,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Cathy Linton,Hausfrau,Undirected,,1,Figur,verkörpert,Rolle
+Cathy Linton,Mrs. Heathcliff,Undirected,,1,Figur,verkörpert,Rolle
+Cathy Linton,Schutzengel,Undirected,,1,Figur,verkörpert,Rolle
+Hareton Earnshaw,Tölpel,Undirected,,1,Figur,verkörpert,Rolle
+Hareton Earnshaw,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Hareton Earnshaw,Knecht,Undirected,,1,Figur,verkörpert,Rolle
+Hareton Earnshaw,Landarbeiter,Undirected,,1,Figur,verkörpert,Rolle
+Cathy Linton,Dame,Undirected,,1,Figur,verkörpert,Rolle
+Hareton Earnshaw,Bauernlümmel,Undirected,,1,Figur,verkörpert,Rolle
+Hareton Earnshaw,Nachbar,Undirected,,1,Figur,verkörpert,Rolle
+Cathy Linton,Schwiegertochter,Undirected,,1,Figur,verkörpert,Rolle
+Hareton Earnshaw,Gefährte,Undirected,,1,Figur,verkörpert,Rolle
+Cathy Linton,Fee,Undirected,,1,Figur,verkörpert,Rolle
+Hareton Earnshaw,Sohn,Undirected,,1,Figur,verkörpert,Rolle
+Hareton Earnshaw,Bär,Undirected,,1,Figur,verkörpert,Rolle
+Joseph,Kerl,Undirected,,1,Figur,verkörpert,Rolle
+Joseph,Häuchler,Undirected,,1,Figur,verkörpert,Rolle
+Joseph,Alter,Undirected,,1,Figur,verkörpert,Rolle
+Joseph,Verworfener,Undirected,,1,Figur,verkörpert,Rolle
+Joseph,Auswurf,Undirected,,1,Figur,verkörpert,Rolle
+Mrs. Heathcliff,Hexe,Undirected,,1,Figur,verkörpert,Rolle
+Mr. Lockwood,Fremder,Undirected,,1,Figur,verkörpert,Rolle
+Earnshaw,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Hareton Earnshaw,Herr,Undirected,,1,Figur,verkörpert,Rolle
+Hareton Earnshaw,Übeltäter,Undirected,,1,Figur,verkörpert,Rolle
+Zillah,Person,Undirected,,1,Figur,verkörpert,Rolle
+Zillah,Haushälterin,Undirected,,1,Figur,verkörpert,Rolle
+Hareton Earnshaw,Pflegel,Undirected,,1,Figur,verkörpert,Rolle
+Mr. Lockwood,Mensch,Undirected,,1,Figur,verkörpert,Rolle
+Catherine Earnshaw,Catherine Heathcliff,Undirected,,1,Figur,verkörpert,Rolle
+Cathrine Heathcliff,Catherin Linton,Undirected,,1,Figur,verkörpert,Rolle
+Joseph,Freund,Undirected,,1,Figur,verkörpert,Rolle
+Joseph,Ackerknecht,Undirected,,1,Figur,verkörpert,Rolle
+Hindley Earnshaw,Bruder,Undirected,,1,Figur,verkörpert,Rolle
+Hindley Earnshaw,Tyrann,Undirected,,1,Figur,verkörpert,Rolle
+Frances,Liebling,Undirected,,1,Figur,verkörpert,Rolle
+Hindley Earnshaw,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Frances,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Hindley Earnshaw,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Mr. Earnshaw,Herr,Undirected,,1,Figur,verkörpert,Rolle
+Hindley Earnshaw,Landstreicher,Undirected,,1,Figur,verkörpert,Rolle
+Mr. Earnshaw,Vater,Undirected,,1,Figur,verkörpert,Rolle
+Joseph,Führer,Undirected,,1,Figur,verkörpert,Rolle
+Joseph,Begleiter,Undirected,,1,Figur,verkörpert,Rolle
+Jabes Branderham,Sünder,Undirected,,1,Figur,verkörpert,Rolle
+Joseph,Angreifer,Undirected,,1,Figur,verkörpert,Rolle
+Jabes Branderham,Störenfried,Undirected,,1,Figur,verkörpert,Rolle
+Zillah,Magd,Undirected,,1,Figur,verkörpert,Rolle
+Catherin Linton,Racker,Undirected,,1,Figur,verkörpert,Rolle
+Catherin Earnshaw,Racker,Undirected,,1,Figur,verkörpert,Rolle
+Catherin Earnshaw,Wechselweib,Undirected,,1,Figur,verkörpert,Rolle
+Catherin Linton,Wechselweib,Undirected,,1,Figur,verkörpert,Rolle
+Catherin Linton,Geschöpf,Undirected,,1,Figur,verkörpert,Rolle
+Catherine Earnshaw,Geschöpf,Undirected,,1,Figur,verkörpert,Rolle
+Mr. Lockwood,Zeuge,Undirected,,1,Figur,verkörpert,Rolle
+Catherine,Cathy,Undirected,,1,Figur,verkörpert,Rolle
+Catherine,Herzensliebling,Undirected,,1,Figur,verkörpert,Rolle
+Catherine,Schwiegertochter,Undirected,,1,Figur,verkörpert,Rolle
+Catherine,Gans,Undirected,,1,Figur,verkörpert,Rolle
+Catherine,Schaf,Undirected,,1,Figur,verkörpert,Rolle
+Catherine,Frauenzimmer,Undirected,,1,Figur,verkörpert,Rolle
+Catherine,Dame,Undirected,,1,Figur,verkörpert,Rolle
+Catherine,Sprecherin,Undirected,,1,Figur,verkörpert,Rolle
+Mrs. Dean,Klatschbase,Undirected,,1,Figur,verkörpert,Rolle
+Mrs. Dean,Mädchen,Undirected,,1,Figur,verkörpert,Rolle
+Isabella Linton,Frau,Undirected,,1,Figur,verkörpert,Rolle
+Mrs. Dean,Haushälterin,Undirected,,1,Figur,verkörpert,Rolle
+Catherine,Witwe,Undirected,,1,Figur,verkörpert,Rolle
+Catherine,Fremde,Undirected,,1,Figur,verkörpert,Rolle
+Catherine,Einheimische,Undirected,,1,Figur,verkörpert,Rolle
+Catherine,Verwandte,Undirected,,1,Figur,verkörpert,Rolle
+Catherine,Ding,Undirected,,1,Figur,verkörpert,Rolle
+Mr. Linton,Vorgänger,Undirected,,1,Figur,verkörpert,Rolle
+Hareton Earnshaw,Neffe,Undirected,,1,Figur,verkörpert,Rolle
+Hareton Earnshaw,Vetter,Undirected,,1,Figur,verkörpert,Rolle
+Isabella Linton,Schwester,Undirected,,1,Figur,verkörpert,Rolle
+Hareton Earnshaw,Letzer,Undirected,,1,Figur,verkörpert,Rolle
+Catherine,Letzte,Undirected,,1,Figur,verkörpert,Rolle
+Hareton Earnshaw,Vogel,Undirected,,1,Figur,verkörpert,Rolle
+Hareton Earnshaw,Junge,Undirected,,1,Figur,verkörpert,Rolle
+Mrs. Dean,Frau,Undirected,,1,Figur,verkörpert,Rolle
+Hindley Earnshaw,Vater,Undirected,,1,Figur,verkörpert,Rolle
+Catherine,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Hindley,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Mrs. Earnshaw,Frau,Undirected,,1,Figur,verkörpert,Rolle
+Hindsley,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Mrs. Earnshaw,Herrin,Undirected,,1,Figur,verkörpert,Rolle
+Catherine,Zuschauer,Undirected,,1,Figur,verkörpert,Rolle
+Hindsley,Zuschauer,Undirected,,1,Figur,verkörpert,Rolle
+Hindsley,Junge,Undirected,,1,Figur,verkörpert,Rolle
+Heathcliff,Sohn,Undirected,,1,Figur,verkörpert,Rolle
+Heathcliff,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Catherine,Hätschelkind,Undirected,,1,Figur,verkörpert,Rolle
+Mr. Earnshaw,Unterdrücker,Undirected,,1,Figur,verkörpert,Rolle
+Mrs. Dean,Pflegerin,Undirected,,1,Figur,verkörpert,Rolle
+Hindsley,Bruder,Undirected,,1,Figur,verkörpert,Rolle
+Hindsley,Lamm,Undirected,,1,Figur,verkörpert,Rolle
+Mr. Earnshaw,Wohltäter,Undirected,,1,Figur,verkörpert,Rolle
+Mr. Earnshaw,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Vikar,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Joseph,Pharisäer,Undirected,,1,Figur,verkörpert,Rolle
+Hindsley,Verworfener,Undirected,,1,Figur,verkörpert,Rolle
+Catherine,Mädchen,Undirected,,1,Figur,verkörpert,Rolle
+Catherine,Schößling,Undirected,,1,Figur,verkörpert,Rolle
+Catherine,Herrin,Undirected,,1,Figur,verkörpert,Rolle
+Mrs. Earnshaw,Mutter,Undirected,,1,Figur,verkörpert,Rolle
+Fances,Frau,Undirected,,1,Figur,verkörpert,Rolle
+Frances,Mensch,Undirected,,1,Figur,verkörpert,Rolle
+Frances,Frau,Undirected,,1,Figur,verkörpert,Rolle
+Catherine,Wilde,Undirected,,1,Figur,verkörpert,Rolle
+Hindsley,Herr,Undirected,,1,Figur,verkörpert,Rolle
+Catherine,Geschöpf,Undirected,,1,Figur,verkörpert,Rolle
+Isabella Linton,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Edgar Linton,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Edgar Linton,Dummkopf,Undirected,,1,Figur,verkörpert,Rolle
+Isabella Linton,Dummkopf,Undirected,,1,Figur,verkörpert,Rolle
+Mrs. Linton,Mama,Undirected,,1,Figur,verkörpert,Rolle
+Mr. Linton,Papa,Undirected,,1,Figur,verkörpert,Rolle
+Mr. Linton,Herr,Undirected,,1,Figur,verkörpert,Rolle
+Robert,Knecht,Undirected,,1,Figur,verkörpert,Rolle
+Mr. Linton,Narr,Undirected,,1,Figur,verkörpert,Rolle
+Mrs. Linton,Dame,Undirected,,1,Figur,verkörpert,Rolle
+Isabella Linton,Liebling,Undirected,,1,Figur,verkörpert,Rolle
+0,Dieb,Undirected,,1,Figur,verkörpert,Rolle
+0,Geschöpf,Undirected,,1,Figur,verkörpert,Rolle
+0,Wilde,Undirected,,1,Figur,verkörpert,Rolle
+0,Liebling,Undirected,,1,Figur,verkörpert,Rolle
+0,Knabe,Undirected,,1,Figur,verkörpert,Rolle
+0,Satansbrut,Undirected,,1,Figur,verkörpert,Rolle
+0,Hund,Undirected,,1,Figur,verkörpert,Rolle
+0,Junge,Undirected,,1,Figur,verkörpert,Rolle
+0,Menschenkind,Undirected,,1,Figur,verkörpert,Rolle
+0,Findling,Undirected,,1,Figur,verkörpert,Rolle
+0,Wesen,Undirected,,1,Figur,verkörpert,Rolle
+0,Fremder,Undirected,,1,Figur,verkörpert,Rolle
+0,Vater,Undirected,,1,Figur,verkörpert,Rolle
+0,Zigeunerjunge,Undirected,,1,Figur,verkörpert,Rolle
+0,Kind,Undirected,,1,Figur,verkörpert,Rolle
+0,Kukuksei,Undirected,,1,Figur,verkörpert,Rolle
+0,Grobian,Undirected,,1,Figur,verkörpert,Rolle
+0,Patron,Undirected,,1,Figur,verkörpert,Rolle
+0,Führer,Undirected,,1,Figur,verkörpert,Rolle
+0,Eindringling,Undirected,,1,Figur,verkörpert,Rolle
+0,Übeltäter,Undirected,,1,Figur,verkörpert,Rolle
+0,Kerl,Undirected,,1,Figur,verkörpert,Rolle
+0,Wirt,Undirected,,1,Figur,verkörpert,Rolle
+0,Herr,Undirected,,1,Figur,verkörpert,Rolle
+0,Landesjunker,Undirected,,1,Figur,verkörpert,Rolle
+0,Zigeuner,Undirected,,1,Figur,verkörpert,Rolle
+0,Eigentümer,Undirected,,1,Figur,verkörpert,Rolle
+0,Mann,Undirected,,1,Figur,verkörpert,Rolle
+0,Nachbar,Undirected,,1,Figur,verkörpert,Rolle
+0,Bursche,Undirected,,1,Figur,verkörpert,Rolle
+0,Gutsherr,Undirected,,1,Figur,verkörpert,Rolle

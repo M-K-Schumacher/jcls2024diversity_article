@@ -1,0 +1,187 @@
+Source,Target,Type,Label,Weight,source type,edge label,target type
+junges Mädchen,Euphrosine,Undirected,,1,Rolle,verkörpert,Figur
+Genossin,Euphrosine,Undirected,,1,Rolle,verkörpert,Figur
+Nonne,Délben,Undirected,,1,Rolle,verkörpert,Figur
+Äbtissin,Délben,Undirected,,1,Rolle,verkörpert,Figur
+Bruder,Délbens Bruder,Undirected,,1,Rolle,verkörpert,Figur
+Klosterschülerin,Euphrosine,Undirected,,1,Rolle,verkörpert,Figur
+Madame,Délben,Undirected,,1,Rolle,verkörpert,Figur
+Oberin,Délben,Undirected,,1,Rolle,verkörpert,Figur
+Engel,Juliette,Undirected,,1,Rolle,verkörpert,Figur
+Schelmin,Délben,Undirected,,1,Rolle,verkörpert,Figur
+Schelmin,Oberin,Undirected,,1,Rolle,verkörpert,Figur
+Freundin,Délben,Undirected,,1,Rolle,verkörpert,Figur
+Freundin,Euphrosine,Undirected,,1,Rolle,verkörpert,Figur
+Hure,Délben,Undirected,,1,Rolle,verkörpert,Figur
+Freudenmädchen,Délben,Undirected,,1,Rolle,verkörpert,Figur
+Engel,Euphrosine,Undirected,,1,Rolle,verkörpert,Figur
+Bacchantin,Délben,Undirected,,1,Rolle,verkörpert,Figur
+Geschöpf,Juliette,Undirected,,1,Rolle,verkörpert,Figur
+Kind,Juliette,Undirected,,1,Rolle,verkörpert,Figur
+Geliebte,Délben,Undirected,,1,Rolle,verkörpert,Figur
+Teure,Juliette,Undirected,,1,Rolle,verkörpert,Figur
+Nonne,eine Nonne,Undirected,,1,Rolle,verkörpert,Figur
+gefallenes Weib,Délben,Undirected,,1,Rolle,verkörpert,Figur
+Pensionärin,Juliette,Undirected,,1,Rolle,verkörpert,Figur
+Frau ohne Ehre,Délben,Undirected,,1,Rolle,verkörpert,Figur
+Frau,Elisabeth,Undirected,,1,Rolle,verkörpert,Figur
+Frau,Flavia,Undirected,,1,Rolle,verkörpert,Figur
+Frau,Seinte Elmé,Undirected,,1,Rolle,verkörpert,Figur
+Frau,Frau von Volmar,Undirected,,1,Rolle,verkörpert,Figur
+Vorsteherin,Vorsteherin der Novizen,Undirected,,1,Rolle,verkörpert,Figur
+Freundlin,Vorsteherin der Novizen,Undirected,,1,Rolle,verkörpert,Figur
+Freundin,Frau von Volmar,Undirected,,1,Rolle,verkörpert,Figur
+Liebling,Frau von Volmar,Undirected,,1,Rolle,verkörpert,Figur
+Teilnehmer,Frau von Volmar,Undirected,,1,Rolle,verkörpert,Figur
+Teilnehmer,Délben,Undirected,,1,Rolle,verkörpert,Figur
+Novizin,Seinte Elmé,Undirected,,1,Rolle,verkörpert,Figur
+Pensionärin,Elisabeth,Undirected,,1,Rolle,verkörpert,Figur
+Pensionärin,Flavia,Undirected,,1,Rolle,verkörpert,Figur
+Teure,Délben,Undirected,,1,Rolle,verkörpert,Figur
+Schelmin,Fontenille,Undirected,,1,Rolle,verkörpert,Figur
+Gute,Délben,Undirected,,1,Rolle,verkörpert,Figur
+Mädchen,Juliette,Undirected,,1,Rolle,verkörpert,Figur
+Herzchen,Juliette,Undirected,,1,Rolle,verkörpert,Figur
+Freudenmädchen,Juliette,Undirected,,1,Rolle,verkörpert,Figur
+Schelmin,Frau von Volmar,Undirected,,1,Rolle,verkörpert,Figur
+Mann,Frau von Volmar,Undirected,,1,Rolle,verkörpert,Figur
+Schelmin,Juliette,Undirected,,1,Rolle,verkörpert,Figur
+Kleine,Elisabeth,Undirected,,1,Rolle,verkörpert,Figur
+Lumpenweib,Frau von Volmar,Undirected,,1,Rolle,verkörpert,Figur
+Mädchen,Seinte Elmé,Undirected,,1,Rolle,verkörpert,Figur
+Frau,Délben,Undirected,,1,Rolle,verkörpert,Figur
+Waise,Laurette,Undirected,,1,Rolle,verkörpert,Figur
+Onkel,Onkel von Laurette,Undirected,,1,Rolle,verkörpert,Figur
+Liebhaber,Juliette,Undirected,,1,Rolle,verkörpert,Figur
+Weib,Délben,Undirected,,1,Rolle,verkörpert,Figur
+Erzieherin,Délben,Undirected,,1,Rolle,verkörpert,Figur
+Pensionärin,Laurette,Undirected,,1,Rolle,verkörpert,Figur
+Genossin,Frau von Volmar,Undirected,,1,Rolle,verkörpert,Figur
+Genossin,Flavia,Undirected,,1,Rolle,verkörpert,Figur
+Genossin,Délben,Undirected,,1,Rolle,verkörpert,Figur
+Großvikar,Abbé Ducroz,Undirected,,1,Rolle,verkörpert,Figur
+Mann,Abbé Ducroz,Undirected,,1,Rolle,verkörpert,Figur
+Beichtvater,Pater Télème,Undirected,,1,Rolle,verkörpert,Figur
+Mann,Pater Télème,Undirected,,1,Rolle,verkörpert,Figur
+Gottesmann,Abbé Ducroz,Undirected,,1,Rolle,verkörpert,Figur
+Liebhaber,Abbé Ducroz,Undirected,,1,Rolle,verkörpert,Figur
+Liebhaber,Pater Télème,Undirected,,1,Rolle,verkörpert,Figur
+Hohepriester,Juliette,Undirected,,1,Rolle,verkörpert,Figur
+Opfer,Laurette,Undirected,,1,Rolle,verkörpert,Figur
+Kleine,Laurette,Undirected,,1,Rolle,verkörpert,Figur
+Hure,Laurette,Undirected,,1,Rolle,verkörpert,Figur
+Sterbende,Laurette,Undirected,,1,Rolle,verkörpert,Figur
+Schuft,Abbé Ducroz,Undirected,,1,Rolle,verkörpert,Figur
+Verbrecher,Abbé Ducroz,Undirected,,1,Rolle,verkörpert,Figur
+Mutter,Mutter von Juliette,Undirected,,1,Rolle,verkörpert,Figur
+Vater,Vater von Juliette,Undirected,,1,Rolle,verkörpert,Figur
+Lakai,Lakai,Undirected,,1,Rolle,verkörpert,Figur
+Schwester,Justine,Undirected,,1,Rolle,verkörpert,Figur
+Diener,Lakai,Undirected,,1,Rolle,verkörpert,Figur
+Geschöpf,Délben,Undirected,,1,Rolle,verkörpert,Figur
+Frau,Duvergier,Undirected,,1,Rolle,verkörpert,Figur
+Wirtin,Duvergier,Undirected,,1,Rolle,verkörpert,Figur
+Vorsteherin,Délben,Undirected,,1,Rolle,verkörpert,Figur
+Kupplerin,Duvergier,Undirected,,1,Rolle,verkörpert,Figur
+Koch,Koch der Duvergier,Undirected,,1,Rolle,verkörpert,Figur
+Gaunerin,Duvergier,Undirected,,1,Rolle,verkörpert,Figur
+Jungfernräuber,eine Gruppe von Männern,Undirected,,1,Rolle,verkörpert,Figur
+Mann,Noirceuil,Undirected,,1,Rolle,verkörpert,Figur
+Frau,Madame de Noirceuil,Undirected,,1,Rolle,verkörpert,Figur
+Geschöpf,Madame de Noirceuil,Undirected,,1,Rolle,verkörpert,Figur
+Madame,Madame de Noirceuil,Undirected,,1,Rolle,verkörpert,Figur
+Knabe,zwei Knaben,Undirected,,1,Rolle,verkörpert,Figur
+Gemahlin,Madame de Noirceuil,Undirected,,1,Rolle,verkörpert,Figur
+Herr,Noirceuil,Undirected,,1,Rolle,verkörpert,Figur
+Gattin,Madame de Noirceuil,Undirected,,1,Rolle,verkörpert,Figur
+Lustknabe,zwei Knaben,Undirected,,1,Rolle,verkörpert,Figur
+Gatte,Noirceuil,Undirected,,1,Rolle,verkörpert,Figur
+Freundenknabe,zwei Knaben,Undirected,,1,Rolle,verkörpert,Figur
+Wüstling,Noirceuil,Undirected,,1,Rolle,verkörpert,Figur
+Ehehälfte,Madame de Noirceuil,Undirected,,1,Rolle,verkörpert,Figur
+Jungfrau,Juliette,Undirected,,1,Rolle,verkörpert,Figur
+Mensch,Noirceuil,Undirected,,1,Rolle,verkörpert,Figur
+Weib,Madame de Noirceuil,Undirected,,1,Rolle,verkörpert,Figur
+Opfer,Juliette,Undirected,,1,Rolle,verkörpert,Figur
+Geliebte,Juliette,Undirected,,1,Rolle,verkörpert,Figur
+Henker,Noirceuil,Undirected,,1,Rolle,verkörpert,Figur
+Cousine,Juliette,Undirected,,1,Rolle,verkörpert,Figur
+Matrone,Duvergier,Undirected,,1,Rolle,verkörpert,Figur
+Madame,Duvergier,Undirected,,1,Rolle,verkörpert,Figur
+Verbrecher,Noirceuil,Undirected,,1,Rolle,verkörpert,Figur
+Opfer,Madame de Noirceuil,Undirected,,1,Rolle,verkörpert,Figur
+Wesen,Juliette,Undirected,,1,Rolle,verkörpert,Figur
+Millionär,Mondor,Undirected,,1,Rolle,verkörpert,Figur
+Krösus,Mondor,Undirected,,1,Rolle,verkörpert,Figur
+Genossinen,Kolleginnen von Juliette,Undirected,,1,Rolle,verkörpert,Figur
+Priesterinnen,Kolleginnen von Juliette,Undirected,,1,Rolle,verkörpert,Figur
+Mädchen,Kolleginnen von Juliette,Undirected,,1,Rolle,verkörpert,Figur
+Führerin,Dienerin Mondors,Undirected,,1,Rolle,verkörpert,Figur
+Dame,Kolleginnen von Juliette,Undirected,,1,Rolle,verkörpert,Figur
+Dienerin,Dienerin Mondors,Undirected,,1,Rolle,verkörpert,Figur
+Sechziger,Mondor,Undirected,,1,Rolle,verkörpert,Figur
+Huren,Kolleginnen von Juliette,Undirected,,1,Rolle,verkörpert,Figur
+Haushälterin,Dienerin Mondors,Undirected,,1,Rolle,verkörpert,Figur
+Geliebter,Noirceuil,Undirected,,1,Rolle,verkörpert,Figur
+junger Mann,Lubin,Undirected,,1,Rolle,verkörpert,Figur
+Verräter,Lubin,Undirected,,1,Rolle,verkörpert,Figur
+Herr,sechs Männer,Undirected,,1,Rolle,verkörpert,Figur
+Fräulein,Juliette,Undirected,,1,Rolle,verkörpert,Figur
+Verbrecher,sechs Männer,Undirected,,1,Rolle,verkörpert,Figur
+Verbrecher,Lubin,Undirected,,1,Rolle,verkörpert,Figur
+Wohltäter,Noirceuil,Undirected,,1,Rolle,verkörpert,Figur
+Mensch,Lubin,Undirected,,1,Rolle,verkörpert,Figur
+Herr,ein Richter,Undirected,,1,Rolle,verkörpert,Figur
+Niederträchtiger,Noirceuil,Undirected,,1,Rolle,verkörpert,Figur
+Mädchen,Minette,Undirected,,1,Rolle,verkörpert,Figur
+Mann,ein Richter,Undirected,,1,Rolle,verkörpert,Figur
+Schuldige,Minette,Undirected,,1,Rolle,verkörpert,Figur
+Herr Dentemar,Mondor,Undirected,,1,Rolle,verkörpert,Figur
+Gott,Juliette,Undirected,,1,Rolle,verkörpert,Figur
+Wesen,Noirceuil,Undirected,,1,Rolle,verkörpert,Figur
+Freund,Minister Saint-Fond,Undirected,,1,Rolle,verkörpert,Figur
+Geizhals,Mondor,Undirected,,1,Rolle,verkörpert,Figur
+Mensch,Minister Saint-Fond,Undirected,,1,Rolle,verkörpert,Figur
+Minister,Minister Saint-Fond,Undirected,,1,Rolle,verkörpert,Figur
+Sklave,Juliette,Undirected,,1,Rolle,verkörpert,Figur
+Gode,Minette,Undirected,,1,Rolle,verkörpert,Figur
+Freund,Noirceuil,Undirected,,1,Rolle,verkörpert,Figur
+Mann,Minister Saint-Fond,Undirected,,1,Rolle,verkörpert,Figur
+Gerichtsvorsitzender,D'Albert,Undirected,,1,Rolle,verkörpert,Figur
+Wesen,vier Mädchen,Undirected,,1,Rolle,verkörpert,Figur
+Mädchen,Eglée,Undirected,,1,Rolle,verkörpert,Figur
+Mädchen,Lolotte,Undirected,,1,Rolle,verkörpert,Figur
+Blumengöttin,Lolotte,Undirected,,1,Rolle,verkörpert,Figur
+Person,Henriette,Undirected,,1,Rolle,verkörpert,Figur
+Mädchen,Henriette,Undirected,,1,Rolle,verkörpert,Figur
+Mädchen,Lurdane,Undirected,,1,Rolle,verkörpert,Figur
+Lüstling,D'Albert,Undirected,,1,Rolle,verkörpert,Figur
+Lüstling,Minister Saint-Fond,Undirected,,1,Rolle,verkörpert,Figur
+Lüstling,Noirceuil,Undirected,,1,Rolle,verkörpert,Figur
+Verbrecherin,Juliette,Undirected,,1,Rolle,verkörpert,Figur
+Herr,Minister Saint-Fond,Undirected,,1,Rolle,verkörpert,Figur
+Herr,D'Albert,Undirected,,1,Rolle,verkörpert,Figur
+Freund,D'Albert,Undirected,,1,Rolle,verkörpert,Figur
+Schelm,Minister Saint-Fond,Undirected,,1,Rolle,verkörpert,Figur
+Schelm,D'Albert,Undirected,,1,Rolle,verkörpert,Figur
+Zeugin,Juliette,Undirected,,1,Rolle,verkörpert,Figur
+Frevler,Minister Saint-Fond,Undirected,,1,Rolle,verkörpert,Figur
+Unglückliche,Madame de Noirceuil,Undirected,,1,Rolle,verkörpert,Figur
+Jurist,Minister Saint-Fond,Undirected,,1,Rolle,verkörpert,Figur
+Jurist,D'Albert,Undirected,,1,Rolle,verkörpert,Figur
+Schelmin,Madame de Noirceuil,Undirected,,1,Rolle,verkörpert,Figur
+Meister,Noirceuil,Undirected,,1,Rolle,verkörpert,Figur
+Meister,Minister Saint-Fond,Undirected,,1,Rolle,verkörpert,Figur
+Meister,D'Albert,Undirected,,1,Rolle,verkörpert,Figur
+Bacchantin,Juliette,Undirected,,1,Rolle,verkörpert,Figur
+Frevler,Noirceuil,Undirected,,1,Rolle,verkörpert,Figur
+Frevler,D'Albert,Undirected,,1,Rolle,verkörpert,Figur
+Zierpuppe,Madame de Noirceuil,Undirected,,1,Rolle,verkörpert,Figur
+Schwiegersohn,Noirceuil,Undirected,,1,Rolle,verkörpert,Figur
+Tochter,Tochter von Saint-Fond,Undirected,,1,Rolle,verkörpert,Figur
+Intimus,Noirceuil,Undirected,,1,Rolle,verkörpert,Figur
+König,König,Undirected,,1,Rolle,verkörpert,Figur
+Sklavin,Juliette,Undirected,,1,Rolle,verkörpert,Figur
+Gnaden,Minister Saint-Fond,Undirected,,1,Rolle,verkörpert,Figur
+Dame,Juliette,Undirected,,1,Rolle,verkörpert,Figur
+Juliette,Knabe,Undirected,,1,,,

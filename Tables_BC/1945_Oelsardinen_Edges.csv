@@ -1,0 +1,170 @@
+Source,Target,Type,Label,Weight,source type,edge label,target type
+Lee Chong,kein Geizhals,Undirected,,1,Figur,verkörpert,Rolle
+Lee Chong,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Horace Abbeville,Herr,Undirected,,1,Figur,verkörpert,Rolle
+Frau Abbeville 1,Frau,Undirected,,1,Figur,verkörpert,Rolle
+Frau Abbeville 2,Frau,Undirected,,1,Figur,verkörpert,Rolle
+Frau Abbeville 1,Freund,Undirected,,1,Figur,verkörpert,Rolle
+Frau Abbeville 2,Freund,Undirected,,1,Figur,verkörpert,Rolle
+Frau Abbeville 1,Hinterbliebene,Undirected,,1,Figur,verkörpert,Rolle
+Frau Abbeville 2,Hinterbliebene,Undirected,,1,Figur,verkörpert,Rolle
+Mack,Anführer,Undirected,,1,Figur,verkörpert,Rolle
+Mack,Häuptling,Undirected,,1,Figur,verkörpert,Rolle
+Mack,Wortführer,Undirected,,1,Figur,verkörpert,Rolle
+Mack,Kumpan,Undirected,,1,Figur,verkörpert,Rolle
+Mack,Ausbeuter,Undirected,,1,Figur,verkörpert,Rolle
+Hazel,Jüngling,Undirected,,1,Figur,verkörpert,Rolle
+Eddie,Aushilfsbarmann,Undirected,,1,Figur,verkörpert,Rolle
+Hughie,Junge,Undirected,,1,Figur,verkörpert,Rolle
+Jones,Junge,Undirected,,1,Figur,verkörpert,Rolle
+Eddie,Junge,Undirected,,1,Figur,verkörpert,Rolle
+Hazel,Junge,Undirected,,1,Figur,verkörpert,Rolle
+Hughie,Freund,Undirected,,1,Figur,verkörpert,Rolle
+Jones,Freund,Undirected,,1,Figur,verkörpert,Rolle
+Eddie,Freund,Undirected,,1,Figur,verkörpert,Rolle
+Hazel,Freund,Undirected,,1,Figur,verkörpert,Rolle
+Lee Chong,Katze,Undirected,,1,Figur,verkörpert,Rolle
+Lee Chong,Wohltäter,Undirected,,1,Figur,verkörpert,Rolle
+Hughie,Mieter,Undirected,,1,Figur,verkörpert,Rolle
+Jones,Mieter,Undirected,,1,Figur,verkörpert,Rolle
+Eddie,Mieter,Undirected,,1,Figur,verkörpert,Rolle
+Hazel,Mieter,Undirected,,1,Figur,verkörpert,Rolle
+Mack,Mieter,Undirected,,1,Figur,verkörpert,Rolle
+Doc,Kerl,Undirected,,1,Figur,verkörpert,Rolle
+Lee Chong,Krämer,Undirected,,1,Figur,verkörpert,Rolle
+Lee Chong,Wandelstern,Undirected,,1,Figur,verkörpert,Rolle
+Hughie,Grazie,Undirected,,1,Figur,verkörpert,Rolle
+Jones,Grazie,Undirected,,1,Figur,verkörpert,Rolle
+Eddie,Grazie,Undirected,,1,Figur,verkörpert,Rolle
+Hazel,Grazie,Undirected,,1,Figur,verkörpert,Rolle
+Mack,Grazie,Undirected,,1,Figur,verkörpert,Rolle
+Mack,Taugenichts,Undirected,,1,Figur,verkörpert,Rolle
+Mack,Windhund,Undirected,,1,Figur,verkörpert,Rolle
+Mack,Diebesgesindel,Undirected,,1,Figur,verkörpert,Rolle
+Mack,Stromer,Undirected,,1,Figur,verkörpert,Rolle
+Mack,Halunke,Undirected,,1,Figur,verkörpert,Rolle
+Hughie,Taugenichts,Undirected,,1,Figur,verkörpert,Rolle
+Hughie,Windhund,Undirected,,1,Figur,verkörpert,Rolle
+Hughie,Diebesgesindel,Undirected,,1,Figur,verkörpert,Rolle
+Hughie,Stromer,Undirected,,1,Figur,verkörpert,Rolle
+Hughie,Halunke,Undirected,,1,Figur,verkörpert,Rolle
+Jones,Taugenichts,Undirected,,1,Figur,verkörpert,Rolle
+Jones,Windhund,Undirected,,1,Figur,verkörpert,Rolle
+Jones,Diebesgesindel,Undirected,,1,Figur,verkörpert,Rolle
+Jones,Stromer,Undirected,,1,Figur,verkörpert,Rolle
+Jones,Halunke,Undirected,,1,Figur,verkörpert,Rolle
+Eddie,Taugenichts,Undirected,,1,Figur,verkörpert,Rolle
+Eddie,Windhund,Undirected,,1,Figur,verkörpert,Rolle
+Eddie,Diebesgesindel,Undirected,,1,Figur,verkörpert,Rolle
+Eddie,Stromer,Undirected,,1,Figur,verkörpert,Rolle
+Eddie,Halunke,Undirected,,1,Figur,verkörpert,Rolle
+Hazel,Taugenichts,Undirected,,1,Figur,verkörpert,Rolle
+Hazel,Windhund,Undirected,,1,Figur,verkörpert,Rolle
+Hazel,Diebesgesindel,Undirected,,1,Figur,verkörpert,Rolle
+Hazel,Stromer,Undirected,,1,Figur,verkörpert,Rolle
+Hazel,Halunke,Undirected,,1,Figur,verkörpert,Rolle
+Hughie,Schandfleck,Undirected,,1,Figur,verkörpert,Rolle
+Jones,Schandfleck,Undirected,,1,Figur,verkörpert,Rolle
+Eddie,Schandfleck,Undirected,,1,Figur,verkörpert,Rolle
+Hazel,Schandfleck,Undirected,,1,Figur,verkörpert,Rolle
+Mack,Schandfleck,Undirected,,1,Figur,verkörpert,Rolle
+Dora,Madam,Undirected,,1,Figur,verkörpert,Rolle
+Dora,Dirne,Undirected,,1,Figur,verkörpert,Rolle
+Dora,Frau,Undirected,,1,Figur,verkörpert,Rolle
+Doras Mädchen,Mädchen,Undirected,,1,Figur,verkörpert,Rolle
+Doras Mädchen,Kerntruppe,Undirected,,1,Figur,verkörpert,Rolle
+Lou,Koch,Undirected,,1,Figur,verkörpert,Rolle
+Alfred,Nachtwächter,Undirected,,1,Figur,verkörpert,Rolle
+Alfred,Sieger,Undirected,,1,Figur,verkörpert,Rolle
+William,Nachtwächter,Undirected,,1,Figur,verkörpert,Rolle
+William,Vorgänger,Undirected,,1,Figur,verkörpert,Rolle
+William,Mensch,Undirected,,1,Figur,verkörpert,Rolle
+William,Paria,Undirected,,1,Figur,verkörpert,Rolle
+Alfred,Zuhälter,Undirected,,1,Figur,verkörpert,Rolle
+William,Neurotiker,Undirected,,1,Figur,verkörpert,Rolle
+Eva,Säuferin,Undirected,,1,Figur,verkörpert,Rolle
+Eva,Mädchen,Undirected,,1,Figur,verkörpert,Rolle
+William,Bastard,Undirected,,1,Figur,verkörpert,Rolle
+William,Billie,Undirected,,1,Figur,verkörpert,Rolle
+Lou,Grieche,Undirected,,1,Figur,verkörpert,Rolle
+William,Bill,Undirected,,1,Figur,verkörpert,Rolle
+Ein alter Chinese,Gott,Undirected,,1,Figur,verkörpert,Rolle
+Ein alter Chinese,Tod,Undirected,,1,Figur,verkörpert,Rolle
+Andy,Knabe,Undirected,,1,Figur,verkörpert,Rolle
+Ein alter Chinese,Alter,Undirected,,1,Figur,verkörpert,Rolle
+Ein alter Chinese,Gelber,Undirected,,1,Figur,verkörpert,Rolle
+Ein alter Chinese,Chinamann,Undirected,,1,Figur,verkörpert,Rolle
+Andy,Junge,Undirected,,1,Figur,verkörpert,Rolle
+Doc,Eigentümer,Undirected,,1,Figur,verkörpert,Rolle
+Doc,Direktor,Undirected,,1,Figur,verkörpert,Rolle
+Doc,Praktikant,Undirected,,1,Figur,verkörpert,Rolle
+Doc,Aufwärter,Undirected,,1,Figur,verkörpert,Rolle
+Henri,Maler,Undirected,,1,Figur,verkörpert,Rolle
+Hazels Mutter,Mutter,Undirected,,1,Figur,verkörpert,Rolle
+Hazels Vater,Vater,Undirected,,1,Figur,verkörpert,Rolle
+Hazels Vater,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Hazels Großtante,Großtante,Undirected,,1,Figur,verkörpert,Rolle
+Hazels Großtante,Alte,Undirected,,1,Figur,verkörpert,Rolle
+Hazel,Neugeborenes,Undirected,,1,Figur,verkörpert,Rolle
+Hazels Mutter,Wöchnerin,Undirected,,1,Figur,verkörpert,Rolle
+Hazel,Knabe,Undirected,,1,Figur,verkörpert,Rolle
+Hazel,Denker,Undirected,,1,Figur,verkörpert,Rolle
+Sheriff,Kerl,Undirected,,1,Figur,verkörpert,Rolle
+Gays Frau,Alte,Undirected,,1,Figur,verkörpert,Rolle
+Doc,Angeredeter,Undirected,,1,Figur,verkörpert,Rolle
+Hazel,Erregter,Undirected,,1,Figur,verkörpert,Rolle
+Mack,Bettloser,Undirected,,1,Figur,verkörpert,Rolle
+Hazel,Bettloser,Undirected,,1,Figur,verkörpert,Rolle
+Eddie,Bettloser,Undirected,,1,Figur,verkörpert,Rolle
+Jones,Bettloser,Undirected,,1,Figur,verkörpert,Rolle
+Whitey,Mixer,Undirected,,1,Figur,verkörpert,Rolle
+Gay,Mitglied,Undirected,,1,Figur,verkörpert,Rolle
+Eddie,Hilfsbarmann,Undirected,,1,Figur,verkörpert,Rolle
+Eddie,Elster,Undirected,,1,Figur,verkörpert,Rolle
+Mr. Randolph,Mechaniker,Undirected,,1,Figur,verkörpert,Rolle
+Mr. Malloy,Bewohner,Undirected,,1,Figur,verkörpert,Rolle
+Mrs. Malloy,Bewohner,Undirected,,1,Figur,verkörpert,Rolle
+Mr. Malloy,Gemahl,Undirected,,1,Figur,verkörpert,Rolle
+Mr. Malloy,Röhrenbesitzer,Undirected,,1,Figur,verkörpert,Rolle
+Mr. Malloy,Schatz,Undirected,,1,Figur,verkörpert,Rolle
+Mr. Malloy,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Mrs. Malloy,Frau,Undirected,,1,Figur,verkörpert,Rolle
+Mack,Treuherziger,Undirected,,1,Figur,verkörpert,Rolle
+Phyllis,Schnepfe,Undirected,,1,Figur,verkörpert,Rolle
+Mack,Geschäftspartner,Undirected,,1,Figur,verkörpert,Rolle
+Doc,Freund,Undirected,,1,Figur,verkörpert,Rolle
+Gay,Automechaniker,Undirected,,1,Figur,verkörpert,Rolle
+Gay,Mechaniker,Undirected,,1,Figur,verkörpert,Rolle
+Frankie,Sohn,Undirected,,1,Figur,verkörpert,Rolle
+Frankie,Junge,Undirected,,1,Figur,verkörpert,Rolle
+Frankie,kein Idiot,Undirected,,1,Figur,verkörpert,Rolle
+Frankie,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Frankie,Sklave,Undirected,,1,Figur,verkörpert,Rolle
+Rattle,Versicherungsagent,Undirected,,1,Figur,verkörpert,Rolle
+Rattle,Mensch,Undirected,,1,Figur,verkörpert,Rolle
+Rattle,Besessener,Undirected,,1,Figur,verkörpert,Rolle
+Francis Almones,Besitzer,Undirected,,1,Figur,verkörpert,Rolle
+Francis Almones,Fischlieferant,Undirected,,1,Figur,verkörpert,Rolle
+Francis Almones,Liebhaber,Undirected,,1,Figur,verkörpert,Rolle
+Gay,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Eddie,Feuerwehrleute,Undirected,,1,Figur,verkörpert,Rolle
+Jones,Feuerwehrleute,Undirected,,1,Figur,verkörpert,Rolle
+Eddie,Meister,Undirected,,1,Figur,verkörpert,Rolle
+Gay,Sankt Franziskus,Undirected,,1,Figur,verkörpert,Rolle
+Gay,Froschjäger,Undirected,,1,Figur,verkörpert,Rolle
+Mack,Froschjäger,Undirected,,1,Figur,verkörpert,Rolle
+Sparky Enea,Freund,Undirected,,1,Figur,verkörpert,Rolle
+Sparky Enea,Polizist,Undirected,,1,Figur,verkörpert,Rolle
+Gay,Bursche,Undirected,,1,Figur,verkörpert,Rolle
+Mack,Bursche,Undirected,,1,Figur,verkörpert,Rolle
+Eddie,Bursche,Undirected,,1,Figur,verkörpert,Rolle
+Josh Billings,Humorist,Undirected,,1,Figur,verkörpert,Rolle
+Doc,Student,Undirected,,1,Figur,verkörpert,Rolle
+Mr. Carriaga,Sir,Undirected,,1,Figur,verkörpert,Rolle
+Mr. Carriaga,alter Herr,Undirected,,1,Figur,verkörpert,Rolle
+Mr. Carriaga,Alter,Undirected,,1,Figur,verkörpert,Rolle
+Mr. Carriaga,Denker,Undirected,,1,Figur,verkörpert,Rolle
+Josh Billings,Verblichener,Undirected,,1,Figur,verkörpert,Rolle
+Josh Billings,Schriftsteller,Undirected,,1,Figur,verkörpert,Rolle
+Josh Billings,Mensch,Undirected,,1,Figur,verkörpert,Rolle
+Josh Billings,Autor,Undirected,,1,Figur,verkörpert,Rolle

@@ -1,0 +1,136 @@
+Source,Target,Type,Label,Weight,source type,edge label,target type
+Basil Hallward,Maler,Undirected,,1,Figur,verkörpert,Genderrolle
+Basil Hallward,Schöpfer,Undirected,,1,Figur,verkörpert,Genderrolle
+Basil Hallward,Lieber,Undirected,,1,Figur,verkörpert,Genderrolle
+Basil Hallward,Kauz,Undirected,,1,Figur,verkörpert,Genderrolle
+Basil Hallward,Künstler,Undirected,,1,Figur,verkörpert,Genderrolle
+Lord Henry,Harry,Undirected,,1,Figur,verkörpert,Genderrolle
+Lord Henrys Frau,Ehefrau,Undirected,,1,Figur,verkörpert,Genderrolle
+Lord Henry,Ehemann,Undirected,,1,Figur,verkörpert,Genderrolle
+Lord Henry,Kauz,Undirected,,1,Figur,verkörpert,Genderrolle
+Lord Henry,Mann,Undirected,,1,Figur,verkörpert,Genderrolle
+Basil Hallward,Mann,Undirected,,1,Figur,verkörpert,Genderrolle
+Lord Henry,Gefährte,Undirected,,1,Figur,verkörpert,Genderrolle
+Lady Brandon,Frau,Undirected,,1,Figur,verkörpert,Genderrolle
+Basil Hallward,Herr,Undirected,,1,Figur,verkörpert,Genderrolle
+Lady Brandon,Pfau,Undirected,,1,Figur,verkörpert,Genderrolle
+Lord Henry,Freund,Undirected,,1,Figur,verkörpert,Genderrolle
+Dorians Freund,Gefährte,Undirected,,1,Figur,verkörpert,Genderrolle
+Basil Hallward,Junge,Undirected,,1,Figur,verkörpert,Genderrolle
+Dorian Grays Mutter,Mutter,Undirected,,1,Figur,verkörpert,Genderrolle
+Basil Hallward,Freund,Undirected,,1,Figur,verkörpert,Genderrolle
+Lord Henry,Lord,Undirected,,1,Figur,verkörpert,Genderrolle
+Basil Hallward,Bekannter,Undirected,,1,Figur,verkörpert,Genderrolle
+Basil Hallward,Bruder,Undirected,,1,Figur,verkörpert,Genderrolle
+Lady Agatha,Tante,Undirected,,1,Figur,verkörpert,Genderrolle
+Lady Agatha,Frau,Undirected,,1,Figur,verkörpert,Genderrolle
+Parker,Diener,Undirected,,1,Figur,verkörpert,Genderrolle
+Parker,Mann,Undirected,,1,Figur,verkörpert,Genderrolle
+Basil Hallward,Bursche,Undirected,,1,Figur,verkörpert,Genderrolle
+Basil Hallward,Wirbelkopf,Undirected,,1,Figur,verkörpert,Genderrolle
+Lord Fermor,Onkel,Undirected,,1,Figur,verkörpert,Genderrolle
+Lord Fermor,Junggeselle,Undirected,,1,Figur,verkörpert,Genderrolle
+Lord Fermor,Egoist,Undirected,,1,Figur,verkörpert,Genderrolle
+Lord Fermors Vater,Gesandter,Undirected,,1,Figur,verkörpert,Genderrolle
+Lord Fermor,Privatsekretär,Undirected,,1,Figur,verkörpert,Genderrolle
+Lord Fermors Vater,Chef,Undirected,,1,Figur,verkörpert,Genderrolle
+Lord Fermor,Tory,Undirected,,1,Figur,verkörpert,Genderrolle
+Lord Fermor,Held,Undirected,,1,Figur,verkörpert,Genderrolle
+Lord Fermor,Herr,Undirected,,1,Figur,verkörpert,Genderrolle
+Lord Henry,Dandy,Undirected,,1,Figur,verkörpert,Genderrolle
+Lord Fermor,George,Undirected,,1,Figur,verkörpert,Genderrolle
+Lord Fermor,Diplomat,Undirected,,1,Figur,verkörpert,Genderrolle
+Lord Henry,Bester,Undirected,,1,Figur,verkörpert,Genderrolle
+Lady Margaret,Mutter,Undirected,,1,Figur,verkörpert,Genderrolle
+Lady Margaret,Devereux,Undirected,,1,Figur,verkörpert,Genderrolle
+Lady Margaret,Mädchen,Undirected,,1,Figur,verkörpert,Genderrolle
+Lady Margaret,Tochter,Undirected,,1,Figur,verkörpert,Genderrolle
+Lady Margaret,Mädel,Undirected,,1,Figur,verkörpert,Genderrolle
+Lord Fermor,Mann,Undirected,,1,Figur,verkörpert,Genderrolle
+Kelso,Köter,Undirected,,1,Figur,verkörpert,Genderrolle
+Kelso,Kerl,Undirected,,1,Figur,verkörpert,Genderrolle
+Kelso,Edelmann,Undirected,,1,Figur,verkörpert,Genderrolle
+Lady Margaret,Geschöpf,Undirected,,1,Figur,verkörpert,Genderrolle
+Lady Margaret,Frau,Undirected,,1,Figur,verkörpert,Genderrolle
+Agatha,Frauenzimmer,Undirected,,1,Figur,verkörpert,Genderrolle
+Agatha,Tante,Undirected,,1,Figur,verkörpert,Genderrolle
+Kelso,Mann,Undirected,,1,Figur,verkörpert,Genderrolle
+Plato,Künstler,Undirected,,1,Figur,verkörpert,Genderrolle
+Herzog von Harley,Dame,Undirected,,1,Figur,verkörpert,Genderrolle
+Sir Thomas Burdon,Parlamentsmitglied,Undirected,,1,Figur,verkörpert,Genderrolle
+Erskine of Treadley,Herr,Undirected,,1,Figur,verkörpert,Genderrolle
+Frau Vandeleur,Nachbarin,Undirected,,1,Figur,verkörpert,Genderrolle
+Frau Vandeleur,Freundin,Undirected,,1,Figur,verkörpert,Genderrolle
+Frau Vandeleur,Frau,Undirected,,1,Figur,verkörpert,Genderrolle
+Herzogin von Harley,Liebe,Undirected,,1,Figur,verkörpert,Genderrolle
+Lord Henry,Neffe,Undirected,,1,Figur,verkörpert,Genderrolle
+Erskine of Treadley,Mann,Undirected,,1,Figur,verkörpert,Genderrolle
+Herzog von Harley,Baronet,Undirected,,1,Figur,verkörpert,Genderrolle
+Sir Thomas Burdon,Politiker,Undirected,,1,Figur,verkörpert,Genderrolle
+Herzogin von Harley,Herzogin,Undirected,,1,Figur,verkörpert,Genderrolle
+Herzogin von Harley,Frau,Undirected,,1,Figur,verkörpert,Genderrolle
+Herzog von Harley,Mann,Undirected,,1,Figur,verkörpert,Genderrolle
+Lord Henry,Mensch,Undirected,,1,Figur,verkörpert,Genderrolle
+Lady Henry,Frau,Undirected,,1,Figur,verkörpert,Genderrolle
+Lady Henry,Victoria,Undirected,,1,Figur,verkörpert,Genderrolle
+Lady Henry,Liebe,Undirected,,1,Figur,verkörpert,Genderrolle
+Lady Henry,Paradiesvogel,Undirected,,1,Figur,verkörpert,Genderrolle
+Sibyl Vane,Schauspielerin,Undirected,,1,Figur,verkörpert,Genderrolle
+Sibyl Vane,Genie,Undirected,,1,Figur,verkörpert,Genderrolle
+Jude,Monstrum,Undirected,,1,Figur,verkörpert,Genderrolle
+Romeo,Herr,Undirected,,1,Figur,verkörpert,Genderrolle
+Julia,Geschöpf,Undirected,,1,Figur,verkörpert,Genderrolle
+Julia,Mädchen,Undirected,,1,Figur,verkörpert,Genderrolle
+Sibyl Vane,Rosalinde,Undirected,,1,Figur,verkörpert,Genderrolle
+Sibyl Vane,Imogen,Undirected,,1,Figur,verkörpert,Genderrolle
+Romeo,Geliebter,Undirected,,1,Figur,verkörpert,Genderrolle
+Sibyl Vane,Knabe,Undirected,,1,Figur,verkörpert,Genderrolle
+Jude,Kreatur,Undirected,,1,Figur,verkörpert,Genderrolle
+Sibyl Vane,Fräulein,Undirected,,1,Figur,verkörpert,Genderrolle
+Sibyl Vane,Mädchen,Undirected,,1,Figur,verkörpert,Genderrolle
+Sibyl Vane,Kind,Undirected,,1,Figur,verkörpert,Genderrolle
+Sibyl Vanes Mutter,Frau,Undirected,,1,Figur,verkörpert,Genderrolle
+Sibyl Vanes Mutter,Lady Capolet,Undirected,,1,Figur,verkörpert,Genderrolle
+Sibyl Vanes Mutter,Mutter,Undirected,,1,Figur,verkörpert,Genderrolle
+Sibyl Vane,Wesen,Undirected,,1,Figur,verkörpert,Genderrolle
+Sibyl Vane,Julia,Undirected,,1,Figur,verkörpert,Genderrolle
+Sibyl Vane,Geschöpf,Undirected,,1,Figur,verkörpert,Genderrolle
+Basil Hallward,Mensch,Undirected,,1,Figur,verkörpert,Genderrolle
+Basil Hallward,Philister,Undirected,,1,Figur,verkörpert,Genderrolle
+Sibyl Vane,Person,Undirected,,1,Figur,verkörpert,Genderrolle
+Dorian,Figur,Undirected,,1,Figur,verkörpert,Genderrolle
+Dorian,Prinz Märchenschön,Undirected,,1,Figur,verkörpert,Genderrolle
+Dorian,Prinz,Undirected,,1,Figur,verkörpert,Genderrolle
+Dorian,Kunstmäzen,Undirected,,1,Figur,verkörpert,Genderrolle
+Dorian,Baron,Undirected,,1,Figur,verkörpert,Genderrolle
+Dorian,Kosmopolit,Undirected,,1,Figur,verkörpert,Genderrolle
+Dorian,Ausländer,Undirected,,1,Figur,verkörpert,Genderrolle
+Dorian,Abkömmling,Undirected,,1,Figur,verkörpert,Genderrolle
+Dorian,Kind,Undirected,,1,Figur,verkörpert,Genderrolle
+Dorian,Protektionskind,Undirected,,1,Figur,verkörpert,Genderrolle
+Dorian,Kerlchen,Undirected,,1,Figur,verkörpert,Genderrolle
+Dorian,Sohn,Undirected,,1,Figur,verkörpert,Genderrolle
+Dorian,Enkel,Undirected,,1,Figur,verkörpert,Genderrolle
+Dorian,Original,Undirected,,1,Figur,verkörpert,Genderrolle
+Dorian,Knäblein,Undirected,,1,Figur,verkörpert,Genderrolle
+Dorian,Wirbelkopf,Undirected,,1,Figur,verkörpert,Genderrolle
+Dorian,Bursche,Undirected,,1,Figur,verkörpert,Genderrolle
+Dorian,Zwanzigjähriger,Undirected,,1,Figur,verkörpert,Genderrolle
+Dorian,Fremder,Undirected,,1,Figur,verkörpert,Genderrolle
+Dorian,Mann,Undirected,,1,Figur,verkörpert,Genderrolle
+Dorian,Menschenkind,Undirected,,1,Figur,verkörpert,Genderrolle
+Dorian,Bester,Undirected,,1,Figur,verkörpert,Genderrolle
+Dorian,Junge,Undirected,,1,Figur,verkörpert,Genderrolle
+Dorian,Märtyrer,Undirected,,1,Figur,verkörpert,Genderrolle
+Dorian,Opfer,Undirected,,1,Figur,verkörpert,Genderrolle
+Dorian,Liebling,Undirected,,1,Figur,verkörpert,Genderrolle
+Dorian,Wesen,Undirected,,1,Figur,verkörpert,Genderrolle
+Dorian,Knabe,Undirected,,1,Figur,verkörpert,Genderrolle
+Dorian,Modell,Undirected,,1,Figur,verkörpert,Genderrolle
+Dorian,Herr,Undirected,,1,Figur,verkörpert,Genderrolle
+Dorian,Mensch,Undirected,,1,Figur,verkörpert,Genderrolle
+Dorian,Geschöpf,Undirected,,1,Figur,verkörpert,Genderrolle
+Dorian,Freund,Undirected,,1,Figur,verkörpert,Genderrolle
+Dorian,Narziß,Undirected,,1,Figur,verkörpert,Genderrolle
+Dorian,Adonis,Undirected,,1,Figur,verkörpert,Genderrolle
+Dorian,Jüngling,Undirected,,1,Figur,verkörpert,Genderrolle

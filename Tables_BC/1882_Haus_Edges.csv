@@ -1,0 +1,213 @@
+Source,Target,Type,Label,Weight,source type,edge label,target type
+Octave,der junge Mann,Undirected,,1,Figur,verkörpert,Genderrolle
+Sohn,Auguste Vabre,Undirected,,1,Genderrolle,verkörpert,Figur
+Tochter,Töchter Josserands,Undirected,,1,Genderrolle,hat / ist,Figur
+Hausmädchen,Zofe von Rose Campardon,Undirected,,1,Genderrolle,verkörpert,Figur
+Octave,junger Mann,Undirected,,1,Figur,verkörpert,Rolle
+Herr Campardon,Architekt,Undirected,,1,Figur,verkörpert,Rolle
+Herr Campardon,Mieter,Undirected,,1,Figur,verkörpert,Rolle
+Herr Gourd,Vermieter,Undirected,,1,Figur,verkörpert,Rolle
+Herr Gourd,Herr,Undirected,,1,Figur,verkörpert,Rolle
+Octave,Betreffender,Undirected,,1,Figur,verkörpert,Rolle
+Octave,Herr,Undirected,,1,Figur,verkörpert,Rolle
+Octave,Freund,Undirected,,1,Figur,verkörpert,Rolle
+Frau Gourd,Frau,Undirected,,1,Figur,verkörpert,Rolle
+Herr Gourd,Kammerdiener,Undirected,,1,Figur,verkörpert,Rolle
+Frau Gourd,Witwe,Undirected,,1,Figur,verkörpert,Rolle
+Herr Gourd,Conciergeleute,Undirected,,1,Figur,verkörpert,Rolle
+Frau Gourd,Conciergeleute,Undirected,,1,Figur,verkörpert,Rolle
+Eine Frau,Figur,Undirected,,1,Figur,verkörpert,Rolle
+Eine Frau,Neapolitanerin,Undirected,,1,Figur,verkörpert,Rolle
+Octave,Lieber,Undirected,,1,Figur,verkörpert,Rolle
+Auguste Vabre,feine Leute,Undirected,,1,Figur,verkörpert,Rolle
+Auguste Vabre,Mieter,Undirected,,1,Figur,verkörpert,Rolle
+Auguste Vabre,Herr,Undirected,,1,Figur,verkörpert,Rolle
+Théophile Vabre,feine Leute,Undirected,,1,Figur,verkörpert,Rolle
+Théophile Vabre,Mieter,Undirected,,1,Figur,verkörpert,Rolle
+Théophile Vabre,Herr,Undirected,,1,Figur,verkörpert,Rolle
+Théophile Vabre,Sohn,Undirected,,1,Figur,verkörpert,Rolle
+Frau Vabre,Gattin,Undirected,,1,Figur,verkörpert,Rolle
+Der Hausbesitzer,Notar,Undirected,,1,Figur,verkörpert,Rolle
+Herr Duveyrier,Schwiegersohn,Undirected,,1,Figur,verkörpert,Rolle
+Herr Duveyrier,Appellationsgerichtsrat,Undirected,,1,Figur,verkörpert,Rolle
+Herr Duveyrier,Bursche,Undirected,,1,Figur,verkörpert,Rolle
+Frau Juzeur,Frau,Undirected,,1,Figur,verkörpert,Rolle
+Die Josserands,Familie,Undirected,,1,Figur,verkörpert,Rolle
+Die Josserands,Nachbarn,Undirected,,1,Figur,verkörpert,Rolle
+Herr Josserand,Vater,Undirected,,1,Figur,verkörpert,Rolle
+Herr Josserand,Kassirer,Undirected,,1,Figur,verkörpert,Rolle
+Die Pichons,Angestelltenehepaar,Undirected,,1,Figur,verkörpert,Rolle
+Die Pichons,Leute,Undirected,,1,Figur,verkörpert,Rolle
+Octave,Bester,Undirected,,1,Figur,verkörpert,Rolle
+Herr Campardon,Künstler,Undirected,,1,Figur,verkörpert,Rolle
+Zofe von Rose Campardon,Ding,Undirected,,1,Figur,verkörpert,Rolle
+Angèle Campardon,Tochter,Undirected,,1,Figur,verkörpert,Rolle
+Zofe von Rose Campardon,Zofe,Undirected,,1,Figur,verkörpert,Rolle
+Victoire,Alte,Undirected,,1,Figur,verkörpert,Rolle
+Victoire,Köchin,Undirected,,1,Figur,verkörpert,Rolle
+Herr Campardon,Hausherr,Undirected,,1,Figur,verkörpert,Rolle
+Zofe von Rose Campardon,Lisa,Undirected,,1,Figur,verkörpert,Rolle
+Adèle,Schmutzliese,Undirected,,1,Figur,verkörpert,Rolle
+Herr Campardon,Diözesanarchitekt,Undirected,,1,Figur,verkörpert,Rolle
+Herr Campardon,Regierungsbaumeister,Undirected,,1,Figur,verkörpert,Rolle
+Octave,Künstlerkopf,Undirected,,1,Figur,verkörpert,Rolle
+Octave,Spießbürger,Undirected,,1,Figur,verkörpert,Rolle
+Rose Campardon,Frau,Undirected,,1,Figur,verkörpert,Rolle
+Rose Campardon,Gattin,Undirected,,1,Figur,verkörpert,Rolle
+Octave,Bengel,Undirected,,1,Figur,verkörpert,Rolle
+Herr Domergue,Vater,Undirected,,1,Figur,verkörpert,Rolle
+Herr Domergue,Inspektor,Undirected,,1,Figur,verkörpert,Rolle
+Rose Campardon,Backfisch,Undirected,,1,Figur,verkörpert,Rolle
+Rose Campardon,Nonne,Undirected,,1,Figur,verkörpert,Rolle
+Rose Campardon,Naschkatze,Undirected,,1,Figur,verkörpert,Rolle
+Octave,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Octave,Bursche,Undirected,,1,Figur,verkörpert,Rolle
+Gasparine,Cousine,Undirected,,1,Figur,verkörpert,Rolle
+Herr Domergue,Herr,Undirected,,1,Figur,verkörpert,Rolle
+Frau Domergue,Frau,Undirected,,1,Figur,verkörpert,Rolle
+Herr Domergue,Eltern,Undirected,,1,Figur,verkörpert,Rolle
+Frau Domergue,Eltern,Undirected,,1,Figur,verkörpert,Rolle
+Gasparine,Schlingel,Undirected,,1,Figur,verkörpert,Rolle
+Gasparine,Mädchen,Undirected,,1,Figur,verkörpert,Rolle
+Gasparine,Verlassene,Undirected,,1,Figur,verkörpert,Rolle
+Tante von Gasparine,Tante,Undirected,,1,Figur,verkörpert,Rolle
+Tante von Gasparine,Schneiderin,Undirected,,1,Figur,verkörpert,Rolle
+Herr Mouret,Eltern,Undirected,,1,Figur,verkörpert,Rolle
+Frau Mouret,Eltern,Undirected,,1,Figur,verkörpert,Rolle
+Herr Mouret,Herr,Undirected,,1,Figur,verkörpert,Rolle
+Frau Mouret,Frau,Undirected,,1,Figur,verkörpert,Rolle
+Frau Mouret,Mutter,Undirected,,1,Figur,verkörpert,Rolle
+Octave,Freundin,Undirected,,1,Figur,verkörpert,Rolle
+Rose Campardon,Freundin,Undirected,,1,Figur,verkörpert,Rolle
+Herr Campardon,Achille,Undirected,,1,Figur,verkörpert,Rolle
+Octave,Windhund,Undirected,,1,Figur,verkörpert,Rolle
+Octave,Jude,Undirected,,1,Figur,verkörpert,Rolle
+Angèle Campardon,Mädchen,Undirected,,1,Figur,verkörpert,Rolle
+Rose Campardon,Mutter,Undirected,,1,Figur,verkörpert,Rolle
+Abbé Mauduit,Vikar,Undirected,,1,Figur,verkörpert,Rolle
+Octave,Verkäufer,Undirected,,1,Figur,verkörpert,Rolle
+Rose Campardon,Kätzchen,Undirected,,1,Figur,verkörpert,Rolle
+Rose Campardon,Puttchen,Undirected,,1,Figur,verkörpert,Rolle
+Gasparine,Verkäuferin,Undirected,,1,Figur,verkörpert,Rolle
+Gasparine,Frau,Undirected,,1,Figur,verkörpert,Rolle
+Herr Hédouin,Verkäufer,Undirected,,1,Figur,verkörpert,Rolle
+Herr Deleuze,Onkel,Undirected,,1,Figur,verkörpert,Rolle
+Frau Hédouin,Frau,Undirected,,1,Figur,verkörpert,Rolle
+Frau Hédouin,Geschäftsfrau,Undirected,,1,Figur,verkörpert,Rolle
+Alexandre,Ladendiener,Undirected,,1,Figur,verkörpert,Rolle
+Gasparine,Fräulein,Undirected,,1,Figur,verkörpert,Rolle
+Gasparine,junge Frau,Undirected,,1,Figur,verkörpert,Rolle
+Herr Campardon,Freund,Undirected,,1,Figur,verkörpert,Rolle
+Rose Campardon,Blondine,Undirected,,1,Figur,verkörpert,Rolle
+Madame Valérie,junge Frau,Undirected,,1,Figur,verkörpert,Rolle
+Sohn von Madame Valérie,Junge,Undirected,,1,Figur,verkörpert,Rolle
+Kaufmannsfrau,alte Dame,Undirected,,1,Figur,verkörpert,Rolle
+Madame Valérie,Frau,Undirected,,1,Figur,verkörpert,Rolle
+Madame Valérie,Dame,Undirected,,1,Figur,verkörpert,Rolle
+Herr Louhette,Eltern,Undirected,,1,Figur,verkörpert,Rolle
+Frau Louhette,Eltern,Undirected,,1,Figur,verkörpert,Rolle
+Herr Campardon,Ehemann,Undirected,,1,Figur,verkörpert,Rolle
+Angèle Campardon,junges Mädchen,Undirected,,1,Figur,verkörpert,Rolle
+Angèle Campardon,Mademoiselle,Undirected,,1,Figur,verkörpert,Rolle
+Zofe von Rose Campardon,Mädchen,Undirected,,1,Figur,verkörpert,Rolle
+Frau Josserand,Dame,Undirected,,1,Figur,verkörpert,Rolle
+Frau Josserand,Mutter,Undirected,,1,Figur,verkörpert,Rolle
+Frau Josserand,Frau,Undirected,,1,Figur,verkörpert,Rolle
+Berthe,Kleine,Undirected,,1,Figur,verkörpert,Rolle
+Berthe,Tochter,Undirected,,1,Figur,verkörpert,Rolle
+Berthe,Jungverheiratete,Undirected,,1,Figur,verkörpert,Rolle
+Berthe,Frau,Undirected,,1,Figur,verkörpert,Rolle
+Berthe,Mädchen,Undirected,,1,Figur,verkörpert,Rolle
+Angèle Campardon,Frau,Undirected,,1,Figur,verkörpert,Rolle
+Rose Campardon,Dame,Undirected,,1,Figur,verkörpert,Rolle
+Frau Pichon,Nachbarin,Undirected,,1,Figur,verkörpert,Rolle
+Angèle Campardon,Fräulein,Undirected,,1,Figur,verkörpert,Rolle
+Berthe,junges Mädchen,Undirected,,1,Figur,verkörpert,Rolle
+Hortense,junges Mädchen,Undirected,,1,Figur,verkörpert,Rolle
+Berthe,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Hortense,Mädchen,Undirected,,1,Figur,verkörpert,Rolle
+Léon Josserand,Bruder,Undirected,,1,Figur,verkörpert,Rolle
+Frau Dambreville,Frauenzimmer,Undirected,,1,Figur,verkörpert,Rolle
+Herr Dambreville,Schwachkopf,Undirected,,1,Figur,verkörpert,Rolle
+Herr Dambreville,Bürochef,Undirected,,1,Figur,verkörpert,Rolle
+Herr Josserand,Herr,Undirected,,1,Figur,verkörpert,Rolle
+Herr Josserand,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Frau Josserand,Königin,Undirected,,1,Figur,verkörpert,Rolle
+Frau Josserand,Beste,Undirected,,1,Figur,verkörpert,Rolle
+Herr Josserand,Blödling,Undirected,,1,Figur,verkörpert,Rolle
+Saturnin,Sohn,Undirected,,1,Figur,verkörpert,Rolle
+Berthe,Gans,Undirected,,1,Figur,verkörpert,Rolle
+Hortense,Gans,Undirected,,1,Figur,verkörpert,Rolle
+Herr Josserand,Mensch,Undirected,,1,Figur,verkörpert,Rolle
+Herr Josserand,Märtyrer,Undirected,,1,Figur,verkörpert,Rolle
+Adèle,Schlampe,Undirected,,1,Figur,verkörpert,Rolle
+Adèle,Dreckstück,Undirected,,1,Figur,verkörpert,Rolle
+Frau Josserand,Liebe,Undirected,,1,Figur,verkörpert,Rolle
+Herr Josserand,Lieber,Undirected,,1,Figur,verkörpert,Rolle
+Herr Josserand,Prahlhans,Undirected,,1,Figur,verkörpert,Rolle
+Herr Josserand,Freund,Undirected,,1,Figur,verkörpert,Rolle
+Herr Josserand,Angestellter,Undirected,,1,Figur,verkörpert,Rolle
+Herr Josserand,Lohnempfänger,Undirected,,1,Figur,verkörpert,Rolle
+Herr Josserand,Blödhammel,Undirected,,1,Figur,verkörpert,Rolle
+Frau Josserand,Eléonore,Undirected,,1,Figur,verkörpert,Rolle
+Ein Dienstmädchen,Nutte,Undirected,,1,Figur,verkörpert,Rolle
+Victor,Pauker,Undirected,,1,Figur,verkörpert,Rolle
+Herr Josserand,Papa,Undirected,,1,Figur,verkörpert,Rolle
+Onkel Bachelard,Bruder,Undirected,,1,Figur,verkörpert,Rolle
+Onkel Bachelard,Mensch,Undirected,,1,Figur,verkörpert,Rolle
+Onkel Bachelard,Lügner,Undirected,,1,Figur,verkörpert,Rolle
+Onkel Bachelard,Saufbruder,Undirected,,1,Figur,verkörpert,Rolle
+Onkel Bachelard,Ausbeuter,Undirected,,1,Figur,verkörpert,Rolle
+Saturnin,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Berthe,Jungfer,Undirected,,1,Figur,verkörpert,Rolle
+Hortense,Jungfer,Undirected,,1,Figur,verkörpert,Rolle
+Hortense,junge Dame,Undirected,,1,Figur,verkörpert,Rolle
+Berthe,junge Dame,Undirected,,1,Figur,verkörpert,Rolle
+Frau Josserand,Mama,Undirected,,1,Figur,verkörpert,Rolle
+Frau Josserand,Löwin,Undirected,,1,Figur,verkörpert,Rolle
+Verdier,Rechtsanwalt,Undirected,,1,Figur,verkörpert,Rolle
+Verdiers Geliebte,Geliebte,Undirected,,1,Figur,verkörpert,Rolle
+Verdiers Geliebte,Frau,Undirected,,1,Figur,verkörpert,Rolle
+Hortense,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Verdiers Geliebte,Pute,Undirected,,1,Figur,verkörpert,Rolle
+Verdier,Bursche,Undirected,,1,Figur,verkörpert,Rolle
+Verdiers Geliebte,Geschöpf,Undirected,,1,Figur,verkörpert,Rolle
+Hortense,Narr,Undirected,,1,Figur,verkörpert,Rolle
+Herr Josserand,Gatte,Undirected,,1,Figur,verkörpert,Rolle
+Hortense,Schwester,Undirected,,1,Figur,verkörpert,Rolle
+Berthe,Frauenzimmer,Undirected,,1,Figur,verkörpert,Rolle
+Hortense,Frauenzimmer,Undirected,,1,Figur,verkörpert,Rolle
+Berthe,Unglückselige,Undirected,,1,Figur,verkörpert,Rolle
+Berthe,Jungfrau,Undirected,,1,Figur,verkörpert,Rolle
+Berthe,Schlosshund,Undirected,,1,Figur,verkörpert,Rolle
+Berthe,Liebes,Undirected,,1,Figur,verkörpert,Rolle
+Berthe,Trine,Undirected,,1,Figur,verkörpert,Rolle
+Saturnin,Bursche,Undirected,,1,Figur,verkörpert,Rolle
+Berthe,Range,Undirected,,1,Figur,verkörpert,Rolle
+Saturnin,Hund,Undirected,,1,Figur,verkörpert,Rolle
+Saturnin,Tier,Undirected,,1,Figur,verkörpert,Rolle
+Saturnin,Junge,Undirected,,1,Figur,verkörpert,Rolle
+Adèle,Pfuscherin,Undirected,,1,Figur,verkörpert,Rolle
+Onkel Bachelard,Witwer,Undirected,,1,Figur,verkörpert,Rolle
+Onkel Bachelard,Narcisse,Undirected,,1,Figur,verkörpert,Rolle
+Hector Trublot,junger Mann,Undirected,,1,Figur,verkörpert,Rolle
+Frau Juzeur,Dame,Undirected,,1,Figur,verkörpert,Rolle
+Hector Trublot,Schwiegersohn,Undirected,,1,Figur,verkörpert,Rolle
+Onkel Bachelard,Der Blöde,Undirected,,1,Figur,verkörpert,Rolle
+Berthe,Dirne,Undirected,,1,Figur,verkörpert,Rolle
+Hortense,Dirne,Undirected,,1,Figur,verkörpert,Rolle
+Hector Trublot,Bursche,Undirected,,1,Figur,verkörpert,Rolle
+Adèle,Bretonin,Undirected,,1,Figur,verkörpert,Rolle
+Adèle,Dienstmädchen,Undirected,,1,Figur,verkörpert,Rolle
+Adèle,Mädchen,Undirected,,1,Figur,verkörpert,Rolle
+Hector Trublot,Gott,Undirected,,1,Figur,verkörpert,Rolle
+Frau Juzeur,Frauchen,Undirected,,1,Figur,verkörpert,Rolle
+Frau Juzeur,Frömmlerin,Undirected,,1,Figur,verkörpert,Rolle
+Saturnin,Geschöpf,Undirected,,1,Figur,verkörpert,Rolle
+Saturnin,Verrückter,Undirected,,1,Figur,verkörpert,Rolle
+Frau Josserand,Lügnerin,Undirected,,1,Figur,verkörpert,Rolle
+Frau Josserand,Weib,Undirected,,1,Figur,verkörpert,Rolle
+Berthe,Kätzchen,Undirected,,1,Figur,verkörpert,Rolle
+Hortense,Kätzchen,Undirected,,1,Figur,verkörpert,Rolle
+Onkel Bachelard,Gauner,Undirected,,1,Figur,verkörpert,Rolle
+Herr Campardon,Nachbar,Undirected,,1,Figur,verkörpert,Rolle

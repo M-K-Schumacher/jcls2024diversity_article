@@ -1,0 +1,146 @@
+Id,Label,node type,gender
+Catherine,Catherine,Figur,
+die Melkfrau,die Melkfrau,Figur,
+Edgar Linton,Edgar Linton,Figur,
+ein Ackerknecht,ein Ackerknecht,Figur,
+ein junger Mann,ein junger Mann,Figur,
+ein Knecht,ein Knecht,Figur,
+ein Sohn der Earnshaws,ein Sohn der Earnshaws,Figur,
+eine junge Frau,eine junge Frau,Figur,
+eine Köchin,eine Köchin,Figur,
+Frances,Frances,Figur,
+Hareton Earnshaw,Hareton Earnshaw,Figur,
+Hindley,Hindley,Figur,
+Isabella Linton,Isabella Linton,Figur,
+Joseph,Joseph,Figur,
+Mr. Earnshaw,Mr. Earnshaw,Figur,
+Mr. Linton,Mr. Linton,Figur,
+Mr. Lockwood,Mr. Lockwood,Figur,
+Mrs. Dean,Mrs. Dean,Figur,
+Mrs. Heathcliff,Mrs. Heathcliff,Figur,
+Mrs. Linton,Mrs. Linton,Figur,
+Mutter von Mr. Lockwood,Mutter von Mr. Lockwood,Figur,
+Zillah,Zillah,Figur,
+zwei Hundebesitzer,zwei Hundebesitzer,Figur,
+Haushälterin,Haushälterin,Rolle,weiblich
+Cathy Linton,Cathy Linton,Figur,
+Earnshaw,Earnshaw,Figur,
+Catherine Earnshaw,Catherine Earnshaw,Figur,
+Cathrine Heathcliff,Cathrine Heathcliff,Figur,
+Hindley Earnshaw,Hindley Earnshaw,Figur,
+Jabes Branderham,Jabes Branderham,Figur,
+Catherin Linton,Catherin Linton,Figur,
+Catherin Earnshaw,Catherin Earnshaw,Figur,
+Mrs. Earnshaw,Mrs. Earnshaw,Figur,
+Hindsley,Hindsley,Figur,
+Heathcliff,Heathcliff,Figur,
+Vikar,Vikar,Figur,
+Fances,Fances,Figur,
+Robert,Robert,Figur,
+Gutsherr,Gutsherr,Rolle,männlich
+Bursche,Bursche,Rolle,männlich
+Nachbar,Nachbar,Rolle,männlich
+Mann,Mann,Rolle,männlich
+Pächter,Pächter,Rolle,männlich
+Gesinde,Gesinde,Rolle,genderneutral
+Eigentümer,Eigentümer,Rolle,männlich
+Zigeuner,Zigeuner,Rolle,männlich
+Landesjunker,Landesjunker,Rolle,männlich
+Schnecke,Schnecke,Rolle,genderneutral
+Herr,Herr,Rolle,männlich
+Knecht,Knecht,Rolle,männlich
+Gast,Gast,Rolle,genderneutral
+Frau,Frau,Rolle,weiblich
+Wesen,Wesen,Rolle,genderneutral
+Wirtin,Wirtin,Rolle,weiblich
+Kind,Kind,Rolle,genderneutral
+Hausfrau,Hausfrau,Rolle,weiblich
+Schutzengel,Schutzengel,Rolle,weiblich
+Tölpel,Tölpel,Rolle,männlich
+Landarbeiter,Landarbeiter,Rolle,männlich
+Dame,Dame,Rolle,weiblich
+Bauernlümmel,Bauernlümmel,Rolle,männlich
+Schwiegertochter,Schwiegertochter,Rolle,weiblich
+Gefährte,Gefährte,Rolle,männlich
+Fee,Fee,Rolle,weiblich
+Wirt,Wirt,Rolle,männlich
+Sohn,Sohn,Rolle,männlich
+Bär,Bär,Rolle,männlich
+Kerl,Kerl,Rolle,männlich
+Häuchler,Häuchler,Rolle,männlich
+Alter,Alter,Rolle,männlich
+Verworfener,Verworfener,Rolle,männlich
+Auswurf,Auswurf,Rolle,männlich
+Hexe,Hexe,Rolle,weiblich
+Fremder,Fremder,Rolle,männlich
+Übeltäter,Übeltäter,Rolle,männlich
+Person,Person,Rolle,weiblich
+Pflegel,Pflegel,Rolle,männlich
+Mensch,Mensch,Rolle,genderneutral
+Catherine Heathcliff,Catherine Heathcliff,Rolle,weiblich
+Freund,Freund,Rolle,männlich
+Ackerknecht,Ackerknecht,Rolle,männlich
+Bruder,Bruder,Rolle,männlich
+Tyrann,Tyrann,Rolle,männlich
+Liebling,Liebling,Rolle,genderneutral
+Landstreicher,Landstreicher,Rolle,männlich
+Vater,Vater,Rolle,männlich
+Führer,Führer,Rolle,männlich
+Begleiter,Begleiter,Rolle,männlich
+Sünder,Sünder,Rolle,männlich
+Angreifer,Angreifer,Rolle,männlich
+Störenfried,Störenfried,Rolle,männlich
+Eindringling,Eindringling,Rolle,männlich
+Magd,Magd,Rolle,weiblich
+Racker,Racker,Rolle,genderneutral
+Wechselweib,Wechselweib,Rolle,weiblich
+Geschöpf,Geschöpf,Rolle,genderneutral
+Zeuge,Zeuge,Rolle,männlich
+Cathy,Cathy,Rolle,weiblich
+Herzensliebling,Herzensliebling,Rolle,weiblich
+Gans,Gans,Rolle,genderneutral
+Schaf,Schaf,Rolle,genderneutral
+Frauenzimmer,Frauenzimmer,Rolle,weiblich
+Sprecherin,Sprecherin,Rolle,weiblich
+Klatschbase,Klatschbase,Rolle,weiblich
+Mädchen,Mädchen,Rolle,weiblich
+Witwe,Witwe,Rolle,weiblich
+Fremde,Fremde,Rolle,weiblich
+Einheimische,Einheimische,Rolle,weiblich
+Verwandte,Verwandte,Rolle,weiblich
+Ding,Ding,Rolle,genderneutral
+Vorgänger,Vorgänger,Rolle,männlich
+Neffe,Neffe,Rolle,männlich
+Vetter,Vetter,Rolle,männlich
+Schwester,Schwester,Rolle,weiblich
+Letzer,Letzer,Rolle,männlich
+Letzte,Letzte,Rolle,weiblich
+Patron,Patron,Rolle,männlich
+Grobian,Grobian,Rolle,männlich
+Kukuksei,Kukuksei,Rolle,genderneutral
+Vogel,Vogel,Rolle,genderneutral
+Junge,Junge,Rolle,männlich
+Zigeunerjunge,Zigeunerjunge,Rolle,männlich
+Herrin,Herrin,Rolle,weiblich
+Zuschauer,Zuschauer,Rolle,genderneutral
+Findling,Findling,Rolle,genderneutral
+Hätschelkind,Hätschelkind,Rolle,genderneutral
+Unterdrücker,Unterdrücker,Rolle,männlich
+Pflegerin,Pflegerin,Rolle,weiblich
+Lamm,Lamm,Rolle,männlich
+Menschenkind,Menschenkind,Rolle,genderneutral
+Verbündeter,Verbündeter,Rolle,männlich
+Wohltäter,Wohltäter,Rolle,männlich
+Hund,Hund,Rolle,männlich
+Satansbrut,Satansbrut,Rolle,genderneutral
+Knabe,Knabe,Rolle,männlich
+Pharisäer,Pharisäer,Rolle,männlich
+Schößling,Schößling,Rolle,genderneutral
+Mutter,Mutter,Rolle,weiblich
+Wilde,Wilde,Rolle,genderneutral
+Dummkopf,Dummkopf,Rolle,genderneutral
+Mama,Mama,Rolle,weiblich
+Papa,Papa,Rolle,männlich
+Dieb,Dieb,Rolle,männlich
+Narr,Narr,Rolle,männlich
+0,Mr. Heathcliff,Figur,

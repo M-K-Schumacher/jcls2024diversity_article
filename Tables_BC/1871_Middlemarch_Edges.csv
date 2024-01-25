@@ -1,0 +1,86 @@
+Source,Target,Type,Label,Weight,source type,edge label,target type
+Therese,Mädchen,Undirected,,1,Figur,verkörpert,Rolle
+Thereses Bruder,Bruder,Undirected,,1,Figur,verkörpert,Rolle
+Thereses Onkel,Oheim,Undirected,,1,Figur,verkörpert,Rolle
+Therese,Frau,Undirected,,1,Figur,verkörpert,Rolle
+Dorothea Brooke,Schönheit,Undirected,,1,Figur,verkörpert,Rolle
+Celia Brooke,Schwester,Undirected,,1,Figur,verkörpert,Rolle
+Dorothea Brooke,Lady,Undirected,,1,Figur,verkörpert,Rolle
+Celia Brooke,Lady,Undirected,,1,Figur,verkörpert,Rolle
+Dorothea Brooke,junge Dame,Undirected,,1,Figur,verkörpert,Rolle
+Celia Brooke,junge Dame,Undirected,,1,Figur,verkörpert,Rolle
+Dorothea Brooke,Schwester,Undirected,,1,Figur,verkörpert,Rolle
+Dorothea Brooke,Mädchen,Undirected,,1,Figur,verkörpert,Rolle
+Herr Brooke,Onkel,Undirected,,1,Figur,verkörpert,Rolle
+Herr Brooke,Vormund,Undirected,,1,Figur,verkörpert,Rolle
+Herr Brooke,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Dorothea Brooke,Nichte,Undirected,,1,Figur,verkörpert,Rolle
+Dorothea Brooke,Erbin,Undirected,,1,Figur,verkörpert,Rolle
+Herr Brooke,Gegner,Undirected,,1,Figur,verkörpert,Rolle
+Sir James Chettam,Bewerber,Undirected,,1,Figur,verkörpert,Rolle
+Sir James Chettam,Baronet,Undirected,,1,Figur,verkörpert,Rolle
+Frau Cadwallader,Gattin,Undirected,,1,Figur,verkörpert,Rolle
+Herr Cadwallader,Pfarrer,Undirected,,1,Figur,verkörpert,Rolle
+Sir James Chettam,Herr,Undirected,,1,Figur,verkörpert,Rolle
+Edward Casaubon,Herr,Undirected,,1,Figur,verkörpert,Rolle
+Edward Casaubon,Ehrwürdiger,Undirected,,1,Figur,verkörpert,Rolle
+Edward Casaubon,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Celia Brooke,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Frau Brook,Mama,Undirected,,1,Figur,verkörpert,Rolle
+Dorothea Brooke,Dora,Undirected,,1,Figur,verkörpert,Rolle
+Celia Brooke,Kitty,Undirected,,1,Figur,verkörpert,Rolle
+Dorothea Brooke,Architektin,Undirected,,1,Figur,verkörpert,Rolle
+Wordsworth,Dichter,Undirected,,1,Figur,verkörpert,Rolle
+Wordsworth,Poet,Undirected,,1,Figur,verkörpert,Rolle
+Davy,Dichter,Undirected,,1,Figur,verkörpert,Rolle
+Davy,Poet,Undirected,,1,Figur,verkörpert,Rolle
+Edward Casaubon,Gelehrter,Undirected,,1,Figur,verkörpert,Rolle
+Sir James Chettam,Repräsentant,Undirected,,1,Figur,verkörpert,Rolle
+Sir James Chettam,Engländer,Undirected,,1,Figur,verkörpert,Rolle
+Dorothea Brooke,Fräulein,Undirected,,1,Figur,verkörpert,Rolle
+Herr Brooke,Gutsleute,Undirected,,1,Figur,verkörpert,Rolle
+Herr Brooke,Freund,Undirected,,1,Figur,verkörpert,Rolle
+Edward Casaubon,Alter,Undirected,,1,Figur,verkörpert,Rolle
+Herr Liret,Geistlicher,Undirected,,1,Figur,verkörpert,Rolle
+Herr Brooke,Protestant,Undirected,,1,Figur,verkörpert,Rolle
+Wilberforce,Denker,Undirected,,1,Figur,verkörpert,Rolle
+Wilberforce,Unabhängige,Undirected,,1,Figur,verkörpert,Rolle
+Dorothea Brooke,Sekretär,Undirected,,1,Figur,verkörpert,Rolle
+Dorothea Brooke,junges Mädchen,Undirected,,1,Figur,verkörpert,Rolle
+Celia Brooke,junges Mädchen,Undirected,,1,Figur,verkörpert,Rolle
+Herr Brooke,Herr,Undirected,,1,Figur,verkörpert,Rolle
+Sir James Chettam,Bewunderer,Undirected,,1,Figur,verkörpert,Rolle
+Dorothea Brooke,Reiterin,Undirected,,1,Figur,verkörpert,Rolle
+Sir James Chettam,Junge,Undirected,,1,Figur,verkörpert,Rolle
+Sir James Chettam,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Edward Casaubon,Bücherwurm,Undirected,,1,Figur,verkörpert,Rolle
+Edward Casaubon,Geistlicher,Undirected,,1,Figur,verkörpert,Rolle
+Celia Brooke,Fräulein,Undirected,,1,Figur,verkörpert,Rolle
+Celia Brooke,Mädchen,Undirected,,1,Figur,verkörpert,Rolle
+Dorothea Brooke,Frau,Undirected,,1,Figur,verkörpert,Rolle
+Edward Casaubon,Erzengel,Undirected,,1,Figur,verkörpert,Rolle
+Edward Casaubon,Provinzialgeistlicher,Undirected,,1,Figur,verkörpert,Rolle
+Edward Casaubon,Zuhörer,Undirected,,1,Figur,verkörpert,Rolle
+Herr Brooke,Wirth,Undirected,,1,Figur,verkörpert,Rolle
+Edward Casaubon,Grieche,Undirected,,1,Figur,verkörpert,Rolle
+Herr Brooke,Gutsbesitzer,Undirected,,1,Figur,verkörpert,Rolle
+Herr Brooke,Archivar,Undirected,,1,Figur,verkörpert,Rolle
+Dorothea Brooke,Jugend,Undirected,,1,Figur,verkörpert,Rolle
+Dorothea Brooke,Weib,Undirected,,1,Figur,verkörpert,Rolle
+Sir James Chettam,Reiter,Undirected,,1,Figur,verkörpert,Rolle
+John,Reitknecht,Undirected,,1,Figur,verkörpert,Rolle
+Dorothea Brooke,Genie,Undirected,,1,Figur,verkörpert,Rolle
+Sir James Chettam,Schwager,Undirected,,1,Figur,verkörpert,Rolle
+Dorothea Brooke,Gegnerin,Undirected,,1,Figur,verkörpert,Rolle
+Sir James Chettam,Mitglied,Undirected,,1,Figur,verkörpert,Rolle
+Dorothea Brooke,Schwägerin,Undirected,,1,Figur,verkörpert,Rolle
+Sir James Chettam,Mensch,Undirected,,1,Figur,verkörpert,Rolle
+Celia Brooke,Treulose,Undirected,,1,Figur,verkörpert,Rolle
+Dorothea Brooke,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Bunch,Verbrecher,Undirected,,1,Figur,verkörpert,Rolle
+Bunch,Lämmerdieb,Undirected,,1,Figur,verkörpert,Rolle
+Herr Brooke,Junggeselle,Undirected,,1,Figur,verkörpert,Rolle
+Sir James Chettam,Partie,Undirected,,1,Figur,verkörpert,Rolle
+Dorothea Brooke,Besitzerin,Undirected,,1,Figur,verkörpert,Rolle
+Edward Casaubon,Neuling,Undirected,,1,Figur,verkörpert,Rolle
+Dorothea Brooke,Novize,Undirected,,1,Figur,verkörpert,Rolle

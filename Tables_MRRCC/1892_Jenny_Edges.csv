@@ -1,0 +1,358 @@
+Source,Target,Type,Label,Weight,source type,target type,gender
+Jenny Treibel,Frau,Undirected,,1,Figur,Rolle,Frau
+"Fräulein Honig, Jenny Treibel",Damen,Undirected,,1,Figur,Rolle,Frau
+Fräulein Honig,Erzieherin,Undirected,,1,Figur,Rolle,Frau
+Fräulein Honig,Gesellschafterin,Undirected,,1,Figur,Rolle,Frau
+Jenny Treibel,Damen,Undirected,,1,Figur,Rolle,Frau
+Wilibald Schmidt,Professor Wilibald Schmidt,Undirected,,1,Figur,Rolle,Mann
+Vater von Jenny Treibel,Vater,Undirected,,1,Figur,Rolle,Mann
+Jenny Treibel,Jenny,Undirected,,1,Figur,Rolle,Frau
+Vater von Jenny Treibel,Alter,Undirected,,1,Figur,Rolle,Mann
+Mielke,Commis,Undirected,,1,Figur,Rolle,Mann
+Mielke,Herr Mielke,Undirected,,1,Figur,Rolle,Mann
+Louis,Lehrling,Undirected,,1,Figur,Rolle,Mann
+Louis,Louis,Undirected,,1,Figur,Rolle,Mann
+Wilibald Schmidt,Professor,Undirected,,1,Figur,Rolle,Mann
+Frau Schmolke,Wirtschafterin,Undirected,,1,Figur,Rolle,Frau
+Jenny Treibel,Freund,Undirected,,1,Figur,Rolle,Mann
+Frau Schmolke,Frau,Undirected,,1,Figur,Rolle,Frau
+Jenny Treibel,Frau Treibel,Undirected,,1,Figur,Rolle,Frau
+Jenny Treibel,Frau Kommerzienrätin,Undirected,,1,Figur,Rolle,Frau
+Corinna Schmidt,Fräulein Corinna,Undirected,,1,Figur,Rolle,Frau
+Corinna Schmidt,Fräulein,Undirected,,1,Figur,Rolle,Frau
+Jenny Treibel,Freundin,Undirected,,1,Figur,Rolle,Frau
+Jenny Treibel,Rätin,Undirected,,1,Figur,Rolle,Frau
+Eltern von Wilibald Schmidt,Eltern,Undirected,,1,Figur,Rolle,Genderneutral
+Vater von  Wilibald Schmidt,Rechnungsrat Schmidt,Undirected,,1,Figur,Rolle,Mann
+Mutter von Wilibald Schmidt,Frau,Undirected,,1,Figur,Rolle,Frau
+Mutter von Wilibald Schmidt,Schwerin,Undirected,,1,Figur,Rolle,Frau
+Vater von Wilibald Schmidt,Rechnungsrat,Undirected,,1,Figur,Rolle,Mann
+Corinna Schmidt,Corinna,Undirected,,1,Figur,Rolle,Frau
+Vater von Wilibald Schmidt,Mann,Undirected,,1,Figur,Rolle,Mann
+Wilibald Schmidt,Vater,Undirected,,1,Figur,Rolle,Mann
+Urgroßmutter von Wilibald Schmidt,Großmutter,Undirected,,1,Figur,Rolle,Frau
+Urgroßmutter von Wilibald Schmidt,Charpentier,Undirected,,1,Figur,Rolle,Frau
+Jenny Treibel,Kommerzienrätin,Undirected,,1,Figur,Rolle,Frau
+Corinna Schmidt,Kind,Undirected,,1,Figur,Rolle,Genderneutral
+Mutter von Jenny Treibel,Mutter,Undirected,,1,Figur,Rolle,Frau
+Wilibald Schmidt,Student,Undirected,,1,Figur,Rolle,Mann
+Herr Treibel,Treibel,Undirected,,1,Figur,Rolle,Mann
+"Otto Treibel, Leopold Treibel",Kinder,Undirected,,1,Figur,Rolle,Genderneutral
+Otto Treibel,Otto Treibel,Undirected,,1,Figur,Rolle,Mann
+"Otto Treibel, Helene Treibel",Otto Treibels,Undirected,,1,Figur,Rolle,Genderneutral
+Mister Nelson,Sohn,Undirected,,1,Figur,Rolle,Mann
+Familie von Mister Nelson,Nelson & Co.,Undirected,,1,Figur,Rolle,Genderneutral
+Otto Treibel,Sohn,Undirected,,1,Figur,Rolle,Mann
+Otto Treibel,Otto,Undirected,,1,Figur,Rolle,Mann
+Helene Treibel,Helene,Undirected,,1,Figur,Rolle,Frau
+Mister Nelson,Geschäftsfreund,Undirected,,1,Figur,Rolle,Mann
+"Otto Treibel, Helene Treibel",Ottos,Undirected,,1,Figur,Rolle,Genderneutral
+Otto Treibel,Gast,Undirected,,1,Figur,Rolle,Genderneutral
+Corinna Schmidt,Tochter,Undirected,,1,Figur,Rolle,Frau
+Wilibald Schmidt,Mann,Undirected,,1,Figur,Rolle,Mann
+Adolar Krola,Freund,Undirected,,1,Figur,Rolle,Mann
+Adolar Krola,Krola,Undirected,,1,Figur,Rolle,Mann
+Goldammer,Assessor,Undirected,,1,Figur,Rolle,Mann
+Wilibald Schmidt,Papa,Undirected,,1,Figur,Rolle,Mann
+Mister Nelson,Engländer,Undirected,,1,Figur,Rolle,Mann
+Wilibald Schmidt,Juwel,Undirected,,1,Figur,Rolle,Genderneutral
+Marcell Wedderkopp,Vetter,Undirected,,1,Figur,Rolle,Mann
+Marcell Wedderkopp,Marcell,Undirected,,1,Figur,Rolle,Mann
+Marcell Wedderkopp,Wedderkopp,Undirected,,1,Figur,Rolle,Mann
+Marcell Wedderkopp,Mann,Undirected,,1,Figur,Rolle,Mann
+"Otto Treibel, Leopold Treibel",Söhne,Undirected,,1,Figur,Rolle,Mann
+Herr Treibel,Vater,Undirected,,1,Figur,Rolle,Mann
+eine Tochter,Tochter,Undirected,,1,Figur,Rolle,Frau
+Leopold Treibel,Leopold,Undirected,,1,Figur,Rolle,Mann
+Otto Treibel,Bruder,Undirected,,1,Figur,Rolle,Mann
+ein idealer Schwiegersohn,Schwiegersohn,Undirected,,1,Figur,Rolle,Mann
+eine ideale Schwiegertochter,Schwiegertochter,Undirected,,1,Figur,Rolle,Frau
+eine ideale Schwiegertochter,Person,Undirected,,1,Figur,Rolle,Genderneutral
+eine ideale Schwiegertochter,Schauspielerin,Undirected,,1,Figur,Rolle,Frau
+eine ideale Schwiegertochter,Malerin,Undirected,,1,Figur,Rolle,Frau
+eine ideale Schwiegertochter,Pastorstochter,Undirected,,1,Figur,Rolle,Frau
+eine ideale Schwiegertochter,Professorentochter,Undirected,,1,Figur,Rolle,Frau
+Leopold Treibel,Kind,Undirected,,1,Figur,Rolle,Genderneutral
+Schüler,Sekundare,Undirected,,1,Figur,Rolle,Genderneutral
+Wilibald Schmidt,Klassiker,Undirected,,1,Figur,Rolle,Mann
+Wilibald Schmidt,Romantiker,Undirected,,1,Figur,Rolle,Mann
+Wilibald Schmidt,Großinquisitor,Undirected,,1,Figur,Rolle,Mann
+Wilibald Schmidt,Wilibald,Undirected,,1,Figur,Rolle,Mann
+Johann,Machthaber,Undirected,,1,Figur,Rolle,Mann
+Wilibald Schmidt,Schmidt,Undirected,,1,Figur,Rolle,Mann
+Frau Schmolke,Schmolke,Undirected,,1,Figur,Rolle,Frau
+Wilibald Schmidt,Freund,Undirected,,1,Figur,Rolle,Mann
+Mutter von Jenny Treibel,Frau Bürstenbinder,Undirected,,1,Figur,Rolle,Frau
+Jenny Treibel,Püppchen,Undirected,,1,Figur,Rolle,Genderneutral
+Jenny Treibel,Musterstück,Undirected,,1,Figur,Rolle,Genderneutral
+Jenny Treibel,Bourgeoise,Undirected,,1,Figur,Rolle,Frau
+Fräulein Honig,Gesellschaftsdame,Undirected,,1,Figur,Rolle,Frau
+"Jenny Treibel, Herr Treibel",Treibels,Undirected,,1,Figur,Rolle,Genderneutral
+Mister Nelson,Nelson,Undirected,,1,Figur,Rolle,Mann
+Corinna Schmidt,Mensch,Undirected,,1,Figur,Rolle,Genderneutral
+Friedrich Distelkamp,Distelkamp,Undirected,,1,Figur,Rolle,Mann
+Herr Treibel,Kommerzienrat,Undirected,,1,Figur,Rolle,Mann
+Jenny Treibel,Glücklichen,Undirected,,1,Figur,Rolle,Genderneutral
+Helene Treibel,Schwiegertochter,Undirected,,1,Figur,Rolle,Frau
+Vogelsang,Lieutenant a. D.,Undirected,,1,Figur,Rolle,Mann
+Vogelsang,Agent provocateur,Undirected,,1,Figur,Rolle,Mann
+Wilibald Schmidt,Gelehrte,Undirected,,1,Figur,Rolle,Genderneutral
+Vogelsang,Fanatiker,Undirected,,1,Figur,Rolle,Mann
+Vogelsang,Individuum,Undirected,,1,Figur,Rolle,Genderneutral
+Vogelsang,Poveretto,Undirected,,1,Figur,Rolle,Mann
+"Majorin von Ziegenhals, Edwine von Bomst",Fräuleins,Undirected,,1,Figur,Rolle,Frau
+Vogelsang,Kerl,Undirected,,1,Figur,Rolle,Mann
+Herr Treibel,Bürger,Undirected,,1,Figur,Rolle,Mann
+Herr Treibel,Patriot,Undirected,,1,Figur,Rolle,Mann
+Helene Treibel,Frau,Undirected,,1,Figur,Rolle,Frau
+"Otto Treibel, Helene Treibel",Kinder,Undirected,,1,Figur,Rolle,Genderneutral
+Jenny Treibel,Meisterin,Undirected,,1,Figur,Rolle,Frau
+Jenny Treibel,Mama,Undirected,,1,Figur,Rolle,Frau
+Elisabeth,Köchin,Undirected,,1,Figur,Rolle,Frau
+Mister Nelson,Mann,Undirected,,1,Figur,Rolle,Mann
+Mister Nelson,Gekennzeichnete,Undirected,,1,Figur,Rolle,Mann
+Mister Nelson,Menschenkind,Undirected,,1,Figur,Rolle,Genderneutral
+"Jenny Treibel, Herr Treibel",Eltern,Undirected,,1,Figur,Rolle,Genderneutral
+Herr Treibel,Papa,Undirected,,1,Figur,Rolle,Mann
+Herr Treibel,Mister Treibel,Undirected,,1,Figur,Rolle,Mann
+Mister Nelson,Junge,Undirected,,1,Figur,Rolle,Mann
+Vogelsang,Torfinspektor,Undirected,,1,Figur,Rolle,Mann
+Vogelsang,Salzinspektor,Undirected,,1,Figur,Rolle,Mann
+Vogelsang,Offizier,Undirected,,1,Figur,Rolle,Mann
+Jenny Treibel,Gnädigste,Undirected,,1,Figur,Rolle,Frau
+Vogelsang,Herr Lieutenant,Undirected,,1,Figur,Rolle,Mann
+"Otto Treibel, Helene Treibel",Herrschaften,Undirected,,1,Figur,Rolle,Genderneutral
+Helene Treibel,Hamburgerin,Undirected,,1,Figur,Rolle,Frau
+Mister Nelson,Freund,Undirected,,1,Figur,Rolle,Mann
+Vogelsang,Lieutenant,Undirected,,1,Figur,Rolle,Mann
+Vogelsang,Person,Undirected,,1,Figur,Rolle,Genderneutral
+Johann,Kutscher,Undirected,,1,Figur,Rolle,Mann
+"Majorin von Ziegenhals, Edwine von Bomst",Damen,Undirected,,1,Figur,Rolle,Frau
+"Mister Nelson, Vogelsang",Fremde,Undirected,,1,Figur,Rolle,Genderneutral
+"Mister Nelson, Vogelsang",Herren,Undirected,,1,Figur,Rolle,Mann
+Vogelsang,Präsident des Wahlkomitees,Undirected,,1,Figur,Rolle,Mann
+Majorin von Ziegenhals,Frau Majorin von Ziegenhals,Undirected,,1,Figur,Rolle,Frau
+Edwine von Bomst,Fräulein Edwine von Bomst,Undirected,,1,Figur,Rolle,Frau
+Majorin von Ziegenhals,Ziegenhals,Undirected,,1,Figur,Rolle,Frau
+Klopstock,Dichter,Undirected,,1,Figur,Rolle,Mann
+Majorin von Ziegenhals,Cousine,Undirected,,1,Figur,Rolle,Frau
+Majorin von Ziegenhals,Frau Majorin,Undirected,,1,Figur,Rolle,Frau
+Edwine von Bomst,Fräulein,Undirected,,1,Figur,Rolle,Frau
+Edwine von Bomst,Bomst,Undirected,,1,Figur,Rolle,Frau
+"Jenny Treibel, Herr Treibel",Generalkonsuls,Undirected,,1,Figur,Rolle,Genderneutral
+Adolar Krola,Opernsänger,Undirected,,1,Figur,Rolle,Mann
+Adolar Krola,Hausfreund,Undirected,,1,Figur,Rolle,Mann
+Adolar Krola,Mann,Undirected,,1,Figur,Rolle,Mann
+Jenny Treibel,Frau Jenny,Undirected,,1,Figur,Rolle,Frau
+Prinzeß Anisettchen,Prinzessin,Undirected,,1,Figur,Rolle,Frau
+Edwine von Bomst,Fräulein von Bomst,Undirected,,1,Figur,Rolle,Frau
+Großmutter von Prinzeß Anisettchen,Großmutter,Undirected,,1,Figur,Rolle,Frau
+Großmutter von Prinzeß Anisettchen,Hochselige,Undirected,,1,Figur,Rolle,Frau
+Großmutter von Prinzeß Anisettchen,Engel,Undirected,,1,Figur,Rolle,Genderneutral
+Jenny Treibel,Berlinerin,Undirected,,1,Figur,Rolle,Frau
+"Majorin von Ziegenhals, Edwine von Bomst",Visavis,Undirected,,1,Figur,Rolle,Genderneutral
+"Vogelsang, Adolar Krola",Nachbar,Undirected,,1,Figur,Rolle,Mann
+"Majorin von Ziegenhals, Edwine von Bomst",Gegenüber,Undirected,,1,Figur,Rolle,Mann
+Adolar Krola,Nachbar,Undirected,,1,Figur,Rolle,Mann
+Vogelsang,Mensch,Undirected,,1,Figur,Rolle,Genderneutral
+Vogelsang,Mephisto,Undirected,,1,Figur,Rolle,Mann
+Bürgermeister Tschech,Bürgermeister Tschech,Undirected,,1,Figur,Rolle,Mann
+Bürgermeister Tschech,Rechtsfanatiker,Undirected,,1,Figur,Rolle,Mann
+"König Friedrich Wilhelm IV., Königin",Königspaar,Undirected,,1,Figur,Rolle,Genderneutral
+George Herwegh,Hauptsünder,Undirected,,1,Figur,Rolle,Mann
+George Herwegh,Herwegh,Undirected,,1,Figur,Rolle,Mann
+George Herwegh,Lieblingsdichter,Undirected,,1,Figur,Rolle,Mann
+Jenny Treibel,Konfirmandin,Undirected,,1,Figur,Rolle,Frau
+König Friedrich Wilhelm IV.,König,Undirected,,1,Figur,Rolle,Mann
+George Herwegh,Dichter,Undirected,,1,Figur,Rolle,Mann
+George Herwegh,Herr Dichter,Undirected,,1,Figur,Rolle,Mann
+Meyerbeer,Mann,Undirected,,1,Figur,Rolle,Mann
+Meyerbeer,Künstler,Undirected,,1,Figur,Rolle,Mann
+Meyerbeer,Meyerbeer,Undirected,,1,Figur,Rolle,Mann
+Jenny Treibel,Person,Undirected,,1,Figur,Rolle,Genderneutral
+Adolar Krola,Tenor,Undirected,,1,Figur,Rolle,Mann
+Adolar Krola,Millionär,Undirected,,1,Figur,Rolle,Mann
+"Majorin von Ziegenhals, Edwine von Bomst",Hofdamen,Undirected,,1,Figur,Rolle,Frau
+Herr Treibel,Freund,Undirected,,1,Figur,Rolle,Mann
+Herr Treibel,Berliner,Undirected,,1,Figur,Rolle,Mann
+Vogelsang,Gespenst,Undirected,,1,Figur,Rolle,Genderneutral
+Vogelsang,Vorachtundvierziger,Undirected,,1,Figur,Rolle,Mann
+Vogelsang,Karikatur,Undirected,,1,Figur,Rolle,Genderneutral
+Majorin von Ziegenhals,Gnädigste,Undirected,,1,Figur,Rolle,Frau
+Vogelsang,Politiker,Undirected,,1,Figur,Rolle,Mann
+Vogelsang,Warnungsschatten,Undirected,,1,Figur,Rolle,Mann
+Herr Treibel,Industrieller,Undirected,,1,Figur,Rolle,Mann
+Herr Treibel,Fortschrittler,Undirected,,1,Figur,Rolle,Mann
+Majorin von Ziegenhals,Freundin,Undirected,,1,Figur,Rolle,Frau
+Majorin von Ziegenhals,Gönnerin,Undirected,,1,Figur,Rolle,Frau
+Herr Treibel,Weise,Undirected,,1,Figur,Rolle,Mann
+Handelsgärtner,Petroleur,Undirected,,1,Figur,Rolle,Mann
+Handelsgärtner,Dynamitarde,Undirected,,1,Figur,Rolle,Mann
+Leopold Treibel,Sohn,Undirected,,1,Figur,Rolle,Mann
+Fräulein Honig,Gesellschaftsfräulein,Undirected,,1,Figur,Rolle,Frau
+Corinna Schmidt,Kollegin,Undirected,,1,Figur,Rolle,Frau
+Corinna Schmidt,Miss Corinna,Undirected,,1,Figur,Rolle,Frau
+Leopold Treibel,Tischnachbar,Undirected,,1,Figur,Rolle,Mann
+Corinna Schmidt,Cousine,Undirected,,1,Figur,Rolle,Frau
+Mister Nelson,Repräsentant,Undirected,,1,Figur,Rolle,Mann
+Referendar Enghaus,Herr Enghaus,Undirected,,1,Figur,Rolle,Mann
+Leopold Treibel,Freund,Undirected,,1,Figur,Rolle,Mann
+Familie Schmidt,Familie,Undirected,,1,Figur,Rolle,Genderneutral
+Corinna Schmidt,Deutsche,Undirected,,1,Figur,Rolle,Frau
+Leopold Treibel,Gentleman,Undirected,,1,Figur,Rolle,Mann
+Leopold Treibel,Kommerzienratssohn,Undirected,,1,Figur,Rolle,Mann
+Corinna Schmidt,Künstlerin,Undirected,,1,Figur,Rolle,Frau
+Corinna Schmidt,Sklavin,Undirected,,1,Figur,Rolle,Frau
+Corinna Schmidt,Kunststopferin,Undirected,,1,Figur,Rolle,Frau
+Referendar Enghaus,Referendar,Undirected,,1,Figur,Rolle,Mann
+Fräulein Honig,Landsmännin,Undirected,,1,Figur,Rolle,Frau
+Corinna Schmidt,Berlinerin,Undirected,,1,Figur,Rolle,Frau
+Corinna Schmidt,Professorstochter,Undirected,,1,Figur,Rolle,Frau
+Gäste,Herrschaften,Undirected,,1,Figur,Rolle,Genderneutral
+Vogelsang,fellow,Undirected,,1,Figur,Rolle,Genderneutral
+Mister Nelson,Heldennamensvetter,Undirected,,1,Figur,Rolle,Mann
+Herr Treibel,Wirt,Undirected,,1,Figur,Rolle,Mann
+Vogelsang,Soldat,Undirected,,1,Figur,Rolle,Mann
+Männer,Herren,Undirected,,1,Figur,Rolle,Mann
+Frauen,Damen,Undirected,,1,Figur,Rolle,Frau
+Vogelsang,Redner,Undirected,,1,Figur,Rolle,Mann
+Vogelsang,Streiter,Undirected,,1,Figur,Rolle,Mann
+Vogelsang,Erfinder,Undirected,,1,Figur,Rolle,Mann
+Vogelsang,peer,Undirected,,1,Figur,Rolle,Genderneutral
+Gäste,Gruppen,Undirected,,1,Figur,Rolle,Genderneutral
+Gäste,Tischnachbarn,Undirected,,1,Figur,Rolle,Genderneutral
+Gäste,Gesellschaft,Undirected,,1,Figur,Rolle,Genderneutral
+König,Majestät,Undirected,,1,Figur,Rolle,Mann
+Königin,Königinwitwe,Undirected,,1,Figur,Rolle,Frau
+Vogelsang,Gerngehorchenden,Undirected,,1,Figur,Rolle,Mann
+Herr Treibel,Herr,Undirected,,1,Figur,Rolle,Mann
+Friedrich,Diener,Undirected,,1,Figur,Rolle,Mann
+Goldammer,Polizeiasessor,Undirected,,1,Figur,Rolle,Mann
+Goldammer,Pastorssohn,Undirected,,1,Figur,Rolle,Mann
+Majorin von Ziegenhals,Weib,Undirected,,1,Figur,Rolle,Frau
+Majorin von Ziegenhals,Festungsviereck,Undirected,,1,Figur,Rolle,Genderneutral
+König,Nährvater,Undirected,,1,Figur,Rolle,Mann
+Adel,Vampir-Adel,Undirected,,1,Figur,Rolle,Genderneutral
+Fortschrittler,Drache,Undirected,,1,Figur,Rolle,Mann
+Grabillon,Soubrette,Undirected,,1,Figur,Rolle,Frau
+Grabillon,Protegé,Undirected,,1,Figur,Rolle,Genderneutral
+Goldammer,Fortschrittler,Undirected,,1,Figur,Rolle,Mann
+Nichtgrüßer,Wilhelm Tell,Undirected,,1,Figur,Rolle,Mann
+Goldammer,Antikatholik,Undirected,,1,Figur,Rolle,Mann
+Mister Nelson,Vollblut-Engländer,Undirected,,1,Figur,Rolle,Mann
+Vogelsang,Sangevogel,Undirected,,1,Figur,Rolle,Mann
+Vogelsang,Vogel,Undirected,,1,Figur,Rolle,Mann
+Vogelsang,Kakadu,Undirected,,1,Figur,Rolle,Mann
+Blanca und Elfriede Felgentreu,Fräulein Felgentreus,Undirected,,1,Figur,Rolle,Frau
+Blanca und Elfriede Felgentreu,Damen,Undirected,,1,Figur,Rolle,Frau
+Blanca und Elfriede Felgentreu,Felgentreus,Undirected,,1,Figur,Rolle,Genderneutral
+Elfriede Felgentreu,Schwester,Undirected,,1,Figur,Rolle,Frau
+Blanca und Elfriede Felgentreu,Schwestern,Undirected,,1,Figur,Rolle,Frau
+Goldammer,Sprecher,Undirected,,1,Figur,Rolle,Mann
+Goldammer,Antragsteller,Undirected,,1,Figur,Rolle,Mann
+Herr Felgentreu,Felgentreu,Undirected,,1,Figur,Rolle,Mann
+Deutsche,Germans,Undirected,,1,Figur,Rolle,Genderneutral
+Jenny Treibel,lady,Undirected,,1,Figur,Rolle,Frau
+Marcell Wedderkopp,Freund,Undirected,,1,Figur,Rolle,Mann
+Leopold Treibel,Junge,Undirected,,1,Figur,Rolle,Mann
+Marcell Wedderkopp,Herr Doktor,Undirected,,1,Figur,Rolle,Mann
+Corinna Schmidt,Cousinchen,Undirected,,1,Figur,Rolle,Frau
+Leopold Treibel,Mensch,Undirected,,1,Figur,Rolle,Genderneutral
+Corinna Schmidt,Person,Undirected,,1,Figur,Rolle,Genderneutral
+Corinna Schmidt,Mädchen,Undirected,,1,Figur,Rolle,Frau
+Corinna Schmidt,Frauenzimmer,Undirected,,1,Figur,Rolle,Frau
+Leopold Treibel,Geldleute,Undirected,,1,Figur,Rolle,Genderneutral
+Wilibald Schmidt,Alter,Undirected,,1,Figur,Rolle,Mann
+Corinna Schmidt,Hauptperson,Undirected,,1,Figur,Rolle,Genderneutral
+Wilibald Schmidt,Nebenpersonen,Undirected,,1,Figur,Rolle,Genderneutral
+Corinna Schmidt,Corinne au Capitole,Undirected,,1,Figur,Rolle,Frau
+Helene Treibel,Schwägerin,Undirected,,1,Figur,Rolle,Frau
+Marcell Wedderkopp,Oberlehrer,Undirected,,1,Figur,Rolle,Mann
+Jenny Treibel,Schwiegermama,Undirected,,1,Figur,Rolle,Frau
+Herr Schmolke,Mann,Undirected,,1,Figur,Rolle,Mann
+Herr Schmolke,Schutzmann,Undirected,,1,Figur,Rolle,Mann
+Corinna Schmidt,Corinnchen,Undirected,,1,Figur,Rolle,Frau
+Leopold Treibel,Rettungsanker,Undirected,,1,Figur,Rolle,Mann
+Leopold Treibel,Marssegel,Undirected,,1,Figur,Rolle,Genderneutral
+Friedrich Distelkamp,Gymnasialdirektor,Undirected,,1,Figur,Rolle,Mann
+Friedrich Distelkamp,Senior,Undirected,,1,Figur,Rolle,Mann
+"Rindfleisch, Hannibal Kuh",Professoren,Undirected,,1,Figur,Rolle,Mann
+Immanuel Schultze,Oberlehrer,Undirected,,1,Figur,Rolle,Mann
+Charles Etienne,Doktor,Undirected,,1,Figur,Rolle,Mann
+Charles Etienne,Freund,Undirected,,1,Figur,Rolle,Mann
+Charles Etienne,Studiengenosse,Undirected,,1,Figur,Rolle,Mann
+Charles Etienne,Lehrer,Undirected,,1,Figur,Rolle,Mann
+Friedeberg,Zeichenlehrer,Undirected,,1,Figur,Rolle,Mann
+Immanuel Schultze,Hauptgegner,Undirected,,1,Figur,Rolle,Mann
+Friedeberg,Publikum,Undirected,,1,Figur,Rolle,Genderneutral
+"Friedrich Distelkamp, Rindfleisch, Hannibal Kuh, Charles Etienne, Friedeberg, Immanuel Schultze",Freunde,Undirected,,1,Figur,Rolle,Genderneutral
+Friedeberg,Zuhörer,Undirected,,1,Figur,Rolle,Mann
+Wilibald Schmidt,Seele,Undirected,,1,Figur,Rolle,Genderneutral
+"Friedrich Distelkamp, Rindfleisch, Hannibal Kuh, Charles Etienne, Friedeberg, Immanuel Schultze, Wilibald Schmidt",Waisen,Undirected,,1,Figur,Rolle,Genderneutral
+Immanuel Schultze,Gottfried-Keller-Schwärmer,Undirected,,1,Figur,Rolle,Mann
+"Friedrich Distelkamp, Rindfleisch, Hannibal Kuh, Charles Etienne, Friedeberg, Immanuel Schultze, Wilibald Schmidt",Aufrechte,Undirected,,1,Figur,Rolle,Genderneutral
+"Friedrich Distelkamp, Rindfleisch, Hannibal Kuh, Charles Etienne, Friedeberg, Immanuel Schultze, Wilibald Schmidt",Gesellschaft,Undirected,,1,Figur,Rolle,Genderneutral
+"Friedrich Distelkamp, Rindfleisch, Hannibal Kuh, Charles Etienne, Friedeberg, Immanuel Schultze, Wilibald Schmidt",Mitglieder,Undirected,,1,Figur,Rolle,Genderneutral
+Hannibal Kuh,Schwager,Undirected,,1,Figur,Rolle,Mann
+Hannibal Kuh,Kuh,Undirected,,1,Figur,Rolle,Mann
+Immanuel Schultze,Schwiegersohn,Undirected,,1,Figur,Rolle,Mann
+"Friedrich Distelkamp, Wilibald Schmidt",Freunde,Undirected,,1,Figur,Rolle,Genderneutral
+"Friedrich Distelkamp, Rindfleisch, Hannibal Kuh, Charles Etienne, Friedeberg, Immanuel Schultze, Wilibald Schmidt",Versammlung,Undirected,,1,Figur,Rolle,Genderneutral
+Großvater von Wilibald Schmidt,Großvater,Undirected,,1,Figur,Rolle,Mann
+Charles Etienne,Etienne,Undirected,,1,Figur,Rolle,Mann
+"Charles Etienne, Marcell Wedderkopp",Intime,Undirected,,1,Figur,Rolle,Genderneutral
+Charles Etienne,Gast,Undirected,,1,Figur,Rolle,Genderneutral
+Charles Etienne,Besuch,Undirected,,1,Figur,Rolle,Genderneutral
+Wilibald Schmidt,Pessimist,Undirected,,1,Figur,Rolle,Mann
+Charles Etienne,Familie,Undirected,,1,Figur,Rolle,Genderneutral
+Immanuel Schultze,Freund,Undirected,,1,Figur,Rolle,Mann
+Rindfleisch,Schwager,Undirected,,1,Figur,Rolle,Mann
+Rindfleisch,Schwiegervater,Undirected,,1,Figur,Rolle,Mann
+"Hannibal Kuh, Immanuel Schultze",Klientel,Undirected,,1,Figur,Rolle,Genderneutral
+Immanuel Schultze,Immanuel,Undirected,,1,Figur,Rolle,Mann
+Phrynichos,Tragiker,Undirected,,1,Figur,Rolle,Mann
+Phrynichos,Lustspieldichter,Undirected,,1,Figur,Rolle,Mann
+Schüler,Sekundaner,Undirected,,1,Figur,Rolle,Genderneutral
+Barfus,General,Undirected,,1,Figur,Rolle,Mann
+Barfus,Mann,Undirected,,1,Figur,Rolle,Mann
+junger Offizier,Offizier,Undirected,,1,Figur,Rolle,Mann
+junger Offizier,Abzuurteilende,Undirected,,1,Figur,Rolle,Mann
+der Mensch,Mensch,Undirected,,1,Figur,Rolle,Genderneutral
+Schüler,Jungens,Undirected,,1,Figur,Rolle,Mann
+Rindfleisch,Kerl,Undirected,,1,Figur,Rolle,Mann
+Rindfleisch,Beste,Undirected,,1,Figur,Rolle,Mann
+Immanuel Schultze,Schlieker,Undirected,,1,Figur,Rolle,Mann
+Frau Schultze,Frau,Undirected,,1,Figur,Rolle,Frau
+Immanuel Schultze,Ehespons,Undirected,,1,Figur,Rolle,Mann
+Schüler,Primaner,Undirected,,1,Figur,Rolle,Mann
+ein Lehrer,Lehrer,Undirected,,1,Figur,Rolle,Mann
+ein Direktor,Direktor,Undirected,,1,Figur,Rolle,Mann
+ein Direktor,Herr,Undirected,,1,Figur,Rolle,Mann
+die große Würdenträger,Würdenträger,Undirected,,1,Figur,Rolle,Genderneutral
+die große Würdenträger,Schlemmer,Undirected,,1,Figur,Rolle,Genderneutral
+Menschen,Seelen,Undirected,,1,Figur,Rolle,Genderneutral
+Hammerstein,Professor,Undirected,,1,Figur,Rolle,Mann
+Agathon Knurzel,Mister Punch,Undirected,,1,Figur,Rolle,Mann
+die Kirchenleute,Kirchenleute,Undirected,,1,Figur,Rolle,Genderneutral
+Friedeberg,Mann,Undirected,,1,Figur,Rolle,Mann
+Wilibald Schmidt,Urgermane,Undirected,,1,Figur,Rolle,Mann
+Friedeberg,Max Piccolomini,Undirected,,1,Figur,Rolle,Mann
+Max Piccolomini,Vorbild,Undirected,,1,Figur,Rolle,Genderneutral
+Friedeberg,Schreib- und Zeichenlehrer,Undirected,,1,Figur,Rolle,Genderneutral
+die Fürsten,Fürsten,Undirected,,1,Figur,Rolle,Genderneutral
+die Fürsten,Vorfahren,Undirected,,1,Figur,Rolle,Genderneutral
+"Wilibald Schmidt, Friedrich Distelkamp",Herren,Undirected,,1,Figur,Rolle,Mann
+Portier von Friedeberg,Portier,Undirected,,1,Figur,Rolle,Mann
+Portier von Friedeberg,Freund,Undirected,,1,Figur,Rolle,Mann
+Portier von Friedeberg,Gönner,Undirected,,1,Figur,Rolle,Mann
+"Friedrich Distelkamp, Friedeberg, Charles Etienne",Herren,Undirected,,1,Figur,Rolle,Mann
+Wilibald Schmidt,Gastgeber,Undirected,,1,Figur,Rolle,Mann
+Wilibald Schmidt,Feldherr,Undirected,,1,Figur,Rolle,Mann
+Wilibald Schmidt,Wirt,Undirected,,1,Figur,Rolle,Mann
+Wilibald Schmidt,Weiser,Undirected,,1,Figur,Rolle,Mann
+Friedeberg,Neumärker,Undirected,,1,Figur,Rolle,Mann
+Friedeberg,Oderbrücher,Undirected,,1,Figur,Rolle,Mann
+Friedeberg,Virtuose,Undirected,,1,Figur,Rolle,Mann
+Charles Etienne,Feinschmecker,Undirected,,1,Figur,Rolle,Mann
+Dienstleute,Bevölkerung,Undirected,,1,Figur,Rolle,Genderneutral
+Dienstleute,Gesinde,Undirected,,1,Figur,Rolle,Genderneutral

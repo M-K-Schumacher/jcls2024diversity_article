@@ -1,0 +1,141 @@
+Id,Label,node type,gender
+Herzogin von Harley,Herzogin von Harley,Figur,
+Lord Faudel,Lord Faudel,Figur,
+Dorians Vater,Dorians Vater,Figur,
+Sir Thomas Burdon,Sir Thomas Burdon,Figur,
+Sibyl Vanes Mutter,Sibyl Vanes Mutter,Figur,
+Herzog von Harley,Herzog von Harley,Figur,
+Herr Erskine,Herr Erskine,Figur,
+Onkel Lord Fermor,Onkel Lord Fermor,Figur,
+Lady Brandon,Lady Brandon,Figur,
+Dorians Mutter,Dorians Mutter,Figur,
+Romeo,Romeo,Figur,
+Ein Hebräer,Ein Hebräer,Figur,
+Ein Diener,Ein Diener,Figur,
+Dorians Großvater,Dorians Großvater,Figur,
+Sibyl Vane,Sibyl Vane,Figur,
+Ein Jude,Ein Jude,Figur,
+Damen,Damen,Figur,
+Lord Henry,Lord Henry,Figur,
+Herr Erskine of Treadley,Herr Erskine of Treadley,Figur,
+Dartmoor,Dartmoor,Figur,
+Vater von Lord Fermor,Vater von Lord Fermor,Figur,
+Tante Agatha,Tante Agatha,Figur,
+Mercutio,Mercutio,Figur,
+Lady Henry,Lady Henry,Figur,
+Basil Hallward,Basil Hallward,Figur,
+Frau Vandeleur,Frau Vandeleur,Figur,
+Ein Herr,Ein Herr,Figur,
+Akademiker,Akademiker,Figur,
+Basil,Basil,Figur,
+Eine Amerikanerin,Eine Amerikanerin,Figur,
+Witwen,Witwen,Figur,
+Jüngling,Jüngling,Rolle,männlich
+Maler,Maler,Rolle,männlich
+Schöpfer,Schöpfer,Rolle,männlich
+Lieber,Lieber,Rolle,männlich
+Kauz,Kauz,Rolle,männlich
+Adonis,Adonis,Rolle,männlich
+Narziß,Narziß,Rolle,männlich
+Freund,Freund,Rolle,männlich
+Geschöpf,Geschöpf,Rolle,genderneutral
+Künstler,Künstler,Rolle,männlich
+Harry,Harry,Rolle,männlich
+Ehefrau,Ehefrau,Rolle,weiblich
+Ehemann,Ehemann,Rolle,männlich
+Mann,Mann,Rolle,männlich
+Gefährte,Gefährte,Rolle,männlich
+Frau,Frau,Rolle,weiblich
+Mensch,Mensch,Rolle,genderneutral
+Herr,Herr,Rolle,männlich
+Pfau,Pfau,Rolle,genderneutral
+Junge,Junge,Rolle,männlich
+Mutter,Mutter,Rolle,weiblich
+Lord,Lord,Rolle,männlich
+Bekannter,Bekannter,Rolle,männlich
+Bruder,Bruder,Rolle,männlich
+Modell,Modell,Rolle,genderneutral
+Knabe,Knabe,Rolle,männlich
+Tante,Tante,Rolle,weiblich
+Wesen,Wesen,Rolle,genderneutral
+Diener,Diener,Rolle,männlich
+Liebling,Liebling,Rolle,genderneutral
+Opfer,Opfer,Rolle,genderneutral
+Märtyrer,Märtyrer,Rolle,männlich
+Bester,Bester,Rolle,männlich
+Menschenkind,Menschenkind,Rolle,genderneutral
+Fremder,Fremder,Rolle,männlich
+Zwanzigjähriger,Zwanzigjähriger,Rolle,männlich
+Bursche,Bursche,Rolle,männlich
+Wirbelkopf,Wirbelkopf,Rolle,genderneutral
+Knäblein,Knäblein,Rolle,männlich
+Original,Original,Rolle,genderneutral
+Onkel,Onkel,Rolle,männlich
+Junggeselle,Junggeselle,Rolle,männlich
+Egoist,Egoist,Rolle,männlich
+Gesandter,Gesandter,Rolle,männlich
+Privatsekretär,Privatsekretär,Rolle,männlich
+Chef,Chef,Rolle,männlich
+Tory,Tory,Rolle,männlich
+Held,Held,Rolle,männlich
+Dandy,Dandy,Rolle,männlich
+George,George,Rolle,männlich
+Diplomat,Diplomat,Rolle,männlich
+Enkel,Enkel,Rolle,männlich
+Devereux,Devereux,Rolle,genderneutral
+Mädchen,Mädchen,Rolle,weiblich
+Tochter,Tochter,Rolle,weiblich
+Mädel,Mädel,Rolle,weiblich
+Sohn,Sohn,Rolle,männlich
+Kerlchen,Kerlchen,Rolle,männlich
+Köter,Köter,Rolle,männlich
+Kerl,Kerl,Rolle,männlich
+Edelmann,Edelmann,Rolle,männlich
+Protektionskind,Protektionskind,Rolle,genderneutral
+Frauenzimmer,Frauenzimmer,Rolle,weiblich
+Kind,Kind,Rolle,genderneutral
+Abkömmling,Abkömmling,Rolle,genderneutral
+Dame,Dame,Rolle,weiblich
+Parlamentsmitglied,Parlamentsmitglied,Rolle,männlich
+Nachbarin,Nachbarin,Rolle,weiblich
+Freundin,Freundin,Rolle,weiblich
+Liebe,Liebe,Rolle,weiblich
+Neffe,Neffe,Rolle,männlich
+Baronet,Baronet,Rolle,männlich
+Politiker,Politiker,Rolle,männlich
+Herzogin,Herzogin,Rolle,weiblich
+Victoria,Victoria,Rolle,weiblich
+Ausländer,Ausländer,Rolle,männlich
+Kosmopolit,Kosmopolit,Rolle,männlich
+Paradiesvogel,Paradiesvogel,Rolle,genderneutral
+Schauspielerin,Schauspielerin,Rolle,weiblich
+Genie,Genie,Rolle,genderneutral
+Baron,Baron,Rolle,männlich
+Monstrum,Monstrum,Rolle,genderneutral
+Rosalinde,Rosalinde,Rolle,weiblich
+Imogen,Imogen,Rolle,weiblich
+Geliebter,Geliebter,Rolle,männlich
+Kunstmäzen,Kunstmäzen,Rolle,männlich
+Kreatur,Kreatur,Rolle,genderneutral
+Fräulein,Fräulein,Rolle,weiblich
+Prinz,Prinz,Rolle,männlich
+Prinz Märchenschön,Prinz Märchenschön,Rolle,männlich
+Figur,Figur,Rolle,genderneutral
+Lady Capolet,Lady Capolet,Rolle,weiblich
+Julia,Julia,Rolle,weiblich
+Philister,Philister,Rolle,männlich
+Person,Person,Rolle,genderneutral
+Lord Henrys Frau,Lord Henrys Frau,Figur,
+Dorians Freund,Diroians Freund,Figur,
+Dorian Grays Mutter,Dorians Mutter,Figur,
+Lady Agatha,Lady Agatha,Figur,
+Parker,Parker,Figur,
+Lord Fermor,Lord Fermor,Figur,
+Lord Fermors Vater,Lord Fermores Vater,Figur,
+Lady Margaret,Lady Margaret,Figur,
+Kelso,Kelso,Figur,
+Agatha,Agatha,Figur,
+Plato,Plato,Figur,
+Erskine of Treadley,Erskine of Treadley,Figur,
+Jude,Jude,Figur,
+Dorian,Dorian,Figur,

@@ -1,0 +1,134 @@
+Source,Target,Type,Label,Weight,source type,edge label,target type
+Wesen,Mensch,Undirected,,1,Figur,verkörpert,Rolle
+Anna Pawlowna Scherer,Hofdame,Undirected,,1,Figur,verkörpert,Rolle
+Anna Pawlowna Scherer,Vertraute,Undirected,,1,Figur,verkörpert,Rolle
+Maria Feodorowna,Kaiserinmutter,Undirected,,1,Figur,verkörpert,Rolle
+Fürst Wasili,Graf,Undirected,,1,Figur,verkörpert,Rolle
+Fürst Wasili,Fürst,Undirected,,1,Figur,verkörpert,Rolle
+Anna Pawlowna Scherer,Patientin,Undirected,,1,Figur,verkörpert,Rolle
+Fürst Wasili,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Anna Pawlowna Scherer,Freundin,Undirected,,1,Figur,verkörpert,Rolle
+Fürst Wasili,Freund,Undirected,,1,Figur,verkörpert,Rolle
+Fürst Wasili,Schauspieler,Undirected,,1,Figur,verkörpert,Rolle
+Anna Pawlowna Scherer,Enthusiastin,Undirected,,1,Figur,verkörpert,Rolle
+Anna Pawlowna Scherer,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Vicomte Mortemart,Emigrant,Undirected,,1,Figur,verkörpert,Rolle
+Abbé Morio,Geist,Undirected,,1,Figur,verkörpert,Rolle
+Baron Funke,Sekretär,Undirected,,1,Figur,verkörpert,Rolle
+Baron Funke,Baron,Undirected,,1,Figur,verkörpert,Rolle
+Baron Funke,Subjekt,Undirected,,1,Figur,verkörpert,Rolle
+Maria Feodorowna,Gönnerin,Undirected,,1,Figur,verkörpert,Rolle
+Maria Feodorowna,Majestät,Undirected,,1,Figur,verkörpert,Rolle
+Anatol,Sohn,Undirected,,1,Figur,verkörpert,Rolle
+Fürst Wasili,Vater,Undirected,,1,Figur,verkörpert,Rolle
+Ippolit,Sohn,Undirected,,1,Figur,verkörpert,Rolle
+Ippolit,Narr,Undirected,,1,Figur,verkörpert,Rolle
+Anatol,Narr,Undirected,,1,Figur,verkörpert,Rolle
+Fürst Wasili,Sklave,Undirected,,1,Figur,verkörpert,Rolle
+Anatol,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Ippolit,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Fürst Bolkonski,Vater,Undirected,,1,Figur,verkörpert,Rolle
+Bolkonskis Tochter,Mädchen,Undirected,,1,Figur,verkörpert,Rolle
+Bolkonskis Tochter,Verwandte,Undirected,,1,Figur,verkörpert,Rolle
+Bolkonskis Tochter,Tochter,Undirected,,1,Figur,verkörpert,Rolle
+Bolkonskis Tochter,Prinzessin,Undirected,,1,Figur,verkörpert,Rolle
+Fürst Bolkonski,König von Preußen,Undirected,,1,Figur,verkörpert,Rolle
+Fürst Bolkonski,Mensch,Undirected,,1,Figur,verkörpert,Rolle
+Bolkonskis Tochter,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Anna Pawlowna Scherer,Anette,Undirected,,1,Figur,verkörpert,Rolle
+Anna Pawlowna Scherer,Fräulein,Undirected,,1,Figur,verkörpert,Rolle
+Lisa Bolkonski,Frau,Undirected,,1,Figur,verkörpert,Rolle
+Helene,Tochter,Undirected,,1,Figur,verkörpert,Rolle
+Helene,Abiturientin,Undirected,,1,Figur,verkörpert,Rolle
+Fürstin Bolkonskaja,Frau,Undirected,,1,Figur,verkörpert,Rolle
+Fürstin Bolkonskaja,Mutter,Undirected,,1,Figur,verkörpert,Rolle
+Fürstin Bolkonskaja,Fürstin,Undirected,,1,Figur,verkörpert,Rolle
+Anna Pawlowna Scherer,Annette,Undirected,,1,Figur,verkörpert,Rolle
+Anna Pawlowna Scherer,Wirtin,Undirected,,1,Figur,verkörpert,Rolle
+Fürstin Bolkonskaja,Lisa,Undirected,,1,Figur,verkörpert,Rolle
+Pierre,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Pierre,Sohn,Undirected,,1,Figur,verkörpert,Rolle
+Pierre,Würdenträger,Undirected,,1,Figur,verkörpert,Rolle
+Pierre,Monsieur,Undirected,,1,Figur,verkörpert,Rolle
+Abbé Morio,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Pierre,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Helene,Prinzessin,Undirected,,1,Figur,verkörpert,Rolle
+Vicomte Mortemart,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Herzog von Enghien,Herzog,Undirected,,1,Figur,verkörpert,Rolle
+Helene,Weib,Undirected,,1,Figur,verkörpert,Rolle
+Helene,Person,Undirected,,1,Figur,verkörpert,Rolle
+Anna Pawlowna Scherer,Hoffräulein,Undirected,,1,Figur,verkörpert,Rolle
+Fürstin Bolkonskaja,Schwester,Undirected,,1,Figur,verkörpert,Rolle
+Ippolit,Bruder,Undirected,,1,Figur,verkörpert,Rolle
+Georges,Schauspielerin,Undirected,,1,Figur,verkörpert,Rolle
+Pierre,Mensch,Undirected,,1,Figur,verkörpert,Rolle
+Pierre,Italiener,Undirected,,1,Figur,verkörpert,Rolle
+Anna Pawlowna Scherer,Frau,Undirected,,1,Figur,verkörpert,Rolle
+Fürst Andrei Bolkonski,Person,Undirected,,1,Figur,verkörpert,Rolle
+Fürst Andrei Bolkonski,Gatte,Undirected,,1,Figur,verkörpert,Rolle
+Fürst Andrei Bolkonski,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Fürst Andrei Bolkonski,Fürst,Undirected,,1,Figur,verkörpert,Rolle
+Fürst Andrei Bolkonski,Adjutant,Undirected,,1,Figur,verkörpert,Rolle
+Fürstin Bolkonskaja,Gattin,Undirected,,1,Figur,verkörpert,Rolle
+Vicomte Mortemart,Franzose,Undirected,,1,Figur,verkörpert,Rolle
+Helene,Mädchen,Undirected,,1,Figur,verkörpert,Rolle
+Pierre,Bär,Undirected,,1,Figur,verkörpert,Rolle
+Boris,Junge,Undirected,,1,Figur,verkörpert,Rolle
+Boris,Sohn,Undirected,,1,Figur,verkörpert,Rolle
+Fürstin Drubezkaja,Dame,Undirected,,1,Figur,verkörpert,Rolle
+Fürstin Drubezkaja,Fürstin,Undirected,,1,Figur,verkörpert,Rolle
+Fürst Wasili,Wohltäter,Undirected,,1,Figur,verkörpert,Rolle
+Fürst Wasili,Mensch,Undirected,,1,Figur,verkörpert,Rolle
+Fürstin Drubezkaja,Frau,Undirected,,1,Figur,verkörpert,Rolle
+Fürstin Drubezkaja,Mutter,Undirected,,1,Figur,verkörpert,Rolle
+Fürst Wasili,Papa,Undirected,,1,Figur,verkörpert,Rolle
+Vicomte Mortemart,Mensch,Undirected,,1,Figur,verkörpert,Rolle
+Vicomte Mortemart,Royalist,Undirected,,1,Figur,verkörpert,Rolle
+Ippolit,Erzähler,Undirected,,1,Figur,verkörpert,Rolle
+Pierre,Bursche,Undirected,,1,Figur,verkörpert,Rolle
+Fürstin Bolkonskaja,Freundin,Undirected,,1,Figur,verkörpert,Rolle
+Ippolit,Herr,Undirected,,1,Figur,verkörpert,Rolle
+Ippolit,Teuerster,Undirected,,1,Figur,verkörpert,Rolle
+Fürstin Bolkonskaja,Französin,Undirected,,1,Figur,verkörpert,Rolle
+Ippolit,Mensch,Undirected,,1,Figur,verkörpert,Rolle
+Pierre,Freund,Undirected,,1,Figur,verkörpert,Rolle
+Pierre,Lieber,Undirected,,1,Figur,verkörpert,Rolle
+Pierre,Diplomat,Undirected,,1,Figur,verkörpert,Rolle
+Abbé Morio,Freimaurer,Undirected,,1,Figur,verkörpert,Rolle
+Pierre,Kampfhahn,Undirected,,1,Figur,verkörpert,Rolle
+Fürstin Bolkonskaja,Wesen,Undirected,,1,Figur,verkörpert,Rolle
+Fürst Andrei Bolkonski,Flügeladjutant,Undirected,,1,Figur,verkörpert,Rolle
+Fürst Andrei Bolkonski,Freund,Undirected,,1,Figur,verkörpert,Rolle
+Fürst Andrei Bolkonski,Egoist,Undirected,,1,Figur,verkörpert,Rolle
+Fürstin Bolkonskaja,Kranke,Undirected,,1,Figur,verkörpert,Rolle
+Fürstin Bolkonskaja,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Pierre,Fremder,Undirected,,1,Figur,verkörpert,Rolle
+Fürstin Bolkonskaja,Dame,Undirected,,1,Figur,verkörpert,Rolle
+Fürst Andrei Bolkonski,Ehegatte,Undirected,,1,Figur,verkörpert,Rolle
+Fürst Andrei Bolkonski,Mensch,Undirected,,1,Figur,verkörpert,Rolle
+Fürstin Bolkonskaja,Weib,Undirected,,1,Figur,verkörpert,Rolle
+Fürst Andrei Bolkonski,Plauderer,Undirected,,1,Figur,verkörpert,Rolle
+Pierre,Teuerster,Undirected,,1,Figur,verkörpert,Rolle
+Antol,Sohn,Undirected,,1,Figur,verkörpert,Rolle
+Fürst Wasili,Kuragin,Undirected,,1,Figur,verkörpert,Rolle
+Anatol,Hausherr,Undirected,,1,Figur,verkörpert,Rolle
+Dolochow,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Dolochow,Offizier,Undirected,,1,Figur,verkörpert,Rolle
+Dolochow,Spieler,Undirected,,1,Figur,verkörpert,Rolle
+Dolochow,Raufbold,Undirected,,1,Figur,verkörpert,Rolle
+Stevens,Engländer,Undirected,,1,Figur,verkörpert,Rolle
+Stevens,Seemann,Undirected,,1,Figur,verkörpert,Rolle
+Anatol,Berühmtheit,Undirected,,1,Figur,verkörpert,Rolle
+Dolochow,Berühmtheit,Undirected,,1,Figur,verkörpert,Rolle
+Pierre,Kraftmensch,Undirected,,1,Figur,verkörpert,Rolle
+Dolochow,Sitzender,Undirected,,1,Figur,verkörpert,Rolle
+Dolochow,Kerl,Undirected,,1,Figur,verkörpert,Rolle
+Pierre,Betrunkener,Undirected,,1,Figur,verkörpert,Rolle
+Boris,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Borsi,Fähnrich,Undirected,,1,Figur,verkörpert,Rolle
+Boris,Fähnrich,Undirected,,1,Figur,verkörpert,Rolle
+Natalia,Tochter,Undirected,,1,Figur,verkörpert,Rolle
+Dmitri Wasiljewitsch,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Marja Lwowna Karagina,Gräfin,Undirected,,1,Figur,verkörpert,Rolle
+Graf Besuchow,Krösus,Undirected,,1,Figur,verkörpert,Rolle
+Graf Besuchow,Lebemann,Undirected,,1,Figur,verkörpert,Rolle

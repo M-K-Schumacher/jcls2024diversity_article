@@ -1,0 +1,347 @@
+Source,Target,Type,Label,Weight,source type,target type,gender
+Effi Briest,Effi,Undirected,,1,Figur,Genderrolle,Frau
+Effi Briest,Briest,Undirected,,1,Figur,Genderrolle,Frau
+Kurfürst Georg Wilhelm,Kurfürst Georg Wilhelm,Undirected,,1,Figur,Genderrolle,Mann
+Familie Briest,Familie von Briest,Undirected,,1,Figur,Genderrolle,Genderneutral
+Luise Briest,Frau,Undirected,,1,Figur,Genderrolle,Frau
+Effi Briest,Tochter,Undirected,,1,Figur,Genderrolle,Frau
+Luise Briest,Mutter,Undirected,,1,Figur,Genderrolle,Frau
+Bertha Jahnke,Damen,Undirected,,1,Figur,Genderrolle,Frau
+Hulda Niemeyer,Damen,Undirected,,1,Figur,Genderrolle,Frau
+Hertha Jahnke,Damen,Undirected,,1,Figur,Genderrolle,Frau
+Luise Briest,Mama,Undirected,,1,Figur,Genderrolle,Frau
+Effi Briest,Kind,Undirected,,1,Figur,Genderrolle,Genderneutral
+Effi Briest,Kunstreiterin,Undirected,,1,Figur,Genderrolle,Frau
+Herr Briest,Papa,Undirected,,1,Figur,Genderrolle,Mann
+Effi Briest,Backfisch,Undirected,,1,Figur,Genderrolle,Genderneutral
+Familie Rathenower,Rathenower,Undirected,,1,Figur,Genderrolle,Genderneutral
+Oberst Goetze,Oberst Goetzes,Undirected,,1,Figur,Genderrolle,Mann
+Oberst Goetze,Onkel,Undirected,,1,Figur,Genderrolle,Mann
+Oberst Goetze,Courmacher,Undirected,,1,Figur,Genderrolle,Mann
+Effi Briest,Dame,Undirected,,1,Figur,Genderrolle,Frau
+Effi Briest,Mädchen,Undirected,,1,Figur,Genderrolle,Frau
+Efii Briest,Effi,Undirected,,1,Figur,Genderrolle,Frau
+Luise Briest,von Briest,Undirected,,1,Figur,Genderrolle,Frau
+Effi Briest,Volk,Undirected,,1,Figur,Genderrolle,Genderneutral
+Effi Briest,Jugend,Undirected,,1,Figur,Genderrolle,Genderneutral
+Bertha Jahnke,Mädchen,Undirected,,1,Figur,Genderrolle,Frau
+Hulda Niemeyer,Mädchen,Undirected,,1,Figur,Genderrolle,Frau
+Hertha Jahnke,Mädchen,Undirected,,1,Figur,Genderrolle,Frau
+Effi Briest,Persönchen,Undirected,,1,Figur,Genderrolle,Genderneutral
+Effi Briest,Töchter,Undirected,,1,Figur,Genderrolle,Frau
+Fritz Reuter,Fritz,Undirected,,1,Figur,Genderrolle,Mann
+Fritz Reuter,Reuter,Undirected,,1,Figur,Genderrolle,Mann
+Fritz Reuter,Kantors,Undirected,,1,Figur,Genderrolle,Mann
+Herr Jahnke,Jahnke,Undirected,,1,Figur,Genderrolle,Mann
+Herr Jahnke,Landsmann,Undirected,,1,Figur,Genderrolle,Mann
+Herr Jahnke,Lieblingsdichter,Undirected,,1,Figur,Genderrolle,Mann
+Bertha Jahnke,Bertha,Undirected,,1,Figur,Genderrolle,Frau
+Hertha Jahnke,Hertha,Undirected,,1,Figur,Genderrolle,Frau
+Hertha Jahnke,Dame,Undirected,,1,Figur,Genderrolle,Frau
+Hulda Niemeyer,Hulda,Undirected,,1,Figur,Genderrolle,Frau
+Hulda Niemeyer,Niemeyer,Undirected,,1,Figur,Genderrolle,Frau
+Pastor Niermeyer,Pastor,Undirected,,1,Figur,Genderrolle,Mann
+Pastor Niermeyer,Niemeyers,Undirected,,1,Figur,Genderrolle,Mann
+Hulda Niemeyer,Kind,Undirected,,1,Figur,Genderrolle,Genderneutral
+Hulda Niemeyer,Blondine,Undirected,,1,Figur,Genderrolle,Frau
+die Husaren,Husaren,Undirected,,1,Figur,Genderrolle,Genderneutral
+Engel Gabriel,Engel Gabriel,Undirected,,1,Figur,Genderrolle,Mann
+Bertha Jahnke,Freundin,Undirected,,1,Figur,Genderrolle,
+Hulda Niemeyer,Freundin,Undirected,,1,Figur,Genderrolle,
+Hertha Jahnke,Freundin,Undirected,,1,Figur,Genderrolle,Frau
+Gott,Gott,Undirected,,1,Figur,Genderrolle,Genderneutral
+Held,Held,Undirected,,1,Figur,Genderrolle,Mann
+Heldin,Heldin,Undirected,,1,Figur,Genderrolle,Frau
+Luise Briest,Mamas,Undirected,,1,Figur,Genderrolle,Frau
+Geert Instetten,Freund,Undirected,,1,Figur,Genderrolle,Mann
+Geert Instetten,Landrat,Undirected,,1,Figur,Genderrolle,Mann
+Weiber,Weiber,Undirected,,1,Figur,Genderrolle,Frau
+Männer,Männer,Undirected,,1,Figur,Genderrolle,Mann
+Herr Briest,Papas,Undirected,,1,Figur,Genderrolle,Mann
+Hulda Niemeyer,Gouvernante,Undirected,,1,Figur,Genderrolle,Frau
+Hulda Niemeyer,Jungfer,Undirected,,1,Figur,Genderrolle,Frau
+Effi Briest,Fräulein,Undirected,,1,Figur,Genderrolle,Frau
+Älteste,Älteste,Undirected,,1,Figur,Genderrolle,Frau
+Geert Instetten,Geert,Undirected,,1,Figur,Genderrolle,Mann
+Geert Instetten,von,Undirected,,1,Figur,Genderrolle,Mann
+Geert Instetten,Innstetten,Undirected,,1,Figur,Genderrolle,Mann
+Geert Instetten,Baron,Undirected,,1,Figur,Genderrolle,Mann
+Mensch,Mensch,Undirected,,1,Figur,Genderrolle,Genderneutral
+Effi Briest,Liebe,Undirected,,1,Figur,Genderrolle,Frau
+Adelige,Adelige,Undirected,,1,Figur,Genderrolle,Genderneutral
+Freunde,Freunde,Undirected,,1,Figur,Genderrolle,Mann
+Herr Briest,Leutnant,Undirected,,1,Figur,Genderrolle,Mann
+Familie Rathenower,Rathenowern,Undirected,,1,Figur,Genderrolle,Genderneutral
+Großvater Briest,Großvater,Undirected,,1,Figur,Genderrolle,Mann
+Belling,Belling,Undirected,,1,Figur,Genderrolle,Mann
+Großvater Briest,Großvaters,Undirected,,1,Figur,Genderrolle,Mann
+Otto von Bismarck,Bismarck,Undirected,,1,Figur,Genderrolle,Mann
+Otto von Bismarck,Kaiser,Undirected,,1,Figur,Genderrolle,Mann
+Freundschaft,Freundschaft,Undirected,,1,Figur,Genderrolle,Genderneutral
+Verwandte,Verwandtschaft,Undirected,,1,Figur,Genderrolle,Genderneutral
+Verwandte,Verwandte,Undirected,,1,Figur,Genderrolle,Genderneutral
+Familie Instetten,Innstettens,Undirected,,1,Figur,Genderrolle,Genderneutral
+Vettern,Vettern,Undirected,,1,Figur,Genderrolle,Mann
+Herr Briest,Vater,Undirected,,1,Figur,Genderrolle,Mann
+Wilke,Wilke,Undirected,,1,Figur,Genderrolle,Mann
+Wilke,Briestsche,Undirected,,1,Figur,Genderrolle,Mann
+Wilke,Haus,Undirected,,1,Figur,Genderrolle,Mann
+Geert Instetten,Herr,Undirected,,1,Figur,Genderrolle,Mann
+Frauen,Frauen,Undirected,,1,Figur,Genderrolle,Frau
+Kandidat Holzapfel,Kandidat,Undirected,,1,Figur,Genderrolle,Mann
+Kandidat Holzapfel,Holzapfel,Undirected,,1,Figur,Genderrolle,Mann
+Effi Briest,Schiffsjunge,Undirected,,1,Figur,Genderrolle,Mann
+Effi Briest,Midshipman,Undirected,,1,Figur,Genderrolle,Mann
+Kantor Jahnke,Jahnke,Undirected,,1,Figur,Genderrolle,Mann
+Belling,Bellingschen,Undirected,,1,Figur,Genderrolle,Genderneutral
+Hulda Niemeyer,Pastorskind,Undirected,,1,Figur,Genderrolle,Genderneutral
+Dagobert Briest,Vetter,Undirected,,1,Figur,Genderrolle,Mann
+Dagobert Briest,Briest,Undirected,,1,Figur,Genderrolle,Mann
+Dagobert Briest,Kadett,Undirected,,1,Figur,Genderrolle,Mann
+Fürsten,Fürsten,Undirected,,1,Figur,Genderrolle,Mann
+Hertha Jahnke,Freundinnen,Undirected,,1,Figur,Genderrolle,Frau
+Hulda Niemeyer,Freundinnen,Undirected,,1,Figur,Genderrolle,Frau
+Bertha Jahnke,Freundinnen,Undirected,,1,Figur,Genderrolle,Frau
+Bertha Jahnke,Verfolger,Undirected,,1,Figur,Genderrolle,Mann
+Hulda Niemeyer,Besuch,Undirected,,1,Figur,Genderrolle,Genderneutral
+Hertha Jahnke,Besuch,Undirected,,1,Figur,Genderrolle,Genderneutral
+Geert Instetten,Besuch,Undirected,,1,Figur,Genderrolle,Genderneutral
+Hertha Jahnke,Zwillingen,Undirected,,1,Figur,Genderrolle,Genderneutral
+Bertha Jahnke,Zwillingen,Undirected,,1,Figur,Genderrolle,Genderneutral
+Kavaliere,Kavaliere,Undirected,,1,Figur,Genderrolle,Mann
+Aschenputtel,Aschenputtel,Undirected,,1,Figur,Genderrolle,Frau
+Prinzessin,Prinzessin,Undirected,,1,Figur,Genderrolle,Frau
+Effi Briest,Geschöpf,Undirected,,1,Figur,Genderrolle,Genderneutral
+Effi Briest,Kindes,Undirected,,1,Figur,Genderrolle,Genderneutral
+Geert Instetten,Mann,Undirected,,1,Figur,Genderrolle,Mann
+Herr Briest,Vaters,Undirected,,1,Figur,Genderrolle,Mann
+Herr Briest,Ritterschaftsrat,Undirected,,1,Figur,Genderrolle,Mann
+Herr Briest,von,Undirected,,1,Figur,Genderrolle,Mann
+Herr Briest,Briest,Undirected,,1,Figur,Genderrolle,Mann
+Bertha Jahnke,Schwestern,Undirected,,1,Figur,Genderrolle,Frau
+Hertha Jahnke,Schwestern,Undirected,,1,Figur,Genderrolle,Frau
+Herr Briest,Brautvater,Undirected,,1,Figur,Genderrolle,Mann
+Geert Instetten; Effi Briest,Paar,Undirected,,1,Figur,Genderrolle,Genderneutral
+Familien,Familien,Undirected,,1,Figur,Genderrolle,Genderneutral
+Person,Person,Undirected,,1,Figur,Genderrolle,Genderneutral
+Kinder,Kinder,Undirected,,1,Figur,Genderrolle,Genderneutral
+Familie Instetten,Innstetten,Undirected,,1,Figur,Genderrolle,Genderneutral
+Geert Instetten,Brautpaar,Undirected,,1,Figur,Genderrolle,Genderneutral
+Effi Briest,Brautpaar,Undirected,,1,Figur,Genderrolle,Genderneutral
+Luise Briest,Luise,Undirected,,1,Figur,Genderrolle,Frau
+Pastor Niemeyer,Pastors,Undirected,,1,Figur,Genderrolle,Genderneutral
+Frau Pastorin Niemeyer,Frau,Undirected,,1,Figur,Genderrolle,Frau
+Frau Pastorin Niemeyer,Pastorin,Undirected,,1,Figur,Genderrolle,Frau
+Pastor Niemeyer,Niemeyer,Undirected,,1,Figur,Genderrolle,Mann
+Frau Pastorin Niemeyer,Wirtschafterin,Undirected,,1,Figur,Genderrolle,Frau
+Familie Niemeyer,Pastors,Undirected,,1,Figur,Genderrolle,Genderneutral
+Familie Jahnke,Kantor,Undirected,,1,Figur,Genderrolle,Mann
+Familie Jahnke,Jahnkes,Undirected,,1,Figur,Genderrolle,Mann
+Jeder,Jeder,Undirected,,1,Figur,Genderrolle,Mann
+Richtige,Richtige,Undirected,,1,Figur,Genderrolle,Mann
+Herr Briest,Schwiegervater,Undirected,,1,Figur,Genderrolle,Mann
+Geert Instetten,Schwiegersohn,Undirected,,1,Figur,Genderrolle,Mann
+Vorgesetzte,Vorgesetzte,Undirected,,1,Figur,Genderrolle,Mann
+Gertrud,Gertrud,Undirected,,1,Figur,Genderrolle,Frau
+Klara,Klara,Undirected,,1,Figur,Genderrolle,Frau
+Freundinnen,Freundinnen,Undirected,,1,Figur,Genderrolle,Frau
+Effi Briest,Prinzessin,Undirected,,1,Figur,Genderrolle,Frau
+Dagobert Briest,Leutnant,Undirected,,1,Figur,Genderrolle,Mann
+Effi Briest,Damen,Undirected,,1,Figur,Genderrolle,Frau
+Luise Briest,Damen,Undirected,,1,Figur,Genderrolle,Frau
+Dagobert Briest,Dagobert,Undirected,,1,Figur,Genderrolle,Mann
+Jungfern,Jungfern,Undirected,,1,Figur,Genderrolle,Frau
+Effi Briest,Cousine,Undirected,,1,Figur,Genderrolle,Frau
+Luise Briest,Tante,Undirected,,1,Figur,Genderrolle,Frau
+Effi Briest,Kinde,Undirected,,1,Figur,Genderrolle,Genderneutral
+Friedrich Karl,Friedrich,Undirected,,1,Figur,Genderrolle,Mann
+Friedrich Karl,Karl,Undirected,,1,Figur,Genderrolle,Mann
+Tante Therese,Tante,Undirected,,1,Figur,Genderrolle,Frau
+Tante Therese,Therese,Undirected,,1,Figur,Genderrolle,Frau
+Effi Briest,Liebling,Undirected,,1,Figur,Genderrolle,Genderneutral
+Alexanderoffizier,Alexanderoffizieren,Undirected,,1,Figur,Genderrolle,Mann
+Dienstmann,Dienstmann,Undirected,,1,Figur,Genderrolle,Mann
+Mausefallenhändler,Mausefallenhändler,Undirected,,1,Figur,Genderrolle,Mann
+Kameraden,Kameraden,Undirected,,1,Figur,Genderrolle,Mann
+Dagobert Briest,Tänzer,Undirected,,1,Figur,Genderrolle,Mann
+Inspektor Pink,Inspektor,Undirected,,1,Figur,Genderrolle,Mann
+Inspektor Pink,Pink,Undirected,,1,Figur,Genderrolle,Mann
+Gärtnersfrau,Gärtnersfrau,Undirected,,1,Figur,Genderrolle,Frau
+Inspektor Pink,Mann,Undirected,,1,Figur,Genderrolle,Mann
+Hulda Niemeyer,Käthchen,Undirected,,1,Figur,Genderrolle,Frau
+Leutnant Engelbrecht,Leutnant,Undirected,,1,Figur,Genderrolle,Mann
+Leutnant Engelbrecht,Engelbrecht,Undirected,,1,Figur,Genderrolle,Mann
+Pastor Niemeyer,Vater,Undirected,,1,Figur,Genderrolle,Mann
+Beteiligten,Beteiligten,Undirected,,1,Figur,Genderrolle,Genderneutral
+Herr Briest,Patronatsherrn,Undirected,,1,Figur,Genderrolle,Mann
+Herr Briest,Freundes,Undirected,,1,Figur,Genderrolle,Mann
+Herr Kleist,Kleist,Undirected,,1,Figur,Genderrolle,Mann
+Herr,Herr,Undirected,,1,Figur,Genderrolle,Mann
+Heer,Herr,Undirected,,1,Figur,Genderrolle,Mann
+Geert Instetten,Menschenexemplar,Undirected,,1,Figur,Genderrolle,Genderneutral
+Familie Briest,Briests,Undirected,,1,Figur,Genderrolle,Genderneutral
+Herr Briest,Eltern,Undirected,,1,Figur,Genderrolle,Genderneutral
+Luise Briest,Eltern,Undirected,,1,Figur,Genderrolle,Genderneutral
+Uradel,Uradel,Undirected,,1,Figur,Genderrolle,Genderneutral
+Hohenzoller,Hohenzoller,Undirected,,1,Figur,Genderrolle,Mann
+Pensionslehrer,Pensionslehrer,Undirected,,1,Figur,Genderrolle,Mann
+Aschenbrödel,Aschenbrödels,Undirected,,1,Figur,Genderrolle,Frau
+Gräfin,Gräfin,Undirected,,1,Figur,Genderrolle,Frau
+Effi Briest,Effis,Undirected,,1,Figur,Genderrolle,Frau
+Goschenhofer,Goschenhofer,Undirected,,1,Figur,Genderrolle,Mann
+Personen,Personen,Undirected,,1,Figur,Genderrolle,Genderneutral
+Kessiner,Kessiner,Undirected,,1,Figur,Genderrolle,Genderneutral
+Tambourmajor,Tambourmajor,Undirected,,1,Figur,Genderrolle,Mann
+Lot,Lot,Undirected,,1,Figur,Genderrolle,Mann
+Hulda Niemeyer,Tochter,Undirected,,1,Figur,Genderrolle,Frau
+Lots Frau,Lots,Undirected,,1,Figur,Genderrolle,Mann
+Lots Frau,Frau,Undirected,,1,Figur,Genderrolle,Frau
+Effi Briest,Schatz,Undirected,,1,Figur,Genderrolle,Genderneutral
+Effi Briest,Person,Undirected,,1,Figur,Genderrolle,Genderneutral
+Stabsarzt,Stabsarzt,Undirected,,1,Figur,Genderrolle,Mann
+Mutter,Mutter,Undirected,,1,Figur,Genderrolle,Frau
+Schwester,Schwester,Undirected,,1,Figur,Genderrolle,Frau
+Verwandte,Verwandten,Undirected,,1,Figur,Genderrolle,Genderneutral
+Geert Instetten,Generalstab,Undirected,,1,Figur,Genderrolle,Mann
+Jugendliche,Jugendliche,Undirected,,1,Figur,Genderrolle,Genderneutral
+Heer Briest,Papa,Undirected,,1,Figur,Genderrolle,Mann
+Friedrich Karl,Prinz,Undirected,,1,Figur,Genderrolle,Mann
+Kaiser,Kaiser,Undirected,,1,Figur,Genderrolle,Mann
+Dame,Dame,Undirected,,1,Figur,Genderrolle,Frau
+Tante Gundel,Tante,Undirected,,1,Figur,Genderrolle,Frau
+Tante Gundel,Gundel,Undirected,,1,Figur,Genderrolle,Frau
+Tante Olga,Tante,Undirected,,1,Figur,Genderrolle,Frau
+Tante Olga,Olga,Undirected,,1,Figur,Genderrolle,Frau
+Effi Briest,Eva,Undirected,,1,Figur,Genderrolle,Frau
+Handwerker,Handwerker,Undirected,,1,Figur,Genderrolle,Mann
+Badegast,Badegast,Undirected,,1,Figur,Genderrolle,Mann
+Badewärter,Badewärter,Undirected,,1,Figur,Genderrolle,Mann
+Gott,Gottes,Undirected,,1,Figur,Genderrolle,Genderneutral
+Dagobert Briest,Junge,Undirected,,1,Figur,Genderrolle,Mann
+Jeder,jeden,Undirected,,1,Figur,Genderrolle,Genderneutral
+Mitspielende,Mitspielenden,Undirected,,1,Figur,Genderrolle,Genderneutral
+Offiziere,Offiziere,Undirected,,1,Figur,Genderrolle,Mann
+Husaren,Husaren,Undirected,,1,Figur,Genderrolle,Genderneutral
+Kenner,Kenner,Undirected,,1,Figur,Genderrolle,Mann
+Kommis,Kommis,Undirected,,1,Figur,Genderrolle,Mann
+Effi Briest,Braut,Undirected,,1,Figur,Genderrolle,Frau
+Herren,Herren,Undirected,,1,Figur,Genderrolle,Mann
+Hofgesellschaft,Hofgesellschaft,Undirected,,1,Figur,Genderrolle,Genderneutral
+Pastor Niemeyer,Dorfpastor,Undirected,,1,Figur,Genderrolle,Mann
+Pastor Niemeyer,Freund,Undirected,,1,Figur,Genderrolle,Mann
+Pastor Niemeyer,Hofprediger,Undirected,,1,Figur,Genderrolle,Mann
+Mann,Mann,Undirected,,1,Figur,Genderrolle,Mann
+Würdenträger,Würdenträger,Undirected,,1,Figur,Genderrolle,Mann
+Herr Jahnke,Jahnkes,Undirected,,1,Figur,Genderrolle,Mann
+Luise Briest,Spielverderberin,Undirected,,1,Figur,Genderrolle,Frau
+Geert Instetten,Kerl,Undirected,,1,Figur,Genderrolle,Mann
+Effi Briest,Naturkind,Undirected,,1,Figur,Genderrolle,Genderneutral
+Frau,Frau,Undirected,,1,Figur,Genderrolle,Frau
+Menschen,Menschen,Undirected,,1,Figur,Genderrolle,Genderneutral
+Geert Instetten,Manne,Undirected,,1,Figur,Genderrolle,Mann
+Dagobert Briest,Kadetten,Undirected,,1,Figur,Genderrolle,Mann
+Geert Instetten,Träger,Undirected,,1,Figur,Genderrolle,Mann
+Personen,Person,Undirected,,1,Figur,Genderrolle,Genderneutral
+Geert Instetten,Karrieremacher,Undirected,,1,Figur,Genderrolle,Mann
+Geert Instetten,Streber,Undirected,,1,Figur,Genderrolle,Mann
+Todfeindin,Todfeindin,Undirected,,1,Figur,Genderrolle,Frau
+Hulda Niemeyer,Fräulein,Undirected,,1,Figur,Genderrolle,Frau
+Leutnant Nienkerken,Leutnant,Undirected,,1,Figur,Genderrolle,Mann
+Leutnant Nienkerken,Nienkerken,Undirected,,1,Figur,Genderrolle,Mann
+Leutnant Nienkerken,Person,Undirected,,1,Figur,Genderrolle,Genderneutral
+Mädchen,Mädchen,Undirected,,1,Figur,Genderrolle,Frau
+Kind,Kind,Undirected,,1,Figur,Genderrolle,Genderneutral
+Ratsherren,Ratsherren,Undirected,,1,Figur,Genderrolle,Mann
+Effi Briest,Baronin,Undirected,,1,Figur,Genderrolle,Frau
+Effi Briest,Innstetten,Undirected,,1,Figur,Genderrolle,Frau
+Geert Instetten,Innstettens,Undirected,,1,Figur,Genderrolle,Genderneutral
+Kruse,Kutscher,Undirected,,1,Figur,Genderrolle,Mann
+Kruse,Kruse,Undirected,,1,Figur,Genderrolle,Mann
+Ankommende,Ankommenden,Undirected,,1,Figur,Genderrolle,Genderneutral
+Kruse,Kutschers,Undirected,,1,Figur,Genderrolle,Mann
+Bahnhofsleute,Bahnhofsleuten,Undirected,,1,Figur,Genderrolle,Genderneutral
+Otto von Bismarck,Fürsten,Undirected,,1,Figur,Genderrolle,Mann
+Starost,Starosten,Undirected,,1,Figur,Genderrolle,Mann
+Starost,Starost,Undirected,,1,Figur,Genderrolle,Mann
+Golchowski,Pole,Undirected,,1,Figur,Genderrolle,Mann
+Golchowski,Golchowski,Undirected,,1,Figur,Genderrolle,Mann
+Passagier,Passagier,Undirected,,1,Figur,Genderrolle,Mann
+Loyalen,Loyalen,Undirected,,1,Figur,Genderrolle,Mann
+Herrschaften,Herrschaften,Undirected,,1,Figur,Genderrolle,Genderneutral
+Polen,Polen,Undirected,,1,Figur,Genderrolle,Genderneutral
+Leute,Leute,Undirected,,1,Figur,Genderrolle,Genderneutral
+Städter,Städter,Undirected,,1,Figur,Genderrolle,Genderneutral
+Landbevölkerung,Landbevölkerung,Undirected,,1,Figur,Genderrolle,Genderneutral
+Kaschuben,Kaschuben,Undirected,,1,Figur,Genderrolle,Genderneutral
+Eingewanderte,Eingewanderte,Undirected,,1,Figur,Genderrolle,Genderneutral
+Neger,Neger,Undirected,,1,Figur,Genderrolle,Mann
+Türken,Türken,Undirected,,1,Figur,Genderrolle,Mann
+Chinesen,Chinesen,Undirected,,1,Figur,Genderrolle,Mann
+Fremden,Fremden,Undirected,,1,Figur,Genderrolle,Genderneutral
+Großeltern,Großeltern,Undirected,,1,Figur,Genderrolle,Genderneutral
+Chinese,Chinese,Undirected,,1,Figur,Genderrolle,Mann
+Kaufmann,Kaufmann,Undirected,,1,Figur,Genderrolle,Mann
+Macpherson,Baggermeister,Undirected,,1,Figur,Genderrolle,Mann
+Macpherson,Macpherson,Undirected,,1,Figur,Genderrolle,Mann
+Macpherson,Schotten,Undirected,,1,Figur,Genderrolle,Mann
+Macpherson,Hochländer,Undirected,,1,Figur,Genderrolle,Mann
+Männchen,Männchen,Undirected,,1,Figur,Genderrolle,Mann
+Clan,Clan,Undirected,,1,Figur,Genderrolle,Genderneutral
+Walter,Walter,Undirected,,1,Figur,Genderrolle,Mann
+Scott,Scott,Undirected,,1,Figur,Genderrolle,Mann
+Beza,Wundarzt,Undirected,,1,Figur,Genderrolle,Mann
+Beza,Beza,Undirected,,1,Figur,Genderrolle,Mann
+Beza,Barbier,Undirected,,1,Figur,Genderrolle,Mann
+de Meza,General,Undirected,,1,Figur,Genderrolle,Mann
+de Meza,de,Undirected,,1,Figur,Genderrolle,Mann
+de Meza,Meza,Undirected,,1,Figur,Genderrolle,Mann
+Landverwandte,Landesverwandtschaft,Undirected,,1,Figur,Genderrolle,Genderneutral
+Stedingk,Goldschmied,Undirected,,1,Figur,Genderrolle,Mann
+Stedingk,Stedingk,Undirected,,1,Figur,Genderrolle,Mann
+Familien,Familie,Undirected,,1,Figur,Genderrolle,Genderneutral
+Reichsgrafen,Reichsgrafen,Undirected,,1,Figur,Genderrolle,Mann
+Hannemann,Doktor,Undirected,,1,Figur,Genderrolle,Mann
+Hannemann,Hannemann,Undirected,,1,Figur,Genderrolle,Mann
+Hannemann,Däne,Undirected,,1,Figur,Genderrolle,Mann
+Chirurgen,Chirurgen,Undirected,,1,Figur,Genderrolle,Mann
+Barbiere,Barbiere,Undirected,,1,Figur,Genderrolle,Mann
+Kapitäne,Kapitäne,Undirected,,1,Figur,Genderrolle,Mann
+Holländer,Holländer,Undirected,,1,Figur,Genderrolle,Mann
+Kapitän,Kapitän,Undirected,,1,Figur,Genderrolle,Mann
+Seeräuber,Seeräuber,Undirected,,1,Figur,Genderrolle,Mann
+Schwarzflaggen,Schwarzflaggen,Undirected,,1,Figur,Genderrolle,Mann
+Normannenherzog,Normannenherzog,Undirected,,1,Figur,Genderrolle,Mann
+Lebendiger,Lebendiger,Undirected,,1,Figur,Genderrolle,Mann
+Toter,Toter,Undirected,,1,Figur,Genderrolle,Mann
+Hausinsassen,Hausinsassen,Undirected,,1,Figur,Genderrolle,Genderneutral
+Dienstschaft,Dienerschaft,Undirected,,1,Figur,Genderrolle,Genderneutral
+Johanna,Hausmädchen,Undirected,,1,Figur,Genderrolle,Frau
+Johanna,Person,Undirected,,1,Figur,Genderrolle,Genderneutral
+Johanna,Frau,Undirected,,1,Figur,Genderrolle,Frau
+Hausgenossen,Hausgenossenschaft,Undirected,,1,Figur,Genderrolle,Genderneutral
+Frau Kruse,Frau,Undirected,,1,Figur,Genderrolle,Frau
+Frau Kruse,Kruse,Undirected,,1,Figur,Genderrolle,Frau
+Friedrich,Friedrich,Undirected,,1,Figur,Genderrolle,Mann
+Johanna,Johanna,Undirected,,1,Figur,Genderrolle,Frau
+Johanna,Landsmännin,Undirected,,1,Figur,Genderrolle,Frau
+Christel,Christel,Undirected,,1,Figur,Genderrolle,Frau
+Herr,Herrn,Undirected,,1,Figur,Genderrolle,Mann
+Effi Briest,Frau,Undirected,,1,Figur,Genderrolle,Frau
+Johanna; Christel,Mädchen,Undirected,,1,Figur,Genderrolle,Frau
+Geert Instetten,Hausherrn,Undirected,,1,Figur,Genderrolle,Mann
+Effi Briest,Ding,Undirected,,1,Figur,Genderrolle,Genderneutral
+Alonzo Gieshübler,Apotheker,Undirected,,1,Figur,Genderrolle,Mann
+Alonzo Gieshübler,Gieshübler,Undirected,,1,Figur,Genderrolle,Mann
+Alonzo Gieshübler,Alonzo,Undirected,,1,Figur,Genderrolle,Mann
+Doktoren,Doktoren,Undirected,,1,Figur,Genderrolle,Mann
+Menschen,Mensch,Undirected,,1,Figur,Genderrolle,Genderneutral
+Resektsperson,Respektsperson,Undirected,,1,Figur,Genderrolle,Genderneutral
+Geert Instetten,Landrats,Undirected,,1,Figur,Genderrolle,Mann
+Prediger,Prediger,Undirected,,1,Figur,Genderrolle,Mann
+Alonzo Gieshübler,Doktor,Undirected,,1,Figur,Genderrolle,Mann
+Geert Instetten,Mannes,Undirected,,1,Figur,Genderrolle,Mann
+Effi Briest,Langschläferin,Undirected,,1,Figur,Genderrolle,Frau
+Adjutant,Adjutant,Undirected,,1,Figur,Genderrolle,Mann
+Alten,Alten,Undirected,,1,Figur,Genderrolle,Mann
+Fürst,Fürst,Undirected,,1,Figur,Genderrolle,Mann
+Geschöpf,Geschöpf,Undirected,,1,Figur,Genderrolle,Genderneutral

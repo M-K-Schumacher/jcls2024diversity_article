@@ -1,0 +1,188 @@
+Source,Target,Type,Label,Weight,source type,target type,gender
+Wilhelm,Freund,Undirected,,1,Figur,Rolle,Mann
+Leonores Schwester,Schwester,Undirected,,1,Figur,Rolle,Frau
+Wilhelm,Bester,Undirected,,1,Figur,Rolle,Mann
+Werthers Mutter,Mutter,Undirected,,1,Figur,Rolle,Frau
+Werthers Tante,Weib,Undirected,,1,Figur,Rolle,Frau
+Werthers Tante,Tante,Undirected,,1,Figur,Rolle,Frau
+Werthers Tante,Frau,Undirected,,1,Figur,Rolle,Frau
+Wilhelm,Lieber,Undirected,,1,Figur,Rolle,Mann
+Graf von M.,kein Gärtner,Undirected,,1,Figur,Rolle,Mann
+Graf von M.,Herz,Undirected,,1,Figur,Rolle,Genderneutral
+Graf von M.,Abgeschiedener,Undirected,,1,Figur,Rolle,Mann
+Werther,Herr,Undirected,,1,Figur,Rolle,Mann
+Gärtner,Maler,Undirected,,1,Figur,Rolle,Mann
+Gott,Allmächtiger,Undirected,,1,Figur,Rolle,Genderneutral
+Gott,Alliebender,Undirected,,1,Figur,Rolle,Genderneutral
+Mädchen aus der Stadt,Mädchen,Undirected,,1,Figur,Rolle,Frau
+Die Altväter,Altväter,Undirected,,1,Figur,Rolle,Mann
+Die geringen Leute des Ortes,Leute,Undirected,,1,Figur,Rolle,Genderneutral
+Kinder des Ortes,Kind,Undirected,,1,Figur,Rolle,Genderneutral
+Die geringen Leute des Ortes,Volk,Undirected,,1,Figur,Rolle,Genderneutral
+Leute von Stand,Leute,Undirected,,1,Figur,Rolle,Genderneutral
+Die geringen Leute des Ortes,Pöbel,Undirected,,1,Figur,Rolle,Genderneutral
+Ein Dienstmädchen,Dienstmädchen,Undirected,,1,Figur,Rolle,Frau
+Ein Dienstmädchen,Jungfer,Undirected,,1,Figur,Rolle,Frau
+Leonore,Freundin,Undirected,,1,Figur,Rolle,Frau
+Werther,Tor,Undirected,,1,Figur,Rolle,Mann
+V.,Junge,Undirected,,1,Figur,Rolle,Mann
+Der Amtmann,Mann,Undirected,,1,Figur,Rolle,Mann
+Der Amtmann,Mensch,Undirected,,1,Figur,Rolle,Genderneutral
+Kinder des Amtmanns,Kind,Undirected,,1,Figur,Rolle,Genderneutral
+Älteste Tpchter des Amtmanns,Tochter,Undirected,,1,Figur,Rolle,Frau
+Frau des Amtmanns,Frau,Undirected,,1,Figur,Rolle,Frau
+Der Leser,Leser,Undirected,,1,Figur,Rolle,Mann
+Eine Wirtin,Wirtin,Undirected,,1,Figur,Rolle,Frau
+Philipps,Knabe,Undirected,,1,Figur,Rolle,Mann
+Hans,Kind,Undirected,,1,Figur,Rolle,Genderneutral
+Philipps,Kind,Undirected,,1,Figur,Rolle,Genderneutral
+Eine Frau,junge Frau,Undirected,,1,Figur,Rolle,Frau
+Hans,Kleines,Undirected,,1,Figur,Rolle,Genderneutral
+Eine Frau,Mutter,Undirected,,1,Figur,Rolle,Frau
+Hans,Halbjähriges,Undirected,,1,Figur,Rolle,Genderneutral
+Hans,Jüngstes,Undirected,,1,Figur,Rolle,Genderneutral
+Der Älteste Sohn einer Frau,Vogel,Undirected,,1,Figur,Rolle,Genderneutral
+Der Älteste Sohn einer Frau,Ältester,Undirected,,1,Figur,Rolle,Mann
+Der Älteste Sohn einer Frau,Großer,Undirected,,1,Figur,Rolle,Mann
+Philipps,Zweiter,Undirected,,1,Figur,Rolle,Mann
+Eine Frau,Weib,Undirected,,1,Figur,Rolle,Frau
+Eine Frau,Tochter,Undirected,,1,Figur,Rolle,Frau
+Wilhelm,Schatz,Undirected,,1,Figur,Rolle,Genderneutral
+Eine Frau,Geschöpf,Undirected,,1,Figur,Rolle,Genderneutral
+Ein Bauernbursche,Bursche,Undirected,,1,Figur,Rolle,Mann
+Ein Bauernbursche,Leute,Undirected,,1,Figur,Rolle,Genderneutral
+Eine Witwe,Witwe,Undirected,,1,Figur,Rolle,Frau
+Ein Bauernbursche,Mensch,Undirected,,1,Figur,Rolle,Genderneutral
+Ein Bauernbursche,Liebhaber,Undirected,,1,Figur,Rolle,Mann
+Wilhelm,Gelehrter,Undirected,,1,Figur,Rolle,Mann
+Lotte,Geschöpf,Undirected,,1,Figur,Rolle,Genderneutral
+Werther,kein Historienschreiber,Undirected,,1,Figur,Rolle,Mann
+Lotte,Engel,Undirected,,1,Figur,Rolle,Genderneutral
+Lottes Geschwister,Kind,Undirected,,1,Figur,Rolle,Genderneutral
+Lottes Geschwister,Geschwister,Undirected,,1,Figur,Rolle,Genderneutral
+Lotte,Schatz,Undirected,,1,Figur,Rolle,Genderneutral
+Ein unbedeutendes Mädchen,Mädchen,Undirected,,1,Figur,Rolle,Frau
+Ein unbedeutendes Mädchen,Tänzerin,Undirected,,1,Figur,Rolle,Frau
+Lotte,Charlotte S.,Undirected,,1,Figur,Rolle,Frau
+Lotte,Frauenzimmer,Undirected,,1,Figur,Rolle,Frau
+Ein unbedeutendes Mädchen,Gesellschafterin,Undirected,,1,Figur,Rolle,Frau
+Base des Mädchens,Base,Undirected,,1,Figur,Rolle,Frau
+Albert,Mann,Undirected,,1,Figur,Rolle,Mann
+Alberts Vater,Vater,Undirected,,1,Figur,Rolle,Mann
+Ein unbedeutendes Mädchen,Frauenzimmer,Undirected,,1,Figur,Rolle,Frau
+Base des Mädchens,Frauenzimmer,Undirected,,1,Figur,Rolle,Frau
+Eine Magd,Magd,Undirected,,1,Figur,Rolle,Frau
+Lotte,Mamsell,Undirected,,1,Figur,Rolle,Frau
+Lotte,Lottchen,Undirected,,1,Figur,Rolle,Frau
+Lotte,Mädchen,Undirected,,1,Figur,Rolle,Frau
+Lottes Geschwister,Kleine,Undirected,,1,Figur,Rolle,Genderneutral
+Louis,Kind,Undirected,,1,Figur,Rolle,Genderneutral
+Werther,Herr Vetter,Undirected,,1,Figur,Rolle,Mann
+Louis,Knabe,Undirected,,1,Figur,Rolle,Mann
+Werther,Vetter,Undirected,,1,Figur,Rolle,Mann
+Sophie,Schwester,Undirected,,1,Figur,Rolle,Frau
+Sophie,Mädchen,Undirected,,1,Figur,Rolle,Frau
+Vater von Lotte,Papa,Undirected,,1,Figur,Rolle,Mann
+Ein Kutscher,Kutscher,Undirected,,1,Figur,Rolle,Mann
+Miß Molly,Miß,Undirected,,1,Figur,Rolle,Frau
+Landpriester von Wakefield,Autor,Undirected,,1,Figur,Rolle,Mann
+Werther,Träumender,Undirected,,1,Figur,Rolle,Mann
+Audran,Herr,Undirected,,1,Figur,Rolle,Mann
+N.N.,Herr,Undirected,,1,Figur,Rolle,Mann
+Audran,Tänzer,Undirected,,1,Figur,Rolle,Mann
+N.N.,Tänzer,Undirected,,1,Figur,Rolle,Mann
+Ein unbedeutendes Mädchen,Dame,Undirected,,1,Figur,Rolle,Frau
+Eine Frau,Frau,Undirected,,1,Figur,Rolle,Frau
+Albert,Mensch,Undirected,,1,Figur,Rolle,Genderneutral
+Mehrere Frauenzimmer,Schwesterchen,Undirected,,1,Figur,Rolle,Frau
+Die Herren,Schlucker,Undirected,,1,Figur,Rolle,Mann
+Mehrere Frauenzimmer,Bedrängte,Undirected,,1,Figur,Rolle,Frau
+Lotte,Furchtsame,Undirected,,1,Figur,Rolle,Frau
+Werther,Edler,Undirected,,1,Figur,Rolle,Mann
+Der Medikus,Doktor,Undirected,,1,Figur,Rolle,Mann
+Der Medikus,Drahtpuppe,Undirected,,1,Figur,Rolle,Genderneutral
+Frau M.,Frau,Undirected,,1,Figur,Rolle,Frau
+Frau M.,Kranke,Undirected,,1,Figur,Rolle,Genderneutral
+Der Pfarrer von St.,Pfarrer,Undirected,,1,Figur,Rolle,Mann
+Ein alter Mann,Mann,Undirected,,1,Figur,Rolle,Mann
+Sohn des alten Mannes,Bube,Undirected,,1,Figur,Rolle,Mann
+Sohn des alten Mannes,Quakelchen,Undirected,,1,Figur,Rolle,Genderneutral
+Ein alter Mann,Alter,Undirected,,1,Figur,Rolle,Mann
+Frau Pfarrerin,Pfarrerin,Undirected,,1,Figur,Rolle,Frau
+Frau Pfarrerin,Frau,Undirected,,1,Figur,Rolle,Frau
+Vater der Pfarrerin,Vorfahr,Undirected,,1,Figur,Rolle,Mann
+Der Pfarrer von St.,Student,Undirected,,1,Figur,Rolle,Mann
+Friederike,Tochter,Undirected,,1,Figur,Rolle,Frau
+Herr Schmidt,Herr,Undirected,,1,Figur,Rolle,Mann
+Der Pfarrer von St.,Vikar,Undirected,,1,Figur,Rolle,Mann
+Der Pfarrer von St.,Nachfolger,Undirected,,1,Figur,Rolle,Mann
+Friederike,Jungfer,Undirected,,1,Figur,Rolle,Frau
+Friederike,Brünette,Undirected,,1,Figur,Rolle,Frau
+Herr Schmidt,Liebhaber,Undirected,,1,Figur,Rolle,Mann
+Herr Schmidt,Mensch,Undirected,,1,Figur,Rolle,Genderneutral
+Frau M.,Freundin,Undirected,,1,Figur,Rolle,Frau
+Mariane,Mariane,Undirected,,1,Figur,Rolle,Frau
+Malchen,Kind,Undirected,,1,Figur,Rolle,Genderneutral
+Malchen,Kleines,Undirected,,1,Figur,Rolle,Genderneutral
+Selstadt,Selstadt,Undirected,,1,Figur,Rolle,Mann
+Austan,Kerlchen,Undirected,,1,Figur,Rolle,Mann
+Junger W.,Kerlchen,Undirected,,1,Figur,Rolle,Mann
+Selstadt,Kerlchen,Undirected,,1,Figur,Rolle,Mann
+Werther,Kind,Undirected,,1,Figur,Rolle,Genderneutral
+Herr M.,Filz,Undirected,,1,Figur,Rolle,Mann
+Herr M.,Mann,Undirected,,1,Figur,Rolle,Mann
+Albert,Bräutigam,Undirected,,1,Figur,Rolle,Mann
+Werthers Diener,Diener,Undirected,,1,Figur,Rolle,Mann
+Werthers Diener,Mensch,Undirected,,1,Figur,Rolle,Genderneutral
+Werthers Diener,Bursche,Undirected,,1,Figur,Rolle,Mann
+Werthers Diener,Junge,Undirected,,1,Figur,Rolle,Mann
+Der Gesandte,Gesandter,Undirected,,1,Figur,Rolle,Mann
+Der Gesandte,Mann,Undirected,,1,Figur,Rolle,Mann
+Der Gesandte,Mensch,Undirected,,1,Figur,Rolle,Genderneutral
+Werthers Großmutter,Großmutter,Undirected,,1,Figur,Rolle,Frau
+Lotte,Weib,Undirected,,1,Figur,Rolle,Frau
+Werther,Verehrer,Undirected,,1,Figur,Rolle,Mann
+Albert,Verehrer,Undirected,,1,Figur,Rolle,Mann
+Werther,Mensch,Undirected,,1,Figur,Rolle,Genderneutral
+Werther,Fratze,Undirected,,1,Figur,Rolle,Mann
+Lottes Vater,Alter,Undirected,,1,Figur,Rolle,Mann
+Lottes Mutter,Mutter,Undirected,,1,Figur,Rolle,Frau
+Ein Freund von Albert,Freund,Undirected,,1,Figur,Rolle,Mann
+Ein Bedienter,Bedienter,Undirected,,1,Figur,Rolle,Mann
+Albert,Lieber,Undirected,,1,Figur,Rolle,Mann
+Albert,Guter,Undirected,,1,Figur,Rolle,Mann
+Ein Mädchen,Mädchen,Undirected,,1,Figur,Rolle,Frau
+Ein Mädchen,Geschöpf,Undirected,,1,Figur,Rolle,Genderneutral
+Albert,Freund,Undirected,,1,Figur,Rolle,Mann
+Gott,Ewigschaffender,Undirected,,1,Figur,Rolle,Genderneutral
+Gott,Wesen,Undirected,,1,Figur,Rolle,Genderneutral
+Wilhelm,Bruder,Undirected,,1,Figur,Rolle,Mann
+Der Minister,Minister,Undirected,,1,Figur,Rolle,Mann
+Werther,Unglücklicher,Undirected,,1,Figur,Rolle,Mann
+Lottes Mutter,Teuerste,Undirected,,1,Figur,Rolle,Frau
+Lottes Mutter,Heilige,Undirected,,1,Figur,Rolle,Frau
+Lotte,Frau,Undirected,,1,Figur,Rolle,Frau
+Lottes jüngster Bruder,Sohn,Undirected,,1,Figur,Rolle,Mann
+Lotte,Mutter,Undirected,,1,Figur,Rolle,Frau
+Lotte,Tochter,Undirected,,1,Figur,Rolle,Frau
+Lottes Mutter,Mama,Undirected,,1,Figur,Rolle,Frau
+Werther,Glücklichster,Undirected,,1,Figur,Rolle,Mann
+Graf C.,Graf,Undirected,,1,Figur,Rolle,Mann
+Graf C.,Mann,Undirected,,1,Figur,Rolle,Mann
+Graf C.,Kopf,Undirected,,1,Figur,Rolle,Genderneutral
+Graf C.,Seele,Undirected,,1,Figur,Rolle,Genderneutral
+Der Gesandte,Narr,Undirected,,1,Figur,Rolle,Mann
+Der Gesandte,Base,Undirected,,1,Figur,Rolle,Frau
+Der Gesandte,Todtfeind,Undirected,,1,Figur,Rolle,Mann
+Der Gesandte,Alter,Undirected,,1,Figur,Rolle,Mann
+Ein Weib,Närrin,Undirected,,1,Figur,Rolle,Frau
+Ein Weib,Weib,Undirected,,1,Figur,Rolle,Frau
+Ein Weib,Amtschreiberstochter,Undirected,,1,Figur,Rolle,Frau
+Fräulein von B.,Geschöpf,Undirected,,1,Figur,Rolle,Genderneutral
+Tante von B.,Tante,Undirected,,1,Figur,Rolle,Frau
+Tante von B.,Alter,Undirected,,1,Figur,Rolle,Frau
+Fräulein von B.,Fräulein,Undirected,,1,Figur,Rolle,Frau
+Fräulein von B.,Nichte,Undirected,,1,Figur,Rolle,Frau
+Lotte,Beste,Undirected,,1,Figur,Rolle,Frau
+Werther,Marionette,Undirected,,1,Figur,Rolle,Genderneutral
+Lottes Geschwister,Liebe,Undirected,,1,Figur,Rolle,Genderneutral

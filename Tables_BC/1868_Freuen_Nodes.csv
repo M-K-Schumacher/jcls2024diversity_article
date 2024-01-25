@@ -1,0 +1,155 @@
+Id,Label,node type,gender
+Hexe Hargar,Hexe Hargar,Rolle,
+Hugo,Hugo,Rolle,
+ein Kobold,ein Kobold,Rolle,
+ein Geist,ein Geist,Rolle,
+Zara,Zara,Rolle,
+Roderigo,Roderigo,Rolle,
+Don Pedro,Don Pedro,Rolle,
+Gefolgsmann,Gefolgsmann,Rolle,
+das Publikum,das Publikum,Rolle,
+Amy,Amy,Figur,
+Annie Moffat,Annie Moffat,Figur,
+Belsham,Belsham,Figur,
+Beth,Beth,Figur,
+die Marchs,die Marchs,Figur,
+ein Baby,ein Baby,Figur,
+ein Freund,ein Freund,Figur,
+ein Jugendlicher,ein Jugendlicher,Figur,
+ein Junge,ein Junge,Figur,
+eine Familie,eine Familie,Figur,
+eine Frau,eine Frau,Figur,
+eine Person,eine Person,Figur,
+eine Putzfrau,eine Putzfrau,Figur,
+Florence Mutter,Florence Mutter,Figur,
+Hannah,Hannah,Figur,
+Jo,Jo,Figur,
+Jungs,Jungs,Figur,
+Kinder,Kinder,Figur,
+Laurie,Laurie,Figur,
+Mädchen,Mädchen,Rolle,weiblich
+Maria Parks,Maria Parks,Figur,
+Meg,Meg,Figur,
+Mr. Cutter,Mr. Cutter,Figur,
+Mr. Davis,Mr. Davis,Figur,
+Mr. Gardiner,Mr. Gardiner,Figur,
+Mr. Laurence,Mr. Laurence,Figur,
+Mr. March,Mr. March,Figur,
+Mrs. Gardiner,Mrs. Gardiner,Figur,
+Mrs. March,Mrs. March,Figur,
+Onkel March,Onkel March,Figur,
+Petrea,Petrea,Figur,
+Schwestern March,Schwestern March,Figur,
+Sohn der Familie King,Sohn der Familie King,Figur,
+Susie Perkins,Susie Perkins,Figur,
+Tante March,Tante March,Figur,
+Tochter von Mrs. Gardiner,Tochter von Mrs. Gardiner,Figur,
+eine arme Frau,eine arme Frau,Figur,
+sechs arme Kinder,sechs arme Kinder,Figur,
+Sallie,Sallie,Figur,
+Florence,Florence,Figur,
+Grace,Grace,Figur,
+Ellen,Ellen,Figur,
+Mutter,Mutter,Rolle,weiblich
+Vater,Vater,Rolle,männlich
+Bücherwurm,Bücherwurm,Rolle,genderneutral
+Papa,Papa,Rolle,männlich
+Völkchen,Völkchen,Rolle,genderneutral
+Gestalt,Gestalt,Rolle,genderneutral
+Hosenmatz,Hosenmatz,Rolle,genderneutral
+Friedensstifterin,Friedensstifterin,Rolle,weiblich
+Schwester,Schwester,Rolle,weiblich
+Josephine,Josephine,Rolle,weiblich
+junge Dame,junge Dame,Rolle,weiblich
+Miss March,Miss March,Rolle,weiblich
+kein Junge,kein Junge,Rolle,genderneutral
+Bruder,Bruder,Rolle,männlich
+Gans,Gans,Rolle,genderneutral
+Wildfang,Wildfang,Rolle,genderneutral
+Schätzchen,Schätzchen,Rolle,genderneutral
+Maus,Maus,Rolle,genderneutral
+Liebling,Liebling,Rolle,genderneutral
+Margaret,Margaret,Rolle,weiblich
+Älteste,Älteste,Rolle,weiblich
+Hengstfohlen,Hengstfohlen,Rolle,männlich
+Frau,Frau,Rolle,weiblich
+Elisabeth,Elisabeth,Rolle,weiblich
+Fräulein,Fräulein,Rolle,weiblich
+Jüngste,Jüngste,Rolle,weiblich
+Person,Person,Rolle,genderneutral
+Schneejungfrau,Schneejungfrau,Rolle,weiblich
+Mami,Mami,Rolle,weiblich
+Mann,Mann,Rolle,männlich
+Liebes,Liebes,Rolle,genderneutral
+Kind,Kind,Rolle,genderneutral
+Schauspielerin,Schauspielerin,Rolle,weiblich
+Shakespeare,Shakespeare,Rolle,männlich
+Dame,Dame,Rolle,weiblich
+Lieben,Lieben,Rolle,genderneutral
+Baby,Baby,Rolle,genderneutral
+Kaplan,Kaplan,Rolle,männlich
+Trommler,Trommler,Rolle,männlich
+Trompeter,Trompeter,Rolle,männlich
+Krankenschwester,Krankenschwester,Rolle,weiblich
+Schreiber,Schreiber,Rolle,männlich
+Liebe,Liebe,Rolle,weiblich
+Pilger,Pilger,Rolle,genderneutral
+Tante,Tante,Rolle,weiblich
+Sängerin,Sängerin,Rolle,weiblich
+Lerche,Lerche,Rolle,genderneutral
+Freundin,Freundin,Rolle,weiblich
+Dienstmagd,Dienstmagd,Rolle,weiblich
+Beste,Beste,Rolle,weiblich
+Tochter,Tochter,Rolle,weiblich
+Engel,Engel,Rolle,genderneutral
+Arme,Arme,Rolle,weiblich
+Vögel,Vögel,Rolle,genderneutral
+Engelkind,Engelkind,Rolle,genderneutral
+Wirbelwind,Wirbelwind,Rolle,genderneutral
+Mensch,Mensch,Rolle,genderneutral
+Schauspieler,Schauspieler,Rolle,männlich
+Großvater,Großvater,Rolle,männlich
+Junge,Junge,Rolle,männlich
+alter Herr,alter Herr,Rolle,männlich
+Kerl,Kerl,Rolle,männlich
+Enkel,Enkel,Rolle,männlich
+Gentleman,Gentleman,Rolle,männlich
+Miss,Miss,Rolle,weiblich
+Kammerzofe,Kammerzofe,Rolle,weiblich
+Friseuse,Friseuse,Rolle,weiblich
+Schaf,Schaf,Rolle,genderneutral
+alte Dame,alte Dame,Rolle,weiblich
+Hengst,Hengst,Rolle,männlich
+Träger,Träger,Rolle,männlich
+Jugendlicher,Jugendlicher,Rolle,männlich
+Opa,Opa,Rolle,männlich
+Theodore,Theodore,Rolle,männlich
+Dora,Dora,Rolle,weiblich
+Bekannte,Bekannte,Rolle,genderneutral
+Partner,Partner,Rolle,männlich
+Tollpatsch,Tollpatsch,Rolle,genderneutral
+Katze,Katze,Rolle,genderneutral
+Grashüpfer,Grashüpfer,Rolle,genderneutral
+Schlafmütze,Schlafmütze,Rolle,genderneutral
+Nervensäge,Nervensäge,Rolle,genderneutral
+Ding,Ding,Rolle,genderneutral
+Spitzbübin,Spitzbübin,Rolle,weiblich
+Schurken,Schurken,Rolle,genderneutral
+Nonne,Nonne,Rolle,weiblich
+Geschöpf,Geschöpf,Rolle,genderneutral
+Eltern,Eltern,Rolle,genderneutral
+Erzieherin,Erzieherin,Rolle,weiblich
+Gesellschafterin,Gesellschafterin,Rolle,weiblich
+Verwandte,Verwandte,Rolle,weiblich
+Hausfrau,Hausfrau,Rolle,weiblich
+Biene,Biene,Rolle,genderneutral
+Heimchen,Heimchen,Rolle,genderneutral
+Wesen,Wesen,Rolle,genderneutral
+Raffael,Raffael,Rolle,männlich
+Cousine,Cousine,Rolle,weiblich
+Vertraute,Vertraute,Rolle,weiblich
+Beraterin,Beraterin,Rolle,weiblich
+Tantchen,Tantchen,Rolle,weiblich
+Wilde,Wilde,Rolle,weiblich
+Schlosshund,Schlosshund,Rolle,genderneutral
+Fischhändler,Fischhändler,Rolle,männlich

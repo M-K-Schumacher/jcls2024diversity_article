@@ -1,0 +1,164 @@
+Source,Target,Type,Label,Weight,source type,target type,gender
+Anna,Köchin,Undirected,,1,Figur,Rolle,Frau
+Frau Grubach,Zimmervermieterin,Undirected,,1,Figur,Rolle,Frau
+Josef K.,K.,Undirected,,1,Figur,Rolle,Mann
+alte Frau,alte Frau,Undirected,,1,Figur,Rolle,Frau
+Personen,Personen,Undirected,,1,Figur,Rolle,Genderneutral
+Leute,Leute,Undirected,,1,Figur,Rolle,Genderneutral
+Franz,Mann,Undirected,,1,Figur,Rolle,Mann
+Franz,Fremder,Undirected,,1,Figur,Rolle,Mann
+Willem,Bekanntschaft,Undirected,,1,Figur,Rolle,Genderneutral
+Willem,Mann,Undirected,,1,Figur,Rolle,Mann
+Willem und Franz,Wächter,Undirected,,1,Figur,Rolle,Genderneutral
+Willem,Wächter,Undirected,,1,Figur,Rolle,Mann
+Franz,Wächter,Undirected,,1,Figur,Rolle,Mann
+Menschen,Menschen,Undirected,,1,Figur,Rolle,Genderneutral
+Bankbeamte,Kollegen,Undirected,,1,Figur,Rolle,Genderneutral
+Willem und Franz,Dienstmänner,Undirected,,1,Figur,Rolle,Mann
+Freunde,Freunde,Undirected,,1,Figur,Rolle,Genderneutral
+Willem und Franz,Angestellte,Undirected,,1,Figur,Rolle,Genderneutral
+Willem und Franz,Organe,Undirected,,1,Figur,Rolle,Genderneutral
+Greis,Greis,Undirected,,1,Figur,Rolle,Mann
+Aufseher,Vorgesetzter,Undirected,,1,Figur,Rolle,Mann
+Willem und Franz,Männer,Undirected,,1,Figur,Rolle,Mann
+Frau Grubach,Zeugin,Undirected,,1,Figur,Rolle,Frau
+alte Frau und Greis,Alten,Undirected,,1,Figur,Rolle,Genderneutral
+Aufseher,Aufseher,Undirected,,1,Figur,Rolle,Mann
+Bekannte,Bekannte,Undirected,,1,Figur,Rolle,Genderneutral
+Fräulein Bürstner,Schreibmaschinistin,Undirected,,1,Figur,Rolle,Frau
+ein Mann,Mann,Undirected,,1,Figur,Rolle,Mann
+"Willem, Franz und Aufseher",Beamte,Undirected,,1,Figur,Rolle,Genderneutral
+"Willem, Franz und Aufseher",Herren,Undirected,,1,Figur,Rolle,Mann
+Auftraggeber,Auftraggeber,Undirected,,1,Figur,Rolle,Mann
+Staatsanwalt Hasterer,Staatsanwalt Hasterer,Undirected,,1,Figur,Rolle,Mann
+Staatsanwalt Hasterer,Freund,Undirected,,1,Figur,Rolle,Mann
+Staatsanwalt Hasterer,Staatsanwalt,Undirected,,1,Figur,Rolle,Mann
+"alte Frau, Greis und ein Mann",Gesellschaft,Undirected,,1,Figur,Rolle,Genderneutral
+"alte Frau, Greis und ein Mann",Zuschauer,Undirected,,1,Figur,Rolle,Genderneutral
+"Rabensteiner, Kullich und Kaminer",Herren,Undirected,,1,Figur,Rolle,Mann
+"Rabensteiner, Kullich und Kaminer",Gruppe,Undirected,,1,Figur,Rolle,Genderneutral
+Rabensteiner,Rabensteiner,Undirected,,1,Figur,Rolle,Mann
+Kullich,Kullich,Undirected,,1,Figur,Rolle,Mann
+Kaminer,Kaminer,Undirected,,1,Figur,Rolle,Mann
+Bankdirektor,Bankdirektor,Undirected,,1,Figur,Rolle,Mann
+Fräulein Elsa,Mädchen,Undirected,,1,Figur,Rolle,Frau
+Fräulein Elsa,Elsa,Undirected,,1,Figur,Rolle,Frau
+Fräulein Elsa,Kellnerin,Undirected,,1,Figur,Rolle,Frau
+Bankbeamte,Beamtenschaft,Undirected,,1,Figur,Rolle,Genderneutral
+Sohn des Hausmeisters,Bursche,Undirected,,1,Figur,Rolle,Mann
+Sohn des Hausmeisters,Sohn,Undirected,,1,Figur,Rolle,Mann
+Josef K.,Herr,Undirected,,1,Figur,Rolle,Mann
+Hausmeister,Vater,Undirected,,1,Figur,Rolle,Mann
+Josef K.,Mieter,Undirected,,1,Figur,Rolle,Mann
+Frau Grubach,Vermieterin,Undirected,,1,Figur,Rolle,Frau
+Diener,Diener,Undirected,,1,Figur,Rolle,Mann
+Parteien,Parteien,Undirected,,1,Figur,Rolle,Genderneutral
+Beamte,Beamte,Undirected,,1,Figur,Rolle,Genderneutral
+Frau Grubach,Frau,Undirected,,1,Figur,Rolle,Frau
+Josef K.,Herr K.,Undirected,,1,Figur,Rolle,Mann
+Fräulein Bürstner,Fräulein,Undirected,,1,Figur,Rolle,Frau
+Fräulein Bürstner,Mädchen,Undirected,,1,Figur,Rolle,Frau
+Gott,Gott,Undirected,,1,Figur,Rolle,Genderneutral
+Kaminer,Beamter,Undirected,,1,Figur,Rolle,Mann
+Untersuchungskommission,Untersuchungskommission,Undirected,,1,Figur,Rolle,Genderneutral
+Josef K.,Verbrecher,Undirected,,1,Figur,Rolle,Mann
+Fräulein Bürstner,Kanzleikraft,Undirected,,1,Figur,Rolle,Genderneutral
+Advokat,Advokat,Undirected,,1,Figur,Rolle,Mann
+Fräulein Bürstner,Ratgeber,Undirected,,1,Figur,Rolle,Mann
+Untersuchungskommission,Kommission,Undirected,,1,Figur,Rolle,Genderneutral
+Josef K.,Person,Undirected,,1,Figur,Rolle,Genderneutral
+Aufseher,Lümmel,Undirected,,1,Figur,Rolle,Genderneutral
+Hauptmann Lanz,Neffe,Undirected,,1,Figur,Rolle,Mann
+Hauptmann Lanz,Hauptmann,Undirected,,1,Figur,Rolle,Mann
+Öffentlichkeit,Öffentlichkeit,Undirected,,1,Figur,Rolle,Genderneutral
+Direktor-Stellvertreter,Direktor-Stellvertreter,Undirected,,1,Figur,Rolle,Mann
+Direktor-Stellvertreter,Beamter,Undirected,,1,Figur,Rolle,Mann
+Gericht,Gericht,Undirected,,1,Figur,Rolle,Genderneutral
+Josef K.,Vorgesetzter,Undirected,,1,Figur,Rolle,Mann
+Kinder,Kinder,Undirected,,1,Figur,Rolle,Genderneutral
+eine Frau,Frau,Undirected,,1,Figur,Rolle,Frau
+Frauen,Frauen,Undirected,,1,Figur,Rolle,Frau
+Obsthändler,Obsthändler,Undirected,,1,Figur,Rolle,Mann
+Untersuchungsrichter,Untersuchungsrichter,Undirected,,1,Figur,Rolle,Mann
+Jungen,Jungen,Undirected,,1,Figur,Rolle,Mann
+ein Mädchen,Mädchen,Undirected,,1,Figur,Rolle,Frau
+Säuglinge,Säuglinge,Undirected,,1,Figur,Rolle,Genderneutral
+Halbwüchsige,Halbwüchsige,Undirected,,1,Figur,Rolle,Genderneutral
+Kranke,Kranke,Undirected,,1,Figur,Rolle,Genderneutral
+Schlafende,Schlafende,Undirected,,1,Figur,Rolle,Genderneutral
+Tischler,Tischler,Undirected,,1,Figur,Rolle,Mann
+Tischler Lanz,Lanz,Undirected,,1,Figur,Rolle,Mann
+Nachbarn,Nachbarn,Undirected,,1,Figur,Rolle,Genderneutral
+Tischler Lanz,Mann,Undirected,,1,Figur,Rolle,Mann
+Arbeiter,Arbeiter,Undirected,,1,Figur,Rolle,Mann
+Frau des Gerichtsdieners,Frau,Undirected,,1,Figur,Rolle,Frau
+Gedränge,Gedränge,Undirected,,1,Figur,Rolle,Genderneutral
+ein Junge,Junge,Undirected,,1,Figur,Rolle,Mann
+Josef K.,Zimmermaler,Undirected,,1,Figur,Rolle,Mann
+Josef K.,Prokurist,Undirected,,1,Figur,Rolle,Mann
+Leute,Partei,Undirected,,1,Figur,Rolle,Genderneutral
+Galeriebesucher,Galerie,Undirected,,1,Figur,Rolle,Genderneutral
+Frau des Gerichtsdieners,Wäscherin,Undirected,,1,Figur,Rolle,Frau
+die Entscheidenden,Entscheidende,Undirected,,1,Figur,Rolle,Genderneutral
+Allgemeinheit,Allgemeinheit,Undirected,,1,Figur,Rolle,Genderneutral
+Willem und Franz,Gesindel,Undirected,,1,Figur,Rolle,Genderneutral
+Fräulein Bürstner,Dame,Undirected,,1,Figur,Rolle,Frau
+"Rabensteiner, Kullich und Kaminer",Angestellte,Undirected,,1,Figur,Rolle,Genderneutral
+Anna,Dienstmädchen,Undirected,,1,Figur,Rolle,Frau
+Frau Grubach,Person,Undirected,,1,Figur,Rolle,Genderneutral
+Menge,Menge,Undirected,,1,Figur,Rolle,Genderneutral
+Untersuchungsrichter,Herr Untersuchungsrichter,Undirected,,1,Figur,Rolle,Mann
+Galeriebesucher,Galeriebesucher,Undirected,,1,Figur,Rolle,Genderneutral
+Versammlung,Versammlungsteilnehmer,Undirected,,1,Figur,Rolle,Genderneutral
+Ratgeber des Untersuchungsrichters,Mann,Undirected,,1,Figur,Rolle,Mann
+Ratgeber des Untersuchungsrichters,Ratgeber,Undirected,,1,Figur,Rolle,Mann
+Organisation,Organisation,Undirected,,1,Figur,Rolle,Genderneutral
+Richterschaft,Richterschaft,Undirected,,1,Figur,Rolle,Genderneutral
+Schreiber,Schreiber,Undirected,,1,Figur,Rolle,Genderneutral
+Gendarme,Gendarme,Undirected,,1,Figur,Rolle,Genderneutral
+Hilfskräfte,Hilfskräfte,Undirected,,1,Figur,Rolle,Genderneutral
+Henker,Henker,Undirected,,1,Figur,Rolle,Genderneutral
+Männer,Herren,Undirected,,1,Figur,Rolle,Mann
+Richter,Richter,Undirected,,1,Figur,Rolle,Mann
+Josef K.,Verhafteter,Undirected,,1,Figur,Rolle,Mann
+Unschuldige,Unschuldige,Undirected,,1,Figur,Rolle,Genderneutral
+Verhaftete,Verhaftete,Undirected,,1,Figur,Rolle,Genderneutral
+Depotbeamte,Depotbeamte,Undirected,,1,Figur,Rolle,Genderneutral
+Frau des Gerichtsdieners und Berthold,Paar,Undirected,,1,Figur,Rolle,Genderneutral
+alte Männer,alte Männer,Undirected,,1,Figur,Rolle,Mann
+Versammlung,Bande,Undirected,,1,Figur,Rolle,Genderneutral
+Versammlung,Zuhörer,Undirected,,1,Figur,Rolle,Genderneutral
+Versammlung,Beamte,Undirected,,1,Figur,Rolle,Genderneutral
+Versammlung,Schnüffler,Undirected,,1,Figur,Rolle,Genderneutral
+Versammlung,Lumpen,Undirected,,1,Figur,Rolle,Genderneutral
+Berthold,Student,Undirected,,1,Figur,Rolle,Mann
+Gerichtsdiener,Mann,Undirected,,1,Figur,Rolle,Mann
+Gerichtsdiener,Gerichtsdiener,Undirected,,1,Figur,Rolle,Mann
+Berthold,Mann,Undirected,,1,Figur,Rolle,Mann
+Zeichner,Zeichner,Undirected,,1,Figur,Rolle,Mann
+Grete,Grete,Undirected,,1,Figur,Rolle,Frau
+Hans,Mann,Undirected,,1,Figur,Rolle,Mann
+Hans,Hans,Undirected,,1,Figur,Rolle,Mann
+Vorgesetzte,Vorgesetzte,Undirected,,1,Figur,Rolle,Genderneutral
+Gerichtsbeamte,Gerichtsbeamte,Undirected,,1,Figur,Rolle,Genderneutral
+Versammlung,Herren,Undirected,,1,Figur,Rolle,Mann
+Untersuchungsrichter,Beamter,Undirected,,1,Figur,Rolle,Mann
+Berthold,Mitarbeiter,Undirected,,1,Figur,Rolle,Mann
+Berthold,junger Mann,Undirected,,1,Figur,Rolle,Mann
+Berthold,Mensch,Undirected,,1,Figur,Rolle,Genderneutral
+Berthold,künftiger Gerichtsbeamter,Undirected,,1,Figur,Rolle,Mann
+Berthold,Scheusal,Undirected,,1,Figur,Rolle,Genderneutral
+Berthold,Kind,Undirected,,1,Figur,Rolle,Genderneutral
+Berthold,Bartträger,Undirected,,1,Figur,Rolle,Mann
+Frau des Gerichtsdieners,Fremde,Undirected,,1,Figur,Rolle,Frau
+Mieter,Mietsparteien,Undirected,,1,Figur,Rolle,Genderneutral
+Frauen,Weiber,Undirected,,1,Figur,Rolle,Frau
+Frau des Gerichtsdieners,Schönste,Undirected,,1,Figur,Rolle,Frau
+Berthold,Feigling,Undirected,,1,Figur,Rolle,Mann
+Publikum,Publikum,Undirected,,1,Figur,Rolle,Genderneutral
+Angeklagte,Kollegen,Undirected,,1,Figur,Rolle,Genderneutral
+Angeklagter,Mann,Undirected,,1,Figur,Rolle,Mann
+Angeklagter,Mensch,Undirected,,1,Figur,Rolle,Genderneutral
+Angeklagter,Gefragter,Undirected,,1,Figur,Rolle,Mann
+Angeklagte,Gruppe,Undirected,,1,Figur,Rolle,Genderneutral
+Angeklagte,Wartende,Undirected,,1,Figur,Rolle,Genderneutral

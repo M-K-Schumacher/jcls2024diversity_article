@@ -1,0 +1,195 @@
+Id,Label,type,gender
+Casanova,Casanova,Figur,
+der hohe Rat,der hohe Rat,Figur,
+hochmögende Herren,hochmögende Herren,Figur,
+Voltaire,Voltaire,Figur,
+Baron Perotti,Baron Perotti,Figur,
+Perottis Geliebte,Perottis Geliebte,Figur,
+Casanovas Wirtin,Casanovas Wirtin,Figur,
+Casanovas Diener,Casanovas Diener,Figur,
+Ein junges Weib,Ein junges Weib,Figur,
+Ein betrunkener Mann,Ein betrunkener Mann,Figur,
+Olivo,Olivo,Figur,
+Ein Kutscher,Ein Kutscher,Figur,
+Amalia,Amalia,Figur,
+Olivos Kinder,Olivos Kinder,Figur,
+Teresina,Teresina,Figur,
+Marcolina,Marcolina,Figur,
+Olivos Bruder,Olivos Bruder,Figur,
+Graf Marazzani,Graf Marazzani,Figur,
+Amalias Mutter,Amalias Mutter,Figur,
+Olivos Vater,Olivos Vater,Figur,
+Maria,Maria,Figur,
+Nanetta,Nanetta,Figur,
+Ein junger Bursche,Ein junger Bursche,Figur,
+Leutnant Lorenzi,Leutnant Lorenzi,Figur,
+Abbate Rossi,Abbate Rossi,Figur,
+Olivos Magd,Olivos Magd,Figur,
+Professor Morgagni,Professor Morgagni,Figur,
+Marchese Celsi,Marchese Celsi,Figur,
+Marchesa Celsi,Marchesa Celsi,Figur,
+Brüder Ricardi,Brüder Ricardi,Figur,
+Der Oberst,Der Oberst,Figur,
+Bankier Hope,Bankier Hope,Figur,
+Die Sophisten,Die Sophisten,Figur,
+Morgagni,Morgagni,Figur,
+Francesco Casanova,Francesco Casanova,Figur,
+Baldi,Baldi,Figur,
+Schwester Seraphina,Schwester Seraphina,Figur,
+König von Frankreich,König von Frankreich,Figur,
+Bürgermeister von Nürnberg,Bürgermeister von Nürnberg,Figur,
+Der ältere Bruder Ricardi,Der ältere Bruder Ricardi,Figur,
+Der junge Knecht,Der junge Knecht,Figur,
+Saugrenue,Saugrenue,Figur,
+Die Nonnen von Murano,Die Nonnen von Murano,Figur,
+Vogel,Vogel,Rolle,Genderneutral
+Rat,Rat,Rolle,Genderneutral
+Meister,Meister,Rolle,Mann
+Ratsherren,Ratsherren,Rolle,Mann
+Herren,Herren,Rolle,Mann
+Abenteurer,Abenteurer,Rolle,Mann
+Lästerer,Lästerer,Rolle,Mann
+Franzose,Franzose,Rolle,Mann
+angeblicher Baron,angeblicher Baron,Rolle,Mann
+Geliebte,Geliebte,Rolle,Frau
+Wirtin,Wirtin,Rolle,Frau
+Mann,Mann,Rolle,Mann
+Gauner,Gauner,Rolle,Mann
+Weib,Weib,Rolle,Frau
+Insassen,Insassen,Rolle,Genderneutral
+Herr von Stande,Herr von Stande,Rolle,Mann
+Kutscher,Kutscher,Rolle,Mann
+Herr,Herr,Rolle,Mann
+Frau,Frau,Rolle,Frau
+Wohltäter,Wohltäter,Rolle,Mann
+Kinder,Kinder,Rolle,Genderneutral
+Mädchen,Mädchen,Rolle,Frau
+Töchterlein,Töchterlein,Rolle,Frau
+Jüngling,Jüngling,Rolle,Mann
+Hausvater,Hausvater,Rolle,Mann
+Bekannter,Bekannter,Rolle,Mann
+Chevalier von Seingalt,Chevalier von Seingalt,Rolle,Mann
+Freund,Freund,Rolle,Mann
+Tochter,Tochter,Rolle,Frau
+Stiefbruder,Stiefbruder,Rolle,Mann
+Chevalier,Chevalier,Rolle,Mann
+Geschöpf,Geschöpf,Rolle,Frau
+Männer,Männer,Rolle,Mann
+Gattin,Gattin,Rolle,Frau
+Graf,Graf,Rolle,Mann
+Braut,Braut,Rolle,Frau
+Mutter,Mutter,Rolle,Frau
+Schullehrer,Schullehrer,Rolle,Mann
+Witwe,Witwe,Rolle,Frau
+Kaufmann,Kaufmann,Rolle,Mann
+Verwandter,Verwandter,Rolle,Mann
+Brautmutter,Brautmutter,Rolle,Frau
+Gönner,Gönner,Rolle,Mann
+Bote,Bote,Rolle,Mann
+Bräutigam,Bräutigam,Rolle,Mann
+Fremder,Fremder,Rolle,Mann
+Begleiter,Begleiter,Rolle,Mann
+Hausfrau,Hausfrau,Rolle,Frau
+Töchter,Töchter,Rolle,Frau
+Vater,Vater,Rolle,Mann
+Bursche,Bursche,Rolle,Mann
+Leutnant,Leutnant,Rolle,Mann
+Nichte,Nichte,Rolle,Frau
+Gast,Gast,Rolle,Genderneutral
+Leute,Leute,Rolle,Genderneutral
+Abbate,Abbate,Rolle,Mann
+Fräulein,Fräulein,Rolle,Frau
+Fahrgäste,Fahrgäste,Rolle,Genderneutral
+Gatte,Gatte,Rolle,Mann
+Freundin,Freundin,Rolle,Frau
+Magd,Magd,Rolle,Frau
+Ehepaar,Ehepaar,Rolle,Genderneutral
+Nichtgekannter,Nichtgekannter,Rolle,Mann
+Nachbarin,Nachbarin,Rolle,Frau
+Professor,Professor,Rolle,Mann
+Lehrer,Lehrer,Rolle,Mann
+Oheim,Oheim,Rolle,Mann
+Schlucker,Schlucker,Rolle,Mann
+Bürger,Bürger,Rolle,Genderneutral
+Mensch,Mensch,Rolle,Mann
+Geliebter,Geliebter,Rolle,Mann
+Geistlicher,Geistlicher,Rolle,Mann
+Hausherr,Hausherr,Rolle,Mann
+Brautführer,Brautführer,Rolle,Mann
+Marchese,Marchese,Rolle,Mann
+Gemahlin,Gemahlin,Rolle,Frau
+Brüder,Brüder,Rolle,Mann
+Marchesa,Marchesa,Rolle,Frau
+Oberst,Oberst,Rolle,Mann
+Offizier,Offizier,Rolle,Mann
+Kind,Kind,Rolle,Genderneutral
+Hahnrei,Hahnrei,Rolle,Mann
+Liebhaber,Liebhaber,Rolle,Mann
+Kerl,Kerl,Rolle,Mann
+Kupplerin,Kupplerin,Rolle,Frau
+Bettler,Bettler,Rolle,Mann
+Lügner,Lügner,Rolle,Mann
+Narr,Narr,Rolle,Mann
+Jungfrau,Jungfrau,Rolle,Frau
+Wesen,Wesen,Rolle,Genderneutral
+Bankier,Bankier,Rolle,Mann
+Gesellen,Gesellen,Rolle,Mann
+Sophist,Sophist,Rolle,Mann
+Gegner,Gegner,Rolle,Mann
+Geist,Geist,Rolle,Genderneutral
+Gottesleugner,Gottesleugner,Rolle,Mann
+Gegnerin,Gegnerin,Rolle,Frau
+Gelehrte,Gelehrte,Rolle,Frau
+Philosophin,Philosophin,Rolle,Frau
+Weltwunder,Weltwunder,Rolle,Genderneutral
+Arzt,Arzt,Rolle,Mann
+Schülerin,Schülerin,Rolle,Frau
+Dame,Dame,Rolle,Frau
+Herrin,Herrin,Rolle,Frau
+Schriftsteller,Schriftsteller,Rolle,Mann
+Emissär,Emissär,Rolle,Mann
+Frauenverführer,Frauenverführer,Rolle,Mann
+Spieler,Spieler,Rolle,Mann
+Geschäftsmann,Geschäftsmann,Rolle,Mann
+Bruder,Bruder,Rolle,Mann
+Maler,Maler,Rolle,Mann
+Partner,Partner,Rolle,Mann
+Fürst,Fürst,Rolle,Mann
+Erfahrener,Erfahrener,Rolle,Mann
+Soldat,Soldat,Rolle,Mann
+Sänger,Sänger,Rolle,Mann
+Freunde,Freunde,Rolle,Genderneutral
+Knabe,Knabe,Rolle,Mann
+Äbtissin,Äbtissin,Rolle,Frau
+Herzogin,Herzogin,Rolle,Frau
+Unverschämter,Unverschämter,Rolle,Mann
+König,König,Rolle,Mann
+Bügermeister,Bügermeister,Rolle,Mann
+Edelmann,Edelmann,Rolle,Mann
+Neuangekommene,Neuangekommene,Rolle,Genderneutral
+Junggesellen,Junggesellen,Rolle,Mann
+Tropf,Tropf,Rolle,Genderneutral
+Liebesleute,Liebesleute,Rolle,Genderneutral
+Zuschauer,Zuschauer,Rolle,Mann
+Wundergeschöpf,Wundergeschöpf,Rolle,Genderneutral
+Ungeschickter,Ungeschickter,Rolle,Mann
+Dummkopf,Dummkopf,Rolle,Genderneutral
+Greis,Greis,Rolle,Mann
+Hund,Hund,Rolle,Genderneutral
+Heuchlerin,Heuchlerin,Rolle,Frau
+Lügnerin,Lügnerin,Rolle,Frau
+Dirne,Dirne,Rolle,Frau
+Hure,Hure,Rolle,Frau
+Verleumder,Verleumder,Rolle,Mann
+Erpresser,Erpresser,Rolle,Mann
+Knecht,Knecht,Rolle,Mann
+Tote,Tote,Rolle,Frau
+Dreizehnjährige,Dreizehnjährige,Rolle,Frau
+Sohn,Sohn,Rolle,Mann
+Kenner,Kenner,Rolle,Mann
+Mathematiker,Mathematiker,Rolle,Mann
+Widersacher,Widersacher,Rolle,Mann
+Wissender,Wissender,Rolle,Mann
+Nonnen,Nonnen,Rolle,Frau
+Freundinnen,Freundinnen,Rolle,Frau
+Führerin,Führerin,Rolle,Frau

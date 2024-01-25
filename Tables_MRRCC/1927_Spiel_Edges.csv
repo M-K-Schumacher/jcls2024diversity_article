@@ -1,0 +1,223 @@
+Source,Target,Type,Label,Weight,source type,target type,gender
+Wilhelm,Leutnant,Undirected,,1,Figur,Genderrolle,Mann
+Wilhelm,Herr,Undirected,,1,Figur,Genderrolle,Mann
+Wilhelm,Offizier,Undirected,,1,Figur,Genderrolle,Mann
+Joseph,Bursche,Undirected,,1,Figur,Genderrolle,Mann
+2,Herr Ober–,Undirected,,1,Figur,Genderrolle,Mann
+Joseph,Schafskopf,Undirected,,1,Figur,Genderrolle,Genderneutral
+2,Oberleutnant,Undirected,,1,Figur,Genderrolle,Mann
+2,Kamerad,Undirected,,1,Figur,Genderrolle,Mann
+Höchster,Oberleutnant,Undirected,,1,Figur,Genderrolle,Mann
+Wengler,Leutnant,Undirected,,1,Figur,Genderrolle,Mann
+Herr Hauptmann,Hauptmann,Undirected,,1,Figur,Genderrolle,Mann
+2,Wartender,Undirected,,1,Figur,Genderrolle,Mann
+2,Freund,Undirected,,1,Figur,Genderrolle,Mann
+2,Eintretender,Undirected,,1,Figur,Genderrolle,Mann
+2,Otto,Undirected,,1,Figur,Genderrolle,Mann
+Plato,Waisenknabe,Undirected,,1,Figur,Genderrolle,Mann
+Wilhelm,Kasda,Undirected,,1,Figur,Genderrolle,Mann
+Wilhelm,Willi,Undirected,,1,Figur,Genderrolle,Mann
+Emilie Keßner,Fräulein,Undirected,,1,Figur,Genderrolle,Frau
+Frau Keßner,Mutter,Undirected,,1,Figur,Genderrolle,Frau
+2,Kassierer,Undirected,,1,Figur,Genderrolle,Mann
+Sohn von Herrn Bogner,Bube,Undirected,,1,Figur,Genderrolle,Mann
+2,Offizier,Undirected,,1,Figur,Genderrolle,Mann
+2,Bursche,Undirected,,1,Figur,Genderrolle,Mann
+Rudi Höchster,Höchster,Undirected,,1,Figur,Genderrolle,Mann
+Onkel Robert,Onkel,Undirected,,1,Figur,Genderrolle,Mann
+Onkel Robert,Sonderling,Undirected,,1,Figur,Genderrolle,Genderneutral
+Cousin Guido,Cousin,Undirected,,1,Figur,Genderrolle,Mann
+Onkel Robert,Herr,Undirected,,1,Figur,Genderrolle,Mann
+Onkel Robert,Leute,Undirected,,1,Figur,Genderrolle,Genderneutral
+Tugut,Hauptmacher,Undirected,,1,Figur,Genderrolle,Mann
+Tugut,Regimentsarzt,Undirected,,1,Figur,Genderrolle,Mann
+Wimmer,Oberleutnant,Undirected,,1,Figur,Genderrolle,Mann
+Greisinger,Siebenundsiebziger,Undirected,,1,Figur,Genderrolle,Genderneutral
+Ein Advokat,Advokat,Undirected,,1,Figur,Genderrolle,Mann
+Weiß,Sekretär,Undirected,,1,Figur,Genderrolle,Mann
+Ein Schauspieler,Schauspieler,Undirected,,1,Figur,Genderrolle,Mann
+Konsul Schnabel,Konsul,Undirected,,1,Figur,Genderrolle,Mann
+Konsul Schnabel,Herr,Undirected,,1,Figur,Genderrolle,Mann
+Die Hauptwurzen,Choristin,Undirected,,1,Figur,Genderrolle,Frau
+Die Hauptwurzen,Operettensängerin,Undirected,,1,Figur,Genderrolle,Frau
+Oberstleutnant Wositzky,Oberstleutnant,Undirected,,1,Figur,Genderrolle,Mann
+Oberstleutnant Wositzky,Herr,Undirected,,1,Figur,Genderrolle,Mann
+Zwei Mädchen,Mädel,Undirected,,1,Figur,Genderrolle,Frau
+Vater von Wilhelm,Oberstleutnant,Undirected,,1,Figur,Genderrolle,Mann
+Familie Keßner,Familie,Undirected,,1,Figur,Genderrolle,Genderneutral
+Emilie Keßner,Fräulein Emilie,Undirected,,1,Figur,Genderrolle,Frau
+Emilie Keßner,Tischnachbarin,Undirected,,1,Figur,Genderrolle,Frau
+Wilhelm,Gast,Undirected,,1,Figur,Genderrolle,Mann
+Ein junger Rechtsanwalt,Rechtsanwalt,Undirected,,1,Figur,Genderrolle,Mann
+Herr Keßner,Hasuherr,Undirected,,1,Figur,Genderrolle,Mann
+Wilhelm,Herr Leutnant,Undirected,,1,Figur,Genderrolle,Mann
+Emilie Keßner,Damen,Undirected,,1,Figur,Genderrolle,Frau
+Frau Keßner,Damen,Undirected,,1,Figur,Genderrolle,Frau
+Frau Keßner,Hausfrau,Undirected,,1,Figur,Genderrolle,Frau
+Zwei Töchter,Töchter,Undirected,,1,Figur,Genderrolle,Frau
+Ein kastelruther Wirt,Wirt,Undirected,,1,Figur,Genderrolle,Mann
+Zwei Töchter,Medusen,Undirected,,1,Figur,Genderrolle,Frau
+Ein Feldmarschalleutnant,Feldmarschalleutnant,Undirected,,1,Figur,Genderrolle,Mann
+Eine ältere Dame,Dame,Undirected,,1,Figur,Genderrolle,Frau
+Wilhelm,Tänzer,Undirected,,1,Figur,Genderrolle,Mann
+Wilhelm,Infanterieleutnant,Undirected,,1,Figur,Genderrolle,Mann
+Zwei Töchter,Damen,Undirected,,1,Figur,Genderrolle,Frau
+Zwei Töchter,Grazien,Undirected,,1,Figur,Genderrolle,Frau
+Emilie Keßner,Grazien,Undirected,,1,Figur,Genderrolle,Frau
+Ein junger Rechtsanwalt,Doktor,Undirected,,1,Figur,Genderrolle,Mann
+Zwei junge Herren,Herren,Undirected,,1,Figur,Genderrolle,Mann
+Eine entfernte Verwandte,Verwandte,Undirected,,1,Figur,Genderrolle,Frau
+Wilhelm,Partner,Undirected,,1,Figur,Genderrolle,Mann
+Leutnant Greising,Patient,Undirected,,1,Figur,Genderrolle,Mann
+Weiß,Theatersekretär,Undirected,,1,Figur,Genderrolle,Mann
+Wimmer,Kavallerist,Undirected,,1,Figur,Genderrolle,Mann
+Wimmer,Kamerad,Undirected,,1,Figur,Genderrolle,Mann
+Wilhelm,Herr Torero,Undirected,,1,Figur,Genderrolle,Mann
+Leutnant Greising,Herr Torero,Undirected,,1,Figur,Genderrolle,Mann
+Familie Keßner,Keßners,Undirected,,1,Figur,Genderrolle,Genderneutral
+Konsul Schnabel,Herr von unbestimmtem Alter,Undirected,,1,Figur,Genderrolle,Mann
+Doktor Flegmann,Doktor,Undirected,,1,Figur,Genderrolle,Mann
+Doktor Flegmann,Bankhalter,Undirected,,1,Figur,Genderrolle,Mann
+Tugut,Abteilungschef,Undirected,,1,Figur,Genderrolle,Mann
+Elrief,Schauspieler,Undirected,,1,Figur,Genderrolle,Mann
+Elrief,Mensch,Undirected,,1,Figur,Genderrolle,Genderneutral
+Konsul Schnabel,Großkaufmann,Undirected,,1,Figur,Genderrolle,Mann
+Fräulein Rihoschek,Schauspielerin,Undirected,,1,Figur,Genderrolle,Frau
+Elrief,Liebhaber,Undirected,,1,Figur,Genderrolle,Mann
+Fräulein Rihoschek,Freundin,Undirected,,1,Figur,Genderrolle,Frau
+Elrief,Mann,Undirected,,1,Figur,Genderrolle,Mann
+2,Defraudant,Undirected,,1,Figur,Genderrolle,Mann
+Emilie Keßner,Tochter,Undirected,,1,Figur,Genderrolle,Frau
+Das Stubenmädchen der Keßners,Stubenmädchen,Undirected,,1,Figur,Genderrolle,Frau
+Familie Keßner,Herrschaften,Undirected,,1,Figur,Genderrolle,Genderneutral
+Frau Keßner,Frau,Undirected,,1,Figur,Genderrolle,Frau
+Ein alter Herr,Herr,Undirected,,1,Figur,Genderrolle,Mann
+Ein alter Herr,Mensch,Undirected,,1,Figur,Genderrolle,Genderneutral
+Eine ältere Dame,Mensch,Undirected,,1,Figur,Genderrolle,Genderneutral
+Ein Kutscher,Kutscher,Undirected,,1,Figur,Genderrolle,Mann
+Eine dunkeläugige Dame,Dame,Undirected,,1,Figur,Genderrolle,Frau
+Ein Knabe,Knabe,Undirected,,1,Figur,Genderrolle,Mann
+Ein pensionierter General,General,Undirected,,1,Figur,Genderrolle,Mann
+Ein Pensionierter General,Herr,Undirected,,1,Figur,Genderrolle,Mann
+Doktor Flegmann,Advokat,Undirected,,1,Figur,Genderrolle,Mann
+Don Juan,Ehrenmann,Undirected,,1,Figur,Genderrolle,Mann
+Herzog von Richelieu,Ehrenmann,Undirected,,1,Figur,Genderrolle,Mann
+Fräulein Rihoschek,Fräulein,Undirected,,1,Figur,Genderrolle,Frau
+Elrief,Herr Mimius,Undirected,,1,Figur,Genderrolle,Mann
+Fräulein Rihoschek,Mizi,Undirected,,1,Figur,Genderrolle,Frau
+Weiß,Direktionssekretär,Undirected,,1,Figur,Genderrolle,Mann
+Wilhelm,Leutnant Kasda,Undirected,,1,Figur,Genderrolle,Mann
+Badener Gymnasiasten,Gymnasiasten,Undirected,,1,Figur,Genderrolle,Mann
+Elrief,Gastgeber,Undirected,,1,Figur,Genderrolle,Mann
+Der Kellner,Kellner,Undirected,,1,Figur,Genderrolle,Mann
+Die Spielergesellschaft,Spielergesellschaft,Undirected,,1,Figur,Genderrolle,Genderneutral
+2,Mensch,Undirected,,1,Figur,Genderrolle,Genderneutral
+Wilhelm,Teufel,Undirected,,1,Figur,Genderrolle,Mann
+Elrief,Herr,Undirected,,1,Figur,Genderrolle,Mann
+Wilhelm,Leute,Undirected,,1,Figur,Genderrolle,Genderneutral
+Wilhelm,junger Mann,Undirected,,1,Figur,Genderrolle,Mann
+Wilhelm,Habenichts,Undirected,,1,Figur,Genderrolle,Genderneutral
+Fräulein Rihoschek,Königin,Undirected,,1,Figur,Genderrolle,Frau
+Fräulein Rihoschek,Chotistin,Undirected,,1,Figur,Genderrolle,Frau
+Wimmer,Zeugen,Undirected,,1,Figur,Genderrolle,Genderneutral
+Elrief,Zeugen,Undirected,,1,Figur,Genderrolle,Genderneutral
+Fräulein Rihoschek,Zeugen,Undirected,,1,Figur,Genderrolle,Genderneutral
+Greising,Zeugen,Undirected,,1,Figur,Genderrolle,Genderneutral
+Weiß,Drei,Undirected,,1,Figur,Genderrolle,Genderneutral
+Elrief,Drei,Undirected,,1,Figur,Genderrolle,Genderneutral
+Fräulein Rihoschek,Drei,Undirected,,1,Figur,Genderrolle,Genderneutral
+Wilhelms Vater,Oberstleutnant,Undirected,,1,Figur,Genderrolle,Mann
+Wilhelms Mutter,Mutter,Undirected,,1,Figur,Genderrolle,Frau
+Wilhelms Vater,Eltern,Undirected,,1,Figur,Genderrolle,Genderneutral
+Wilhelms Mutter,Eltern,Undirected,,1,Figur,Genderrolle,Genderneutral
+Wilhelms Vater,Offizier,Undirected,,1,Figur,Genderrolle,Mann
+Konsul Schnabel,Mensch,Undirected,,1,Figur,Genderrolle,Genderneutral
+Greising,Kamerad,Undirected,,1,Figur,Genderrolle,Mann
+Wilhelm,Neffe,Undirected,,1,Figur,Genderrolle,Mann
+Wilhelms Mutter,Schwester,Undirected,,1,Figur,Genderrolle,Frau
+Onkel Robert,Mensch,Undirected,,1,Figur,Genderrolle,Genderneutral
+Onkel Robert,Kapitalist,Undirected,,1,Figur,Genderrolle,Mann
+Konsul Schnabel,Begleiter,Undirected,,1,Figur,Genderrolle,Mann
+Die Kompagnie,Kompagnie,Undirected,,1,Figur,Genderrolle,Genderneutral
+Konsul Schnabel,Korporal,Undirected,,1,Figur,Genderrolle,Mann
+Ein alter Mann,Mann,Undirected,,1,Figur,Genderrolle,Mann
+Ein junges Weib,Weib,Undirected,,1,Figur,Genderrolle,Frau
+Ein Justizsoldat,Justizsoldat,Undirected,,1,Figur,Genderrolle,Mann
+Ein Justizsoldat,Mannschaftsperson,Undirected,,1,Figur,Genderrolle,Genderneutral
+Greising,Subjekt,Undirected,,1,Figur,Genderrolle,Genderneutral
+Greising,Mensch,Undirected,,1,Figur,Genderrolle,Genderneutral
+Konsul Schnabel,Nachbar,Undirected,,1,Figur,Genderrolle,Mann
+Schnabels Familie,Familie,Undirected,,1,Figur,Genderrolle,Genderneutral
+Onkel Robert,Robert Wilram,Undirected,,1,Figur,Genderrolle,Mann
+Onkel Robert,Bruder,Undirected,,1,Figur,Genderrolle,Mann
+Onkel Robert,Privatier,Undirected,,1,Figur,Genderrolle,Mann
+Eine junge Dame,Dame,Undirected,,1,Figur,Genderrolle,Frau
+Frau Schnabel,Gattin,Undirected,,1,Figur,Genderrolle,Frau
+Die Achtundneunziger,Achtundneunziger,Undirected,,1,Figur,Genderrolle,Genderneutral
+Eine Schulklasse,Schulklasse,Undirected,,1,Figur,Genderrolle,Genderneutral
+Eine Schulklasse,Knaben,Undirected,,1,Figur,Genderrolle,Mann
+Ein junger Lehrer,Lehrer,Undirected,,1,Figur,Genderrolle,Mann
+Ein junger Lehrer,Mensch,Undirected,,1,Figur,Genderrolle,Genderneutral
+Ein junger Lehrer,Schullehrer,Undirected,,1,Figur,Genderrolle,Mann
+Ein junger Lehrer,Geschöpf,Undirected,,1,Figur,Genderrolle,Genderneutral
+Eine alte Frau,Frau,Undirected,,1,Figur,Genderrolle,Frau
+Ein Kerl,Kerl,Undirected,,1,Figur,Genderrolle,Mann
+Zwei Nonnen,Nonnen,Undirected,,1,Figur,Genderrolle,Frau
+Ein altes Weib,Weib,Undirected,,1,Figur,Genderrolle,Frau
+Ein junges Geschöpf,Geschöpf,Undirected,,1,Figur,Genderrolle,Genderneutral
+Eine alte Frau,Mensch,Undirected,,1,Figur,Genderrolle,Genderneutral
+Ein Kerl,Mensch,Undirected,,1,Figur,Genderrolle,Genderneutral
+Zwei Nonnen,Mensch,Undirected,,1,Figur,Genderrolle,Genderneutral
+Ein altes Weib,Mensch,Undirected,,1,Figur,Genderrolle,Genderneutral
+Ein junges Geschöpf,Mensch,Undirected,,1,Figur,Genderrolle,Genderneutral
+Der Posten,Posten,Undirected,,1,Figur,Genderrolle,Genderneutral
+Wilhelm,Kavalier,Undirected,,1,Figur,Genderrolle,Mann
+Ein Kadett,Kadett,Undirected,,1,Figur,Genderrolle,Mann
+Ein Kadett,Wieseltier,Undirected,,1,Figur,Genderrolle,Genderneutral
+Ein Kadett,Letzter,Undirected,,1,Figur,Genderrolle,Mann
+Ein Trupp,Rekruten,Undirected,,1,Figur,Genderrolle,Genderneutral
+Ein Korporal,Korporal,Undirected,,1,Figur,Genderrolle,Mann
+Herr Kadettstellvertreter,Kadettstellvertreter,Undirected,,1,Figur,Genderrolle,Mann
+Wilhelm,Kanaille,Undirected,,1,Figur,Genderrolle,Genderneutral
+Fräulein Keßner,Herzdame,Undirected,,1,Figur,Genderrolle,Frau
+Onkel Robert,Wilram,Undirected,,1,Figur,Genderrolle,Mann
+Onkel Robert,Mann,Undirected,,1,Figur,Genderrolle,Mann
+Onkel Robert,Älterer,Undirected,,1,Figur,Genderrolle,Mann
+Wilhelms Vater,Schwager,Undirected,,1,Figur,Genderrolle,Mann
+Wilhelms Vater,Major Kasda,Undirected,,1,Figur,Genderrolle,Mann
+Frau Wilram,Frau,Undirected,,1,Figur,Genderrolle,Frau
+Onkel Robert,Privatmann,Undirected,,1,Figur,Genderrolle,Mann
+Onkel Robert,Schauspieler,Undirected,,1,Figur,Genderrolle,Mann
+Wilhelm,Jüngerer,Undirected,,1,Figur,Genderrolle,Mann
+Wilhelm,Person,Undirected,,1,Figur,Genderrolle,Genderneutral
+2,Herr,Undirected,,1,Figur,Genderrolle,Mann
+Wilhelm,Kamerad,Undirected,,1,Figur,Genderrolle,Mann
+Eine ältliche Person,Person,Undirected,,1,Figur,Genderrolle,Genderneutral
+Eine ältliche Person,Frau,Undirected,,1,Figur,Genderrolle,Frau
+Wilhelm,Kind,Undirected,,1,Figur,Genderrolle,Genderneutral
+Konsul Schnabel,Gläubiger,Undirected,,1,Figur,Genderrolle,Mann
+Wilhelms Großvater,Feldmarschalleutnant,Undirected,,1,Figur,Genderrolle,Mann
+Eine ältliche Person,Wirtschafterin,Undirected,,1,Figur,Genderrolle,Frau
+Onkel Robert,Besitzer,Undirected,,1,Figur,Genderrolle,Mann
+Onkel Robert,Bettler,Undirected,,1,Figur,Genderrolle,Mann
+Leopoldine Lebus,Gemahlin,Undirected,,1,Figur,Genderrolle,Frau
+Leopoldine Lebus,Geschöpf,Undirected,,1,Figur,Genderrolle,Genderneutral
+Leopoldine Lebus,Dame,Undirected,,1,Figur,Genderrolle,Frau
+Leopoldine Lebus,Dirne,Undirected,,1,Figur,Genderrolle,Frau
+Leopoldine Lebus,Person,Undirected,,1,Figur,Genderrolle,Genderneutral
+Leopoldine Lebus,Blumenmädel,Undirected,,1,Figur,Genderrolle,Frau
+Kriebaum,Volkssänger,Undirected,,1,Figur,Genderrolle,Mann
+Ronacher,Ronacher,Undirected,,1,Figur,Genderrolle,Mann
+Onkel Robert,Esel,Undirected,,1,Figur,Genderrolle,Genderneutral
+Leopoldine Lebus,Frauenzimmer,Undirected,,1,Figur,Genderrolle,Frau
+Leopoldine Lebus,Fräulein,Undirected,,1,Figur,Genderrolle,Frau
+Leopoldine Lebus,Mädel,Undirected,,1,Figur,Genderrolle,Frau
+Leopoldine Lebus,Wuschelkopf,Undirected,,1,Figur,Genderrolle,Genderneutral
+Eine Baronesse,Dame,Undirected,,1,Figur,Genderrolle,Frau
+Ein Kamerad,Gatte,Undirected,,1,Figur,Genderrolle,Mann
+Eine Baronesse,Frau,Undirected,,1,Figur,Genderrolle,Frau
+Höchster,Oberleutnat,Undirected,,1,Figur,Genderrolle,Mann
+Ein weibliches Wesen,Wesen,Undirected,,1,Figur,Genderrolle,Frau
+Ein weibliches Wesen,Geliebte,Undirected,,1,Figur,Genderrolle,Frau
+Ein Bankier,Bankier,Undirected,,1,Figur,Genderrolle,Mann
+Leopoldines Schwester,Schwester,Undirected,,1,Figur,Genderrolle,Frau

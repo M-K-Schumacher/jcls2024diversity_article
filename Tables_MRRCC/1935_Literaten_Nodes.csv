@@ -1,0 +1,431 @@
+Id,Label,type,gender
+Literaten,Literaten,Figur,
+der Mensch,der Mensch,Figur,
+Fahrgast,Fahrgast,Figur,
+Menschen,Menschen,Rolle,Genderneutral
+Frauen,Frauen,Figur,
+Leute,Leute,Figur,
+Männer,Männer,Rolle,Mann
+Kurt Tucholsky,Kurt Tucholsky,Figur,
+Dichter,Dichter,Rolle,Mann
+Publikum,Publikum,Figur,
+Thomas Mann,Thomas Mann,Figur,
+Hermann Keyserling,Hermann Keyserling,Figur,
+Schüler,Schüler,Figur,
+Klassenrüpel,Klassenrüpel,Figur,
+Philosoph,Philosoph,Figur,
+Kasimir Edschmid,Kasimir Edschmid,Figur,
+Kunden,Kunden,Figur,
+Rudolf Breitscheid,Rudolf Breitscheid,Figur,
+Adolf Bartels,Adolf Bartels,Figur,
+Oberlandesgerichtsrat,Oberlandesgerichtsrat,Figur,
+Rudolf Hilferding,Rudolf Hilferding,Figur,
+Peter Panter,Peter Panter,Figur,
+Verständige,Verständige,Figur,
+Statisten,Statisten,Figur,
+Mimen,Mimen,Figur,
+Virtuosen,Virtuosen,Figur,
+fünf Soldaten,fünf Soldaten,Figur,
+drei Krankenschwestern,drei Krankenschwestern,Figur,
+Franzosen,Franzosen,Figur,
+Engländer,Engländer,Figur,
+Russen,Russen,Figur,
+Judendjunge,Judendjunge,Figur,
+Medizinprofessor,Medizinprofessor,Figur,
+Todkranker,Todkranker,Figur,
+Ärzte,Ärzte,Figur,
+Götter,Götter,Figur,
+Gott,Gott,Figur,
+der Deutsche,der Deutsche,Figur,
+Bauern,Bauern,Figur,
+Ernst Toller,Ernst Toller,Figur,
+Arbeiter,Arbeiter,Figur,
+Bürger,Bürger,Rolle,Mann
+Masse,Masse,Figur,
+Unabhängige,Unabhängige,Figur,
+der Arbeiter,der Arbeiter,Figur,
+Arnold Zweig,Arnold Zweig,Figur,
+Bastmayr,Bastmayr,Figur,
+Bennarône,Bennarône,Figur,
+Direktor,Direktor,Figur,
+kleines Mädchen,kleines Mädchen,Figur,
+Arthur Holitscher,Arthur Holitscher,Figur,
+Familie von Arthur Holitscher,Familie von Arthur Holitscher,Figur,
+Knut Hamsun,Knut Hamsun,Figur,
+Autoren,Autoren,Figur,
+Anarchisten,Anarchisten,Figur,
+ein Freund,ein Freund,Figur,
+ein Graf,ein Graf,Figur,
+Frau,Frau,Figur,
+Kurt Martens,Kurt Martens,Figur,
+Bonzen,Bonzen,Figur,
+Hans Fallada,Hans Fallada,Figur,
+Ernst Rohwolt,Ernst Rohwolt,Figur,
+Bauernführer,Bauernführer,Figur,
+Nationalsozialisten,Nationalsozialisten,Figur,
+Bewohner Altholms,Bewohner Altholms,Figur,
+der Bauer,der Bauer,Figur,
+eine alte Jungfer,eine alte Jungfer,Figur,
+Guy de Maupassant,Guy de Maupassant,Figur,
+der Sozialdemokrat,der Sozialdemokrat,Figur,
+Bürgermeister Altholms,Bürgermeister Altholms,Figur,
+Regierungspräsident,Regierungspräsident,Figur,
+Bürgermeister Altholms und Regierungspräsident,Bürgermeister Altholms und Regierungspräsident,Figur,
+Vertrauensmann,Vertrauensmann,Figur,
+Polizei,Polizei,Figur,
+Führer,Führer,Figur,
+Zeitungsleute,Zeitungsleute,Figur,
+Kaufleute,Kaufleute,Figur,
+Betty,Betty,Figur,
+ein Duzfreund,ein Duzfreund,Figur,
+Herr Stuff,Herr Stuff,Figur,
+Zeugen,Zeugen,Figur,
+Angeklagte,Angeklagte,Figur,
+Sozialdemokraten,Sozialdemokraten,Figur,
+Volk,Volk,Figur,
+Banz,Banz,Figur,
+Kommunist,Kommunist,Figur,
+Republikaner,Republikaner,Figur,
+Helden,Helden,Figur,
+Juden,Juden,Figur,
+Kommunisten,Kommunisten,Figur,
+Gänsemagd,Gänsemagd,Figur,
+Franz Kafka,Franz Kafka,Figur,
+Frau Grubach,Frau Grubach,Figur,
+Fräulein Bürstner,Fräulein Bürstner,Figur,
+Josef K.,Josef K.,Figur,
+Aufseher,Aufseher,Figur,
+Gerichtsboten,Gerichtsboten,Figur,
+Advokaten,Advokaten,Figur,
+Gerichtsdiener,Gerichtsdiener,Figur,
+Diener,Diener,Figur,
+Untersuchungsrichter,Untersuchungsrichter,Figur,
+Prügler,Prügler,Figur,
+Wärter,Wärter,Figur,
+Advokat,Advokat,Figur,
+Max Brod,Max Brod,Figur,
+Richter,Richter,Figur,
+ein Maler,ein Maler,Figur,
+ein Gefägniskaplan,ein Gefägniskaplan,Figur,
+Patient,Patient,Figur,
+Arzt,Arzt,Figur,
+Untertan,Untertan,Rolle,Mann
+Väter,Väter,Figur,
+Söhne,Söhne,Figur,
+Heinrich Mann,Heinrich Mann,Figur,
+Untertanen,Untertanen,Figur,
+Machthaber,Machthaber,Figur,
+Diedrich Heßling,Diedrich Heßling,Figur,
+Kaiser,Kaiser,Rolle,Mann
+Magda,Magda,Figur,
+Schutzmann,Schutzmann,Figur,
+der Passant,der Passant,Figur,
+der Unteroffizier,der Unteroffizier,Figur,
+der Rekrut,der Rekrut,Figur,
+der Landrat,der Landrat,Figur,
+der Dörfler,der Dörfler,Figur,
+der Gutsverwalter,der Gutsverwalter,Figur,
+der Beamte,der Beamte,Figur,
+Vorgesetzte,Vorgesetzte,Figur,
+Untergebene,Untergebene,Figur,
+Musketier Lyck,Musketier Lyck,Figur,
+Arbeitslosen,Arbeitslosen,Figur,
+der alte Buck,der alte Buck,Figur,
+Onkel Casimir,Onkel Casimir,Figur,
+Johann Friedrich Cotta,Johann Friedrich Cotta,Figur,
+Friedrich Schiller,Friedrich Schiller,Figur,
+Holkische Reitende Jäger,Holkische Reitende Jäger,Figur,
+Holkischer Jäger,Holkischer Jäger,Figur,
+Aufwärterin,Aufwärterin,Figur,
+Thekla,Thekla,Figur,
+Max,Max,Figur,
+Thekla und Max,Thekla und Max,Figur,
+Bertelmann,Bertelmann,Figur,
+Xaver Gscheitner,Xaver Gscheitner,Figur,
+Neumänner,Neumänner,Figur,
+Rittmeister Neumann,Rittmeister Neumann,Figur,
+Johann Wolfgang von Goethe,Johann Wolfgang von Goethe,Figur,
+Seni,Seni,Figur,
+T. Betternich,T. Betternich,Figur,
+Geschäftsleute,Geschäftsleute,Figur,
+Badegäste,Badegäste,Figur,
+der Dichter,der Dichter,Figur,
+Friedrich Markus Huebner,Friedrich Markus Huebner,Figur,
+Dame des Herzens,Dame des Herzens,Figur,
+der Leser,der Leser,Figur,
+Hermann Hesse,Hermann Hesse,Figur,
+Wolfgang Wieland,Wolfgang Wieland,Figur,
+Wolfgang Wieland und Friedrich Markus Huebner,Wolfgang Wieland und Friedrich Markus Huebner,Figur,
+Klabund,Klabund,Figur,
+Walter Mehring,Walter Mehring,Figur,
+Quaquaro,Quaquaro,Figur,
+Gerhart Hauptmann,Gerhart Hauptmann,Figur,
+Freunde,Freunde,Figur,
+Alexander Roda Roda,Alexander Roda Roda,Figur,
+Kitty,Kitty,Figur,
+Georg Christoph Lichtenberg,Georg Christoph Lichtenberg,Figur,
+Erich Maria Remarque,Erich Maria Remarque,Figur,
+Erich Maria Remarque ,Erich Maria Remarque ,Figur,
+Vater von Erich Maria Remarque,Vater von Erich Maria Remarque,Figur,
+Christenkinder,Christenkinder,Figur,
+Familien,Familien,Figur,
+Sarah Bienenstock,Sarah Bienenstock,Figur,
+Rosalie Himmelstoß,Rosalie Himmelstoß,Figur,
+Professor Coßmann,Professor Coßmann,Figur,
+B. Traven,B. Traven,Figur,
+Herr Collins,Herr Collins,Figur,
+Indio,Indio,Figur,
+Fräulein Betty,Fräulein Betty,Figur,
+ein Kind,ein Kind,Figur,
+Indianer,Indianer,Figur,
+Felipe,Felipe,Figur,
+Don Juvenico,Don Juvenico,Figur,
+Donja Luisa,Donja Luisa,Figur,
+Anita,Anita,Figur,
+Belario,Belario,Figur,
+drei Goldgräber,drei Goldgräber,Figur,
+Mensch,Mensch,Rolle,Genderneutral
+Knaben,Knaben,Rolle,Mann
+alter Mann,alter Mann,Rolle,Mann
+Herr Thomas Mann,Herr Thomas Mann,Rolle,Mann
+Erster Buchhaltungskonzipist,Erster Buchhaltungskonzipist,Rolle,Mann
+Künstler,Künstler,Rolle,Mann
+Herr Graf Hermann v. Keyserling,Herr Graf Hermann v. Keyserling,Rolle,Mann
+Mittelschullehrer,Mittelschullehrer,Rolle,Mann
+Keyserling,Keyserling,Rolle,Mann
+Herr Kasimir Edschmid,Herr Kasimir Edschmid,Rolle,Mann
+Coiffeur,Coiffeur,Rolle,Mann
+Kundschaft,Kundschaft,Rolle,Genderneutral
+Herr Dr. Rudolf Breitscheid,Herr Dr. Rudolf Breitscheid,Rolle,Mann
+Rayonchef,Rayonchef,Rolle,Mann
+Herr Breitscheid,Herr Breitscheid,Rolle,Mann
+Herr Adolf Bartels,Herr Adolf Bartels,Rolle,Mann
+Komparse,Komparse,Rolle,Mann
+Statist,Statist,Rolle,Mann
+Sanitätsgehilfe,Sanitätsgehilfe,Rolle,Mann
+Bartels,Bartels,Rolle,Mann
+Herr Oberlandesgerichtsrat,Herr Oberlandesgerichtsrat,Rolle,Mann
+Jurist,Jurist,Rolle,Mann
+Herr Dr. Rudolf Hilferding,Herr Dr. Rudolf Hilferding,Rolle,Mann
+Mediziner,Mediziner,Rolle,Mann
+Herr Peter Panter,Herr Peter Panter,Rolle,Mann
+Privat-Sekretär,Privat-Sekretär,Rolle,Mann
+Theaterpublikum,Theaterpublikum,Rolle,Genderneutral
+Literaturschieber,Literaturschieber,Rolle,Genderneutral
+Soldaten,Soldaten,Rolle,Genderneutral
+Quintett,Quintett,Rolle,Genderneutral
+Junge,Junge,Rolle,Mann
+Mann,Mann,Rolle,Mann
+Geliebter,Geliebter,Rolle,Mann
+Mütter,Mütter,Rolle,Frau
+Sieger,Sieger,Rolle,Genderneutral
+Starken,Starken,Rolle,Genderneutral
+Krankenschwestern,Krankenschwestern,Rolle,Frau
+Blusendamen,Blusendamen,Rolle,Frau
+Damen,Damen,Rolle,Frau
+Judenjunge,Judenjunge,Rolle,Mann
+Menschenarzt,Menschenarzt,Rolle,Mann
+Marionette,Marionette,Rolle,Genderneutral
+Helfershelfer,Helfershelfer,Rolle,Genderneutral
+Korrelat eines Obersten,Korrelat eines Obersten,Rolle,Genderneutral
+Deutsche,Deutsche,Rolle,Mann
+Stabsärzte,Stabsärzte,Rolle,Genderneutral
+Offiziere,Offiziere,Rolle,Genderneutral
+Verwaltungsbeamte,Verwaltungsbeamte,Rolle,Genderneutral
+Subalterngeister,Subalterngeister,Rolle,Genderneutral
+Toller,Toller,Rolle,Mann
+Gestalten,Gestalten,Rolle,Genderneutral
+Verbrecher,Verbrecher,Rolle,Mann
+Schwarmgeist,Schwarmgeist,Rolle,Genderneutral
+Hanswurst,Hanswurst,Rolle,Mann
+Rowdy,Rowdy,Rolle,Genderneutral
+Geck,Geck,Rolle,Mann
+Onkel,Onkel,Rolle,Mann
+stud. phil. Bennarône,stud. phil. Bennarône,Rolle,Mann
+Student,Student,Rolle,Mann
+Schelm,Schelm,Rolle,Mann
+Betrogene,Betrogene,Rolle,Mann
+Mädchen,Mädchen,Rolle,Frau
+Dessauer,Dessauer,Rolle,Mann
+Erzählende,Erzählende,Rolle,Mann
+Schlemihl,Schlemihl,Rolle,Mann
+Bankbeamter,Bankbeamter,Rolle,Mann
+Familie,Familie,Rolle,Genderneutral
+Wesen,Wesen,Rolle,Genderneutral
+Hamsun,Hamsun,Rolle,Mann
+Ausländer,Ausländer,Rolle,Mann
+Bücherverfasser,Bücherverfasser,Rolle,Genderneutral
+Schriftsteller,Schriftsteller,Rolle,Mann
+Freund,Freund,Rolle,Mann
+Graf,Graf,Rolle,Mann
+Exemplar,Exemplar,Rolle,Genderneutral
+Weiber,Weiber,Rolle,Frau
+Herren,Herren,Rolle,Mann
+Rebell,Rebell,Rolle,Mann
+Staatsbürger,Staatsbürger,Rolle,Genderneutral
+Bekenner,Bekenner,Rolle,Mann
+Rohwolt,Rohwolt,Rolle,Mann
+Verfasser,Verfasser,Rolle,Mann
+Bewohner,Bewohner,Rolle,Genderneutral
+Bauernschaft,Bauernschaft,Rolle,Genderneutral
+Ackerbürger,Ackerbürger,Rolle,Genderneutral
+Bauer,Bauer,Rolle,Mann
+Autor,Autor,Rolle,Mann
+Fallada,Fallada,Rolle,Mann
+alte Jungfer,alte Jungfer,Rolle,Frau
+Sozialdemokrat,Sozialdemokrat,Rolle,Mann
+Bürgermeister,Bürgermeister,Rolle,Mann
+Schupo,Schupo,Rolle,Genderneutral
+Opfer,Opfer,Rolle,Genderneutral
+Waisenknaben,Waisenknaben,Rolle,Mann
+Herr Bürgermeister,Herr Bürgermeister,Rolle,Mann
+Sau,Sau,Rolle,Frau
+Duzfreund,Duzfreund,Rolle,Mann
+Marxisten-Spießer,Marxisten-Spießer,Rolle,Genderneutral
+Nazis,Nazis,Rolle,Genderneutral
+Schreihälse,Schreihälse,Rolle,Genderneutral
+Luder,Luder,Rolle,Genderneutral
+Angeklagter,Angeklagter,Rolle,Mann
+Prinzessin,Prinzessin,Rolle,Frau
+Sozis,Sozis,Rolle,Genderneutral
+K.,K.,Rolle,Mann
+Herr,Herr,Rolle,Mann
+Geprügelte,Geprügelte,Rolle,Genderneutral
+Wächter,Wächter,Rolle,Genderneutral
+Leidensgefährte,Leidensgefährte,Rolle,Mann
+Brod,Brod,Rolle,Mann
+Prosaiker,Prosaiker,Rolle,Mann
+Held,Held,Rolle,Mann
+Kafka,Kafka,Rolle,Mann
+Maler,Maler,Rolle,Mann
+Hilfesuchender,Hilfesuchender,Rolle,Mann
+Gefägniskaplan,Gefägniskaplan,Rolle,Mann
+Kranke,Kranke,Rolle,Mann
+Schöpfer,Schöpfer,Rolle,Mann
+Chauvinist,Chauvinist,Rolle,Mann
+Machtanbeter,Machtanbeter,Rolle,Mann
+Autoritätsgläubiger,Autoritätsgläubiger,Rolle,Mann
+Selbstkasteier,Selbstkasteier,Rolle,Mann
+Freigelassene,Freigelassene,Rolle,Genderneutral
+Deutscher,Deutscher,Rolle,Mann
+Sohn,Sohn,Rolle,Mann
+König,König,Rolle,Mann
+Herscherchen,Herscherchen,Rolle,Mann
+Staatsoberhaupt,Staatsoberhaupt,Rolle,Genderneutral
+Passant,Passant,Rolle,Mann
+Unteroffizier,Unteroffizier,Rolle,Mann
+Rekrut,Rekrut,Rolle,Mann
+Landrat,Landrat,Rolle,Mann
+Dörfler,Dörfler,Rolle,Mann
+Gutsverwalter,Gutsverwalter,Rolle,Mann
+Beamter,Beamter,Rolle,Mann
+Musketier,Musketier,Rolle,Mann
+Gefreiter,Gefreiter,Rolle,Mann
+Claqueur,Claqueur,Rolle,Mann
+Figur,Figur,Rolle,Genderneutral
+alte Buck,alte Buck,Rolle,Mann
+Achtundvierziger,Achtundvierziger,Rolle,Mann
+Bursche,Bursche,Rolle,Mann
+Radfahrer,Radfahrer,Rolle,Mann
+Literat,Literat,Rolle,Mann
+Casimir,Casimir,Rolle,Mann
+Chef-Leuchturmwächter,Chef-Leuchturmwächter,Rolle,Mann
+Cotta,Cotta,Rolle,Mann
+Verleger,Verleger,Rolle,Mann
+Zivilist,Zivilist,Rolle,Mann
+Kind,Kind,Rolle,Genderneutral
+Regimentskameraden,Regimentskameraden,Rolle,Mann
+Personen,Personen,Rolle,Genderneutral
+Generalsekretär,Generalsekretär,Rolle,Mann
+Regierungsoberamtmann,Regierungsoberamtmann,Rolle,Mann
+Leiter der Buchprüfungsstelle,Leiter der Buchprüfungsstelle,Rolle,Mann
+Familie Neumann,Familie Neumann,Rolle,Genderneutral
+Goethe,Goethe,Rolle,Mann
+Fritz Schiller,Fritz Schiller,Rolle,Mann
+Gestalt,Gestalt,Rolle,Genderneutral
+Sterndeuter,Sterndeuter,Rolle,Mann
+Hofrat,Hofrat,Rolle,Mann
+Professor,Professor,Rolle,Mann
+Verfertiger,Verfertiger,Rolle,Genderneutral
+F.M. Huebner,F.M. Huebner,Rolle,Mann
+Huebner,Huebner,Rolle,Mann
+Mitarbeiter,Mitarbeiter,Rolle,Mann
+Dame,Dame,Rolle,Frau
+Leser,Leser,Rolle,Mann
+Sechser-Casanova,Sechser-Casanova,Rolle,Mann
+Schilderer,Schilderer,Rolle,Mann
+Nebenmenschen,Nebenmenschen,Rolle,Genderneutral
+Hesse,Hesse,Rolle,Mann
+Fabrikant,Fabrikant,Rolle,Mann
+Schmierer,Schmierer,Rolle,Genderneutral
+Spender,Spender,Rolle,Mann
+Mehring,Mehring,Rolle,Mann
+Einheimischer,Einheimischer,Rolle,Mann
+Hausmeister,Hausmeister,Rolle,Mann
+Vizewirt,Vizewirt,Rolle,Mann
+Mitglied des Athletenvereins,Mitglied des Athletenvereins,Rolle,Mann
+Gerhard Hauptmann,Gerhard Hauptmann,Rolle,Mann
+Nebenfigur,Nebenfigur,Rolle,Mann
+Kerl,Kerl,Rolle,Mann
+Hauptmann,Hauptmann,Rolle,Mann
+Vertreter der hausherrlichen Gewalt,Vertreter der hausherrlichen Gewalt,Rolle,Mann
+Kastengenosse,Kastengenosse,Rolle,Mann
+Schweinehund,Schweinehund,Rolle,Mann
+Preuße,Preuße,Rolle,Mann
+Dogge,Dogge,Rolle,Mann
+Exponent,Exponent,Rolle,Mann
+Kaninchenböcke,Kaninchenböcke,Rolle,Genderneutral
+Roda Roda,Roda Roda,Rolle,Mann
+Geburtstagsmann,Geburtstagsmann,Rolle,Mann
+Meister,Meister,Rolle,Mann
+Gefeierte,Gefeierte,Rolle,Mann
+Lichtenberg,Lichtenberg,Rolle,Mann
+Uhu,Uhu,Rolle,Mann
+Herr Universitätsprofessor,Herr Universitätsprofessor,Rolle,Mann
+Geist,Geist,Rolle,Genderneutral
+Remarque,Remarque,Rolle,Mann
+Drückeberger,Drückeberger,Rolle,Mann
+Landesverräter,Landesverräter,Rolle,Mann
+Erich Salomon Markus,Erich Salomon Markus,Rolle,Mann
+Judenknäblein,Judenknäblein,Rolle,Mann
+Synagogendiener,Synagogendiener,Rolle,Mann
+Sproß Judas,Sproß Judas,Rolle,Mann
+Vater,Vater,Rolle,Mann
+Abraham Markus,Abraham Markus,Rolle,Mann
+Tateleben Markus,Tateleben Markus,Rolle,Mann
+Mutter,Mutter,Rolle,Frau
+Markus,Markus,Rolle,Mann
+Bonbonhädnler,Bonbonhädnler,Rolle,Mann
+Zuhälter,Zuhälter,Rolle,Mann
+Hundehaarschneider,Hundehaarschneider,Rolle,Mann
+Redakteur,Redakteur,Rolle,Mann
+Freimaurer,Freimaurer,Rolle,Mann
+Jesuit,Jesuit,Rolle,Mann
+Schreiber,Schreiber,Rolle,Mann
+Damenschneider,Damenschneider,Rolle,Mann
+Hilfsbremser,Hilfsbremser,Rolle,Mann
+Baldower,Baldower,Rolle,Mann
+Jude,Jude,Rolle,Mann
+Gattin,Gattin,Rolle,Frau
+Männi,Männi,Rolle,Mann
+Schießbudenfiguren,Schießbudenfiguren,Rolle,Genderneutral
+Götzen,Götzen,Rolle,Genderneutral
+Talent,Talent,Rolle,Genderneutral
+Traven,Traven,Rolle,Mann
+Ölmagnat,Ölmagnat,Rolle,Mann
+Ölmensch,Ölmensch,Rolle,Genderneutral
+Präsident,Präsident,Rolle,Mann
+Geliebte,Geliebte,Rolle,Frau
+Epiker,Epiker,Rolle,Mann
+Schurke,Schurke,Rolle,Mann
+Hurensohn,Hurensohn,Rolle,Mann
+Lügner,Lügner,Rolle,Mann
+Schwindler,Schwindler,Rolle,Mann
+Bandit,Bandit,Rolle,Mann
+Mörder,Mörder,Rolle,Mann
+Hausanzünder,Hausanzünder,Rolle,Mann
+Farmer,Farmer,Rolle,Mann
+Ehemann,Ehemann,Rolle,Mann
+Juvenico,Juvenico,Rolle,Mann
+Tigerin,Tigerin,Rolle,Frau
+Goldgräber,Goldgräber,Rolle,Genderneutral

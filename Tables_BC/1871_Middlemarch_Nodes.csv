@@ -1,0 +1,104 @@
+Id,Label,node type,gender
+Arbeiter,Arbeiter,Figur,
+Celia Brooke,Celia Brooke,Figur,
+der Onkel,der Onkel,Figur,
+Dorothea Brooke,Dorothea Brooke,Figur,
+Edward Casaubon,Edward Casaubon,Figur,
+ein Arbeiter,ein Arbeiter,Figur,
+ein Baronet,ein Baronet,Figur,
+ein Sänger,ein Sänger,Figur,
+ein Verbrecher,ein Verbrecher,Figur,
+Ein Vorfahr,Ein Vorfahr,Figur,
+Gott,Gott,Figur,
+Heilige Therese,Heilige Therese,Figur,
+Herr Liret,Herr Liret,Figur,
+junge Mädchen,junge Mädchen,Figur,
+Madame Poinçon,Madame Poinçon,Figur,
+Mensch,Mensch,Rolle,genderneutral
+Nachbarskinder,Nachbarskinder,Figur,
+Pumpkin,Pumpkin,Figur,
+Romilly,Romilly,Figur,
+Schwestern Brooke,Schwestern Brooke,Figur,
+Sir James Chettam,Sir James Chettam,Figur,
+Therese Bruder,Therese Bruder,Figur,
+Wilbersorce,Wilbersorce,Figur,
+Therese,Therese,Figur,
+Thereses Bruder,Thereses Bruder,Figur,
+Thereses Onkel,Thereses Onkel,Figur,
+Herr Brooke,Herr Brooke,Figur,
+Frau Cadwallader,Frau Cadwallader,Figur,
+Herr Cadwallader,Herr Cadwallader,Figur,
+Frau Brook,Frau Brook,Figur,
+Wordsworth,Wordsworth,Figur,
+Davy,Davy,Figur,
+Wilberforce,Wilberforce,Figur,
+John,John,Figur,
+Bunch,Bunch,Figur,
+Mädchen,Mädchen,Rolle,weiblich
+Bruder,Bruder,Rolle,männlich
+Oheim,Oheim,Rolle,männlich
+Frau,Frau,Rolle,weiblich
+Schönheit,Schönheit,Rolle,genderneutral
+Schwester,Schwester,Rolle,weiblich
+Lady,Lady,Rolle,weiblich
+junge Dame,junge Dame,Rolle,weiblich
+Onkel,Onkel,Rolle,männlich
+Vormund,Vormund,Rolle,genderneutral
+Mann,Mann,Rolle,männlich
+Nichte,Nichte,Rolle,weiblich
+Erbin,Erbin,Rolle,weiblich
+Gegner,Gegner,Rolle,genderneutral
+Bewerber,Bewerber,Rolle,männlich
+Baronet,Baronet,Rolle,männlich
+Gattin,Gattin,Rolle,weiblich
+Pfarrer,Pfarrer,Rolle,männlich
+Herr,Herr,Rolle,männlich
+Ehrwürdiger,Ehrwürdiger,Rolle,männlich
+Kind,Kind,Rolle,genderneutral
+Mama,Mama,Rolle,weiblich
+Dora,Dora,Rolle,weiblich
+Kitty,Kitty,Rolle,weiblich
+Architektin,Architektin,Rolle,weiblich
+Dichter,Dichter,Rolle,männlich
+Poet,Poet,Rolle,männlich
+Gelehrter,Gelehrter,Rolle,männlich
+Repräsentant,Repräsentant,Rolle,männlich
+Engländer,Engländer,Rolle,männlich
+Fräulein,Fräulein,Rolle,weiblich
+Gutsleute,Gutsleute,Rolle,genderneutral
+Freund,Freund,Rolle,männlich
+Alter,Alter,Rolle,männlich
+Geistlicher,Geistlicher,Rolle,männlich
+Protestant,Protestant,Rolle,männlich
+Denker,Denker,Rolle,männlich
+Unabhängige,Unabhängige,Rolle,genderneutral
+Sekretär,Sekretär,Rolle,männlich
+junges Mädchen,junges Mädchen,Rolle,weiblich
+Bewunderer,Bewunderer,Rolle,männlich
+Reiterin,Reiterin,Rolle,weiblich
+Junge,Junge,Rolle,männlich
+Bücherwurm,Bücherwurm,Rolle,genderneutral
+Erzengel,Erzengel,Rolle,genderneutral
+Provinzialgeistlicher,Provinzialgeistlicher,Rolle,männlich
+Zuhörer,Zuhörer,Rolle,männlich
+Wirth,Wirth,Rolle,männlich
+Grieche,Grieche,Rolle,männlich
+Gutsbesitzer,Gutsbesitzer,Rolle,männlich
+Archivar,Archivar,Rolle,männlich
+Jugend,Jugend,Rolle,genderneutral
+Weib,Weib,Rolle,weiblich
+Reiter,Reiter,Rolle,männlich
+Reitknecht,Reitknecht,Rolle,männlich
+Genie,Genie,Rolle,genderneutral
+Schwager,Schwager,Rolle,männlich
+Gegnerin,Gegnerin,Rolle,weiblich
+Mitglied,Mitglied,Rolle,genderneutral
+Schwägerin,Schwägerin,Rolle,weiblich
+Treulose,Treulose,Rolle,weiblich
+Verbrecher,Verbrecher,Rolle,männlich
+Lämmerdieb,Lämmerdieb,Rolle,männlich
+Junggeselle,Junggeselle,Rolle,männlich
+Partie,Partie,Rolle,genderneutral
+Besitzerin,Besitzerin,Rolle,weiblich
+Neuling,Neuling,Rolle,genderneutral
+Novize,Novize,Rolle,genderneutral

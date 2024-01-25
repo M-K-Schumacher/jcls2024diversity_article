@@ -1,0 +1,132 @@
+Source,Target,Type,Label,Weight,source type,edge label,target type
+Sidos Halbbruder,Sohn,Undirected,,1,Figur,spielt,Rolle
+Minet,Chéri,Undirected,,1,Figur,verkörpert,Rolle
+Sidos Mutter,Mutter,Undirected,,1,Figur,verkörpert,Rolle
+Mademoiselle Thévenin,Cousine,Undirected,,1,Figur,verkörpert,Rolle
+Dame Quériot,Dame,Undirected,,1,Figur,verkörpert,Rolle
+Dame Quériot,Kassiererin,Undirected,,1,Figur,verkörpert,Rolle
+Dame Quériot,Frau,Undirected,,1,Figur,verkörpert,Rolle
+Sido,Frau,Undirected,,1,Figur,verkörpert,Rolle
+Sido,Provinzlerin,Undirected,,1,Figur,verkörpert,Rolle
+Sidos Vater,Vater,Undirected,,1,Figur,verkörpert,Rolle
+Sidos Mutter,Mama,Undirected,,1,Figur,verkörpert,Rolle
+Die Vivenets,Jungvermählte,Undirected,,1,Figur,verkörpert,Rolle
+Mutter Vivenet,Mutter,Undirected,,1,Figur,verkörpert,Rolle
+Frau Vivenet,Braut,Undirected,,1,Figur,verkörpert,Rolle
+Herr Vivenet,Bräutigam,Undirected,,1,Figur,verkörpert,Rolle
+Herr Vivenet,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Sidos Mutter,Hausfrau,Undirected,,1,Figur,verkörpert,Rolle
+Mutter Adolphe,Mutter,Undirected,,1,Figur,verkörpert,Rolle
+Sido,Schiffsjunge,Undirected,,1,Figur,verkörpert,Rolle
+Sido,Schöne,Undirected,,1,Figur,verkörpert,Rolle
+Sido,Schätzchen,Undirected,,1,Figur,verkörpert,Rolle
+Sidos Mutter,Madame Colette,Undirected,,1,Figur,verkörpert,Rolle
+Sidos Vater,Mensch,Undirected,,1,Figur,verkörpert,Rolle
+Sido,Tochter,Undirected,,1,Figur,verkörpert,Rolle
+Sido,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Sido,Schatzsucher,Undirected,,1,Figur,verkörpert,Rolle
+Sido,Mörderin,Undirected,,1,Figur,verkörpert,Rolle
+Monsieur Enfert,Mann,Undirected,,1,Figur,verkörpert,Rolle
+ein Neugeborenes,Kind,Undirected,,1,Figur,verkörpert,Rolle
+ein Neugeborenes,Kleiner,Undirected,,1,Figur,verkörpert,Rolle
+ein Neugeborenes,Säugling,Undirected,,1,Figur,verkörpert,Rolle
+ein Neugeborenes,Junge,Undirected,,1,Figur,verkörpert,Rolle
+ein Neugeborenes,Böser,Undirected,,1,Figur,verkörpert,Rolle
+Sido,Bäuerin,Undirected,,1,Figur,verkörpert,Rolle
+Sido,Phantastin,Undirected,,1,Figur,verkörpert,Rolle
+Sido,Französin,Undirected,,1,Figur,verkörpert,Rolle
+Sidos Vater,Ehemann,Undirected,,1,Figur,verkörpert,Rolle
+Léo,Bruder,Undirected,,1,Figur,verkörpert,Rolle
+Sidos Vater,Antoine,Undirected,,1,Figur,verkörpert,Rolle
+Sido,Goldschätzchen,Undirected,,1,Figur,verkörpert,Rolle
+Sido,Tier,Undirected,,1,Figur,verkörpert,Rolle
+Sido,Äffchen,Undirected,,1,Figur,verkörpert,Rolle
+Adrienne,Freundin,Undirected,,1,Figur,verkörpert,Rolle
+Sido,Wildfang,Undirected,,1,Figur,verkörpert,Rolle
+Léo,Sohn,Undirected,,1,Figur,verkörpert,Rolle
+Léo,Lazzarone,Undirected,,1,Figur,verkörpert,Rolle
+Léo,Richter,Undirected,,1,Figur,verkörpert,Rolle
+Sido,Lyrikerin,Undirected,,1,Figur,verkörpert,Rolle
+Sidos Mann,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Sidos Vater,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Sidos Mutter,Gefährtin,Undirected,,1,Figur,verkörpert,Rolle
+Sidos Vater,Jules-Joseph Colette,Undirected,,1,Figur,verkörpert,Rolle
+Sidos Vater,Hauptmann,Undirected,,1,Figur,verkörpert,Rolle
+Sidos Vater,Südländer,Undirected,,1,Figur,verkörpert,Rolle
+Sidos Vater,Italiener,Undirected,,1,Figur,verkörpert,Rolle
+Sidos Vater,Messerstecher,Undirected,,1,Figur,verkörpert,Rolle
+Sidos Vater,Liebhaber,Undirected,,1,Figur,verkörpert,Rolle
+Juliette,Schwester,Undirected,,1,Figur,verkörpert,Rolle
+Herr Dr. R.,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Juliette,Tochter,Undirected,,1,Figur,verkörpert,Rolle
+Juliette,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Laroche,Pächter,Undirected,,1,Figur,verkörpert,Rolle
+Sidos Vater,Bariton,Undirected,,1,Figur,verkörpert,Rolle
+Oberst Godchot,Waffengefährte,Undirected,,1,Figur,verkörpert,Rolle
+Fournès,Hauptmann,Undirected,,1,Figur,verkörpert,Rolle
+Lefèvre,Soldat,Undirected,,1,Figur,verkörpert,Rolle
+Oberst Godchot,Oberst,Undirected,,1,Figur,verkörpert,Rolle
+Mac-Mahon,Marschall,Undirected,,1,Figur,verkörpert,Rolle
+Sido,Kleine,Undirected,,1,Figur,verkörpert,Rolle
+Sidos Vater,Poet,Undirected,,1,Figur,verkörpert,Rolle
+Sidos Vater,Städter,Undirected,,1,Figur,verkörpert,Rolle
+Sido,Waldgeist,Undirected,,1,Figur,verkörpert,Rolle
+Sidos Mutter,Waldgeist,Undirected,,1,Figur,verkörpert,Rolle
+Sidos Vater,Waldgeist,Undirected,,1,Figur,verkörpert,Rolle
+Achille,Waldgeist,Undirected,,1,Figur,verkörpert,Rolle
+Achille,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Sidos erster Mann,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Sidos Vater,Abwesender,Undirected,,1,Figur,verkörpert,Rolle
+Sidos Vater,Amputierter,Undirected,,1,Figur,verkörpert,Rolle
+Sidos Vater,Schüler,Undirected,,1,Figur,verkörpert,Rolle
+Sidos Vater,Tänzer,Undirected,,1,Figur,verkörpert,Rolle
+Sidos Vater,Leutnant,Undirected,,1,Figur,verkörpert,Rolle
+Sidos Vater,Invalide,Undirected,,1,Figur,verkörpert,Rolle
+Davout d’Auerstaedt,Großkanzler,Undirected,,1,Figur,verkörpert,Rolle
+Sidos Vater,Alter,Undirected,,1,Figur,verkörpert,Rolle
+Sido,Geschöpf,Undirected,,1,Figur,verkörpert,Rolle
+Sido,Madame,Undirected,,1,Figur,verkörpert,Rolle
+Sido,kleines Mädchen,Undirected,,1,Figur,verkörpert,Rolle
+Sidos Vater,alter Mann,Undirected,,1,Figur,verkörpert,Rolle
+Sidos Vater,König,Undirected,,1,Figur,verkörpert,Rolle
+Sidos Vater,Meistersinger,Undirected,,1,Figur,verkörpert,Rolle
+Madame B.,Frau,Undirected,,1,Figur,verkörpert,Rolle
+Achille,Toter,Undirected,,1,Figur,verkörpert,Rolle
+Sidos Mutter,Geist,Undirected,,1,Figur,verkörpert,Rolle
+Mac-Mahon,Waffenbruder,Undirected,,1,Figur,verkörpert,Rolle
+Sidos Vater,Versager,Undirected,,1,Figur,verkörpert,Rolle
+Sidos Vater,Gatte,Undirected,,1,Figur,verkörpert,Rolle
+Sidos Mutter,Seele,Undirected,,1,Figur,verkörpert,Rolle
+Achille,Junge,Undirected,,1,Figur,verkörpert,Rolle
+Léo,Junge,Undirected,,1,Figur,verkörpert,Rolle
+Achille,Halbbruder,Undirected,,1,Figur,verkörpert,Rolle
+Léo,Halbbruder,Undirected,,1,Figur,verkörpert,Rolle
+Achille,Wilde,Undirected,,1,Figur,verkörpert,Rolle
+Léo,Wilde,Undirected,,1,Figur,verkörpert,Rolle
+Achille,Älterer,Undirected,,1,Figur,verkörpert,Rolle
+Léo,Jüngerer,Undirected,,1,Figur,verkörpert,Rolle
+Léo,Mensch,Undirected,,1,Figur,verkörpert,Rolle
+Léo,Sechzigjähriger,Undirected,,1,Figur,verkörpert,Rolle
+Léo,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Ein Klarinettist,Bettelmusiker,Undirected,,1,Figur,verkörpert,Rolle
+Léo,Dickkopf,Undirected,,1,Figur,verkörpert,Rolle
+Sido,Jüngste,Undirected,,1,Figur,verkörpert,Rolle
+Sido,Letztgeborene,Undirected,,1,Figur,verkörpert,Rolle
+Sido,Nesthäkchen,Undirected,,1,Figur,verkörpert,Rolle
+Léo,Kokospalmenkletterer,Undirected,,1,Figur,verkörpert,Rolle
+Achille,Arzt,Undirected,,1,Figur,verkörpert,Rolle
+Juliette,Wilde,Undirected,,1,Figur,verkörpert,Rolle
+Léo,Luftgeist,Undirected,,1,Figur,verkörpert,Rolle
+Léo,Schreiber,Undirected,,1,Figur,verkörpert,Rolle
+Léo,Alter,Undirected,,1,Figur,verkörpert,Rolle
+Sidos Vater,Papa,Undirected,,1,Figur,verkörpert,Rolle
+Sido,Kosakenkind,Undirected,,1,Figur,verkörpert,Rolle
+Mérimée,Autor,Undirected,,1,Figur,verkörpert,Rolle
+Léo,Freund,Undirected,,1,Figur,verkörpert,Rolle
+Achille,Freund,Undirected,,1,Figur,verkörpert,Rolle
+Flore Chebriet,Rote,Undirected,,1,Figur,verkörpert,Rolle
+Flore Chebriet,Karotte,Undirected,,1,Figur,verkörpert,Rolle
+Flore Chebriet,Mädchen,Undirected,,1,Figur,verkörpert,Rolle
+Flore Chebriet,Blondine,Undirected,,1,Figur,verkörpert,Rolle
+Léo,Schüler,Undirected,,1,Figur,verkörpert,Rolle
+Achille,Verführer,Undirected,,1,Figur,verkörpert,Rolle

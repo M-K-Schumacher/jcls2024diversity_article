@@ -1,0 +1,109 @@
+Id,Label,node type,gender
+Anna Gordon,Anna Gordon,Figur,
+Annas Mutter,Annas Mutter,Figur,
+Collins,Collins,Figur,
+Colonel Antrim,Colonel Antrim,Figur,
+Der Pfarrer,Der Pfarrer,Figur,
+Henry,Henry,Figur,
+Mrs. Antrim,Mrs. Antrim,Figur,
+Mrs. Bingham,Mrs. Bingham,Figur,
+Mrs. Wilson,Mrs. Wilson,Figur,
+Pförtner,Pförtner,Figur,
+Roger,Roger,Figur,
+Sir Philip,Sir Philip,Figur,
+Stephen,Stephen,Figur,
+Violet,Violet,Figur,
+Williams,Williams,Figur,
+Winefred,Winefred,Figur,
+Anna Maloy,Anna Maloy,Rolle,weiblich
+Arzt,Arzt,Rolle,männlich
+Biest,Biest,Rolle,genderneutral
+Braut,Braut,Rolle,weiblich
+Diener,Diener,Rolle,männlich
+Dienerin des Herrn,Dienerin des Herrn,Rolle,weiblich
+Ding,Ding,Rolle,genderneutral
+Eindringling,Eindringling,Rolle,genderneutral
+Einzelkind,Einzelkind,Rolle,genderneutral
+Eltern,Eltern,Rolle,genderneutral
+Frau,Frau,Rolle,weiblich
+Fresssack,Fresssack,Rolle,genderneutral
+Fröstelnde,Fröstelnde,Rolle,weiblich
+Gastgeberin,Gastgeberin,Rolle,weiblich
+Gelehrter,Gelehrter,Rolle,männlich
+Geschöpf,Geschöpf,Rolle,genderneutral
+Gör,Gör,Rolle,weiblich
+Göttin,Göttin,Rolle,weiblich
+Hahn im Korb,Hahn im Korb,Rolle,männlich
+Hausmädchen,Hausmädchen,Rolle,weiblich
+Hausmütterchen,Hausmütterchen,Rolle,weiblich
+Heiland,Heiland,Rolle,männlich
+Herrin,Herrin,Rolle,weiblich
+Hilfskraft,Hilfskraft,Rolle,genderneutral
+Irin,Irin,Rolle,weiblich
+Jagdleiter,Jagdleiter,Rolle,männlich
+Jesus,Jesus,Rolle,männlich
+Jung-Nelson,Jung-Nelson,Rolle,männlich
+Junge,Junge,Rolle,männlich
+junge Dame,junge Dame,Rolle,weiblich
+junge Lady,junge Lady,Rolle,weiblich
+junger Mann,junger Mann,Rolle,männlich
+Jungfrau Maria,Jungfrau Maria,Rolle,weiblich
+Kamerad,Kamerad,Rolle,männlich
+kein Junge,kein Junge,Rolle,weiblich
+Kind,Kind,Rolle,genderneutral
+Kinderfräulein,Kinderfräulein,Rolle,weiblich
+Kleine,Kleine,Rolle,weiblich
+Köchin,Köchin,Rolle,weiblich
+Kröte,Kröte,Rolle,weiblich
+Liebender,Liebender,Rolle,männlich
+Liebes,Liebes,Rolle,genderneutral
+Liebling,Liebling,Rolle,genderneutral
+Liebster,Liebster,Rolle,männlich
+Löwe,Löwe,Rolle,genderneutral
+Lügner,Lügner,Rolle,männlich
+Madam,Madam,Rolle,weiblich
+Mädchen,Mädchen,Rolle,weiblich
+Magd,Magd,Rolle,weiblich
+Mama,Mama,Rolle,weiblich
+Mann,Mann,Rolle,männlich
+Master,Master,Rolle,männlich
+Mensch,Mensch,Rolle,genderneutral
+Miss,Miss,Rolle,weiblich
+Mutter,Mutter,Rolle,weiblich
+Mütterchen,Mütterchen,Rolle,weiblich
+Nanny,Nanny,Rolle,weiblich
+Nelson,Nelson,Rolle,männlich
+Nichte,Nichte,Rolle,weiblich
+Nurse,Nurse,Rolle,weiblich
+Papa,Papa,Rolle,männlich
+Patientin,Patientin,Rolle,weiblich
+Pfarrer,Pfarrer,Rolle,männlich
+Puppe,Puppe,Rolle,weiblich
+Reiterin,Reiterin,Rolle,weiblich
+Rivalin,Rivalin,Rolle,weiblich
+Rüdemann,Rüdemann,Rolle,männlich
+schlechte Esserin,schlechte Esserin,Rolle,weiblich
+Schülerin,Schülerin,Rolle,weiblich
+Schützling,Schützling,Rolle,genderneutral
+Schwester,Schwester,Rolle,weiblich
+Siebenjährige,Siebenjährige,Rolle,weiblich
+Spielgefährte,Spielgefährte,Rolle,männlich
+Sportsmann,Sportsmann,Rolle,männlich
+Stallknecht,Stallknecht,Rolle,männlich
+Stephen Mary Olivia Gertrude,Stephen Mary Olivia Gertrude,Rolle,weiblich
+Stoffpuppe,Stoffpuppe,Rolle,weiblich
+Stubenmädchen,Stubenmädchen,Rolle,weiblich
+Sünderin,Sünderin,Rolle,weiblich
+Tochter,Tochter,Rolle,weiblich
+Träumer,Träumer,Rolle,männlich
+Tyrann,Tyrann,Rolle,männlich
+Übeltäterin,Übeltäterin,Rolle,weiblich
+Unterlegener,Unterlegener,Rolle,männlich
+Vater,Vater,Rolle,männlich
+Volk,Volk,Rolle,genderneutral
+Vorgängerin,Vorgängerin,Rolle,weiblich
+Wegelagerer,Wegelagerer,Rolle,männlich
+Wilhelm Tell,Wilhelm Tell,Rolle,männlich
+Zimperliese,Zimperliese,Rolle,weiblich
+Zwanzigjährige,Zwanzigjährige,Rolle,weiblich
+Zweitmädchen,Zweitmädchen,Rolle,weiblich

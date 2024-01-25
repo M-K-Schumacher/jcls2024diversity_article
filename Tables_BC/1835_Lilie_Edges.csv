@@ -1,0 +1,140 @@
+Source,Target,Type,Label,Weight,source type,edge label,target type
+Natalie,Frau,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Felix de Vandenesse,Neugeborenes,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Natalie,Mutter,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Felix de Vandenesse,Kind,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Felix de Vandenesse,Mann,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Charles de Vandenesse,Bruder,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Schwester von Felix,Schwester,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Mutter von Felix,Mutter,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Felix de Vandenesse,Enterbter,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Felix de Vandenesse,Träumer,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Madmoiselle Caroline,Gouvernante,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Felix de Vandenesse,Heimtücker,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Felix de Vandenesse,Junge,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Mutter von Felix,Madame,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Felix de Vandenesse,Lügner,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Charles de Vandenesse,Kind,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Charles de Vandenesse,Mann,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Charles de Vandenesse,Liebling,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Charles de Vandenesse,Augapfel,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Felix de Vandenesse,Externer,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Felix de Vandenesse,Zielscheibe,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Charles de Vandenesse,Spaßvogel,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Vater von Felix,Vater,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Felix de Vandenesse,Erfinder,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Doisy,Portier,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Doisy,Schmugger,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Felix de Vandenesse,Vertrauter,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Doisy,Meister,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Charles de Vandenesse,Unterhändler,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Doisy,Unterhändler,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Charles de Vandenesse,Dolmetscher,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Charles de Vandenesse,Fürsprecher,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Felix de Vandenesse,Sohn,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Marat,Engel,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Felix de Vandenesse,Interner,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Felix de Vandenesse,Schuldner,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Monsier Lepître,Professor,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Marquise de Listomère,Dame,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Marquise de Listomère,Tante,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Jean,Kammerdiener,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Monsier Lepître,Edler,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Felix de Vandenesse,Vogel,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Felix de Vandenesse,Greis,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Felix de Vandenesse,Jüngling,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Mutter von Felix,Rabenmutter,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Felix de Vandenesse,Schauspieler,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Felix de Vandenesse,Zwanzigjähriger,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Mutter von Felix,Frau,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Mutter von Felix,Listomères,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Mutter von Felix,Herzloser,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Felix de Vandenesse,Wehrloser,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Charles de Vandenesse,Wehrloser,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Marquise de Listomère,Vetter,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Monsieur der Mortsauf,Armer,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Monsieur der Mortsauf,Verbannter,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Felix de Vandenesse,Monsieur,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Monsieur der Mortsauf,Fremdling,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Monsieur der Mortsauf,Emigrant,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Monsieur der Mortsauf,Sohn,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Felix de Vandenesse,Tier,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Monsieur der Mortsauf,Herr,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Felix de Vandenesse,Hund,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Jacques Mortsauf,Neugeborener,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Jacques Mortsauf,Person,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Monsieur der Mortsauf,Person,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Monsieur der Mortsauf,Leser,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Monsieur der Mortsauf,Grundbesitzer,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Jacques Mortsauf,Liebling,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Felix de Vandenesse,Messieur,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Monsieur de Chessel,Gastgeber,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Monsieur der Mortsauf,Krautjunker,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Felix de Vandenesse,Mädchen,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Monsieur de Chessel,Begleiter,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Jacques Mortsauf,Kind,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Monsieur der Mortsauf,Schlendrian,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Monsieur de Chessel,Mann,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Monsieur der Mortsauf,Edelmann,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Monsieur der Mortsauf,Wolf,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Monsieur der Mortsauf,Vater,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Monsieur der Mortsauf,Comte,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Monsieur der Mortsauf,Nachbar,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Monsieur der Mortsauf,Gemahl,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Monsieur der Mortsauf,Sproß,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Monsieur der Mortsauf,Eigentümer,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Felix de Vandenesse,Wilder,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Jacques Mortsauf,Sohn,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Madeleine,Mädchen,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Madeleine,Kind,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Madeleine,Kleine,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Madeleine,Zigeunermädchen,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Madeleine,Schwester,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Madeleine,Liebling,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Madeleine,Aal,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Madeleine,Person,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Madeleine,Tochter,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Felix de Vandenesse,Herr,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Monsieur de Chessel,Durand,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Monsieur de Chessel,D.,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Monsieur de Chessel,Generaldirektor,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Monsieur de Chessel,Mensch,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Monsieur de Chessel,Herr,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Monsieur de Chessel,Fürst,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Madame de Chessel,Frau,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Monsieur de Chessel,Nachbar,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Madame de Chessel,Schloßherrin,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Duchesse de Verneuil,Tante,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Duchesse de Verneuil,Schwester,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Duchesse de Verneuil,Adoptivmutter,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Duchesse de Verneuil,Madame,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Duchesse de Verneuil,Freundin,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Monsieur Saint-Martin,Philosoph,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Monsieur Saint-Martin,Mann,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Duchesse de Verneuil,Greis,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Monsieur der Mortsauf,Mann,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Madame de Mortsauf,Nichte,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Madame de Mortsauf,Mademoiselle de Lenoncourt,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Madame de Mortsauf,Tochter,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Madame de Mortsauf,Liebe,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Madame de Mortsauf,Person,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Madame de Mortsauf,Schatz,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Madame de Mortsauf,Wachtposten,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Madame de Mortsauf,Mädchen,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Madame de Mortsauf,Naturmensch,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Madame de Mortsauf,Mutter,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Madame de Mortsauf,Sklavin,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Madame de Mortsauf,Mona Lisa,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Madame de Mortsauf,Sprecherin,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Madame de Mortsauf,Schwan,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Madame de Mortsauf,Gastgeberin,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Madame de Mortsauf,Schloßherrin,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Madame de Mortsauf,Comtesse,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Madame de Mortsauf,von Lenoncourt,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Madame de Mortsauf,Kind,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Madame de Mortsauf,Freundin,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Madame de Mortsauf,Auserwählte,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Madame de Mortsauf,Königin,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Madame de Mortsauf,Frau,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Madame de Mortsauf,Nachbarin,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle
+Madame de Mortsauf,Vogel,Undirected,,Monsieur der Mortsauf,Figur,verkörpert,Rolle

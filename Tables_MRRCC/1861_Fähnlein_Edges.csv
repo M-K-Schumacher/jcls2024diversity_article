@@ -1,0 +1,733 @@
+Source,Target,Type,Label,Weight,source type,target type,gender
+Chüeri Syfrig,Mädchen,Undirected,,1,Figur,Genderrolle,Frau
+Chäpper Hediger,Schneidermeister,Undirected,,1,Figur,Genderrolle,Mann
+Chäpper Hediger,Hediger,Undirected,,1,Figur,Genderrolle,Mann
+die Handwerksmänner,Handwerksmann,Undirected,,1,Figur,Genderrolle,Mann
+die Schneider,Schneider,Undirected,,1,Figur,Genderrolle,Mann
+Chäpper Hediger,Meister Hediger,Undirected,,1,Figur,Genderrolle,Mann
+Chäpper Hediger,Siebenmännergesellschaft,Undirected,,1,Figur,Genderrolle,Genderneutral
+ein Schneider,ein Schneider,Undirected,,1,Figur,Genderrolle,Mann
+Republikaner,Republikaner,Undirected,,1,Figur,Genderrolle,Mann
+Johannes Müller,Johannes Müller,Undirected,,1,Figur,Genderrolle,Mann
+Christoph Kolumbus,Kolumbus,Undirected,,1,Figur,Genderrolle,Mann
+Huldrych Zwingli,Zwingli,Undirected,,1,Figur,Genderrolle,Mann
+Ulrich von Hutten,Hutten,Undirected,,1,Figur,Genderrolle,Mann
+George Washington,Washington,Undirected,,1,Figur,Genderrolle,Mann
+Maximilien de Robespierre,Robespierre,Undirected,,1,Figur,Genderrolle,Mann
+Fortschrittsleute,Fortschrittsleute,Undirected,,1,Figur,Genderrolle,Genderneutral
+die Aristokraten,Aristokraten,Undirected,,1,Figur,Genderrolle,Mann
+die Jesuiten,Jesuiten,Undirected,,1,Figur,Genderrolle,Mann
+Bürger,Bürger,Undirected,,1,Figur,Genderrolle,Mann
+Chäpper Hediger,Meister,Undirected,,1,Figur,Genderrolle,Mann
+Karl Hediger,Sohn,Undirected,,1,Figur,Genderrolle,Mann
+Karl Hediger,Karl,Undirected,,1,Figur,Genderrolle,Mann
+Karl Hediger,Beamter,Undirected,,1,Figur,Genderrolle,Mann
+Chäpper Hediger,Vater,Undirected,,1,Figur,Genderrolle,Mann
+Chäpper Hediger,der Alter,Undirected,,1,Figur,Genderrolle,Mann
+Söhne Hedigers,Brüder,Undirected,,1,Figur,Genderrolle,Mann
+ein Ehrenmann,Ehrenmanne,Undirected,,1,Figur,Genderrolle,Mann
+die Scharfschützen,Scharfschützen,Undirected,,1,Figur,Genderrolle,Mann
+Soldaten,Kerle,Undirected,,1,Figur,Genderrolle,Mann
+Soldaten,Halbherren,Undirected,,1,Figur,Genderrolle,Mann
+Karl Hediger,Junge,Undirected,,1,Figur,Genderrolle,Mann
+Frau Hediger,Mutter,Undirected,,1,Figur,Genderrolle,Frau
+Karl Hediger,Rekrut,Undirected,,1,Figur,Genderrolle,Mann
+Daniel Frymann,Siebenmännergesellschaft,Undirected,,1,Figur,Genderrolle,Genderneutral
+Ruedi Kuser,Siebenmännergesellschaft,Undirected,,1,Figur,Genderrolle,Genderneutral
+Heinrich Bürgi,Siebenmännergesellschaft,Undirected,,1,Figur,Genderrolle,Genderneutral
+Lienert Pfister,Siebenmännergesellschaft,Undirected,,1,Figur,Genderrolle,Genderneutral
+Chäpper Hediger,Mann,Undirected,,1,Figur,Genderrolle,Mann
+Zimmermeister Daniel Frymann,Zimmermeister Daniel Frymann,Undirected,,1,Figur,Genderrolle,Mann
+Felix Erismann,Siebenmännergesellschaft,Undirected,,1,Figur,Genderrolle,Genderneutral
+Zimmermeister Frymann,Frymann,Undirected,,1,Figur,Genderrolle,Mann
+Frau Hediger,Frau,Undirected,,1,Figur,Genderrolle,Frau
+Frau Hediger,Frau Hediger,Undirected,,1,Figur,Genderrolle,Frau
+der Teufel,Teufel,Undirected,,1,Figur,Genderrolle,Mann
+Vater Frau Hediger,Vater,Undirected,,1,Figur,Genderrolle,Mann
+Brüder Frau Hediger,Brüder,Undirected,,1,Figur,Genderrolle,Mann
+Frau Hediger,Büchsenmachergesell,Undirected,,1,Figur,Genderrolle,Mann
+Frau Hediger,Büchsenschmiedin,Undirected,,1,Figur,Genderrolle,Frau
+Frau Hediger,Kind,Undirected,,1,Figur,Genderrolle,Genderneutral
+Chäpper Hediger,Schneider,Undirected,,1,Figur,Genderrolle,Mann
+Zimmerleute,Zimmerleute,Undirected,,1,Figur,Genderrolle,Genderneutral
+Steinmetze,Steinmetze,Undirected,,1,Figur,Genderrolle,Mann
+Chüeri Syfrig,Schimmelköpfe,Undirected,,1,Figur,Genderrolle,Genderneutral
+Hermine Frymann,Mädchen,Undirected,,1,Figur,Genderrolle,Frau
+Karl Hediger,Jüngling,Undirected,,1,Figur,Genderrolle,Mann
+Hermine Frymann,Frauenzimmer,Undirected,,1,Figur,Genderrolle,Frau
+Karl Hediger,Mensch,Undirected,,1,Figur,Genderrolle,Genderneutral
+Hermine Frymann,Hermine,Undirected,,1,Figur,Genderrolle,Frau
+Hermine Frymann,Tonangeberin,Undirected,,1,Figur,Genderrolle,Frau
+Hermine Frymann,Verführerin,Undirected,,1,Figur,Genderrolle,Frau
+Kinder,Kindern,Undirected,,1,Figur,Genderrolle,Genderneutral
+Polierer,Polierer,Undirected,,1,Figur,Genderrolle,Genderneutral
+Karl Hediger,Herr,Undirected,,1,Figur,Genderrolle,Mann
+Zimmermann Frymann,Vater,Undirected,,1,Figur,Genderrolle,Mann
+Chäpper Hediger,Herr Vater,Undirected,,1,Figur,Genderrolle,Mann
+Hermine Frymann,Tochter,Undirected,,1,Figur,Genderrolle,Frau
+ein Kind,Kind,Undirected,,1,Figur,Genderrolle,Genderneutral
+Eltern,Eltern,Undirected,,1,Figur,Genderrolle,Genderneutral
+Hermine Frymann,Schöne,Undirected,,1,Figur,Genderrolle,Frau
+Hermine Frymann,Wildfang,Undirected,,1,Figur,Genderrolle,Genderneutral
+Hermine Frymann,Jungfrau,Undirected,,1,Figur,Genderrolle,Frau
+Karl Hediger,Schlingel,Undirected,,1,Figur,Genderrolle,Genderneutral
+Gott,Gott,Undirected,,1,Figur,Genderrolle,Genderneutral
+Hermine Frymann,Frau,Undirected,,1,Figur,Genderrolle,Frau
+Hermine Frymann,Fräulein,Undirected,,1,Figur,Genderrolle,Frau
+Eidgenossen,Eidgenossen,Undirected,,1,Figur,Genderrolle,Mann
+Standesherren,Standesherren,Undirected,,1,Figur,Genderrolle,Mann
+Frau von Standesherren,Weiberl,Undirected,,1,Figur,Genderrolle,Frau
+Priester,Machtvermieter,Undirected,,1,Figur,Genderrolle,Mann
+Priester,Priester,Undirected,,1,Figur,Genderrolle,Mann
+Priester,Pfaffen,Undirected,,1,Figur,Genderrolle,Mann
+Standesherren,Herren,Undirected,,1,Figur,Genderrolle,Mann
+Parteihäupte,Parteihäupte,Undirected,,1,Figur,Genderrolle,Genderneutral
+Gastwirte,Gastwirte,Undirected,,1,Figur,Genderrolle,Mann
+Verräter,Verräter,Undirected,,1,Figur,Genderrolle,Mann
+Verräter,Subjekte,Undirected,,1,Figur,Genderrolle,Genderneutral
+Zimmermann Frymann,Wohlredenste,Undirected,,1,Figur,Genderrolle,Mann
+Zimmermann Frymann,Wohlhabendste,Undirected,,1,Figur,Genderrolle,Mann
+Zimmermann Frymann,Frymann,Undirected,,1,Figur,Genderrolle,Mann
+Zimmermann Frymann,Zimmermeister,Undirected,,1,Figur,Genderrolle,Mann
+Zimmermann Frymann,Krösus,Undirected,,1,Figur,Genderrolle,Mann
+Chäpper Hediger,Unbemittelste,Undirected,,1,Figur,Genderrolle,Mann
+Chäpper Hediger,Schneide,Undirected,,1,Figur,Genderrolle,Mann
+Kunden,Kunden,Undirected,,1,Figur,Genderrolle,Mann
+Herr Kuser,Kuser,Undirected,,1,Figur,Genderrolle,Genderneutral
+Herr Kuser,Silberschmied,Undirected,,1,Figur,Genderrolle,Mann
+Herr Kuser,Mann von Geschmack,Undirected,,1,Figur,Genderrolle,Mann
+Herr Syfrig,Syfrig,Undirected,,1,Figur,Genderrolle,Genderneutral
+Herr Syfrig,Schmied,Undirected,,1,Figur,Genderrolle,Mann
+Herr Bürgi,Bürgi,Undirected,,1,Figur,Genderrolle,Genderneutral
+Herr Bürgi,Schreiner,Undirected,,1,Figur,Genderrolle,Mann
+Gesellen,Gesellen,Undirected,,1,Figur,Genderrolle,Mann
+Lehrburschen,Lehrburschen,Undirected,,1,Figur,Genderrolle,Mann
+ein Mensch,Mensch,Undirected,,1,Figur,Genderrolle,Genderneutral
+Brüder,Brüder,Undirected,,1,Figur,Genderrolle,Mann
+Chüeri Syfrig,Propheten,Undirected,,1,Figur,Genderrolle,Mann
+Herr Syfrig,Eisenschmied,Undirected,,1,Figur,Genderrolle,Mann
+Herr Pfister,Pfister,Undirected,,1,Figur,Genderrolle,Genderneutral
+Herr Pfister,Wirt,Undirected,,1,Figur,Genderrolle,Mann
+Herr Erismann,Erismann,Undirected,,1,Figur,Genderrolle,Genderneutral
+Herr Erismann,Wirt,Undirected,,1,Figur,Genderrolle,Mann
+ein Käufer,Käufer,Undirected,,1,Figur,Genderrolle,Mann
+Ruedi Kuser,Ruedi,Undirected,,1,Figur,Genderrolle,Mann
+der Gewinner,Gewinner,Undirected,,1,Figur,Genderrolle,Mann
+Heinrich Bürgi,Heinrich,Undirected,,1,Figur,Genderrolle,Mann
+Lienert Pfister,Liener Pfister,Undirected,,1,Figur,Genderrolle,Mann
+ein Bäuerlein,Bäuerlein,Undirected,,1,Figur,Genderrolle,Genderneutral
+eine Frau Bäuerlein,Frau,Undirected,,1,Figur,Genderrolle,Frau
+Chäpper Hediger,Chäpper,Undirected,,1,Figur,Genderrolle,Mann
+Einzelbürger,Einzelbürger,Undirected,,1,Figur,Genderrolle,Mann
+Frymann,Gast,Undirected,,1,Figur,Genderrolle,Genderneutral
+Jude,Jude,Undirected,,1,Figur,Genderrolle,Mann
+Völker,Völker,Undirected,,1,Figur,Genderrolle,Genderneutral
+die Ägypter,Ägypter,Undirected,,1,Figur,Genderrolle,Genderneutral
+die Griechen,Griechen,Undirected,,1,Figur,Genderrolle,Genderneutral
+die Römer,Römer,Undirected,,1,Figur,Genderrolle,Genderneutral
+Volk,Volk,Undirected,,1,Figur,Genderrolle,Genderneutral
+Ruedi Kuser,Meister Silberschmied,Undirected,,1,Figur,Genderrolle,Mann
+ein Künstler,Künstler,Undirected,,1,Figur,Genderrolle,Mann
+Ruedi Kuser,Meister Kuser,Undirected,,1,Figur,Genderrolle,Mann
+Chüeri Syfrig,Siebenmänner,Undirected,,1,Figur,Genderrolle,Mann
+Söhne Hedigers,Buben,Undirected,,1,Figur,Genderrolle,Mann
+Schwiegertöchter Hedigers,Weib,Undirected,,1,Figur,Genderrolle,Frau
+Enkelkinder Hediger,Kind,Undirected,,1,Figur,Genderrolle,Genderneutral
+zukünftiger Schwiegersöhn Frymann,Tochtermann,Undirected,,1,Figur,Genderrolle,Mann
+zukünftiger Schwiegersöhn Frymann,Geschäftsmann,Undirected,,1,Figur,Genderrolle,Mann
+Karl Hediger,Regierungsschreiber,Undirected,,1,Figur,Genderrolle,Mann
+Karl Hediger,Schwäher,Undirected,,1,Figur,Genderrolle,Mann
+Frymann,Gegenschwäher,Undirected,,1,Figur,Genderrolle,Mann
+Karl Hediger,Söhne,Undirected,,1,Figur,Genderrolle,Mann
+Karl Hediger,Bursche,Undirected,,1,Figur,Genderrolle,Mann
+Söhne,Buben,Undirected,,1,Figur,Genderrolle,Mann
+Söhne,Bürger,Undirected,,1,Figur,Genderrolle,MAnn
+Teufel,Teufel,Undirected,,1,Figur,Genderrolle,Mann
+Söhne,Schlingel,Undirected,,1,Figur,Genderrolle,MAnn
+ein Sohn Hedigers,Verwaltungsbeamter,Undirected,,1,Figur,Genderrolle,Mann
+Vorgesetzte,Vorgesetzte,Undirected,,1,Figur,Genderrolle,Genderneutral
+eine Frau,Frauen,Undirected,,1,Figur,Genderrolle,Frau
+Karl Hediger,Schnauer,Undirected,,1,Figur,Genderrolle,Mann
+Karl Hediger,Hartherziger,Undirected,,1,Figur,Genderrolle,Mann
+Karl Hediger,Flegel,Undirected,,1,Figur,Genderrolle,Mann
+Karl Hediger,Lümmel,Undirected,,1,Figur,Genderrolle,Mann
+Chäpper Hediger,Freund,Undirected,,1,Figur,Genderrolle,Mann
+Chäpper Hediger,Gegenschäher,Undirected,,1,Figur,Genderrolle,Mann
+Hermine Frymann,Zimmermanns Tochter,Undirected,,1,Figur,Genderrolle,Frau
+Frau Hediger,Weib,Undirected,,1,Figur,Genderrolle,Frau
+andere Söhne Hedigers,Karls Brüder,Undirected,,1,Figur,Genderrolle,Mann
+Enkel Hediger,Arzt,Undirected,,1,Figur,Genderrolle,Mann
+Enkel Hediger,Advokat,Undirected,,1,Figur,Genderrolle,Mann
+Enkel Hediger,Richter,Undirected,,1,Figur,Genderrolle,Mann
+Enkel Hediger,Ingenieur,Undirected,,1,Figur,Genderrolle,Mann
+Enkel Hediger,Künstler,Undirected,,1,Figur,Genderrolle,Mann
+Chäpper Hediger,Oheim,Undirected,,1,Figur,Genderrolle,Mann
+Frau Hediger,Bäuerin,Undirected,,1,Figur,Genderrolle,Frau
+Schuldner,Schuldner,Undirected,,1,Figur,Genderrolle,Mann
+Schuldner,Schuft,Undirected,,1,Figur,Genderrolle,Mann
+Vetterchen,Vetterchen,Undirected,,1,Figur,Genderrolle,Mann
+Bäschen,Bäschen,Undirected,,1,Figur,Genderrolle,Frau
+andere Söhne Hedigers,Knechte,Undirected,,1,Figur,Genderrolle,Mann
+Frymann,Fester,Undirected,,1,Figur,Genderrolle,Mann
+Frymann,Aufrechter,Undirected,,1,Figur,Genderrolle,Mann
+Spinnerkönig,Spinnerkönig,Undirected,,1,Figur,Genderrolle,Mann
+Spinnerkönig,Bürger,Undirected,,1,Figur,Genderrolle,Mann
+Spinnerkönig,Geizhals,Undirected,,1,Figur,Genderrolle,Mann
+Spinnerkönig,Kauz,Undirected,,1,Figur,Genderrolle,Mann
+Spinnerkönig,Genie,Undirected,,1,Figur,Genderrolle,Genderneutral
+Chäpper Hediger,Narr,Undirected,,1,Figur,Genderrolle,Mann
+Frymann,Meister Frymann,Undirected,,1,Figur,Genderrolle,Mann
+Hermine Frymann,Ungetreue,Undirected,,1,Figur,Genderrolle,Frau
+ein Schütze,Bekannter,Undirected,,1,Figur,Genderrolle,Mann
+ein Schütze,Schütz,Undirected,,1,Figur,Genderrolle,Mann
+ein Schütze,Meister,Undirected,,1,Figur,Genderrolle,Mann
+Enkel Hediger,Enkel,Undirected,,1,Figur,Genderrolle,Genderneutral
+Karl Hediger,Soldat,Undirected,,1,Figur,Genderrolle,Mann
+Soldaten,Schlafkameraden,Undirected,,1,Figur,Genderrolle,Mann
+Ruckstuhl,Füsilier,Undirected,,1,Figur,Genderrolle,Mann
+Ruckstuhl,Buchbinder,Undirected,,1,Figur,Genderrolle,Mann
+Pfuscher,Pfuscher,Undirected,,1,Figur,Genderrolle,Mann
+Handwerker,Handwerker,Undirected,,1,Figur,Genderrolle,Mann
+Ruckstuhl,Kerl,Undirected,,1,Figur,Genderrolle,Mann
+Ruckstuhl,Mann,Undirected,,1,Figur,Genderrolle,Mann
+Ruckstuhl,Infanteriesoldaten,Undirected,,1,Figur,Genderrolle,Mann
+Ruckstuhl,Offizier,Undirected,,1,Figur,Genderrolle,Mann
+Soldaten,Unterinstruktoren,Undirected,,1,Figur,Genderrolle,MAnn
+Soldaten,Kameraden,Undirected,,1,Figur,Genderrolle,MAnn
+Spörri,Rekrut,Undirected,,1,Figur,Genderrolle,Mann
+Spörri,Bedienten,Undirected,,1,Figur,Genderrolle,Mann
+Spörri,Bauernsohn,Undirected,,1,Figur,Genderrolle,Mann
+Ruckstuhl,Geizkragen,Undirected,,1,Figur,Genderrolle,Genderneutral
+Spörri,Scharfschütz,Undirected,,1,Figur,Genderrolle,Mann
+Ruckstuhl,Gönner,Undirected,,1,Figur,Genderrolle,Mann
+Spörri,Schnapphahn,Undirected,,1,Figur,Genderrolle,Genderneutral
+Spörri,Spörri,Undirected,,1,Figur,Genderrolle,Mann
+Spörri,Bauernfilz,Undirected,,1,Figur,Genderrolle,Mann
+Spörri,Famulus,Undirected,,1,Figur,Genderrolle,Mann
+Spörri,Schütz,Undirected,,1,Figur,Genderrolle,Mann
+geeigneter Soldat,Philister,Undirected,,1,Figur,Genderrolle,Genderneutral
+geeigneter Soldat,Wildfang,Undirected,,1,Figur,Genderrolle,Genderneutral
+Spörri,Anhänger,Undirected,,1,Figur,Genderrolle,Mann
+Ruckstuhl,Herr,Undirected,,1,Figur,Genderrolle,Mann
+Hermine Frymann,Herminen,Undirected,,1,Figur,Genderrolle,Frau
+die Magd,Magd,Undirected,,1,Figur,Genderrolle,Frau
+Hermine Frymann,Kind,Undirected,,1,Figur,Genderrolle,Genderneutral
+Hermine Frymann,Gevatterin,Undirected,,1,Figur,Genderrolle,Frau
+Hermine Frymann,Person4,Undirected,,1,Figur,Genderrolle,Genderneutral
+Hermine Frymann,Sünderin,Undirected,,1,Figur,Genderrolle,Frau
+Frau Hediger,Alze,Undirected,,1,Figur,Genderrolle,Frau
+Hermine Frymann,Aff,Undirected,,1,Figur,Genderrolle,Mann
+Hermine Frymann,Staatshexe,Undirected,,1,Figur,Genderrolle,Frau
+Karl Hediger,Scharfschütze,Undirected,,1,Figur,Genderrolle,Mann
+Züricher Trompeter,Züricher Trompeter,Undirected,,1,Figur,Genderrolle,Mann
+Ruckstuhl,Monsieur,Undirected,,1,Figur,Genderrolle,Mann
+Ruckstuhl,Strolch,Undirected,,1,Figur,Genderrolle,Mann
+Ruckstuhl,Tagdieb,Undirected,,1,Figur,Genderrolle,Mann
+ein Schwiegersohn,Schwiegersohn,Undirected,,1,Figur,Genderrolle,Mann
+Ruckstuhl,Sohne,Undirected,,1,Figur,Genderrolle,Mann
+Ruckstuhl,Genie,Undirected,,1,Figur,Genderrolle,Genderneutral
+Ruckstuhl,Praktikus,Undirected,,1,Figur,Genderrolle,Mann
+Leute,Leute,Undirected,,1,Figur,Genderrolle,Genderneutral
+Ruckstuhl,Wohldiener,Undirected,,1,Figur,Genderrolle,Mann
+Ruckstuhl,Mensch,Undirected,,1,Figur,Genderrolle,Genderneutral
+Frymann,Papa,Undirected,,1,Figur,Genderrolle,Mann
+Ruckstuhl,Mensche,Undirected,,1,Figur,Genderrolle,Genderneutral
+Hermine Frymann,Schätzchen,Undirected,,1,Figur,Genderrolle,Genderneutral
+Ruckstuhl,Schlingel,Undirected,,1,Figur,Genderrolle,Mann
+junge Frauen,Mädchen,Undirected,,1,Figur,Genderrolle,Frau
+junge Männer,Jünglinge,Undirected,,1,Figur,Genderrolle,Mann
+junge Frau,Leute,Undirected,,1,Figur,Genderrolle,Genderneutral
+junger Mann,Leute,Undirected,,1,Figur,Genderrolle,Genderneutral
+Züricher Trompeter,Trompeter,Undirected,,1,Figur,Genderrolle,Mann
+Ruckstuhl,Patron,Undirected,,1,Figur,Genderrolle,Mann
+Ruckstuhl,Schütz,Undirected,,1,Figur,Genderrolle,Mann
+Soldaten,Offiziere,Undirected,,1,Figur,Genderrolle,Mann
+Soldaten,Zimmergenossen,Undirected,,1,Figur,Genderrolle,Mann
+Soldaten,Schildwachen,Undirected,,1,Figur,Genderrolle,Mann
+ein Offizier,Offizier,Undirected,,1,Figur,Genderrolle,Mann
+Offizier,Feind,Undirected,,1,Figur,Genderrolle,Mann
+ein Offizier,Wache,Undirected,,1,Figur,Genderrolle,Genderneutral
+ein Offizier,Verhöhnte,Undirected,,1,Figur,Genderrolle,Mann
+ein Offizier,Herr Leutnant,Undirected,,1,Figur,Genderrolle,Mann
+Ruckstuhl,Herr Ruckstuhl,Undirected,,1,Figur,Genderrolle,Mann
+Ruckstuhl,Musjö,Undirected,,1,Figur,Genderrolle,Mann
+Frymann,Meister,Undirected,,1,Figur,Genderrolle,Mann
+Lehrlinge Frymanns,Lehrlinge,Undirected,,1,Figur,Genderrolle,Genderneutral
+Ruckstuhl,Flegel,Undirected,,1,Figur,Genderrolle,Mann
+Ruckstuhl,Freier,Undirected,,1,Figur,Genderrolle,Mann
+Scharfschützen,Schützen,Undirected,,1,Figur,Genderrolle,Mann
+Soldaten,Vorgesetze,Undirected,,1,Figur,Genderrolle,Mann
+ein Sprecher,Sprecher,Undirected,,1,Figur,Genderrolle,Mann
+ein Sprecher,Redner,Undirected,,1,Figur,Genderrolle,Mann
+Widersacher,Widersacher,Undirected,,1,Figur,Genderrolle,Mann
+Festpräsident,Festpräsident,Undirected,,1,Figur,Genderrolle,Mann
+Daniel Frymann,Daniel,Undirected,,1,Figur,Genderrolle,Mann
+Daniel Frymann,Narr,Undirected,,1,Figur,Genderrolle,Mann
+Gesellen Hedigers,Gesellen,Undirected,,1,Figur,Genderrolle,Mann
+Fahnenträger,Träger,Undirected,,1,Figur,Genderrolle,Mann
+Daniel Frymann,Brudermann,Undirected,,1,Figur,Genderrolle,Mann
+Karl Hediger,Gelbschnabel,Undirected,,1,Figur,Genderrolle,Mann
+Graubündner,Graubündner,Undirected,,1,Figur,Genderrolle,Mann
+Graubündner,Männer,Undirected,,1,Figur,Genderrolle,Mann
+Karl Hediger,Fähndrich,Undirected,,1,Figur,Genderrolle,Mann
+Gott,Allmächtiger,Undirected,,1,Figur,Genderrolle,Mann
+ein Schweizer,Schweizer,Undirected,,1,Figur,Genderrolle,Mann
+ein Zürischer,Zürcher,Undirected,,1,Figur,Genderrolle,Mann
+ein Berner,Berner,Undirected,,1,Figur,Genderrolle,Mann
+ein Unterwaldner,Unterwaldner,Undirected,,1,Figur,Genderrolle,Mann
+ein Neunburger,Neunburger,Undirected,,1,Figur,Genderrolle,Mann
+ein Graubündner,Graubündner,Undirected,,1,Figur,Genderrolle,Mann
+ein Basler,Basler,Undirected,,1,Figur,Genderrolle,Mann
+der Empfangsredner,Empfangsredner,Undirected,,1,Figur,Genderrolle,Mann
+Karl Hediger,Redner,Undirected,,1,Figur,Genderrolle,Mann
+Chäpper Hediger,Chäppermann,Undirected,,1,Figur,Genderrolle,Mann
+Karl Hediger,Buben,Undirected,,1,Figur,Genderrolle,Mann
+der Unechte,Unechte,Undirected,,1,Figur,Genderrolle,Mann
+der Ungrerechte,Ungerechte,Undirected,,1,Figur,Genderrolle,Mann
+der Eitle,Eitle,Undirected,,1,Figur,Genderrolle,Mann
+der Nichtige,Nichtige,Undirected,,1,Figur,Genderrolle,Mann
+Mitbürger,Mitbürger,Undirected,,1,Figur,Genderrolle,Mann
+die Redner,Redner,Undirected,,1,Figur,Genderrolle,Mann
+ein Maulheld,Maulheld,Undirected,,1,Figur,Genderrolle,Mann
+ein Mann,Manne,Undirected,,1,Figur,Genderrolle,Mann
+Karl Hediger,Hausknecht,Undirected,,1,Figur,Genderrolle,Mann
+Karl Hediger,Schauspieler,Undirected,,1,Figur,Genderrolle,Mann
+ein Gegner,Gegner,Undirected,,1,Figur,Genderrolle,Mann
+Karl Hediger,Zuwachs,Undirected,,1,Figur,Genderrolle,Genderneutral
+Karl Hediger,Schößling,Undirected,,1,Figur,Genderrolle,Genderneutral
+Tischgesellschaft,Landleute,Undirected,,1,Figur,Genderrolle,Genderneutral
+Tischgesellschaft,Städter,Undirected,,1,Figur,Genderrolle,Genderneutral
+Tischgesellschaft,Männer,Undirected,,1,Figur,Genderrolle,Mann
+Tischgesellschaft,Weiber,Undirected,,1,Figur,Genderrolle,Frau
+Tischgesellschaft,Alte,Undirected,,1,Figur,Genderrolle,Genderneutral
+Tischgesellschaft,Jung,Undirected,,1,Figur,Genderrolle,Genderneutral
+Tischgesellschaft,Gelehrte,Undirected,,1,Figur,Genderrolle,Genderneutral
+Tischgesellschaft,Ungelehrte,Undirected,,1,Figur,Genderrolle,Genderneutral
+Tischgesellschaft,Landmädchen,Undirected,,1,Figur,Genderrolle,Frau
+Tischgesellschaft,Häuser,Undirected,,1,Figur,Genderrolle,Genderneutral
+Zuschauenden,Zuschauer,Undirected,,1,Figur,Genderrolle,Mann
+Tischgesellschaft,Essende,Undirected,,1,Figur,Genderrolle,Genderneutral
+Zuschauenden,Vorsichtigen,Undirected,,1,Figur,Genderrolle,Genderneutral
+Zuschauenden,Sparsamen,Undirected,,1,Figur,Genderrolle,Genderneutral
+Tischgesellschaft,Allzuvornehmen,Undirected,,1,Figur,Genderrolle,Genderneutral
+Zuschauenden,Armen,Undirected,,1,Figur,Genderrolle,Genderneutral
+Zuschauenden,Kinder,Undirected,,1,Figur,Genderrolle,Genderneutral
+Festwirt,Festwirt,Undirected,,1,Figur,Genderrolle,Mann
+Aufwärter,Aufwärter,Undirected,,1,Figur,Genderrolle,Mann
+Freundinnen Hermine,Freundinnen,Undirected,,1,Figur,Genderrolle,Frau
+Basen Hermine,Basen,Undirected,,1,Figur,Genderrolle,Frau
+ein Hauptredner,Hauptredner,Undirected,,1,Figur,Genderrolle,Mann
+Tambour,Tambour,Undirected,,1,Figur,Genderrolle,Mann
+ein Hauptredner,Redner,Undirected,,1,Figur,Genderrolle,Mann
+Tischgesellschaft,Nachbarn,Undirected,,1,Figur,Genderrolle,Mann
+Karl Hediger,Meister,Undirected,,1,Figur,Genderrolle,Mann
+Hermine Frymann,Puppe,Undirected,,1,Figur,Genderrolle,Genderneutral
+Karl Hediger,Narr,Undirected,,1,Figur,Genderrolle,Mann
+Karl Hediger,Schütz,Undirected,,1,Figur,Genderrolle,Mann
+Hermine Frymann,Närrin,Undirected,,1,Figur,Genderrolle,Frau
+Karl Hediger,Sonntagsschützen,Undirected,,1,Figur,Genderrolle,Mann
+Hermine Frymann,Wesen,Undirected,,1,Figur,Genderrolle,Genderneutral
+Hermine Frymann,Begleiterin,Undirected,,1,Figur,Genderrolle,Frau
+Tischgesellschaft,Volk,Undirected,,1,Figur,Genderrolle,Genderneutral
+ein Bekannter,Bekannter,Undirected,,1,Figur,Genderrolle,Mann
+Hermine Frymann,Schützin,Undirected,,1,Figur,Genderrolle,Frau
+Karl Hediger,Held,Undirected,,1,Figur,Genderrolle,Mann
+St. Gallerin,Alte,Undirected,,1,Figur,Genderrolle,Mann
+St. Gallerin,St. Gallerin,Undirected,,1,Figur,Genderrolle,Frau
+St. Gallerin,Thurgauerin,Undirected,,1,Figur,Genderrolle,Frau
+St. Gallerin,Zürcher,Undirected,,1,Figur,Genderrolle,Mann
+Berner Student,Berner Student,Undirected,,1,Figur,Genderrolle,Mann
+St. Gallerin,Mädchen,Undirected,,1,Figur,Genderrolle,Frau
+ein Gesell,Gesell,Undirected,,1,Figur,Genderrolle,Mann
+Fünfzigjähriger,Fünfzigjähriger,Undirected,,1,Figur,Genderrolle,Mann
+Bauern,Bauern,Undirected,,1,Figur,Genderrolle,Mann
+Geselle,Vater,Undirected,,1,Figur,Genderrolle,Mann
+Fünfzigjähriger,Junge,Undirected,,1,Figur,Genderrolle,Mann
+Geselle,Uralte,Undirected,,1,Figur,Genderrolle,Mann
+Fünfzigjähriger,Lämmlein,Undirected,,1,Figur,Genderrolle,Genderneutral
+Fünfzigjähriger,Knabe,Undirected,,1,Figur,Genderrolle,Mann
+die Franzosen,Franzosen,Undirected,,1,Figur,Genderrolle,Mann
+Frau von Greis,Weibli,Undirected,,1,Figur,Genderrolle,Frau
+Fünfzigjähriger,Burschli,Undirected,,1,Figur,Genderrolle,Mann
+Fünfzigjähriger,Taugenichts,Undirected,,1,Figur,Genderrolle,Genderneutral
+Fünfzigjähriger,Bären,Undirected,,1,Figur,Genderrolle,Genderneutral
+Karl Hediger,Herrlein,Undirected,,1,Figur,Genderrolle,Mann
+Fünfzigjähriger,Gegner,Undirected,,1,Figur,Genderrolle,Mann
+Fünfzigjähriger,Entlebucher,Undirected,,1,Figur,Genderrolle,Mann
+ein Junker,Junker,Undirected,,1,Figur,Genderrolle,Mann
+ein Berghirt,Berghirt,Undirected,,1,Figur,Genderrolle,Mann
+ein Schneiderskind,Schneiderskind,Undirected,,1,Figur,Genderrolle,Genderneutral
+Karl Hediger,Bräutigam,Undirected,,1,Figur,Genderrolle,Mann
+Aargauer,Wachposten,Undirected,,1,Figur,Genderrolle,Mann
+Aargauer,Männer,Undirected,,1,Figur,Genderrolle,Mann
+Aargauer,Rekrut,Undirected,,1,Figur,Genderrolle,Mann
+Aargauer,Aargauer,Undirected,,1,Figur,Genderrolle,Mann
+Aargauer,Bauernsohn,Undirected,,1,Figur,Genderrolle,Mann
+Christoph Kolumbus,Welthelden,Undirected,,1,Figur,Genderrolle,Mann
+Huldrych Zwingli,Welthelden,Undirected,,1,Figur,Genderrolle,Mann
+Ulrich von Hutten,Welthelden,Undirected,,1,Figur,Genderrolle,Mann
+George Washington,Welthelden,Undirected,,1,Figur,Genderrolle,Mann
+Maximilien de Robespierre,Welthelden,Undirected,,1,Figur,Genderrolle,Mann
+die Aristokraten,Verfassungsbrecher,Undirected,,1,Figur,Genderrolle,Mann
+die Jesuiten,Verfassungsbrecher,Undirected,,1,Figur,Genderrolle,Mann
+die Aristokraten,Volksverräter,Undirected,,1,Figur,Genderrolle,Mann
+die Jesuiten,Volksverräter,Undirected,,1,Figur,Genderrolle,Mann
+Karl Hediger,Herren Söhne,Undirected,,1,Figur,Genderrolle,Mann
+Söhne Hedigers Söhne,Herren Söhne,Undirected,,1,Figur,Genderrolle,Mann
+Karl Hediger,Leute,Undirected,,1,Figur,Genderrolle,Genderneutral
+Hermine Frymann,Leute,Undirected,,1,Figur,Genderrolle,Genderneutral
+Karl Hediger,Paar,Undirected,,1,Figur,Genderrolle,Genderneutral
+Hermine Frymann,Paar,Undirected,,1,Figur,Genderrolle,Genderneutral
+Chäpper Hediger,Männer,Undirected,,1,Figur,Genderrolle,Mann
+Daniel Frymann,Männer,Undirected,,1,Figur,Genderrolle,Mann
+Ruedi Kuser,Männer,Undirected,,1,Figur,Genderrolle,Mann
+Heinrich Bürgi,Männer,Undirected,,1,Figur,Genderrolle,Mann
+Lienert Pfister,Männer,Undirected,,1,Figur,Genderrolle,Mann
+Felix Erismann,Männer,Undirected,,1,Figur,Genderrolle,Mann
+Chäpper Hediger,Festen,Undirected,,1,Figur,Genderrolle,Mann
+Daniel Frymann,Festen,Undirected,,1,Figur,Genderrolle,Mann
+Ruedi Kuser,Festen,Undirected,,1,Figur,Genderrolle,Mann
+Heinrich Bürgi,Festen,Undirected,,1,Figur,Genderrolle,Mann
+Lienert Pfister,Festen,Undirected,,1,Figur,Genderrolle,Mann
+Felix Erismann,Festen,Undirected,,1,Figur,Genderrolle,Mann
+Chäpper Hediger,Aufrechten,Undirected,,1,Figur,Genderrolle,Mann
+Daniel Frymann,Aufrechten,Undirected,,1,Figur,Genderrolle,Mann
+Ruedi Kuser,Aufrechten,Undirected,,1,Figur,Genderrolle,Mann
+Heinrich Bürgi,Aufrechten,Undirected,,1,Figur,Genderrolle,Mann
+Lienert Pfister,Aufrechten,Undirected,,1,Figur,Genderrolle,Mann
+Felix Erismann,Aufrechten,Undirected,,1,Figur,Genderrolle,Mann
+Chäpper Hediger,Freiheitliebenden,Undirected,,1,Figur,Genderrolle,Genderneutral
+Daniel Frymann,Freiheitliebenden,Undirected,,1,Figur,Genderrolle,Genderneutral
+Ruedi Kuser,Freiheitliebenden,Undirected,,1,Figur,Genderrolle,Genderneutral
+Heinrich Bürgi,Freiheitliebenden,Undirected,,1,Figur,Genderrolle,Genderneutral
+Lienert Pfister,Freiheitliebenden,Undirected,,1,Figur,Genderrolle,Genderneutral
+Felix Erismann,Freiheitliebenden,Undirected,,1,Figur,Genderrolle,Genderneutral
+Chäpper Hediger,Freunden,Undirected,,1,Figur,Genderrolle,Mann
+Daniel Frymann,Freunden,Undirected,,1,Figur,Genderrolle,Mann
+Ruedi Kuser,Freunden,Undirected,,1,Figur,Genderrolle,Mann
+Heinrich Bürgi,Freunden,Undirected,,1,Figur,Genderrolle,Mann
+Lienert Pfister,Freunden,Undirected,,1,Figur,Genderrolle,Mann
+Felix Erismann,Freunden,Undirected,,1,Figur,Genderrolle,Mann
+Chäpper Hediger,Handwerksmeister,Undirected,,1,Figur,Genderrolle,Mann
+Daniel Frymann,Handwerksmeister,Undirected,,1,Figur,Genderrolle,Mann
+Ruedi Kuser,Handwerksmeister,Undirected,,1,Figur,Genderrolle,Mann
+Heinrich Bürgi,Handwerksmeister,Undirected,,1,Figur,Genderrolle,Mann
+Lienert Pfister,Handwerksmeister,Undirected,,1,Figur,Genderrolle,Mann
+Felix Erismann,Handwerksmeister,Undirected,,1,Figur,Genderrolle,Mann
+Chäpper Hediger,Vaterlandsfreunde,Undirected,,1,Figur,Genderrolle,Mann
+Daniel Frymann,Vaterlandsfreunde,Undirected,,1,Figur,Genderrolle,Mann
+Ruedi Kuser,Vaterlandsfreunde,Undirected,,1,Figur,Genderrolle,Mann
+Heinrich Bürgi,Vaterlandsfreunde,Undirected,,1,Figur,Genderrolle,Mann
+Lienert Pfister,Vaterlandsfreunde,Undirected,,1,Figur,Genderrolle,Mann
+Felix Erismann,Vaterlandsfreunde,Undirected,,1,Figur,Genderrolle,Mann
+Chäpper Hediger,Erzpolitiker,Undirected,,1,Figur,Genderrolle,Mann
+Daniel Frymann,Erzpolitiker,Undirected,,1,Figur,Genderrolle,Mann
+Ruedi Kuser,Erzpolitiker,Undirected,,1,Figur,Genderrolle,Mann
+Heinrich Bürgi,Erzpolitiker,Undirected,,1,Figur,Genderrolle,Mann
+Lienert Pfister,Erzpolitiker,Undirected,,1,Figur,Genderrolle,Mann
+Felix Erismann,Erzpolitiker,Undirected,,1,Figur,Genderrolle,Mann
+Chäpper Hediger,Haustyrannen,Undirected,,1,Figur,Genderrolle,Mann
+Daniel Frymann,Haustyrannen,Undirected,,1,Figur,Genderrolle,Mann
+Ruedi Kuser,Haustyrannen,Undirected,,1,Figur,Genderrolle,Mann
+Heinrich Bürgi,Haustyrannen,Undirected,,1,Figur,Genderrolle,Mann
+Lienert Pfister,Haustyrannen,Undirected,,1,Figur,Genderrolle,Mann
+Felix Erismann,Haustyrannen,Undirected,,1,Figur,Genderrolle,Mann
+Chäpper Hediger,Musterbilde,Undirected,,1,Figur,Genderrolle,Genderneutral
+Daniel Frymann,Musterbilde,Undirected,,1,Figur,Genderrolle,Genderneutral
+Ruedi Kuser,Musterbilde,Undirected,,1,Figur,Genderrolle,Genderneutral
+Heinrich Bürgi,Musterbilde,Undirected,,1,Figur,Genderrolle,Genderneutral
+Lienert Pfister,Musterbilde,Undirected,,1,Figur,Genderrolle,Genderneutral
+Felix Erismann,Musterbilde,Undirected,,1,Figur,Genderrolle,Genderneutral
+Chäpper Hediger,Bauernkinder,Undirected,,1,Figur,Genderrolle,Genderneutral
+Daniel Frymann,Bauernkinder,Undirected,,1,Figur,Genderrolle,Genderneutral
+Ruedi Kuser,Bauernkinder,Undirected,,1,Figur,Genderrolle,Genderneutral
+Heinrich Bürgi,Bauernkinder,Undirected,,1,Figur,Genderrolle,Genderneutral
+Lienert Pfister,Bauernkinder,Undirected,,1,Figur,Genderrolle,Genderneutral
+Felix Erismann,Bauernkinder,Undirected,,1,Figur,Genderrolle,Genderneutral
+ein Opfer,Opfer,Undirected,,1,Figur,Genderrolle,Genderneutral
+Chäpper Hediger,Opfer,Undirected,,1,Figur,Genderrolle,Genderneutral
+Daniel Frymann,Opfer,Undirected,,1,Figur,Genderrolle,Genderneutral
+Ruedi Kuser,Opfer,Undirected,,1,Figur,Genderrolle,Genderneutral
+Heinrich Bürgi,Opfer,Undirected,,1,Figur,Genderrolle,Genderneutral
+Lienert Pfister,Opfer,Undirected,,1,Figur,Genderrolle,Genderneutral
+Felix Erismann,Opfer,Undirected,,1,Figur,Genderrolle,Genderneutral
+Chäpper Hediger,Eidgenossen,Undirected,,1,Figur,Genderrolle,Mann
+Daniel Frymann,Eidgenossen,Undirected,,1,Figur,Genderrolle,Mann
+Ruedi Kuser,Eidgenossen,Undirected,,1,Figur,Genderrolle,Mann
+Heinrich Bürgi,Eidgenossen,Undirected,,1,Figur,Genderrolle,Mann
+Lienert Pfister,Eidgenossen,Undirected,,1,Figur,Genderrolle,Mann
+Felix Erismann,Eidgenossen,Undirected,,1,Figur,Genderrolle,Mann
+Chäpper Hediger,Gesellschaft,Undirected,,1,Figur,Genderrolle,Genderneutral
+Daniel Frymann,Gesellschaft,Undirected,,1,Figur,Genderrolle,Genderneutral
+Ruedi Kuser,Gesellschaft,Undirected,,1,Figur,Genderrolle,Genderneutral
+Heinrich Bürgi,Gesellschaft,Undirected,,1,Figur,Genderrolle,Genderneutral
+Lienert Pfister,Gesellschaft,Undirected,,1,Figur,Genderrolle,Genderneutral
+Felix Erismann,Gesellschaft,Undirected,,1,Figur,Genderrolle,Genderneutral
+Chäpper Hediger,Greise,Undirected,,1,Figur,Genderrolle,Mann
+Daniel Frymann,Greise,Undirected,,1,Figur,Genderrolle,Mann
+Ruedi Kuser,Greise,Undirected,,1,Figur,Genderrolle,Mann
+Heinrich Bürgi,Greise,Undirected,,1,Figur,Genderrolle,Mann
+Lienert Pfister,Greise,Undirected,,1,Figur,Genderrolle,Mann
+Felix Erismann,Greise,Undirected,,1,Figur,Genderrolle,Mann
+Chäpper Hediger,Leute,Undirected,,1,Figur,Genderrolle,Mann
+Daniel Frymann,Leute,Undirected,,1,Figur,Genderrolle,Mann
+Ruedi Kuser,Leute,Undirected,,1,Figur,Genderrolle,Mann
+Heinrich Bürgi,Leute,Undirected,,1,Figur,Genderrolle,Mann
+Lienert Pfister,Leute,Undirected,,1,Figur,Genderrolle,Mann
+Felix Erismann,Leute,Undirected,,1,Figur,Genderrolle,Mann
+Chäpper Hediger,Nachbaren,Undirected,,1,Figur,Genderrolle,Mann
+Daniel Frymann,Nachbaren,Undirected,,1,Figur,Genderrolle,Mann
+Ruedi Kuser,Nachbaren,Undirected,,1,Figur,Genderrolle,Mann
+Heinrich Bürgi,Nachbaren,Undirected,,1,Figur,Genderrolle,Mann
+Lienert Pfister,Nachbaren,Undirected,,1,Figur,Genderrolle,Mann
+Felix Erismann,Nachbaren,Undirected,,1,Figur,Genderrolle,Mann
+Frymann,Redner,Undirected,,1,Figur,Genderrolle,MAnn
+Hediger,Redner,Undirected,,1,Figur,Genderrolle,MAnn
+Chäpper Hediger,Krachern,Undirected,,1,Figur,Genderrolle,Mann
+Daniel Frymann,Krachern,Undirected,,1,Figur,Genderrolle,Mann
+Ruedi Kuser,Krachern,Undirected,,1,Figur,Genderrolle,Mann
+Heinrich Bürgi,Krachern,Undirected,,1,Figur,Genderrolle,Mann
+Lienert Pfister,Krachern,Undirected,,1,Figur,Genderrolle,Mann
+Felix Erismann,Krachern,Undirected,,1,Figur,Genderrolle,Mann
+Chäpper Hediger,Mannen,Undirected,,1,Figur,Genderrolle,Mann
+Daniel Frymann,Mannen,Undirected,,1,Figur,Genderrolle,Mann
+Ruedi Kuser,Mannen,Undirected,,1,Figur,Genderrolle,Mann
+Heinrich Bürgi,Mannen,Undirected,,1,Figur,Genderrolle,Mann
+Lienert Pfister,Mannen,Undirected,,1,Figur,Genderrolle,Mann
+Felix Erismann,Mannen,Undirected,,1,Figur,Genderrolle,Mann
+Chäpper Hediger,Freunde,Undirected,,1,Figur,Genderrolle,Mann
+Daniel Frymann,Freunde,Undirected,,1,Figur,Genderrolle,Mann
+Ruedi Kuser,Freunde,Undirected,,1,Figur,Genderrolle,Mann
+Heinrich Bürgi,Freunde,Undirected,,1,Figur,Genderrolle,Mann
+Lienert Pfister,Freunde,Undirected,,1,Figur,Genderrolle,Mann
+Felix Erismann,Freunde,Undirected,,1,Figur,Genderrolle,Mann
+Herr Kuser,Antragssteller,Undirected,,1,Figur,Genderrolle,Mann
+Herr Syfrig,Antragssteller,Undirected,,1,Figur,Genderrolle,Mann
+Herr Bürgi,Antragssteller,Undirected,,1,Figur,Genderrolle,Mann
+Chäpper Hediger,Köpfe,Undirected,,1,Figur,Genderrolle,Genderneutral
+Daniel Frymann,Köpfe,Undirected,,1,Figur,Genderrolle,Genderneutral
+Ruedi Kuser,Köpfe,Undirected,,1,Figur,Genderrolle,Genderneutral
+Heinrich Bürgi,Köpfe,Undirected,,1,Figur,Genderrolle,Genderneutral
+Lienert Pfister,Köpfe,Undirected,,1,Figur,Genderrolle,Genderneutral
+Felix Erismann,Köpfe,Undirected,,1,Figur,Genderrolle,Genderneutral
+Ruedi Kuser,Gewinnlustigen,Undirected,,1,Figur,Genderrolle,Mann
+Heinrich Bürgi,Gewinnlustigen,Undirected,,1,Figur,Genderrolle,Mann
+Lienert Pfister,Gewinnlustigen,Undirected,,1,Figur,Genderrolle,Mann
+Felix Erismann,Gewinnlustigen,Undirected,,1,Figur,Genderrolle,Mann
+Kuser,Aufrechten,Undirected,,1,Figur,Genderrolle,Mann
+Sygfrid,Aufrechten,Undirected,,1,Figur,Genderrolle,Mann
+Bürgi,Aufrechten,Undirected,,1,Figur,Genderrolle,Mann
+Pfister,Aufrechten,Undirected,,1,Figur,Genderrolle,Mann
+Erismann,Aufrechten,Undirected,,1,Figur,Genderrolle,Mann
+Hediger,Aufrechten,Undirected,,1,Figur,Genderrolle,Mann
+Kuser,Festen,Undirected,,1,Figur,Genderrolle,O
+Sygfrid,Festen,Undirected,,1,Figur,Genderrolle,O
+Bürgi,Festen,Undirected,,1,Figur,Genderrolle,O
+Pfister,Festen,Undirected,,1,Figur,Genderrolle,O
+Erismann,Festen,Undirected,,1,Figur,Genderrolle,O
+Hediger,Festen,Undirected,,1,Figur,Genderrolle,O
+Kuser,die Alten,Undirected,,1,Figur,Genderrolle,Mann
+Syfrig,die Alten,Undirected,,1,Figur,Genderrolle,Mann
+Bürgi,die Alten,Undirected,,1,Figur,Genderrolle,Mann
+Pfister,die Alten,Undirected,,1,Figur,Genderrolle,Mann
+Erismann,die Alten,Undirected,,1,Figur,Genderrolle,Mann
+Frymann,die Alten,Undirected,,1,Figur,Genderrolle,Mann
+Chäpper Hediger,Alte,Undirected,,1,Figur,Genderrolle,MAnn
+Frymann,Alte,Undirected,,1,Figur,Genderrolle,MAnn
+Karl Hediger,Pärchen,Undirected,,1,Figur,Genderrolle,Genderneutral
+Hermine Frymann,Pärchen,Undirected,,1,Figur,Genderrolle,Genderneutral
+Chäpper Hediger,Freiheitsliebenden,Undirected,,1,Figur,Genderrolle,Genderneutral
+Daniel Frymann,Freiheitsliebenden,Undirected,,1,Figur,Genderrolle,Genderneutral
+Ruedi Kuser,Freiheitsliebenden,Undirected,,1,Figur,Genderrolle,Genderneutral
+Heinrich Bürgi,Freiheitsliebenden,Undirected,,1,Figur,Genderrolle,Genderneutral
+Lienert Pfister,Freiheitsliebenden,Undirected,,1,Figur,Genderrolle,Genderneutral
+Felix Erismann,Freiheitsliebenden,Undirected,,1,Figur,Genderrolle,Genderneutral
+Chäpper Hediger,Eltern,Undirected,,1,Figur,Genderrolle,Genderneutral
+Frau Hediger,Eltern,Undirected,,1,Figur,Genderrolle,Genderneutral
+Bäschen,Kinder,Undirected,,1,Figur,Genderrolle,Genderneutral
+Vetterchen,Kinder,Undirected,,1,Figur,Genderrolle,Genderneutral
+Hermine Frymann,Personen,Undirected,,1,Figur,Genderrolle,Genderneutral
+die Magd,Personen,Undirected,,1,Figur,Genderrolle,Genderneutral
+Frau Hediger,Frauensleute,Undirected,,1,Figur,Genderrolle,Frau
+Frauen,Frauensleute,Undirected,,1,Figur,Genderrolle,Frau
+Frau Hediger,Bürgersfrauen,Undirected,,1,Figur,Genderrolle,Frau
+Frauen,Bürgersfrauen,Undirected,,1,Figur,Genderrolle,Frau
+Hermine Frymann,Bürgersfrauen,Undirected,,1,Figur,Genderrolle,Frau
+Frau Hediger,Weiber,Undirected,,1,Figur,Genderrolle,Frau
+Hermine Frymann,Weiber,Undirected,,1,Figur,Genderrolle,Frau
+Hermine Frymann,Kinder,Undirected,,1,Figur,Genderrolle,Genderneutral
+Karl Hediger,Kinder,Undirected,,1,Figur,Genderrolle,Genderneutral
+junge Männer,Gesellschaft,Undirected,,1,Figur,Genderrolle,Genderneutral
+junge Frauen,Gesellschaft,Undirected,,1,Figur,Genderrolle,Genderneutral
+Ruckstuhl,Rekruten,Undirected,,1,Figur,Genderrolle,Mann
+Spörri,Rekruten,Undirected,,1,Figur,Genderrolle,Mann
+Karl Hediger,Rekruten,Undirected,,1,Figur,Genderrolle,Mann
+Ruckstuhl,Schlangen,Undirected,,1,Figur,Genderrolle,Genderneutral
+Spörri,Schlangen,Undirected,,1,Figur,Genderrolle,Genderneutral
+Karl Hediger,Schlangen,Undirected,,1,Figur,Genderrolle,Genderneutral
+Soldaten,Trunkenbolde,Undirected,,1,Figur,Genderrolle,Mann
+Ruckstuhl,Trunkenbolde,Undirected,,1,Figur,Genderrolle,Mann
+Spörri,Trunkenbolde,Undirected,,1,Figur,Genderrolle,Mann
+Soldaten,Bestien,Undirected,,1,Figur,Genderrolle,Genderneutral
+Ruckstuhl,Bestien,Undirected,,1,Figur,Genderrolle,Genderneutral
+Spörri,Bestien,Undirected,,1,Figur,Genderrolle,Genderneutral
+Soldaten,Besessenen,Undirected,,1,Figur,Genderrolle,Genderneutral
+Ruckstuhl,Besessenen,Undirected,,1,Figur,Genderrolle,Genderneutral
+Spörri,Besessenen,Undirected,,1,Figur,Genderrolle,Genderneutral
+Ruckstuhl,Narren,Undirected,,1,Figur,Genderrolle,Mann
+Spörri,Narren,Undirected,,1,Figur,Genderrolle,Mann
+Ruckstuhl,Paare,Undirected,,1,Figur,Genderrolle,Genderneutral
+Spörri,Paare,Undirected,,1,Figur,Genderrolle,Genderneutral
+Ruckstuhl,Arrestanten,Undirected,,1,Figur,Genderrolle,Mann
+Spörri,Arrestanten,Undirected,,1,Figur,Genderrolle,Mann
+Chäpper Hediger,Mitglieder,Undirected,,1,Figur,Genderrolle,Genderneutral
+Frymann,Mitglieder,Undirected,,1,Figur,Genderrolle,Genderneutral
+Lienert Pfister,Wirte,Undirected,,1,Figur,Genderrolle,Mann
+Felix Erismann,Wirte,Undirected,,1,Figur,Genderrolle,Mann
+Ruedi Kuser,Mehrheit,Undirected,,1,Figur,Genderrolle,Genderneutral
+Heinrich Bürgi,Mehrheit,Undirected,,1,Figur,Genderrolle,Genderneutral
+Lienert Pfister,Mehrheit,Undirected,,1,Figur,Genderrolle,Genderneutral
+Felix Ersimann,Mehrheit,Undirected,,1,Figur,Genderrolle,Genderneutral
+Daniel Frymann,Angeredete,Undirected,,1,Figur,Genderrolle,Genderneutral
+Chäpper Hediger,Angeredete,Undirected,,1,Figur,Genderrolle,Genderneutral
+Chäpper Hediger,Sieben,Undirected,,1,Figur,Genderrolle,Genderneutral
+Daniel Frymann,Sieben,Undirected,,1,Figur,Genderrolle,Genderneutral
+Ruedi Kuser,Sieben,Undirected,,1,Figur,Genderrolle,Genderneutral
+Heinrich Bürgi,Sieben,Undirected,,1,Figur,Genderrolle,Genderneutral
+Lienert Pfister,Sieben,Undirected,,1,Figur,Genderrolle,Genderneutral
+Felix Erismann,Sieben,Undirected,,1,Figur,Genderrolle,Genderneutral
+Chäpper Hediger,Gäste,Undirected,,1,Figur,Genderrolle,Genderneutral
+Daniel Frymann,Gäste,Undirected,,1,Figur,Genderrolle,Genderneutral
+Ruedi Kuser,Gäste,Undirected,,1,Figur,Genderrolle,Genderneutral
+Heinrich Bürgi,Gäste,Undirected,,1,Figur,Genderrolle,Genderneutral
+Lienert Pfister,Gäste,Undirected,,1,Figur,Genderrolle,Genderneutral
+Felix Erismann,Gäste,Undirected,,1,Figur,Genderrolle,Genderneutral
+Daniel Frymann,Alte,Undirected,,1,Figur,Genderrolle,Mann
+Ruedi Kuser,Alte,Undirected,,1,Figur,Genderrolle,Mann
+Heinrich Bürgi,Alte,Undirected,,1,Figur,Genderrolle,Mann
+Lienert Pfister,Alte,Undirected,,1,Figur,Genderrolle,Mann
+Felix Erismann,Alte,Undirected,,1,Figur,Genderrolle,Mann
+Chäpper Hediger,Angekommenen,Undirected,,1,Figur,Genderrolle,Genderneutral
+Daniel Frymann,Angekommenen,Undirected,,1,Figur,Genderrolle,Genderneutral
+Ruedi Kuser,Angekommenen,Undirected,,1,Figur,Genderrolle,Genderneutral
+Heinrich Bürgi,Angekommenen,Undirected,,1,Figur,Genderrolle,Genderneutral
+Lienert Pfister,Angekommenen,Undirected,,1,Figur,Genderrolle,Genderneutral
+Felix Erismann,Angekommenen,Undirected,,1,Figur,Genderrolle,Genderneutral
+Karl Hediger,Angekommenen,Undirected,,1,Figur,Genderrolle,Genderneutral
+Chäpper Hediger,Mannli,Undirected,,1,Figur,Genderrolle,Mann
+Daniel Frymann,Mannli,Undirected,,1,Figur,Genderrolle,Mann
+Ruedi Kuser,Mannli,Undirected,,1,Figur,Genderrolle,Mann
+Heinrich Bürgi,Mannli,Undirected,,1,Figur,Genderrolle,Mann
+Lienert Pfister,Mannli,Undirected,,1,Figur,Genderrolle,Mann
+Karl Hediger,Mannli,Undirected,,1,Figur,Genderrolle,Mann
+Felix Erismann,Mannli,Undirected,,1,Figur,Genderrolle,Mann
+Chäpper Hediger,Grauköpfe,Undirected,,1,Figur,Genderrolle,Genderneutral
+Daniel Frymann,Grauköpfe,Undirected,,1,Figur,Genderrolle,Genderneutral
+Ruedi Kuser,Grauköpfe,Undirected,,1,Figur,Genderrolle,Genderneutral
+Heinrich Bürgi,Grauköpfe,Undirected,,1,Figur,Genderrolle,Genderneutral
+Lienert Pfister,Grauköpfe,Undirected,,1,Figur,Genderrolle,Genderneutral
+Felix Erismann,Grauköpfe,Undirected,,1,Figur,Genderrolle,Genderneutral
+Chäpper Hediger,Kahlköpfe,Undirected,,1,Figur,Genderrolle,Genderneutral
+Daniel Frymann,Kahlköpfe,Undirected,,1,Figur,Genderrolle,Genderneutral
+Ruedi Kuser,Kahlköpfe,Undirected,,1,Figur,Genderrolle,Genderneutral
+Heinrich Bürgi,Kahlköpfe,Undirected,,1,Figur,Genderrolle,Genderneutral
+Lienert Pfister,Kahlköpfe,Undirected,,1,Figur,Genderrolle,Genderneutral
+Felix Erismann,Kahlköpfe,Undirected,,1,Figur,Genderrolle,Genderneutral
+Daniel Frymann,Mitglieder,Undirected,,1,Figur,Genderrolle,Genderneutral
+Ruedi Kuser,Mitglieder,Undirected,,1,Figur,Genderrolle,Genderneutral
+Heinrich Bürgi,Mitglieder,Undirected,,1,Figur,Genderrolle,Genderneutral
+Lienert Pfister,Mitglieder,Undirected,,1,Figur,Genderrolle,Genderneutral
+Felix Erismann,Mitglieder,Undirected,,1,Figur,Genderrolle,Genderneutral
+Chäpper Hediger,Sünder,Undirected,,1,Figur,Genderrolle,Mann
+Daniel Frymann,Sünder,Undirected,,1,Figur,Genderrolle,Mann
+Ruedi Kuser,Sünder,Undirected,,1,Figur,Genderrolle,Mann
+Heinrich Bürgi,Sünder,Undirected,,1,Figur,Genderrolle,Mann
+Lienert Pfister,Sünder,Undirected,,1,Figur,Genderrolle,Mann
+Felix Erismann,Sünder,Undirected,,1,Figur,Genderrolle,Mann
+Chäpper Hediger,Philosophen,Undirected,,1,Figur,Genderrolle,Mann
+Daniel Frymann,Philosophen,Undirected,,1,Figur,Genderrolle,Mann
+Ruedi Kuser,Philosophen,Undirected,,1,Figur,Genderrolle,Mann
+Heinrich Bürgi,Philosophen,Undirected,,1,Figur,Genderrolle,Mann
+Lienert Pfister,Philosophen,Undirected,,1,Figur,Genderrolle,Mann
+Felix Erismann,Philosophen,Undirected,,1,Figur,Genderrolle,Mann
+Chäpper Hediger,Esel,Undirected,,1,Figur,Genderrolle,Genderneutral
+Daniel Frymann,Esel,Undirected,,1,Figur,Genderrolle,Genderneutral
+Ruedi Kuser,Esel,Undirected,,1,Figur,Genderrolle,Genderneutral
+Heinrich Bürgi,Esel,Undirected,,1,Figur,Genderrolle,Genderneutral
+Lienert Pfister,Esel,Undirected,,1,Figur,Genderrolle,Genderneutral
+Felix Erismann,Esel,Undirected,,1,Figur,Genderrolle,Genderneutral
+Tischgesellschaft,Tischgesellschaft,Undirected,,1,Figur,Genderrolle,Genderneutral
+Chäpper Hediger,Tischgesellschaft,Undirected,,1,Figur,Genderrolle,Genderneutral
+Daniel Frymann,Tischgesellschaft,Undirected,,1,Figur,Genderrolle,Genderneutral
+Ruedi Kuser,Tischgesellschaft,Undirected,,1,Figur,Genderrolle,Genderneutral
+Heinrich Bürgi,Tischgesellschaft,Undirected,,1,Figur,Genderrolle,Genderneutral
+Lienert Pfister,Tischgesellschaft,Undirected,,1,Figur,Genderrolle,Genderneutral
+Felix Erismann,Tischgesellschaft,Undirected,,1,Figur,Genderrolle,Genderneutral
+Chäpper Hediger,Mädchen,Undirected,,1,Figur,Genderrolle,Frau
+Daniel Frymann,Mädchen,Undirected,,1,Figur,Genderrolle,Frau
+Ruedi Kuser,Mädchen,Undirected,,1,Figur,Genderrolle,Frau
+Heinrich Bürgi,Mädchen,Undirected,,1,Figur,Genderrolle,Frau
+Lienert Pfister,Mädchen,Undirected,,1,Figur,Genderrolle,Frau
+Felix Erismann,Mädchen,Undirected,,1,Figur,Genderrolle,Frau
+Chäpper Hediger,Propheten,Undirected,,1,Figur,Genderrolle,Mann
+Daniel Frymann,Propheten,Undirected,,1,Figur,Genderrolle,Mann
+Ruedi Kuser,Propheten,Undirected,,1,Figur,Genderrolle,Mann
+Heinrich Bürgi,Propheten,Undirected,,1,Figur,Genderrolle,Mann
+Lienert Pfister,Propheten,Undirected,,1,Figur,Genderrolle,Mann
+Felix Erismann,Propheten,Undirected,,1,Figur,Genderrolle,Mann
+Hermine Frymann,Fraunzimmer,Undirected,,1,Figur,Genderrolle,Frau
+Freundinnen Hermine,Fraunzimmer,Undirected,,1,Figur,Genderrolle,Frau
+Chäpper Hediger,Siebenmänner,Undirected,,1,Figur,Genderrolle,Mann
+Daniel Frymann,Siebenmänner,Undirected,,1,Figur,Genderrolle,Mann
+Ruedi Kuser,Siebenmänner,Undirected,,1,Figur,Genderrolle,Mann
+Heinrich Bürgi,Siebenmänner,Undirected,,1,Figur,Genderrolle,Mann
+Lienert Pfister,Siebenmänner,Undirected,,1,Figur,Genderrolle,Mann
+Felix Erismann,Siebenmänner,Undirected,,1,Figur,Genderrolle,Mann
+Chäpper Hediger,Schimmelköpfe,Undirected,,1,Figur,Genderrolle,Genderneutral
+Daniel Frymann,Schimmelköpfe,Undirected,,1,Figur,Genderrolle,Genderneutral
+Ruedi Kuser,Schimmelköpfe,Undirected,,1,Figur,Genderrolle,Genderneutral
+Heinrich Bürgi,Schimmelköpfe,Undirected,,1,Figur,Genderrolle,Genderneutral
+Lienert Pfister,Schimmelköpfe,Undirected,,1,Figur,Genderrolle,Genderneutral
+Felix Erismann,Schimmelköpfe,Undirected,,1,Figur,Genderrolle,Genderneutral
+Daniel Frymann,Gegenschwäher,Undirected,,1,Figur,Genderrolle,Mann
+Chäpper Hediger,Gegenschwäher,Undirected,,1,Figur,Genderrolle,Mann
+Karl Hediger,Verlobte,Undirected,,1,Figur,Genderrolle,Genderneutral
+Hermine Frymann,Verlobte,Undirected,,1,Figur,Genderrolle,Genderneutral
+Chüeri Syfrig,Tischgesellschaft,Undirected,,1,Figur,Genderrolle,Genderneutral
+Chüeri Syfrig,Esel,Undirected,,1,Figur,Genderrolle,Genderneutral
+Chüeri Syfrig,Philosophen,Undirected,,1,Figur,Genderrolle,Mann
+Chüeri Syfrig,Sünder,Undirected,,1,Figur,Genderrolle,Mann
+Chüeri Syfrig,Mitglieder,Undirected,,1,Figur,Genderrolle,Genderneutral
+Chüeri Syfrig,Kahlköpfe,Undirected,,1,Figur,Genderrolle,Genderneutral
+Chüeri Syfrig,Grauköpfe,Undirected,,1,Figur,Genderrolle,Genderneutral
+Chüeri Syfrig,Mannli,Undirected,,1,Figur,Genderrolle,Mann
+Chüeri Syfrig,Angekommenen,Undirected,,1,Figur,Genderrolle,Genderneutral
+Chüeri Syfrig,Alte,Undirected,,1,Figur,Genderrolle,Mann
+Chüeri Syfrig,Gäste,Undirected,,1,Figur,Genderrolle,Genderneutral
+Chüeri Syfrig,Sieben,Undirected,,1,Figur,Genderrolle,Genderneutral
+Chüeri Syfrig,Freiheitsliebenden,Undirected,,1,Figur,Genderrolle,Genderneutral
+Chüeri Syfrig,Gewinnlustigen,Undirected,,1,Figur,Genderrolle,Mann
+Chüeri Syfrig,Köpfe,Undirected,,1,Figur,Genderrolle,Genderneutral
+Chüeri Syfrig,Freunde,Undirected,,1,Figur,Genderrolle,Mann
+Chüeri Syfrig,Mannen,Undirected,,1,Figur,Genderrolle,Mann
+Chüeri Syfrig,Krachern,Undirected,,1,Figur,Genderrolle,Mann
+Chüeri Syfrig,Nachbaren,Undirected,,1,Figur,Genderrolle,Mann
+Chüeri Syfrig,Leute,Undirected,,1,Figur,Genderrolle,Mann
+Chüeri Syfrig,Greise,Undirected,,1,Figur,Genderrolle,Mann
+Chüeri Syfrig,Gesellschaft,Undirected,,1,Figur,Genderrolle,Genderneutral
+Chüeri Syfrig,Eidgenossen,Undirected,,1,Figur,Genderrolle,Mann
+Chüeri Syfrig,Opfer,Undirected,,1,Figur,Genderrolle,Genderneutral
+Chüeri Syfrig,Bauernkinder,Undirected,,1,Figur,Genderrolle,Genderneutral
+Chüeri Syfrig,Musterbilde,Undirected,,1,Figur,Genderrolle,Genderneutral
+Chüeri Syfrig,Haustyrannen,Undirected,,1,Figur,Genderrolle,Mann
+Chüeri Syfrig,Erzpolitiker,Undirected,,1,Figur,Genderrolle,Mann
+Chüeri Syfrig,Vaterlandsfreunde,Undirected,,1,Figur,Genderrolle,Mann
+Chüeri Syfrig,Handwerksmeister,Undirected,,1,Figur,Genderrolle,Mann
+Chüeri Syfrig,Freunden,Undirected,,1,Figur,Genderrolle,Mann
+Chüeri Syfrig,Freiheitliebenden,Undirected,,1,Figur,Genderrolle,Genderneutral
+Chüeri Syfrig,Aufrechten,Undirected,,1,Figur,Genderrolle,Mann
+Chüeri Syfrig,Festen,Undirected,,1,Figur,Genderrolle,Mann
+Chüeri Syfrig,Männer,Undirected,,1,Figur,Genderrolle,Mann
+Chüeri Syfrig,Pflugmacher,Undirected,,1,Figur,Genderrolle,Mann
+Chüeri Syfrig,Siebenmännergesellschaft,Undirected,,1,Figur,Genderrolle,Genderneutral
+Chüeri Syfrig,Mehrheit,Undirected,,1,Figur,Genderrolle,Genderneutral

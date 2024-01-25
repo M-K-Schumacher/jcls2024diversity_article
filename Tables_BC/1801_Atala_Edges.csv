@@ -1,0 +1,105 @@
+Source,Target,Type,Label,Weight,source type,edge label,target type
+Atala,das junge Mädchen,Undirected,,1,Figur,verkörpert,Rolle
+Marquette,Pater,Undirected,,1,Figur,verkörpert,Rolle
+Schakta,Greis,Undirected,,1,Figur,verkörpert,Rolle
+Schakta,Patriarch,Undirected,,1,Figur,verkörpert,Rolle
+Schakta,Liebling,Undirected,,1,Figur,verkörpert,Rolle
+Schakta,Mensch,Undirected,,1,Figur,verkörpert,Rolle
+Schakta,Wilder,Undirected,,1,Figur,verkörpert,Rolle
+2,Mann,Undirected,,1,Figur,verkörpert,Rolle
+das junge Mädchen,Führerin,Undirected,,1,,,
+Schakta,Gast,Undirected,,1,Figur,verkörpert,Rolle
+Fernelon,Mann,Undirected,,1,Figur,verkörpert,Rolle
+René,Franzose,Undirected,,1,Figur,verkörpert,Rolle
+Celuta,Mädchen,Undirected,,1,Figur,verkörpert,Rolle
+Celuta,Frau,Undirected,,1,Figur,verkörpert,Rolle
+Schakta,Anführer,Undirected,,1,Figur,verkörpert,Rolle
+Schakta,Blinder,Undirected,,1,Figur,verkörpert,Rolle
+René,Sohn,Undirected,,1,Figur,verkörpert,Rolle
+René,Mensch,Undirected,,1,Figur,verkörpert,Rolle
+René,Wilder,Undirected,,1,Figur,verkörpert,Rolle
+2,Gatte,Undirected,,1,Figur,verkörpert,Rolle
+2,Genius,Undirected,,1,Figur,verkörpert,Rolle
+Lopez,Beschützer,Undirected,,1,Figur,verkörpert,Rolle
+Lopez,Mensch,Undirected,,1,Figur,verkörpert,Rolle
+Lopez,Castilianer,Undirected,,1,Figur,verkörpert,Rolle
+Lopez,Vater,Undirected,,1,Figur,verkörpert,Rolle
+Schakta,Sohn,Undirected,,1,Figur,verkörpert,Rolle
+Lopez,Spanier,Undirected,,1,Figur,verkörpert,Rolle
+Lopez,Wohltäter,Undirected,,1,Figur,verkörpert,Rolle
+Schakta,Natsche,Undirected,,1,Figur,verkörpert,Rolle
+2,König,Undirected,,1,Figur,verkörpert,Rolle
+Schakta,Gefangener,Undirected,,1,Figur,verkörpert,Rolle
+Siminole,Bundgenosse,Undirected,,1,Figur,verkörpert,Rolle
+Atala,Weib,Undirected,,1,Figur,verkörpert,Rolle
+Atala,Jungfrau,Undirected,,1,Figur,verkörpert,Rolle
+Atala,Indianerin,Undirected,,1,Figur,verkörpert,Rolle
+Schakta,Götzendiener,Undirected,,1,Figur,verkörpert,Rolle
+Atala,Christin,Undirected,,1,Figur,verkörpert,Rolle
+Atala,Tochter,Undirected,,1,Figur,verkörpert,Rolle
+René,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Schakta,Krieger,Undirected,,1,Figur,verkörpert,Rolle
+Atala,Mädchen,Undirected,,1,Figur,verkörpert,Rolle
+Schakta,Unglücklicher,Undirected,,1,Figur,verkörpert,Rolle
+Schakta,Fremdling,Undirected,,1,Figur,verkörpert,Rolle
+Atala,Geliebte,Undirected,,1,Figur,verkörpert,Rolle
+Schakta,Freund,Undirected,,1,Figur,verkörpert,Rolle
+Schakta,Sklave,Undirected,,1,Figur,verkörpert,Rolle
+Schakta,Hirschkalb,Undirected,,1,Figur,verkörpert,Rolle
+Schakta,Jüngling,Undirected,,1,Figur,verkörpert,Rolle
+Atala,Liebende,Undirected,,1,Figur,verkörpert,Rolle
+Schakta,Liebender,Undirected,,1,Figur,verkörpert,Rolle
+Atala,Hindin,Undirected,,1,Figur,verkörpert,Rolle
+Atala,Geschöpf,Undirected,,1,Figur,verkörpert,Rolle
+Atala,Wilde,Undirected,,1,Figur,verkörpert,Rolle
+Atala,Königin,Undirected,,1,Figur,verkörpert,Rolle
+2,Vater,Undirected,,1,Figur,verkörpert,Rolle
+2,Anführer,Undirected,,1,Figur,verkörpert,Rolle
+Atala,Ungeheuer,Undirected,,1,Figur,verkörpert,Rolle
+Atala,Gestalt,Undirected,,1,Figur,verkörpert,Rolle
+Atala,Befreierin,Undirected,,1,Figur,verkörpert,Rolle
+Atala,Genius,Undirected,,1,Figur,verkörpert,Rolle
+Schakta,Europäer,Undirected,,1,Figur,verkörpert,Rolle
+Schakta,Schwan,Undirected,,1,Figur,verkörpert,Rolle
+Atala,Schwan,Undirected,,1,Figur,verkörpert,Rolle
+Atala,Wesen,Undirected,,1,Figur,verkörpert,Rolle
+Atala,Spanierin,Undirected,,1,Figur,verkörpert,Rolle
+Atala,Waise,Undirected,,1,Figur,verkörpert,Rolle
+Philipp,Vater,Undirected,,1,Figur,verkörpert,Rolle
+Philipp,Lopez,Undirected,,1,Figur,verkörpert,Rolle
+Atala,Schwester,Undirected,,1,Figur,verkörpert,Rolle
+Lopez,Gastfreund,Undirected,,1,Figur,verkörpert,Rolle
+Schakta,Gefährte,Undirected,,1,Figur,verkörpert,Rolle
+Pater Aubry,Einsiedler,Undirected,,1,Figur,verkörpert,Rolle
+Pater Aubry,Greis,Undirected,,1,Figur,verkörpert,Rolle
+Pater Aubry,Pater,Undirected,,1,Figur,verkörpert,Rolle
+Pater Aubry,Geistlicher,Undirected,,1,Figur,verkörpert,Rolle
+Pater Aubry,Diener,Undirected,,1,Figur,verkörpert,Rolle
+Schakta,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Pater Aubry,Eremit,Undirected,,1,Figur,verkörpert,Rolle
+Pater Aubry,Werkzeug,Undirected,,1,Figur,verkörpert,Rolle
+Atala,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Schakta,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Pater Aubry,Missionsgeistlicher,Undirected,,1,Figur,verkörpert,Rolle
+Pater Aubry,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Pater Aubry,Genius,Undirected,,1,Figur,verkörpert,Rolle
+Schakta,Gatte,Undirected,,1,Figur,verkörpert,Rolle
+Atala,Gattin,Undirected,,1,Figur,verkörpert,Rolle
+Pater Aubry,Wirt,Undirected,,1,Figur,verkörpert,Rolle
+Schakta,Bruder,Undirected,,1,Figur,verkörpert,Rolle
+Pater Aubry,Priester,Undirected,,1,Figur,verkörpert,Rolle
+Pater Aubry,Missionar,Undirected,,1,Figur,verkörpert,Rolle
+Schakta,Sterblicher,Undirected,,1,Figur,verkörpert,Rolle
+Atala,Person,Undirected,,1,Figur,verkörpert,Rolle
+Schakta,Person,Undirected,,1,Figur,verkörpert,Rolle
+Pater Aubry,Person,Undirected,,1,Figur,verkörpert,Rolle
+Pater Aubry,Vater,Undirected,,1,Figur,verkörpert,Rolle
+Schakta,Kriegsgefangener,Undirected,,1,Figur,verkörpert,Rolle
+Pater Aubry,Missionsprediger,Undirected,,1,Figur,verkörpert,Rolle
+Schakta,Gotteslästerer,Undirected,,1,Figur,verkörpert,Rolle
+Pater Aubry,Flüchtling,Undirected,,1,Figur,verkörpert,Rolle
+Atala,Sklavin,Undirected,,1,Figur,verkörpert,Rolle
+Atalas Mutter,Mutter,Undirected,,1,Figur,verkörpert,Rolle
+1,Sohn,Undirected,,1,Figur,verkörpert,Rolle
+1,Vater,Undirected,,1,Figur,verkörpert,Rolle
+1,Krieger,Undirected,,1,Figur,verkörpert,Rolle

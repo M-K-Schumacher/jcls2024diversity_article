@@ -1,0 +1,151 @@
+Id,Label,node type,gender
+Minet,Minet,Figur,
+Pariser,Pariser,Figur,
+Dame Quériot,Dame Quériot,Figur,
+eine Kassiererin,eine Kassiererin,Figur,
+Sido,Sido,Figur,
+Sidos Mutter,Sidos Mutter,Figur,
+Sidos Vater,Sidos Vater,Figur,
+die Vivenets,die Vivenets,Figur,
+Madame Vivenet,Madame Vivenet,Figur,
+Monsieur Vivenet,Monsieur Vivenet,Figur,
+Pariser Kinder,Pariser Kinder,Figur,
+Kinder,Kinder,Figur,
+Monsieur Enfert,Monsieur Enfert,Figur,
+Madame Enfert,Madame Enfert,Figur,
+ein Kind,ein Kind,Figur,
+eine Mutter,eine Mutter,Figur,
+ein Nachbar,ein Nachbar,Figur,
+Adrienne,Adrienne,Figur,
+Sidos Halbbruder,Sidos Halbbruder,Figur,
+Juliette,Juliette,Figur,
+Der Pächter,Der Pächter,Figur,
+Ein Klarinettist,Ein Klarinettist,Figur,
+ein paar Mädchen,ein paar Mädchen,Figur,
+eine Nachbarin,eine Nachbarin,Figur,
+Flore Chebriet,Flore Chebriet,Figur,
+Geist eines Mannes,Geist eines Mannes,Figur,
+Madame B.,Madame B.,Figur,
+Sido und Geschwister,Sido und Geschwister,Figur,
+Achille,Achille,Figur,
+Sohn,Sohn,Rolle,männlich
+Mademoiselle Thévenin,Mademoiselle Thévenin,Figur,
+Die Vivenets,Die Vivenets,Figur,
+Mutter Vivenet,Mutter Vivenet,Figur,
+Frau Vivenet,Frau Vivenet,Figur,
+Herr Vivenet,Herr Vivenet,Figur,
+Mutter Adolphe,Mutter Adolphe,Figur,
+ein Neugeborenes,ein Neugeborenes,Figur,
+Léo,Léo,Figur,
+Sidos Mann,Sidos Mann,Figur,
+Chéri,Chéri,Rolle,genderneutral
+Mutter,Mutter,Rolle,weiblich
+Cousine,Cousine,Rolle,weiblich
+Dame,Dame,Rolle,weiblich
+Kassiererin,Kassiererin,Rolle,weiblich
+Frau,Frau,Rolle,weiblich
+Provinzlerin,Provinzlerin,Rolle,weiblich
+Vater,Vater,Rolle,männlich
+Mama,Mama,Rolle,weiblich
+Jungvermählte,Jungvermählte,Rolle,genderneutral
+Braut,Braut,Rolle,weiblich
+Bräutigam,Bräutigam,Rolle,männlich
+Mann,Mann,Rolle,männlich
+Hausfrau,Hausfrau,Rolle,weiblich
+Schiffsjunge,Schiffsjunge,Rolle,männlich
+Schöne,Schöne,Rolle,weiblich
+Schätzchen,Schätzchen,Rolle,genderneutral
+Madame Colette,Madame Colette,Rolle,weiblich
+Mensch,Mensch,Rolle,genderneutral
+Tochter,Tochter,Rolle,weiblich
+Kind,Kind,Rolle,genderneutral
+Schatzsucher,Schatzsucher,Rolle,männlich
+Mörderin,Mörderin,Rolle,weiblich
+Kleiner,Kleiner,Rolle,männlich
+Säugling,Säugling,Rolle,genderneutral
+Junge,Junge,Rolle,männlich
+Böser,Böser,Rolle,männlich
+Bäuerin,Bäuerin,Rolle,weiblich
+Phantastin,Phantastin,Rolle,weiblich
+Französin,Französin,Rolle,weiblich
+Ehemann,Ehemann,Rolle,männlich
+Bruder,Bruder,Rolle,männlich
+Goldschätzchen,Goldschätzchen,Rolle,genderneutral
+Tier,Tier,Rolle,genderneutral
+Äffchen,Äffchen,Rolle,genderneutral
+Freundin,Freundin,Rolle,weiblich
+Wildfang,Wildfang,Rolle,genderneutral
+Lazzarone,Lazzarone,Rolle,männlich
+Richter,Richter,Rolle,männlich
+Lyrikerin,Lyrikerin,Rolle,weiblich
+Gefährtin,Gefährtin,Rolle,weiblich
+Jules-Joseph Colette,Jules-Joseph Colette,Rolle,männlich
+Hauptmann,Hauptmann,Rolle,männlich
+Südländer,Südländer,Rolle,männlich
+Italiener,Italiener,Rolle,männlich
+Messerstecher,Messerstecher,Rolle,männlich
+Liebhaber,Liebhaber,Rolle,männlich
+Schwester,Schwester,Rolle,weiblich
+Pächter,Pächter,Rolle,männlich
+Bariton,Bariton,Rolle,männlich
+Waffengefährte,Waffengefährte,Rolle,männlich
+Soldat,Soldat,Rolle,männlich
+Oberst,Oberst,Rolle,männlich
+Marschall,Marschall,Rolle,männlich
+Kleine,Kleine,Rolle,weiblich
+Poet,Poet,Rolle,männlich
+Städter,Städter,Rolle,männlich
+Waldgeist,Waldgeist,Rolle,genderneutral
+Abwesender,Abwesender,Rolle,männlich
+Amputierter,Amputierter,Rolle,männlich
+Schüler,Schüler,Rolle,männlich
+Tänzer,Tänzer,Rolle,männlich
+Leutnant,Leutnant,Rolle,männlich
+Invalide,Invalide,Rolle,männlich
+Großkanzler,Großkanzler,Rolle,männlich
+Alter,Alter,Rolle,männlich
+Geschöpf,Geschöpf,Rolle,genderneutral
+Madame,Madame,Rolle,weiblich
+kleines Mädchen,kleines Mädchen,Rolle,weiblich
+alter Mann,alter Mann,Rolle,männlich
+König,König,Rolle,männlich
+Meistersinger,Meistersinger,Rolle,männlich
+Toter,Toter,Rolle,männlich
+Geist,Geist,Rolle,genderneutral
+Waffenbruder,Waffenbruder,Rolle,männlich
+Versager,Versager,Rolle,männlich
+Gatte,Gatte,Rolle,männlich
+Seele,Seele,Rolle,genderneutral
+Halbbruder,Halbbruder,Rolle,männlich
+Wilde,Wilde,Rolle,genderneutral
+Älterer,Älterer,Rolle,männlich
+Jüngerer,Jüngerer,Rolle,männlich
+Sechzigjähriger,Sechzigjähriger,Rolle,männlich
+Bettelmusiker,Bettelmusiker,Rolle,männlich
+Dickkopf,Dickkopf,Rolle,genderneutral
+Jüngste,Jüngste,Rolle,weiblich
+Letztgeborene,Letztgeborene,Rolle,weiblich
+Nesthäkchen,Nesthäkchen,Rolle,genderneutral
+Kokospalmenkletterer,Kokospalmenkletterer,Rolle,männlich
+Arzt,Arzt,Rolle,männlich
+Luftgeist,Luftgeist,Rolle,genderneutral
+Schreiber,Schreiber,Rolle,männlich
+Papa,Papa,Rolle,männlich
+Kosakenkind,Kosakenkind,Rolle,genderneutral
+Autor,Autor,Rolle,männlich
+Freund,Freund,Rolle,männlich
+Rote,Rote,Rolle,weiblich
+Karotte,Karotte,Rolle,genderneutral
+Mädchen,Mädchen,Rolle,weiblich
+Blondine,Blondine,Rolle,weiblich
+Verführer,Verführer,Rolle,männlich
+Antoine,Antoine,Figur,
+Herr Dr. R.,Herr Dr. R.,Figur,
+Laroche,Laroche,Figur,
+Oberst Godchot,Oberst Godchot,Figur,
+Fournès,Fournès,Figur,
+Lefèvre,Lefèvre,Figur,
+Mac-Mahon,Mac-Mahon,Figur,
+Sidos erster Mann,Sidos erster Mann,Figur,
+Davout d’Auerstaedt,Davout d'Auerstaedt,Figur,
+Mérimée,Mérimée,Figur,

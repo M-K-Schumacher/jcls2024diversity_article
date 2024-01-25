@@ -1,0 +1,191 @@
+Id,Label,node type,gender
+Abbé,Abbé,Rolle,männlich
+Adolf,Adolf,Figur,
+Alter Julian,Alter Julian,Figur,
+Appert,Appert,Figur,
+Autoren,Autoren,Figur,
+Bauer,Bauer,Rolle,männlich
+Betschwester,Betschwester,Figur,
+Bonaparte,Bonaparte,Figur,
+Buchhändler,Buchhändler,Figur,
+Dienstboten,Dienstboten,Figur,
+Dragoner,Dragoner,Figur,
+Familie Rênal,Familie Rênal,Figur,
+Fouqué,Fouqué,Figur,
+Frau von Beauharnais,Frau von Beauharnais,Figur,
+Frau von Rênal,Frau von Rênal,Figur,
+Frau von Rênals Sohn,Frau von Rênals Sohn,Figur,
+Fürst von Conde,Fürst von Conde,Figur,
+Fürst von Condes Frau,Fürst von Condes Frau,Figur,
+Geistlicher,Geistlicher,Rolle,männlich
+Hausfrau,Hausfrau,Rolle,weiblich
+Hauslehrer,Hauslehrer,Rolle,männlich
+Herr von Rênal,Herr von Rênal,Figur,
+Herren,Herren,Figur,
+Holzknechte,Holzknechte,Figur,
+Julian,Julian,Figur,
+Julians Brüder,Julians Brüder,Figur,
+Julians Vater,Julians Vater,Figur,
+Kerkermeister,Kerkermeister,Figur,
+Kind,Kind,Rolle,genderneutral
+Knabe,Knabe,Rolle,männlich
+Köchin,Köchin,Figur,
+Lateiner,Lateiner,Rolle,männlich
+Leute,Leute,Figur,
+Mädchen,Mädchen,Rolle,weiblich
+Mann,Mann,Rolle,männlich
+Marquis von la Mole,Marquis von la Mole,Figur,
+Menschen,Menschen,Figur,
+Nachbar,Nachbar,Figur,
+Ortsrichter,Ortsrichter,Figur,
+Pariserinnen,Pariserinnen,Figur,
+Patrizier,Patrizier,Figur,
+Pfarrer,Pfarrer,Rolle,männlich
+Pfarrer Chélan,Pfarrer Chélan,Figur,
+Prinzessin,Prinzessin,Figur,
+Royalist,Royalist,Rolle,männlich
+Sägemüller,Sägemüller,Figur,
+Sohn,Sohn,Rolle,männlich
+Söhne Alter Julian,Söhne Alter Julian,Figur,
+Spießbürger,Spießbürger,Figur,
+Spion,Spion,Rolle,männlich
+Stabsarzt,Stabsarzt,Rolle,männlich
+Stanislaus-Xaver,Stanislaus-Xaver,Figur,
+Tante,Tante,Figur,
+Valenod,Valenod,Figur,
+Vater,Vater,Rolle,männlich
+Vikar,Vikar,Rolle,männlich
+Weiber,Weiber,Figur,
+Maslon,Maslon,Figur,
+Stadtgärtner,Stadtgärtner,Figur,
+Chélan,Chélan,Figur,
+Herr Noiroud,Herr Noiroud,Figur,
+zweites Kind der Rênals,zweites Kind der Rênals,Figur,
+Hauptmann von Rênal,Hauptmann von Rênal,Figur,
+Der Sägemüller,Der Sägemüller,Figur,
+Der Ortsrichter,Der Ortsrichter,Figur,
+Ein Nagelschmied,Ein Nagelschmied,Figur,
+Durand,Durand,Figur,
+Die Köchin,Die Köchin,Figur,
+Jüngster Sohn der Rênals,Jüngster Sohn der Rênals,Figur,
+Herr Charcot von Maugiron,Herr Charcot von Maugiron,Figur,
+Zweites Kind der Rênals,Zweites Kind der Rênals,Figur,
+Brüder von Julian,Brüder von Julian,Figur,
+Elise,Elise,Figur,
+Frau Derville,Frau Derville,Figur,
+Herr Valenod,Herr Valenod,Figur,
+Der Buchhändler,Der Buchhändler,Figur,
+Ritter,Ritter,Rolle,männlich
+Stadtoberhaupt,Stadtoberhaupt,Rolle,genderneutral
+Fünfziger,Fünfziger,Rolle,männlich
+Bürgermeister,Bürgermeister,Rolle,männlich
+Fabrikant,Fabrikant,Rolle,männlich
+Alter,Alter,Rolle,männlich
+Jakobiner,Jakobiner,Rolle,männlich
+Bonapartist,Bonapartist,Rolle,männlich
+Junge,Junge,Rolle,männlich
+Ältester,Ältester,Rolle,männlich
+Dreißigerin,Dreißigerin,Rolle,weiblich
+Philantrop,Philantrop,Rolle,männlich
+Herr,Herr,Rolle,männlich
+Lieber,Lieber,Rolle,männlich
+alter Mann,alter Mann,Rolle,männlich
+Großgrundbesitzer,Großgrundbesitzer,Rolle,männlich
+Gemütsmensch,Gemütsmensch,Rolle,genderneutral
+Menschenfreund,Menschenfreund,Rolle,männlich
+Führer,Führer,Rolle,männlich
+Kerl,Kerl,Rolle,männlich
+Fremder,Fremder,Rolle,männlich
+Bulldogge,Bulldogge,Rolle,genderneutral
+Armenamtsvorstandes,Armenamtsvorstandes,Rolle,genderneutral
+Söhnchen,Söhnchen,Rolle,männlich
+Mutter,Mutter,Rolle,weiblich
+Priester,Priester,Rolle,männlich
+Liebling,Liebling,Rolle,genderneutral
+Ehrenlegionär,Ehrenlegionär,Rolle,männlich
+Vetter,Vetter,Rolle,männlich
+Bester,Bester,Rolle,männlich
+junger Mann,junger Mann,Rolle,männlich
+Bursche,Bursche,Rolle,männlich
+keine Diplomatin,keine Diplomatin,Rolle,weiblich
+Gatte,Gatte,Rolle,männlich
+Gattin,Gattin,Rolle,weiblich
+Onkel,Onkel,Rolle,männlich
+Hauptmann,Hauptmann,Rolle,männlich
+Aristokrat,Aristokrat,Rolle,männlich
+Wesen,Wesen,Rolle,genderneutral
+Gott,Gott,Rolle,genderneutral
+Schelm,Schelm,Rolle,männlich
+Gesuchter,Gesuchter,Rolle,männlich
+Leser,Leser,Rolle,männlich
+Mißhandelter,Mißhandelter,Rolle,männlich
+Faulpelz,Faulpelz,Rolle,genderneutral
+Lümmel,Lümmel,Rolle,männlich
+Mensch,Mensch,Rolle,genderneutral
+Schwächling,Schwächling,Rolle,genderneutral
+Kriegsmann,Kriegsmann,Rolle,männlich
+Müller,Müller,Rolle,männlich
+Leseratte,Leseratte,Rolle,genderneutral
+Dame,Dame,Rolle,weiblich
+Wicht,Wicht,Rolle,männlich
+Heuchler,Heuchler,Rolle,männlich
+Freund,Freund,Rolle,männlich
+Erzieher,Erzieher,Rolle,männlich
+Lakai,Lakai,Rolle,genderneutral
+Schafskopf,Schafskopf,Rolle,genderneutral
+Leckermaul,Leckermaul,Rolle,genderneutral
+Holzhändler,Holzhändler,Rolle,männlich
+Bauernkind,Bauernkind,Rolle,genderneutral
+Nagelschmied,Nagelschmied,Rolle,männlich
+Artillerieleutnant,Artillerieleutnant,Rolle,männlich
+Ehrenmann,Ehrenmann,Rolle,männlich
+Gottesgelehrter,Gottesgelehrter,Rolle,männlich
+Musterschüler,Musterschüler,Rolle,männlich
+Feigling,Feigling,Rolle,genderneutral
+Fremdling,Fremdling,Rolle,genderneutral
+Bauernjunge,Bauernjunge,Rolle,männlich
+junges Mädchen,junges Mädchen,Rolle,weiblich
+Schneider,Schneider,Rolle,männlich
+Herrschaften,Herrschaften,Rolle,genderneutral
+Ankömmling,Ankömmling,Rolle,genderneutral
+junger Herr,junger Herr,Rolle,männlich
+Eltern,Eltern,Rolle,genderneutral
+Person,Person,Rolle,genderneutral
+Kleiner,Kleiner,Rolle,männlich
+Landrat,Landrat,Rolle,männlich
+Unnahbarer,Unnahbarer,Rolle,männlich
+Abgott,Abgott,Rolle,genderneutral
+Bürschchen,Bürschchen,Rolle,männlich
+Findelkind,Findelkind,Rolle,genderneutral
+Kammerjungfer,Kammerjungfer,Rolle,weiblich
+Herrin,Herrin,Rolle,weiblich
+Schulmeister,Schulmeister,Rolle,männlich
+Erbin,Erbin,Rolle,weiblich
+Freundin,Freundin,Rolle,weiblich
+Schlucker,Schlucker,Rolle,männlich
+kein Lump,kein Lump,Rolle,männlich
+Feind,Feind,Rolle,männlich
+Verehrteste,Verehrteste,Rolle,weiblich
+Liberaler,Liberaler,Rolle,männlich
+Theologe,Theologe,Rolle,männlich
+Gebieter,Gebieter,Rolle,männlich
+Student,Student,Rolle,männlich
+Hausherr,Hausherr,Rolle,männlich
+Beichtvater,Beichtvater,Rolle,männlich
+Fräulein,Fräulein,Rolle,weiblich
+Seelsorger,Seelsorger,Rolle,männlich
+Narr,Narr,Rolle,männlich
+Bauersmann,Bauersmann,Rolle,männlich
+Meister,Meister,Rolle,männlich
+Jungfer,Jungfer,Rolle,weiblich
+Handwerker,Handwerker,Rolle,männlich
+Nebenbuhlerin,Nebenbuhlerin,Rolle,weiblich
+Zuschauerin,Zuschauerin,Rolle,weiblich
+Kleinstädterin,Kleinstädterin,Rolle,weiblich
+Grandseigneur,Grandseigneur,Rolle,männlich
+Ehegemahl,Ehegemahl,Rolle,männlich
+Gebieterin,Gebieterin,Rolle,weiblich
+Base,Base,Rolle,weiblich
+Neunzehnjähriger,Neunzehnjähriger,Rolle,männlich
+König,König,Rolle,männlich
+0,Vorstand,Rolle,genderneutral

@@ -1,0 +1,142 @@
+Source,Target,Type,Label,Weight,source type,edge label,target type
+Bergleute,Bergleute,Undirected,,1,Figur,verkörpert,Rolle
+Karl der Zweite,Karl der Zweite,Undirected,,1,Figur,verkörpert,Rolle
+Geldleute,Geldleute,Undirected,,1,Figur,verkörpert,Rolle
+Lord Palmerstone,Geldleute,Undirected,,1,Figur,verkörpert,Rolle
+Bergmannsfrauen,Bergmannsfrauen,Undirected,,1,Figur,verkörpert,Rolle
+Gertrude Morel,Frau,Undirected,,1,Figur,verkörpert,Rolle
+Gertrude Morel,Bergmannsfrauen,Undirected,,1,Figur,verkörpert,Rolle
+Walter Morel,Bergmann,Undirected,,1,Figur,verkörpert,Rolle
+William,Junge,Undirected,,1,Figur,verkörpert,Rolle
+William,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Annie,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Annie,Mädchen,Undirected,,1,Figur,verkörpert,Rolle
+Gertrude Morel,Mutter,Undirected,,1,Figur,verkörpert,Rolle
+Annie,Heultriene,Undirected,,1,Figur,verkörpert,Rolle
+Kokosnussmann,Kokosnussmann,Undirected,,1,Figur,verkörpert,Rolle
+Guckkastendame,Guckkastendame,Undirected,,1,Figur,verkörpert,Rolle
+Gertrude Morel,Dame,Undirected,,1,Figur,verkörpert,Rolle
+Walter Morel,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Walter Morel,Vater,Undirected,,1,Figur,verkörpert,Rolle
+Gertrude Morel,Wesen,Undirected,,1,Figur,verkörpert,Rolle
+Gertrude Morel,Mädchen,Undirected,,1,Figur,verkörpert,Rolle
+Bill Hodgkinson,Kerl,Undirected,,1,Figur,verkörpert,Rolle
+Walter Morel,Junge,Undirected,,1,Figur,verkörpert,Rolle
+Walter Morel,Walt,Undirected,,1,Figur,verkörpert,Rolle
+Gertrude Morel,Hexe,Undirected,,1,Figur,verkörpert,Rolle
+Großvater von Frau Morel,Calvinist,Undirected,,1,Figur,verkörpert,Rolle
+George Coppard,Vater,Undirected,,1,Figur,verkörpert,Rolle
+George Coppard,Maschinist,Undirected,,1,Figur,verkörpert,Rolle
+George Coppard,Mensch,Undirected,,1,Figur,verkörpert,Rolle
+George Coppard,Obermaschinist,Undirected,,1,Figur,verkörpert,Rolle
+Gertrude Morel,Tochter,Undirected,,1,Figur,verkörpert,Rolle
+Gertrudes Mutter,Mutter,Undirected,,1,Figur,verkörpert,Rolle
+Gertrude Morel,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Gertrude Morel,Helferin,Undirected,,1,Figur,verkörpert,Rolle
+Gertrudes Lehrerin,Lehrerin,Undirected,,1,Figur,verkörpert,Rolle
+John Field,Sohn,Undirected,,1,Figur,verkörpert,Rolle
+John Fields Vater,Krämer,Undirected,,1,Figur,verkörpert,Rolle
+John Fields Vater,Vater,Undirected,,1,Figur,verkörpert,Rolle
+John Field,Lehrer,Undirected,,1,Figur,verkörpert,Rolle
+Frau von John Field,Wirtin,Undirected,,1,Figur,verkörpert,Rolle
+Frau von John Field,Witwe,Undirected,,1,Figur,verkörpert,Rolle
+Walter Morel,junger Mann,Undirected,,1,Figur,verkörpert,Rolle
+Walter Morel,Pfiffikus,Undirected,,1,Figur,verkörpert,Rolle
+Walter Morel,Mensch,Undirected,,1,Figur,verkörpert,Rolle
+Großvater Morel,Großvater,Undirected,,1,Figur,verkörpert,Rolle
+Großvater Morel,Flüchtling,Undirected,,1,Figur,verkörpert,Rolle
+Großmutter Morel,Schenkmädchen,Undirected,,1,Figur,verkörpert,Rolle
+George Coppard,Mann,Undirected,,1,Figur,verkörpert,Rolle
+George Coppard,Puritaner,Undirected,,1,Figur,verkörpert,Rolle
+Gertrude Morel,Puritaner,Undirected,,1,Figur,verkörpert,Rolle
+Walter Morel,Schnapsgegner,Undirected,,1,Figur,verkörpert,Rolle
+Mutter von Walter,Mutter,Undirected,,1,Figur,verkörpert,Rolle
+Schwestern von Walter,Schwester,Undirected,,1,Figur,verkörpert,Rolle
+Mutter von Walter,alte Frau,Undirected,,1,Figur,verkörpert,Rolle
+Mutter von Walter,ältere Frau,Undirected,,1,Figur,verkörpert,Rolle
+Mutter von Walter,Schwiegermutter,Undirected,,1,Figur,verkörpert,Rolle
+Gertrude Morel,junge Frau,Undirected,,1,Figur,verkörpert,Rolle
+Nachbarin,Nachbarin,Undirected,,1,Figur,verkörpert,Rolle
+Gertrude Morel,Nachbarn,Undirected,,1,Figur,verkörpert,Rolle
+Walter Morel,Nachbarn,Undirected,,1,Figur,verkörpert,Rolle
+Walter Morel,Meister,Undirected,,1,Figur,verkörpert,Rolle
+Frauen,Frau,Undirected,,1,Figur,verkörpert,Rolle
+Wäscherin,Wäscherin,Undirected,,1,Figur,verkörpert,Rolle
+William,Sohn,Undirected,,1,Figur,verkörpert,Rolle
+William,kein Mädchen,Undirected,,1,Figur,verkörpert,Rolle
+Gertrude Morel,Glaubensschwärmer,Undirected,,1,Figur,verkörpert,Rolle
+Walter Morel,Prahlhans,Undirected,,1,Figur,verkörpert,Rolle
+Walter Morel,Lump,Undirected,,1,Figur,verkörpert,Rolle
+Walter Morel,Plappermaul,Undirected,,1,Figur,verkörpert,Rolle
+Walter Morel,Schwätzer,Undirected,,1,Figur,verkörpert,Rolle
+Alfred,der Alte,Undirected,,1,Figur,verkörpert,Rolle
+Walter Morel,Schauspieler,Undirected,,1,Figur,verkörpert,Rolle
+Alfred Charlesworth,Betriebsleiter,Undirected,,1,Figur,verkörpert,Rolle
+Alfred Charlesworth,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Kneipbrüder,Kneipbrüder,Undirected,,1,Figur,verkörpert,Rolle
+Alfred Charlesworth,Schlepperjunge,Undirected,,1,Figur,verkörpert,Rolle
+Walter Morel,Steiger,Undirected,,1,Figur,verkörpert,Rolle
+Walter Morel,König,Undirected,,1,Figur,verkörpert,Rolle
+Walter Morel,Chorknabe,Undirected,,1,Figur,verkörpert,Rolle
+Walter Morel,Verliebter,Undirected,,1,Figur,verkörpert,Rolle
+Jerry Purdy,Busenfreund,Undirected,,1,Figur,verkörpert,Rolle
+Walter Morel,Kumpel,Undirected,,1,Figur,verkörpert,Rolle
+Jerry Purdy,Mensch,Undirected,,1,Figur,verkörpert,Rolle
+Tochter Purdy,Tochter,Undirected,,1,Figur,verkörpert,Rolle
+Tochter Purdy,Mädchen,Undirected,,1,Figur,verkörpert,Rolle
+Jerry Purdy,Schuft,Undirected,,1,Figur,verkörpert,Rolle
+Jerry Purdy,Kerl,Undirected,,1,Figur,verkörpert,Rolle
+Jerrys Kinder,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Jerrys Kinder,Ding,Undirected,,1,Figur,verkörpert,Rolle
+Tochter Purdy,Ding,Undirected,,1,Figur,verkörpert,Rolle
+Jerry Purdy,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Jerrys Schwester,Schwester,Undirected,,1,Figur,verkörpert,Rolle
+Walter Morel,Reisende,Undirected,,1,Figur,verkörpert,Rolle
+Jerry Purdy,Reisende,Undirected,,1,Figur,verkörpert,Rolle
+Walter Morel,Paar,Undirected,,1,Figur,verkörpert,Rolle
+Jerry Purdy,Paar,Undirected,,1,Figur,verkörpert,Rolle
+Gertrude Morel,Ding,Undirected,,1,Figur,verkörpert,Rolle
+Walter Morel,Edelmann,Undirected,,1,Figur,verkörpert,Rolle
+Gertrude Morel,Weibsbild,Undirected,,1,Figur,verkörpert,Rolle
+Gertrude Morel,Lügnerin,Undirected,,1,Figur,verkörpert,Rolle
+Walter Morel,Lügner,Undirected,,1,Figur,verkörpert,Rolle
+Gertrude Morel,Lüjnersche,Undirected,,1,Figur,verkörpert,Rolle
+Walter Morel,Herr,Undirected,,1,Figur,verkörpert,Rolle
+Walter Morel,Gebieter,Undirected,,1,Figur,verkörpert,Rolle
+Walter Morel,Nichtsnutz,Undirected,,1,Figur,verkörpert,Rolle
+Paul,Ungeborenes,Undirected,,1,Figur,verkörpert,Rolle
+Lumpensammler,Lumpensammler,Undirected,,1,Figur,verkörpert,Rolle
+Walter Morel,Toter,Undirected,,1,Figur,verkörpert,Rolle
+Walter Morel,Frühaufsteher,Undirected,,1,Figur,verkörpert,Rolle
+Paul,Kleines,Undirected,,1,Figur,verkörpert,Rolle
+Frau Kirk,Frau,Undirected,,1,Figur,verkörpert,Rolle
+Frau Anthony,Wesen,Undirected,,1,Figur,verkörpert,Rolle
+Frau Anthony,Frau,Undirected,,1,Figur,verkörpert,Rolle
+Hose,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Hose,Kerl,Undirected,,1,Figur,verkörpert,Rolle
+Frau Kirk,Nachbarin,Undirected,,1,Figur,verkörpert,Rolle
+Frau Anthony,Nachbarin,Undirected,,1,Figur,verkörpert,Rolle
+Gertrude Morel,Nachbarin,Undirected,,1,Figur,verkörpert,Rolle
+Gertrude,Liebe,Undirected,,1,Figur,verkörpert,Rolle
+Frau Bower,Frau,Undirected,,1,Figur,verkörpert,Rolle
+Barker,Kumpel,Undirected,,1,Figur,verkörpert,Rolle
+Paul,Junge,Undirected,,1,Figur,verkörpert,Rolle
+William,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Paul,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Paul,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Gertrude Morel,Weib,Undirected,,1,Figur,verkörpert,Rolle
+Mr. Heaton,Geistlicher,Undirected,,1,Figur,verkörpert,Rolle
+Mr. Heaton,kein Prediger,Undirected,,1,Figur,verkörpert,Rolle
+Mrs. Heaton,Frau,Undirected,,1,Figur,verkörpert,Rolle
+Mr. Heaton,Pate,Undirected,,1,Figur,verkörpert,Rolle
+Mr. Heaton,Kerl,Undirected,,1,Figur,verkörpert,Rolle
+Mr. Heaton,Prediger,Undirected,,1,Figur,verkörpert,Rolle
+Mr. Heaton,Pfaffe,Undirected,,1,Figur,verkörpert,Rolle
+Paul,Kleiner,Undirected,,1,Figur,verkörpert,Rolle
+Paul,Lamm,Undirected,,1,Figur,verkörpert,Rolle
+Walter Morel,Gatte,Undirected,,1,Figur,verkörpert,Rolle
+Paul,Allerschönster,Undirected,,1,Figur,verkörpert,Rolle
+Walter Morel,Ekel,Undirected,,1,Figur,verkörpert,Rolle
+Gertrude Morel,Dienstmädchen,Undirected,,1,Figur,verkörpert,Rolle
+Walter Morel,Narr,Undirected,,1,Figur,verkörpert,Rolle
+Walter Morel,Herr Graf,Undirected,,1,Figur,verkörpert,Rolle

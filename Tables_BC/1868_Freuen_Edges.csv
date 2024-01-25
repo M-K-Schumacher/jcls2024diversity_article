@@ -1,0 +1,186 @@
+Source,Target,Type,Label,Weight,source type,edge label,target type
+Hexe Hargar,Meg,Undirected,,1,Rolle,spielt,Figur
+Hugo,Jo,Undirected,,1,Rolle,spielt,Figur
+ein Kobold,Beth,Undirected,,1,Rolle,spielt,Figur
+ein Geist,Amy,Undirected,,1,Rolle,spielt,Figur
+Zara,Amy,Undirected,,1,Rolle,spielt,Figur
+Roderigo,Jo,Undirected,,1,Rolle,spielt,Figur
+das Publikum,Mrs. March,Undirected,,1,Rolle,spielt,Figur
+Jo,Mädchen,Undirected,,1,Figur,verkörpert,Rolle
+Meg,Mädchen,Undirected,,1,Figur,verkörpert,Rolle
+Amy,Mädchen,Undirected,,1,Figur,verkörpert,Rolle
+Beth,Mädchen,Undirected,,1,Figur,verkörpert,Rolle
+Mrs. March,Mutter,Undirected,,1,Figur,verkörpert,Rolle
+Mr. March,Vater,Undirected,,1,Figur,verkörpert,Rolle
+Jo,Bücherwurm,Undirected,,1,Figur,verkörpert,Rolle
+Mr. March,Papa,Undirected,,1,Figur,verkörpert,Rolle
+Jo,Völkchen,Undirected,,1,Figur,verkörpert,Rolle
+Meg,Völkchen,Undirected,,1,Figur,verkörpert,Rolle
+Amy,Völkchen,Undirected,,1,Figur,verkörpert,Rolle
+Beth,Völkchen,Undirected,,1,Figur,verkörpert,Rolle
+Jo,Gestalt,Undirected,,1,Figur,verkörpert,Rolle
+Amy,Hosenmatz,Undirected,,1,Figur,verkörpert,Rolle
+Beth,Friedensstifterin,Undirected,,1,Figur,verkörpert,Rolle
+Meg,Schwester,Undirected,,1,Figur,verkörpert,Rolle
+Jo,Josephine,Undirected,,1,Figur,verkörpert,Rolle
+Jo,junge Dame,Undirected,,1,Figur,verkörpert,Rolle
+Jo,Miss March,Undirected,,1,Figur,verkörpert,Rolle
+Jo,kein Junge,Undirected,,1,Figur,verkörpert,Rolle
+Jo,Bruder,Undirected,,1,Figur,verkörpert,Rolle
+Amy,Gans,Undirected,,1,Figur,verkörpert,Rolle
+Jo,Wildfang,Undirected,,1,Figur,verkörpert,Rolle
+Beth,Schätzchen,Undirected,,1,Figur,verkörpert,Rolle
+Beth,Maus,Undirected,,1,Figur,verkörpert,Rolle
+Beth,Liebling,Undirected,,1,Figur,verkörpert,Rolle
+Jo,Schwester,Undirected,,1,Figur,verkörpert,Rolle
+Beth,Schwester,Undirected,,1,Figur,verkörpert,Rolle
+Amy,Schwester,Undirected,,1,Figur,verkörpert,Rolle
+Meg,Margaret,Undirected,,1,Figur,verkörpert,Rolle
+Meg,Älteste,Undirected,,1,Figur,verkörpert,Rolle
+Jo,Hengstfohlen,Undirected,,1,Figur,verkörpert,Rolle
+Jo,Frau,Undirected,,1,Figur,verkörpert,Rolle
+Beth,Elisabeth,Undirected,,1,Figur,verkörpert,Rolle
+Beth,Fräulein,Undirected,,1,Figur,verkörpert,Rolle
+Amy,Jüngste,Undirected,,1,Figur,verkörpert,Rolle
+Amy,Person,Undirected,,1,Figur,verkörpert,Rolle
+Amy,Schneejungfrau,Undirected,,1,Figur,verkörpert,Rolle
+Amy,junge Dame,Undirected,,1,Figur,verkörpert,Rolle
+Mrs. March,Mami,Undirected,,1,Figur,verkörpert,Rolle
+Jo,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Beth,Liebes,Undirected,,1,Figur,verkörpert,Rolle
+Meg,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Meg,Schauspielerin,Undirected,,1,Figur,verkörpert,Rolle
+Jo,Shakespeare,Undirected,,1,Figur,verkörpert,Rolle
+Mrs. March,Dame,Undirected,,1,Figur,verkörpert,Rolle
+Amy,Lieben,Undirected,,1,Figur,verkörpert,Rolle
+Beth,Lieben,Undirected,,1,Figur,verkörpert,Rolle
+Meg,Lieben,Undirected,,1,Figur,verkörpert,Rolle
+Jo,Lieben,Undirected,,1,Figur,verkörpert,Rolle
+Jo,Baby,Undirected,,1,Figur,verkörpert,Rolle
+Mr. March,Kaplan,Undirected,,1,Figur,verkörpert,Rolle
+Jo,Trommler,Undirected,,1,Figur,verkörpert,Rolle
+Jo,Trompeter,Undirected,,1,Figur,verkörpert,Rolle
+Jo,Krankenschwester,Undirected,,1,Figur,verkörpert,Rolle
+Mr. March,Schreiber,Undirected,,1,Figur,verkörpert,Rolle
+Jo,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Beth,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Amy,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Meg,Frau,Undirected,,1,Figur,verkörpert,Rolle
+Beth,Frau,Undirected,,1,Figur,verkörpert,Rolle
+Amy,Frau,Undirected,,1,Figur,verkörpert,Rolle
+Amy,Liebe,Undirected,,1,Figur,verkörpert,Rolle
+Jo,Pilger,Undirected,,1,Figur,verkörpert,Rolle
+Meg,Pilger,Undirected,,1,Figur,verkörpert,Rolle
+Beth,Pilger,Undirected,,1,Figur,verkörpert,Rolle
+Amy,Pilger,Undirected,,1,Figur,verkörpert,Rolle
+Tante March,Tante,Undirected,,1,Figur,verkörpert,Rolle
+Mrs. March,Sängerin,Undirected,,1,Figur,verkörpert,Rolle
+Mrs. March,Lerche,Undirected,,1,Figur,verkörpert,Rolle
+Hannah,Freundin,Undirected,,1,Figur,verkörpert,Rolle
+Hannah,Dienstmagd,Undirected,,1,Figur,verkörpert,Rolle
+Amy,Beste,Undirected,,1,Figur,verkörpert,Rolle
+Jo,Tochter,Undirected,,1,Figur,verkörpert,Rolle
+Meg,Tochter,Undirected,,1,Figur,verkörpert,Rolle
+Beth,Tochter,Undirected,,1,Figur,verkörpert,Rolle
+Amy,Tochter,Undirected,,1,Figur,verkörpert,Rolle
+eine arme Frau,Mutter,Undirected,,1,Figur,verkörpert,Rolle
+ein Baby,Baby,Undirected,,1,Figur,verkörpert,Rolle
+Mrs. March,Engel,Undirected,,1,Figur,verkörpert,Rolle
+Jo,Engel,Undirected,,1,Figur,verkörpert,Rolle
+Beth,Engel,Undirected,,1,Figur,verkörpert,Rolle
+Meg,Engel,Undirected,,1,Figur,verkörpert,Rolle
+Amy,Engel,Undirected,,1,Figur,verkörpert,Rolle
+eine arme Frau,Frau,Undirected,,1,Figur,verkörpert,Rolle
+Hannah,Engel,Undirected,,1,Figur,verkörpert,Rolle
+sechs arme Kinder,Arme,Undirected,,1,Figur,verkörpert,Rolle
+sechs arme Kinder,Vögel,Undirected,,1,Figur,verkörpert,Rolle
+sechs arme Kinder,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Jo,Engelkind,Undirected,,1,Figur,verkörpert,Rolle
+Meg,Engelkind,Undirected,,1,Figur,verkörpert,Rolle
+Beth,Engelkind,Undirected,,1,Figur,verkörpert,Rolle
+Amy,Engelkind,Undirected,,1,Figur,verkörpert,Rolle
+Jo,Wirbelwind,Undirected,,1,Figur,verkörpert,Rolle
+Jo,Mensch,Undirected,,1,Figur,verkörpert,Rolle
+Meg,Mensch,Undirected,,1,Figur,verkörpert,Rolle
+Beth,Mensch,Undirected,,1,Figur,verkörpert,Rolle
+Amy,Mensch,Undirected,,1,Figur,verkörpert,Rolle
+Jo,Schauspieler,Undirected,,1,Figur,verkörpert,Rolle
+Meg,Schauspieler,Undirected,,1,Figur,verkörpert,Rolle
+Beth,Schauspieler,Undirected,,1,Figur,verkörpert,Rolle
+Amy,Schauspieler,Undirected,,1,Figur,verkörpert,Rolle
+Mr. Laurence,Großvater,Undirected,,1,Figur,verkörpert,Rolle
+Laurie,Junge,Undirected,,1,Figur,verkörpert,Rolle
+Mr. Laurence,alter Herr,Undirected,,1,Figur,verkörpert,Rolle
+Laurie,Kerl,Undirected,,1,Figur,verkörpert,Rolle
+Laurie,Enkel,Undirected,,1,Figur,verkörpert,Rolle
+Laurie,Gentleman,Undirected,,1,Figur,verkörpert,Rolle
+Meg,Miss,Undirected,,1,Figur,verkörpert,Rolle
+Jo,Miss,Undirected,,1,Figur,verkörpert,Rolle
+Amy,Kammerzofe,Undirected,,1,Figur,verkörpert,Rolle
+Beth,Kammerzofe,Undirected,,1,Figur,verkörpert,Rolle
+Jo,Friseuse,Undirected,,1,Figur,verkörpert,Rolle
+Meg,Schaf,Undirected,,1,Figur,verkörpert,Rolle
+Jo,Liebe,Undirected,,1,Figur,verkörpert,Rolle
+Meg,Liebe,Undirected,,1,Figur,verkörpert,Rolle
+Mrs. Gardiner,alte Dame,Undirected,,1,Figur,verkörpert,Rolle
+Sallie,Tochter,Undirected,,1,Figur,verkörpert,Rolle
+Sallie,Mädchen,Undirected,,1,Figur,verkörpert,Rolle
+Jo,Hengst,Undirected,,1,Figur,verkörpert,Rolle
+Meg,Träger,Undirected,,1,Figur,verkörpert,Rolle
+Laurie,Jugendlicher,Undirected,,1,Figur,verkörpert,Rolle
+Laurie,Person,Undirected,,1,Figur,verkörpert,Rolle
+Mr. Laurence,Opa,Undirected,,1,Figur,verkörpert,Rolle
+Laurie,Theodore,Undirected,,1,Figur,verkörpert,Rolle
+Laurie,Dora,Undirected,,1,Figur,verkörpert,Rolle
+Meg,Dame,Undirected,,1,Figur,verkörpert,Rolle
+Jo,Bekannte,Undirected,,1,Figur,verkörpert,Rolle
+Laurie,Bekannte,Undirected,,1,Figur,verkörpert,Rolle
+Laurie,Partner,Undirected,,1,Figur,verkörpert,Rolle
+Jo,Liebes,Undirected,,1,Figur,verkörpert,Rolle
+Jo,Tollpatsch,Undirected,,1,Figur,verkörpert,Rolle
+Hannah,Katze,Undirected,,1,Figur,verkörpert,Rolle
+Annie Moffat,Freundin,Undirected,,1,Figur,verkörpert,Rolle
+Laurie,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Laurie,Grashüpfer,Undirected,,1,Figur,verkörpert,Rolle
+Amy,Schlafmütze,Undirected,,1,Figur,verkörpert,Rolle
+Beth,Schlafmütze,Undirected,,1,Figur,verkörpert,Rolle
+Tante March,Nervensäge,Undirected,,1,Figur,verkörpert,Rolle
+Meg,Ding,Undirected,,1,Figur,verkörpert,Rolle
+Jo,Ding,Undirected,,1,Figur,verkörpert,Rolle
+Amy,Ding,Undirected,,1,Figur,verkörpert,Rolle
+Beth,Ding,Undirected,,1,Figur,verkörpert,Rolle
+Meg,Spitzbübin,Undirected,,1,Figur,verkörpert,Rolle
+Jo,Spitzbübin,Undirected,,1,Figur,verkörpert,Rolle
+Amy,Spitzbübin,Undirected,,1,Figur,verkörpert,Rolle
+Beth,Spitzbübin,Undirected,,1,Figur,verkörpert,Rolle
+Meg,Schurken,Undirected,,1,Figur,verkörpert,Rolle
+Jo,Schurken,Undirected,,1,Figur,verkörpert,Rolle
+Amy,Schurken,Undirected,,1,Figur,verkörpert,Rolle
+Beth,Schurken,Undirected,,1,Figur,verkörpert,Rolle
+Meg,Nonne,Undirected,,1,Figur,verkörpert,Rolle
+Jo,Geschöpf,Undirected,,1,Figur,verkörpert,Rolle
+Jo,Liebling,Undirected,,1,Figur,verkörpert,Rolle
+Mr. March,Eltern,Undirected,,1,Figur,verkörpert,Rolle
+Mrs. March,Eltern,Undirected,,1,Figur,verkörpert,Rolle
+Meg,Erzieherin,Undirected,,1,Figur,verkörpert,Rolle
+Jo,Person,Undirected,,1,Figur,verkörpert,Rolle
+Tante March,alte Dame,Undirected,,1,Figur,verkörpert,Rolle
+Jo,Gesellschafterin,Undirected,,1,Figur,verkörpert,Rolle
+Tante March,Verwandte,Undirected,,1,Figur,verkörpert,Rolle
+Onkel March,alter Herr,Undirected,,1,Figur,verkörpert,Rolle
+Beth,Hausfrau,Undirected,,1,Figur,verkörpert,Rolle
+Beth,Biene,Undirected,,1,Figur,verkörpert,Rolle
+Beth,Lerche,Undirected,,1,Figur,verkörpert,Rolle
+Beth,Heimchen,Undirected,,1,Figur,verkörpert,Rolle
+Beth,Wesen,Undirected,,1,Figur,verkörpert,Rolle
+Amy,Baby,Undirected,,1,Figur,verkörpert,Rolle
+Amy,Raffael,Undirected,,1,Figur,verkörpert,Rolle
+Florence,Cousine,Undirected,,1,Figur,verkörpert,Rolle
+Meg,Vertraute,Undirected,,1,Figur,verkörpert,Rolle
+Meg,Beraterin,Undirected,,1,Figur,verkörpert,Rolle
+Tante March,Tantchen,Undirected,,1,Figur,verkörpert,Rolle
+Jo,Wilde,Undirected,,1,Figur,verkörpert,Rolle
+Grace,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Ellen,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Susie Perkins,Schlosshund,Undirected,,1,Figur,verkörpert,Rolle
+Mr. Cutter,Fischhändler,Undirected,,1,Figur,verkörpert,Rolle

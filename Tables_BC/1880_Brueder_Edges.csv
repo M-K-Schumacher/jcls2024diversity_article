@@ -1,0 +1,211 @@
+Source,Target,Type,Label,Weight,source type,edge label,target type
+Alexej,Sohn,Undirected,,1,Figur,verkörpert,Rolle
+Sofja Iwanowna,Frau,Undirected,,1,Figur,verkörpert,Rolle
+Fjordor Pawlowitsch Karamasow,Gutsbesitzer,Undirected,,1,Figur,verkörpert,Rolle
+Fjordor Pawlowitsch Karamasow,Typ,Undirected,,1,Figur,verkörpert,Rolle
+Fjordor Pawlowitsch Karamasow,Mensch,Undirected,,1,Figur,verkörpert,Rolle
+Fjordor Pawlowitsch Karamasow,Kostgänger,Undirected,,1,Figur,verkörpert,Rolle
+Fjordor Pawlowitsch Karamasow,Narr,Undirected,,1,Figur,verkörpert,Rolle
+Dmitri,Sohn,Undirected,,1,Figur,verkörpert,Rolle
+Iwan,Sohn,Undirected,,1,Figur,verkörpert,Rolle
+Adelaida Iwanowna Miusow,Frau,Undirected,,1,Figur,verkörpert,Rolle
+Miussow,Gutsbesitzer,Undirected,,1,Figur,verkörpert,Rolle
+Adelaida Iwanowna Miusow,Mädchen,Undirected,,1,Figur,verkörpert,Rolle
+Fjordor Pawlowitsch Karamasow,Jammerlappen,Undirected,,1,Figur,verkörpert,Rolle
+Fjordor Pawlowitsch Karamasow,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Fjordor Pawlowitsch Karamasow,Possenreißer,Undirected,,1,Figur,verkörpert,Rolle
+Adelaida Iwanowna Miusow,Braut,Undirected,,1,Figur,verkörpert,Rolle
+Adelaida Iwanowna Karamasow,Entflohene,Undirected,,1,Figur,verkörpert,Rolle
+Adelaida Iwanowna Karamasow,Ehegatte,Undirected,,1,Figur,verkörpert,Rolle
+Fjordor Pawlowitsch Karamasow,Ehegatte,Undirected,,1,Figur,verkörpert,Rolle
+Adelaida Iwanowna Karamasow,junge Frau,Undirected,,1,Figur,verkörpert,Rolle
+Adelaida Iwanowna Karamasow,Gattin,Undirected,,1,Figur,verkörpert,Rolle
+Adelaida Iwanowna Karamasow,Eheleute,Undirected,,1,Figur,verkörpert,Rolle
+Fjordor Pawlowitsch Karamasow,Eheleute,Undirected,,1,Figur,verkörpert,Rolle
+Seminarist,Seminarist,Undirected,,1,Figur,verkörpert,Rolle
+Seminarist,Lehrer,Undirected,,1,Figur,verkörpert,Rolle
+Dmitri,Mitja,Undirected,,1,Figur,verkörpert,Rolle
+Fjordor Pawlowitsch Karamasow,Ehemann,Undirected,,1,Figur,verkörpert,Rolle
+Adelaida Iwanowna Karamasow,Ärmste,Undirected,,1,Figur,verkörpert,Rolle
+Fjordor Pawlowitsch Karamasow,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Adelaida Iwanowna Karamasow,Befreierin,Undirected,,1,Figur,verkörpert,Rolle
+Fjordor Pawlowitsch Karamasow,Erzieher,Undirected,,1,Figur,verkörpert,Rolle
+Fjordor Pawlowitsch Karamasow,Vater,Undirected,,1,Figur,verkörpert,Rolle
+Dmitri,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Dmitri,Kleiner,Undirected,,1,Figur,verkörpert,Rolle
+Grigori,Diener,Undirected,,1,Figur,verkörpert,Rolle
+Pjotr Alexandrowitsch Miussow,Großvater,Undirected,,1,Figur,verkörpert,Rolle
+Pjotr Alexandrowitsch Miussow,Vater,Undirected,,1,Figur,verkörpert,Rolle
+Frau Muissow,Großmutter,Undirected,,1,Figur,verkörpert,Rolle
+Frau Muissow,Gattin,Undirected,,1,Figur,verkörpert,Rolle
+Fjordor Pawlowitsch Karamasow,Papa,Undirected,,1,Figur,verkörpert,Rolle
+Pjotr Alexandrowitsch Miussow,Vetter,Undirected,,1,Figur,verkörpert,Rolle
+Pjotr Alexandrowitsch Miussow,Freund,Undirected,,1,Figur,verkörpert,Rolle
+Pjotr Alexandrowitsch Miussow,Anhänger,Undirected,,1,Figur,verkörpert,Rolle
+Pjotr Alexandrowitsch Miussow,Liberaler,Undirected,,1,Figur,verkörpert,Rolle
+Pjotr Alexandrowitsch Miussow,Staatsbürger,Undirected,,1,Figur,verkörpert,Rolle
+Pjotr Alexandrowitsch Miussow,Mensch,Undirected,,1,Figur,verkörpert,Rolle
+Pjotr Alexandrowitsch Miussow,Vormund,Undirected,,1,Figur,verkörpert,Rolle
+Pjotr Alexandrowitsch Miussow,Onkel,Undirected,,1,Figur,verkörpert,Rolle
+Adelaida Iwanowna Karamasow,Mutter,Undirected,,1,Figur,verkörpert,Rolle
+Moskauer Dame,Tante,Undirected,,1,Figur,verkörpert,Rolle
+Moskauer Dame,Dame,Undirected,,1,Figur,verkörpert,Rolle
+Tochter der Moskauer Dame,Tochter,Undirected,,1,Figur,verkörpert,Rolle
+Dmitri,Erstgeborener,Undirected,,1,Figur,verkörpert,Rolle
+Dmitri,Knabe,Undirected,,1,Figur,verkörpert,Rolle
+Dmitri,Offizier,Undirected,,1,Figur,verkörpert,Rolle
+Fjordor Pawlowitsch Karamasow,Erzeuger,Undirected,,1,Figur,verkörpert,Rolle
+Dmitri,junger Mann,Undirected,,1,Figur,verkörpert,Rolle
+Dmitri,Bruder,Undirected,,1,Figur,verkörpert,Rolle
+Iwan,Bruder,Undirected,,1,Figur,verkörpert,Rolle
+Alexej,Bruder,Undirected,,1,Figur,verkörpert,Rolle
+Sofja Iwanowna,junge Frau,Undirected,,1,Figur,verkörpert,Rolle
+ein Jude,Jude,Undirected,,1,Figur,verkörpert,Rolle
+Fjordor Pawlowitsch Karamasow,Trinker,Undirected,,1,Figur,verkörpert,Rolle
+Fjordor Pawlowitsch Karamasow,Wüstling,Undirected,,1,Figur,verkörpert,Rolle
+Sofja Iwanowna,Tochter,Undirected,,1,Figur,verkörpert,Rolle
+Sofja Iwanowna,Waise,Undirected,,1,Figur,verkörpert,Rolle
+Vater von Sofja,Diakon,Undirected,,1,Figur,verkörpert,Rolle
+General Worochows Frau,Wohltäterin,Undirected,,1,Figur,verkörpert,Rolle
+General Worochows Frau,Erzieherin,Undirected,,1,Figur,verkörpert,Rolle
+General Worochows Frau,Peinigerin,Undirected,,1,Figur,verkörpert,Rolle
+General Worochows Frau,alte Dame,Undirected,,1,Figur,verkörpert,Rolle
+General Worochows Frau,Witwe,Undirected,,1,Figur,verkörpert,Rolle
+Sofja Iwanowna,Pflegetochter,Undirected,,1,Figur,verkörpert,Rolle
+General Worochows Frau,Alte,Undirected,,1,Figur,verkörpert,Rolle
+General Worochows Frau,Querkopf,Undirected,,1,Figur,verkörpert,Rolle
+Sofja Iwanowna,Mädchen,Undirected,,1,Figur,verkörpert,Rolle
+General Worochows Frau,alte Frau,Undirected,,1,Figur,verkörpert,Rolle
+Fjordor Pawlowitsch Karamasow,Wohltäter,Undirected,,1,Figur,verkörpert,Rolle
+General Worochows Frau,Generalin,Undirected,,1,Figur,verkörpert,Rolle
+Fjordor Pawlowitsch Karamasow,Liebhaber,Undirected,,1,Figur,verkörpert,Rolle
+Grigori,Mensch,Undirected,,1,Figur,verkörpert,Rolle
+Adelaida Iwanowna Karamasow,Hausfrau,Undirected,,1,Figur,verkörpert,Rolle
+Sofja Iwanowna,Mutter,Undirected,,1,Figur,verkörpert,Rolle
+Iwan,Knabe,Undirected,,1,Figur,verkörpert,Rolle
+Alexej,Knabe,Undirected,,1,Figur,verkörpert,Rolle
+Sofja Iwanowna,Kostgängerin,Undirected,,1,Figur,verkörpert,Rolle
+Iwan,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Alexej,Kind,Undirected,,1,Figur,verkörpert,Rolle
+Grigori,Sklave,Undirected,,1,Figur,verkörpert,Rolle
+Grigori,Tölpel,Undirected,,1,Figur,verkörpert,Rolle
+Iwan,Waise,Undirected,,1,Figur,verkörpert,Rolle
+Alexej,Waise,Undirected,,1,Figur,verkörpert,Rolle
+Jefim Petrowitsch,Hauperbe,Undirected,,1,Figur,verkörpert,Rolle
+Jefim Petrowitsch,Adelsmarschall,Undirected,,1,Figur,verkörpert,Rolle
+Jefim Petrowitsch,Ehrenmann,Undirected,,1,Figur,verkörpert,Rolle
+Iwan,Mensch,Undirected,,1,Figur,verkörpert,Rolle
+Alexej,Mensch,Undirected,,1,Figur,verkörpert,Rolle
+Jefim Petrowitsch,Mensch,Undirected,,1,Figur,verkörpert,Rolle
+Iwan,Zehnjähriger,Undirected,,1,Figur,verkörpert,Rolle
+Freund Jefim Petrowitschs,Pägagoge,Undirected,,1,Figur,verkörpert,Rolle
+Freund Jefim Petrowitschs,Erzieher,Undirected,,1,Figur,verkörpert,Rolle
+Iwan,junger Mann,Undirected,,1,Figur,verkörpert,Rolle
+Iwan,Jungendliche,Undirected,,1,Figur,verkörpert,Rolle
+Iwan,Verfasser,Undirected,,1,Figur,verkörpert,Rolle
+Iwan,Anhänger,Undirected,,1,Figur,verkörpert,Rolle
+Pjotr Alexandrowitsch Miussow,Verwandter,Undirected,,1,Figur,verkörpert,Rolle
+Fjordor Pawlowitsch Karamasow,Alter,Undirected,,1,Figur,verkörpert,Rolle
+Alexej,Held,Undirected,,1,Figur,verkörpert,Rolle
+Alexej,Novize,Undirected,,1,Figur,verkörpert,Rolle
+Alexej,Aljoscha,Undirected,,1,Figur,verkörpert,Rolle
+Alexej,kein Fanatiker,Undirected,,1,Figur,verkörpert,Rolle
+Alexej,kein Mystiker,Undirected,,1,Figur,verkörpert,Rolle
+Alexej,Menschenfreund,Undirected,,1,Figur,verkörpert,Rolle
+Sossima,Persönlichkeit,Undirected,,1,Figur,verkörpert,Rolle
+Sossima,Alter,Undirected,,1,Figur,verkörpert,Rolle
+Sossima,Mönch,Undirected,,1,Figur,verkörpert,Rolle
+Sossima,Mensch,Undirected,,1,Figur,verkörpert,Rolle
+Sossima,Starez,Undirected,,1,Figur,verkörpert,Rolle
+Kinderfrau,Kinderfrau,Undirected,,1,Figur,verkörpert,Rolle
+Jefim Petrowitsch,Wohltäter,Undirected,,1,Figur,verkörpert,Rolle
+Jefim Petrowitsch,Erzieher,Undirected,,1,Figur,verkörpert,Rolle
+Alexej,Grübler,Undirected,,1,Figur,verkörpert,Rolle
+Alexej,Liebling,Undirected,,1,Figur,verkörpert,Rolle
+Alexej,Aljoschka,Undirected,,1,Figur,verkörpert,Rolle
+Alexej,Mädchen,Undirected,,1,Figur,verkörpert,Rolle
+Jefim Petrowitschs Frau,Witwe,Undirected,,1,Figur,verkörpert,Rolle
+Alexej,Narr,Undirected,,1,Figur,verkörpert,Rolle
+Grigori,Erzieher,Undirected,,1,Figur,verkörpert,Rolle
+Sofja Iwanowna,Schreierin,Undirected,,1,Figur,verkörpert,Rolle
+Sofja Iwanowna,Verstorbene,Undirected,,1,Figur,verkörpert,Rolle
+Fjordor Pawlowitsch Karamasow,Patrizier,Undirected,,1,Figur,verkörpert,Rolle
+Alexej,Junge,Undirected,,1,Figur,verkörpert,Rolle
+Fjordor Pawlowitsch Karamasow,Säufer,Undirected,,1,Figur,verkörpert,Rolle
+Alexej,Engel,Undirected,,1,Figur,verkörpert,Rolle
+Fjordor Pawlowitsch Karamasow,Sünder,Undirected,,1,Figur,verkörpert,Rolle
+Fjordor Pawlowitsch Karamasow,Dreckskerl,Undirected,,1,Figur,verkörpert,Rolle
+Alexej,Bester,Undirected,,1,Figur,verkörpert,Rolle
+Alexej,Träumer,Undirected,,1,Figur,verkörpert,Rolle
+Alexej,Menschlein,Undirected,,1,Figur,verkörpert,Rolle
+Alexej,junger Mann,Undirected,,1,Figur,verkörpert,Rolle
+Alexej,Realist,Undirected,,1,Figur,verkörpert,Rolle
+Paissi Welitschkowskia,Glaubensheld,Undirected,,1,Figur,verkörpert,Rolle
+Oberster Patriarch,Kirchenfürst,Undirected,,1,Figur,verkörpert,Rolle
+Sossima,Oberleutnant,Undirected,,1,Figur,verkörpert,Rolle
+Sossima,Heiliger,Undirected,,1,Figur,verkörpert,Rolle
+Sossima,Lehrer,Undirected,,1,Figur,verkörpert,Rolle
+Sossima,Bewahrer,Undirected,,1,Figur,verkörpert,Rolle
+Iwan,Atheist,Undirected,,1,Figur,verkörpert,Rolle
+Fjordor Pawlowitsch Karamasow,Liberaler,Undirected,,1,Figur,verkörpert,Rolle
+Fjordor Pawlowitsch Karamasow,Freidenker,Undirected,,1,Figur,verkörpert,Rolle
+Fjordor Pawlowitsch Karamasow,Atheist,Undirected,,1,Figur,verkörpert,Rolle
+Fjordor Pawlowitsch Karamasow,Besucher,Undirected,,1,Figur,verkörpert,Rolle
+Sossima,Schiedsrichter,Undirected,,1,Figur,verkörpert,Rolle
+Fjordor Pawlowitsch Karamasow,Streitende,Undirected,,1,Figur,verkörpert,Rolle
+Fjordor Pawlowitsch Karamasow,Prozessierende,Undirected,,1,Figur,verkörpert,Rolle
+Iwan,Streitende,Undirected,,1,Figur,verkörpert,Rolle
+Iwan,Prozessierende,Undirected,,1,Figur,verkörpert,Rolle
+Dmitri,Streitende,Undirected,,1,Figur,verkörpert,Rolle
+Dmitri,Prozessierende,Undirected,,1,Figur,verkörpert,Rolle
+Alexej,Streitende,Undirected,,1,Figur,verkörpert,Rolle
+Alexej,Prozessierende,Undirected,,1,Figur,verkörpert,Rolle
+Alexej,Jüngling,Undirected,,1,Figur,verkörpert,Rolle
+Dmitri,Besucher,Undirected,,1,Figur,verkörpert,Rolle
+Iwan,Besucher,Undirected,,1,Figur,verkörpert,Rolle
+Sossima,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Pjotr Fomitsch Kalganow,Verwandter,Undirected,,1,Figur,verkörpert,Rolle
+Pjotr Fomitsch Kalganow,Mensch,Undirected,,1,Figur,verkörpert,Rolle
+Pjotr Fomitsch Kalganow,junger Mann,Undirected,,1,Figur,verkörpert,Rolle
+Fjordor Pawlowitsch Karamasow,Ankömmling,Undirected,,1,Figur,verkörpert,Rolle
+Dmitri,Ankömmling,Undirected,,1,Figur,verkörpert,Rolle
+Iwan,Ankömmling,Undirected,,1,Figur,verkörpert,Rolle
+Piotr Fomitsch Kalganow,Petruscha,Undirected,,1,Figur,verkörpert,Rolle
+Maximow,Gutsbesitzer,Undirected,,1,Figur,verkörpert,Rolle
+Maximow,Mann,Undirected,,1,Figur,verkörpert,Rolle
+Maximow,Kerl,Undirected,,1,Figur,verkörpert,Rolle
+Frau Chochlakowa,Gutsbesitzerin,Undirected,,1,Figur,verkörpert,Rolle
+Tochter von Frau Chochlakowa,Tochter,Undirected,,1,Figur,verkörpert,Rolle
+ein Mönch,Vater,Undirected,,1,Figur,verkörpert,Rolle
+Warsonofi,Starez,Undirected,,1,Figur,verkörpert,Rolle
+Warsonofi,Irrer,Undirected,,1,Figur,verkörpert,Rolle
+Fjordor Pawlowitsch Karamasow,Herr,Undirected,,1,Figur,verkörpert,Rolle
+Dmitri,Herr,Undirected,,1,Figur,verkörpert,Rolle
+Pjotr Alexandrowitsch Miussow,Pariser,Undirected,,1,Figur,verkörpert,Rolle
+Pjotr Alexandrowitsch Miussow,Vorkämpfer,Undirected,,1,Figur,verkörpert,Rolle
+einer von zwei Mönchen,Bibliothekar,Undirected,,1,Figur,verkörpert,Rolle
+einer von zwei Mönchen,Vater,Undirected,,1,Figur,verkörpert,Rolle
+Vater Paissi,Mönch,Undirected,,1,Figur,verkörpert,Rolle
+Rakitin,junger Mann,Undirected,,1,Figur,verkörpert,Rolle
+Rakitin,Seminarist,Undirected,,1,Figur,verkörpert,Rolle
+Rakitin,Theologe,Undirected,,1,Figur,verkörpert,Rolle
+Fjordor Pawlowitsch Karamasow,Gast,Undirected,,1,Figur,verkörpert,Rolle
+Piotr Alexandrowitsch Miussow,Gast,Undirected,,1,Figur,verkörpert,Rolle
+einer von zwei Mönchen,Priestermönch,Undirected,,1,Figur,verkörpert,Rolle
+Vater Paissi,Priestermönch,Undirected,,1,Figur,verkörpert,Rolle
+Sossima,Seelchen,Undirected,,1,Figur,verkörpert,Rolle
+Fjordor Pawlowitsch Karamasow,kein König,Undirected,,1,Figur,verkörpert,Rolle
+Sossima,Ehrwürden,Undirected,,1,Figur,verkörpert,Rolle
+Isprawnik,Bezirkshauptmann,Undirected,,1,Figur,verkörpert,Rolle
+Isprawnik,Mensch,Undirected,,1,Figur,verkörpert,Rolle
+Isprawnik,Typ,Undirected,,1,Figur,verkörpert,Rolle
+Isprawnik,Naprawnik,Undirected,,1,Figur,verkörpert,Rolle
+Herr Naprawnik,Kapellmeister,Undirected,,1,Figur,verkörpert,Rolle
+Fjordor Pawlowitsch Karamasow,Geist,Undirected,,1,Figur,verkörpert,Rolle
+Sossima,heiliger Vater,Undirected,,1,Figur,verkörpert,Rolle
+einer von zwei Mönchen,Zeuge,Undirected,,1,Figur,verkörpert,Rolle
+Vater Paissi,Zeuge,Undirected,,1,Figur,verkörpert,Rolle
+Sossima,Vater,Undirected,,1,Figur,verkörpert,Rolle
+Sossima,Wesen,Undirected,,1,Figur,verkörpert,Rolle
+Sossima,Meister,Undirected,,1,Figur,verkörpert,Rolle
+Sossima,Schutzengel,Undirected,,1,Figur,verkörpert,Rolle

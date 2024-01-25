@@ -1,0 +1,499 @@
+Source,Target,Type,Label,Weight,source type,target type,gender
+Spießer,Spießer,Undirected,,1,Figur,Genderrolle,Mann
+Spießer,Egoist,Undirected,,1,Figur,Genderrolle,Mann
+Spießer der Zukunft,Spießer der Zukunft,Undirected,,1,Figur,Genderrolle,Mann
+Ödön von Horváth,Verfasser,Undirected,,1,Figur,Genderrolle,Mann
+Gast,Gast,Undirected,,1,Figur,Genderrolle,Genderneutral
+Leute,Leut,Undirected,,1,Figur,Genderrolle,Genderneutral
+Frau Stanzinger,Frau Stanzinger,Undirected,,1,Figur,Genderrolle,Frau
+Schwester von Frau Stanzinger,Fräulein Schwester,Undirected,,1,Figur,Genderrolle,Frau
+Frau Hofopernsänge,Frau Hofopernsänger,Undirected,,1,Figur,Genderrolle,Frau
+ein Auto,Greis,Undirected,,1,Figur,Genderrolle,Mann
+Herr Portschinger,Käufer,Undirected,,1,Figur,Genderrolle,Mann
+Herr Portschinger,Käsehändler,Undirected,,1,Figur,Genderrolle,Mann
+Herr Portschinger,Portschinger,Undirected,,1,Figur,Genderrolle,Mann
+Herr Portschinger,Mensch,Undirected,,1,Figur,Genderrolle,Genderneutral
+Adam Mauerer,Freund,Undirected,,1,Figur,Genderrolle,Mann
+Adam Mauerer,Adam,Undirected,,1,Figur,Genderrolle,Mann
+Adam Mauerer,Sachverständige,Undirected,,1,Figur,Genderrolle,Mann
+Herr Portschinger,Rindvieh,Undirected,,1,Figur,Genderrolle,Genderneutral
+Frau Portschinger,Frau,Undirected,,1,Figur,Genderrolle,Frau
+Prälat,Prälatn,Undirected,,1,Figur,Genderrolle,Mann
+Mädchen,Madin,Undirected,,1,Figur,Genderrolle,Frau
+Prälat,Nachtkastl,Undirected,,1,Figur,Genderrolle,Mann
+Adam Mauerer,Rosenheimer,Undirected,,1,Figur,Genderrolle,Mann
+Herr Portschinger,Rosenheimer,Undirected,,1,Figur,Genderrolle,Mann
+Adam Mauerer,Herren,Undirected,,1,Figur,Genderrolle,Mann
+Herr Portschinger,Herren,Undirected,,1,Figur,Genderrolle,Mann
+ein Schutzmann,Schutzmann,Undirected,,1,Figur,Genderrolle,Mann
+ein Rechtsanwalt,Rechtsanawalt,Undirected,,1,Figur,Genderrolle,Mann
+Gebrüder Bär,Gebrüder Bär,Undirected,,1,Figur,Genderrolle,Mann
+die Hofopernsänger,Dame,Undirected,,1,Figur,Genderrolle,Frau
+die Hofopernsänger,Hofopernsängerin,Undirected,,1,Figur,Genderrolle,Frau
+Mann der Hofopernsängerin,Gatten,Undirected,,1,Figur,Genderrolle,Mann
+Mann der Hofopernsängerin,Honorarkonsul,Undirected,,1,Figur,Genderrolle,Mann
+die Hofopernsänger,Vierzigerin,Undirected,,1,Figur,Genderrolle,Frau
+ein Mann,Mannsbild,Undirected,,1,Figur,Genderrolle,Mann
+ein Bruder Bär,Bär,Undirected,,1,Figur,Genderrolle,Mann
+der zweite Bruder Bär,Bär,Undirected,,1,Figur,Genderrolle,Mann
+Frauen,Damen,Undirected,,1,Figur,Genderrolle,Frau
+Gebrüder Bär,Bären,Undirected,,1,Figur,Genderrolle,Mann
+die Hofopernsänger,Prostituierte,Undirected,,1,Figur,Genderrolle,Frau
+ein Mann,Mann,Undirected,,1,Figur,Genderrolle,Mann
+Frau eines Ministerialrats,Frau eines Ministerialrats,Undirected,,1,Figur,Genderrolle,Frau
+ein Ministerialrat,Ministerialrats,Undirected,,1,Figur,Genderrolle,Mann
+die Hofopernsänger,Weib,Undirected,,1,Figur,Genderrolle,Frau
+Ferdinand Perzl,Gatte,Undirected,,1,Figur,Genderrolle,Mann
+Ringkämpfer,Ringkämpfer,Undirected,,1,Figur,Genderrolle,Mann
+ein Ringkämpfer,Ringkämpfer,Undirected,,1,Figur,Genderrolle,Mann
+ein Ringkämpfer,Weltmeister,Undirected,,1,Figur,Genderrolle,Mann
+erster Arzt,Arzt,Undirected,,1,Figur,Genderrolle,Mann
+zweiter Arzt,Arzt,Undirected,,1,Figur,Genderrolle,Mann
+dritter Arzt,Arzt,Undirected,,1,Figur,Genderrolle,Mann
+vierter Arzt,Arzt,Undirected,,1,Figur,Genderrolle,Mann
+Ärzte,Ärzte,Undirected,,1,Figur,Genderrolle,Mann
+Ferdinand Perzl,Seliger,Undirected,,1,Figur,Genderrolle,Mann
+Ferdinand Perzl,Mediziner,Undirected,,1,Figur,Genderrolle,Mann
+Ferdinand Perzl,Frauenarzt,Undirected,,1,Figur,Genderrolle,Mann
+Großmutter Perzl,Großmutter,Undirected,,1,Figur,Genderrolle,Frau
+Großmutter Perzl,Mailänderin,Undirected,,1,Figur,Genderrolle,Frau
+Ferdinand Perzl,Doktor,Undirected,,1,Figur,Genderrolle,Mann
+Ferdinand Perzl,Opfer,Undirected,,1,Figur,Genderrolle,Mann
+eine Patientin,Patientin,Undirected,,1,Figur,Genderrolle,Frau
+Ferdinand Perzl,Quartalssäufer,Undirected,,1,Figur,Genderrolle,Mann
+436,Wienerin,Undirected,,1,Figur,Genderrolle,Frau
+Ferdinand Perzl,Kind,Undirected,,1,Figur,Genderrolle,Genderneutral
+Ferdinand Perzl,Gymnasiast,Undirected,,1,Figur,Genderrolle,Mann
+Ferdinand Perzl,k.u.k. Oberleutnant,Undirected,,1,Figur,Genderrolle,Mann
+Ferdinand Perzl,Antisemit,Undirected,,1,Figur,Genderrolle,Mann
+Frieda Klovac,Kontoristin,Undirected,,1,Figur,Genderrolle,Frau
+436,Hur,Undirected,,1,Figur,Genderrolle,Frau
+Frieda Klovac,Blondine,Undirected,,1,Figur,Genderrolle,Frau
+Mutter Perlz,Mutter,Undirected,,1,Figur,Genderrolle,Frau
+Ferdinand Perzl,Nandl,Undirected,,1,Figur,Genderrolle,Frau
+eine Frau,Mädl,Undirected,,1,Figur,Genderrolle,Frau
+Frieda Klovac,Angestellte,Undirected,,1,Figur,Genderrolle,Frau
+Frieda Klovac,Schwiegertochter,Undirected,,1,Figur,Genderrolle,Frau
+Frieda Klovac,Mensch,Undirected,,1,Figur,Genderrolle,Genderneutral
+Frieda Klovac,Sau,Undirected,,1,Figur,Genderrolle,Frau
+Frieda Klovac,Mistvieh,Undirected,,1,Figur,Genderrolle,Genderneutral
+Verbrecher,Verbrecher,Undirected,,1,Figur,Genderrolle,Mann
+ein Arbeiter,ein Arbeiter,Undirected,,1,Figur,Genderrolle,Mann
+der Hausfreund,der Hausfreund,Undirected,,1,Figur,Genderrolle,Mann
+der Hausfreund,Zeichenlehrer,Undirected,,1,Figur,Genderrolle,Mann
+Tizian,Tizian,Undirected,,1,Figur,Genderrolle,Mann
+Katzlmacher,Katzlmacher,Undirected,,1,Figur,Genderrolle,Mann
+436,Perzl,Undirected,,1,Figur,Genderrolle,Frau
+Graf Blanquez,Persöhnlichkeit,Undirected,,1,Figur,Genderrolle,Genderneutral
+Graf Blanquez,Hugenotten,Undirected,,1,Figur,Genderrolle,Genderneutral
+Piaristen,Piaristen,Undirected,,1,Figur,Genderrolle,Mann
+Stabsarzt,Stabsarzt,Undirected,,1,Figur,Genderrolle,Mann
+Geschwister,Geschwister,Undirected,,1,Figur,Genderrolle,Genderneutral
+Graf Blanquez,Junge,Undirected,,1,Figur,Genderrolle,Mann
+Graf Blanquez,Gefährte,Undirected,,1,Figur,Genderrolle,Mann
+436,Unschuld,Undirected,,1,Figur,Genderrolle,Frau
+junge Frau,Mädchen,Undirected,,1,Figur,Genderrolle,Frau
+Graf Blanquez,Herr Graf,Undirected,,1,Figur,Genderrolle,Mann
+Graf Blanquez,Graf,Undirected,,1,Figur,Genderrolle,Mann
+Graf Blanquez,Kavaliere,Undirected,,1,Figur,Genderrolle,Mann
+436,die Perzl,Undirected,,1,Figur,Genderrolle,Frau
+Graf Blanchezk,Gauner,Undirected,,1,Figur,Genderrolle,Mann
+Gauner,Gauner,Undirected,,1,Figur,Genderrolle,Mann
+Großonkel von Graf Blanchezk,Großonkel,Undirected,,1,Figur,Genderrolle,Mann
+Großonkel von Graf Blanchezk,Ärmste,Undirected,,1,Figur,Genderrolle,Mann
+eine Frau,Frau,Undirected,,1,Figur,Genderrolle,Frau
+Kammerlocher,Kammerlocher,Undirected,,1,Figur,Genderrolle,Mann
+Ulanen,Ulanden,Undirected,,1,Figur,Genderrolle,Genderneutral
+Kammerlocher,Kadettaspiranten,Undirected,,1,Figur,Genderrolle,Mann
+eine Ägypterin,Ägypterin,Undirected,,1,Figur,Genderrolle,Frau
+Kammerlocher,Narziß,Undirected,,1,Figur,Genderrolle,Mann
+Graf Blanchezk,Strizzi,Undirected,,1,Figur,Genderrolle,Mann
+Graf Blanchezk,Mensch,Undirected,,1,Figur,Genderrolle,Genderneutral
+Bruder von Frau Pertzl,Stiefbruder,Undirected,,1,Figur,Genderrolle,Mann
+Graf Blanchezk,Jüngste,Undirected,,1,Figur,Genderrolle,Mann
+Graf Blanchezk,Besuch,Undirected,,1,Figur,Genderrolle,Genderneutral
+Graf Blanchezk,Herren,Undirected,,1,Figur,Genderrolle,Mann
+Kunden,Kunden,Undirected,,1,Figur,Genderrolle,Mann
+Alfons Kobler,Idiot,Undirected,,1,Figur,Genderrolle,Mann
+Gott,Gott,Undirected,,1,Figur,Genderrolle,Genderneutral
+ein Mensch,Schwein,Undirected,,1,Figur,Genderrolle,Genderneutral
+Kund*innen,Kundschaft,Undirected,,1,Figur,Genderrolle,Genderneutral
+alter Doge,alter Doge,Undirected,,1,Figur,Genderrolle,Mann
+jüdische Frauen,Weiber,Undirected,,1,Figur,Genderrolle,Frau
+Juden,Juden,Undirected,,1,Figur,Genderrolle,Mann
+Frau Bär,Frau Autobär,Undirected,,1,Figur,Genderrolle,Frau
+ein Belletrist,ein Belletrist,Undirected,,1,Figur,Genderrolle,Mann
+Sohn Perzl,Sohn,Undirected,,1,Figur,Genderrolle,Mann
+Frau von Sohn Perzl,Mistvieh,Undirected,,1,Figur,Genderrolle,Genderneutral
+Ferdinand Perzl,Mann,Undirected,,1,Figur,Genderrolle,Mann
+Beamte,Beamte,Undirected,,1,Figur,Genderrolle,Mann
+zwei Frauen,Damen,Undirected,,1,Figur,Genderrolle,Frau
+ein alter Mann,Herr,Undirected,,1,Figur,Genderrolle,Mann
+zwei Frauen,Emigrantinnen,Undirected,,1,Figur,Genderrolle,Frau
+ein Beamter,Beamte,Undirected,,1,Figur,Genderrolle,Mann
+ein Beamter,Emigrant,Undirected,,1,Figur,Genderrolle,Mann
+ein alter Mann,Abgeordneter,Undirected,,1,Figur,Genderrolle,Mann
+ein alter Mann,Demokrat,Undirected,,1,Figur,Genderrolle,Mann
+die Demokraten,Demokraten,Undirected,,1,Figur,Genderrolle,Mann
+ein alter Mann,der Bart,Undirected,,1,Figur,Genderrolle,Mann
+ungarischer Handelsminister,Freund,Undirected,,1,Figur,Genderrolle,Mann
+ungarischer Handelsminister,Handelsminister,Undirected,,1,Figur,Genderrolle,Mann
+ein Beamter,Beamter,Undirected,,1,Figur,Genderrolle,Mann
+ein Beamter,Gedächtniskünstler,Undirected,,1,Figur,Genderrolle,Mann
+ein Beamter,Zirkus,Undirected,,1,Figur,Genderrolle,Mann
+ein alter Mann,Herren,Undirected,,1,Figur,Genderrolle,Mann
+Rosa,Kellnerin,Undirected,,1,Figur,Genderrolle,Frau
+Herr Kastner,Herr Kastner,Undirected,,1,Figur,Genderrolle,Mann
+Herr Dünzl,Herr Dünzl,Undirected,,1,Figur,Genderrolle,Mann
+Herr Dünzl,der Dünzl,Undirected,,1,Figur,Genderrolle,Mann
+Herr Schaal,Herr Schaal,Undirected,,1,Figur,Genderrolle,Mann
+Rosa,Rosa,Undirected,,1,Figur,Genderrolle,Frau
+Rosa,Alte,Undirected,,1,Figur,Genderrolle,Frau
+Anna Pollinger,Fräulein Anna Pollinger,Undirected,,1,Figur,Genderrolle,Frau
+Anna Pollinger,Anna,Undirected,,1,Figur,Genderrolle,Frau
+Anna Pollinger,Fräulein Pollinger,Undirected,,1,Figur,Genderrolle,Frau
+Anna Pollinger,Fräulein,Undirected,,1,Figur,Genderrolle,Frau
+Männer,Herren,Undirected,,1,Figur,Genderrolle,Mann
+Fritz,Herr,Undirected,,1,Figur,Genderrolle,Mann
+Fritz,Fritz,Undirected,,1,Figur,Genderrolle,Mann
+ein Kind,Kind,Undirected,,1,Figur,Genderrolle,Genderneutral
+Zugführer,Herr,Undirected,,1,Figur,Genderrolle,Mann
+Kaufmannsgattin,Kaufmannsgattin,Undirected,,1,Figur,Genderrolle,Frau
+Kaufmann,Gatte,Undirected,,1,Figur,Genderrolle,Mann
+ein Kaufmann,Kaufmann,Undirected,,1,Figur,Genderrolle,Mann
+Kaufmannsgattin,Frau,Undirected,,1,Figur,Genderrolle,Frau
+Thimoteus Bschorr,Herr,Undirected,,1,Figur,Genderrolle,Mann
+ein Deutscher,Deutscher,Undirected,,1,Figur,Genderrolle,Mann
+ein Deutscher,Asphaltdeutscher,Undirected,,1,Figur,Genderrolle,Mann
+Mädchen,Mädchen,Undirected,,1,Figur,Genderrolle,Frau
+Mädchen,Girls,Undirected,,1,Figur,Genderrolle,Frau
+Studienrat,Studienrat,Undirected,,1,Figur,Genderrolle,Mann
+Tochter des Studienrats,Tochter,Undirected,,1,Figur,Genderrolle,Frau
+Deutschargentinier,Deutsch-Argentinier,Undirected,,1,Figur,Genderrolle,Mann
+die Deutschen,Deutsche,Undirected,,1,Figur,Genderrolle,Genderneutral
+der Kofferträger,Kofferträger,Undirected,,1,Figur,Genderrolle,Mann
+Thimoteus Bschorr,Nachbar,Undirected,,1,Figur,Genderrolle,Mann
+Thimoteus Bschorr,Timoteus Bschorr,Undirected,,1,Figur,Genderrolle,O
+Thimoteus Bschorr,Gegenüber,Undirected,,1,Figur,Genderrolle,Genderneutral
+dritter Herr,Herr,Undirected,,1,Figur,Genderrolle,Mann
+Thimoteus Bschorr,Herr Bschorr,Undirected,,1,Figur,Genderrolle,Mann
+Thimoteus Bschorr,der Bschorr,Undirected,,1,Figur,Genderrolle,Mann
+Thimoteus Bschorr,Hotelier,Undirected,,1,Figur,Genderrolle,Mann
+Thimoteus Bschorr,Thimoteus,Undirected,,1,Figur,Genderrolle,Mann
+dritter Herr,Leutl,Undirected,,1,Figur,Genderrolle,Gendeneutral
+Thimoteus Bschorr,Hund,Undirected,,1,Figur,Genderrolle,Mann
+Thimoteus Bschorr,Deutsche,Undirected,,1,Figur,Genderrolle,Gendeneutral
+436,Witwe,Undirected,,1,Figur,Genderrolle,Frau
+kein Deutscher,Fremder,Undirected,,1,Figur,Genderrolle,Mann
+Reichsfinanzminister,Reichsfinanzminister,Undirected,,1,Figur,Genderrolle,Mann
+Reichsfinanzminister,kane Minister,Undirected,,1,Figur,Genderrolle,Mann
+Reichsfinanzminister,Preißen,Undirected,,1,Figur,Genderrolle,Mann
+Reichsfinanzminister,Lumpn,Undirected,,1,Figur,Genderrolle,Genderneutral
+ein Araber,Araber,Undirected,,1,Figur,Genderrolle,Mann
+Thimoteu Bschorr,Quadratidiot,Undirected,,1,Figur,Genderrolle,Mann
+die Bayern,die Bayern,Undirected,,1,Figur,Genderrolle,Genderneutral
+Arbeiter,Arbeiter,Undirected,,1,Figur,Genderrolle,Mann
+dritter Mann,Herr,Undirected,,1,Figur,Genderrolle,Mann
+Tochter des Düsseldorfer Aufsichtsrates,Dame,Undirected,,1,Figur,Genderrolle,Frau
+Tochter des Düsseldorfer Aufsichtsrates,Tochter,Undirected,,1,Figur,Genderrolle,Frau
+dritter Mann,Kaufmann,Undirected,,1,Figur,Genderrolle,Mann
+dritter Mann,Lehrer,Undirected,,1,Figur,Genderrolle,Mann
+Frau von dritter Herr,Protestantin,Undirected,,1,Figur,Genderrolle,Frau
+Frau von dritter Herr,Alte,Undirected,,1,Figur,Genderrolle,Frau
+Kinder dritter Mann,Kinder,Undirected,,1,Figur,Genderrolle,Genderneutral
+Gendarmen,Gendarmen,Undirected,,1,Figur,Genderrolle,Mann
+Finanzer,Finanzer,Undirected,,1,Figur,Genderrolle,Mann
+Fahrgast,Person,Undirected,,1,Figur,Genderrolle,Genderneutral
+Passbeamter,Paßbeamter,Undirected,,1,Figur,Genderrolle,Mann
+Schaffner,Schaffner,Undirected,,1,Figur,Genderrolle,Mann
+der Reisende,der Reisende,Undirected,,1,Figur,Genderrolle,Mann
+Österreicher,Österreicher,Undirected,,1,Figur,Genderrolle,Genderneutral
+Österreicher,Leut,Undirected,,1,Figur,Genderrolle,Genderneutral
+Hofrat,Hofrat,Undirected,,1,Figur,Genderrolle,Mann
+der Volksmann,Mann aus dem Volke,Undirected,,1,Figur,Genderrolle,Mann
+der Volksmann,Mann,Undirected,,1,Figur,Genderrolle,Mann
+der Volksmann,Weltmeister,Undirected,,1,Figur,Genderrolle,Mann
+Arbeitskollegen,Arbeitskollegen,Undirected,,1,Figur,Genderrolle,Mann
+Gauleiter,Ingenieur,Undirected,,1,Figur,Genderrolle,Mann
+Gauleiter,Gauleiter,Undirected,,1,Figur,Genderrolle,Mann
+Hofrat,Mensch,Undirected,,1,Figur,Genderrolle,Genderneutral
+Österreicher,Leute,Undirected,,1,Figur,Genderrolle,Genderneutral
+Gott,Herrgott,Undirected,,1,Figur,Genderrolle,Mann
+Sozialisten,Sozis,Undirected,,1,Figur,Genderrolle,Genderneutral
+Andreas Hofer,Andreas Hofer,Undirected,,1,Figur,Genderrolle,Mann
+der Volksmann,Volksmann,Undirected,,1,Figur,Genderrolle,Mann
+die Juden,Juden,Undirected,,1,Figur,Genderrolle,Genderneutral
+Andreas Hofer,Juden,Undirected,,1,Figur,Genderrolle,Genderneutral
+Andreas Hofer,Halsmann,Undirected,,1,Figur,Genderrolle,Mann
+Andreas Hofer,Judenbengel,Undirected,,1,Figur,Genderrolle,Mann
+ein Jude,Jude,Undirected,,1,Figur,Genderrolle,Mann
+ein Jude,Jud,Undirected,,1,Figur,Genderrolle,Mann
+Mensch,Nichts,Undirected,,1,Figur,Genderrolle,Genderneutral
+die Italiener,Italiener,Undirected,,1,Figur,Genderrolle,Genderneutral
+Brüder Italiens,Brüder,Undirected,,1,Figur,Genderrolle,Mann
+Graf Berchtold,Graf Berchtold,Undirected,,1,Figur,Genderrolle,Mann
+Wilhelm II,Exkaiser,Undirected,,1,Figur,Genderrolle,Mann
+Wilhelm II,Wilhelm II,Undirected,,1,Figur,Genderrolle,Mann
+Ludendorff,Ludendorff,Undirected,,1,Figur,Genderrolle,Mann
+ein Universitätsprofessor,Universitätsprofessor,Undirected,,1,Figur,Genderrolle,Mann
+ein Universitätsprofessor,Chauvinist,Undirected,,1,Figur,Genderrolle,Mann
+Benito Mussolini,Mussolini,Undirected,,1,Figur,Genderrolle,Mann
+Kasener,Kasener,Undirected,,1,Figur,Genderrolle,Mann
+Behördenmnänner,Männder,Undirected,,1,Figur,Genderrolle,Mann
+Reisende,Reisende,Undirected,,1,Figur,Genderrolle,Genderneutral
+Oberpassbeamter,Anführer,Undirected,,1,Figur,Genderrolle,Mann
+blonde Frau,Frau,Undirected,,1,Figur,Genderrolle,Frau
+blonde Frau,Deutsch,Undirected,,1,Figur,Genderrolle,Frau
+blonde Frau,Skandinavierin,Undirected,,1,Figur,Genderrolle,Frau
+Oberpassbeamter,Passbemater,Undirected,,1,Figur,Genderrolle,Mann
+Passunterbeamter,Begleiter,Undirected,,1,Figur,Genderrolle,Mann
+Passunterbeamter,Paßunterbeamter,Undirected,,1,Figur,Genderrolle,Mann
+Oberpassbeamter,Oberpaßbeamter,Undirected,,1,Figur,Genderrolle,Mann
+Reisender,Reisende,Undirected,,1,Figur,Genderrolle,Mann
+Albert Hausmann,Signor,Undirected,,1,Figur,Genderrolle,Mann
+Albert Hausmann,Albert Hausmann,Undirected,,1,Figur,Genderrolle,Mann
+Albert Hausmann,Signor Hausmann,Undirected,,1,Figur,Genderrolle,Mann
+Albert Hausmann,Erholsungsbedürftiger,Undirected,,1,Figur,Genderrolle,Mann
+Isidore Niederthaler,Isidore Niederthaler,Undirected,,1,Figur,Genderrolle,Mann
+Frau Niederthaler,Weib,Undirected,,1,Figur,Genderrolle,Frau
+Franz Zeisig,Reisender,Undirected,,1,Figur,Genderrolle,Mann
+Franz Zeisig,Franz Zeisig,Undirected,,1,Figur,Genderrolle,Mann
+Benito Mussolini,Benito Mussolini,Undirected,,1,Figur,Genderrolle,Mann
+Oberpassbeamter,Paßbeamte,Undirected,,1,Figur,Genderrolle,Mann
+Unterpassbeamter,Paßbeamte,Undirected,,1,Figur,Genderrolle,Mann
+Detektive,Detektive,Undirected,,1,Figur,Genderrolle,Mann
+drei Faschisten,Faschisten,Undirected,,1,Figur,Genderrolle,Mann
+erster Faschist,Faschist,Undirected,,1,Figur,Genderrolle,Mann
+Finanzer,Kollegen,Undirected,,1,Figur,Genderrolle,Mann
+ein Mitreisender,Italienreisender,Undirected,,1,Figur,Genderrolle,Mann
+ein Mitreisender,Nervöser,Undirected,,1,Figur,Genderrolle,Mann
+Albert Hausmann,Mann,Undirected,,1,Figur,Genderrolle,Mann
+die Faschisten,Spitzel,Undirected,,1,Figur,Genderrolle,Mann
+ein mitreisender Gast,Mann,Undirected,,1,Figur,Genderrolle,Mann
+ein mitreisender Gast,Bauer,Undirected,,1,Figur,Genderrolle,Mann
+ein mitreisender Gast,Kerl,Undirected,,1,Figur,Genderrolle,Mann
+ein mitreisender Gast,Spitzel,Undirected,,1,Figur,Genderrolle,Mann
+Reichsdeutsche,Reichsdeutsche,Undirected,,1,Figur,Genderrolle,Mann
+Bozener,Bozener,Undirected,,1,Figur,Genderrolle,Mann
+Reichsdeutsche,Gäste,Undirected,,1,Figur,Genderrolle,Genderneutral
+Gast am Tisch,Gast,Undirected,,1,Figur,Genderrolle,Genderneutral
+Gast am Tisch,Herr,Undirected,,1,Figur,Genderrolle,Mann
+Milizangehöriger,Schwarzhemden,Undirected,,1,Figur,Genderrolle,Genderneutral
+Gast am Tisch,Gourmand,Undirected,,1,Figur,Genderrolle,Mann
+Gast am Tisch,Sohn,Undirected,,1,Figur,Genderrolle,Mann
+Pforzheimer Stadtbaumeister,Pforzheimer Stadtbaumeister,Undirected,,1,Figur,Genderrolle,Mann
+Pforzheimer Stadtbaumeister,Vater,Undirected,,1,Figur,Genderrolle,Mann
+Pforzheimer Stadtbaumeister,Stadtbaumeister,Undirected,,1,Figur,Genderrolle,Mann
+Mutter von Gast am Tisch,Mutter,Undirected,,1,Figur,Genderrolle,Frau
+Gast am Tisch,Renaissancemensch,Undirected,,1,Figur,Genderrolle,Genderneutral
+Restaurantmitarbeiter,Herr Ober,Undirected,,1,Figur,Genderrolle,Mann
+Vetter von Gast am Tisch,Vetter,Undirected,,1,Figur,Genderrolle,Mann
+Vetter von Gast am Tisch,Realpoliiker,Undirected,,1,Figur,Genderrolle,Mann
+Gerichtsarzt,Gerichtsarzt,Undirected,,1,Figur,Genderrolle,Mann
+Gast am Tisch,Normale,Undirected,,1,Figur,Genderrolle,MAnn
+Primo,Primo,Undirected,,1,Figur,Genderrolle,MAnn
+Primo,Mann,Undirected,,1,Figur,Genderrolle,Mann
+Primo,Kavalier,Undirected,,1,Figur,Genderrolle,Mann
+deutsche Konservative,Konservative,Undirected,,1,Figur,Genderrolle,Mann
+französische Konservative,Konservative,Undirected,,1,Figur,Genderrolle,Mann
+Romeo,Romeo,Undirected,,1,Figur,Genderrolle,Mann
+Julia,Julia,Undirected,,1,Figur,Genderrolle,Frau
+Julia,Liebespaar,Undirected,,1,Figur,Genderrolle,Genderneutral
+Romeo,Liebespaar,Undirected,,1,Figur,Genderrolle,Genderneutral
+Dolmetscher,Herr,Undirected,,1,Figur,Genderrolle,Mann
+Dolmetscher,Dolmetscher,Undirected,,1,Figur,Genderrolle,Mann
+Frau Dolmetscher,Frau,Undirected,,1,Figur,Genderrolle,Frau
+Frau Dolmetscher,Dolmetschers Frau,Undirected,,1,Figur,Genderrolle,Mann
+Ausländerinnen,Ausländerinnen,Undirected,,1,Figur,Genderrolle,Frau
+Dolmetscher,Giovanni,Undirected,,1,Figur,Genderrolle,Mann
+Burder Frau Dolmetscher,Bruder,Undirected,,1,Figur,Genderrolle,Mann
+Mann,Manne,Undirected,,1,Figur,Genderrolle,Mann
+Rudolf Schmitz,Herr,Undirected,,1,Figur,Genderrolle,Mann
+Rudolf Schmitz,Spitzel,Undirected,,1,Figur,Genderrolle,Mann
+Rudolf Schmitz,halb Deutscher,Undirected,,1,Figur,Genderrolle,Mann
+Rudolf Schmitz,Schwätzer,Undirected,,1,Figur,Genderrolle,Mann
+Rudolf Schmitz,Mistvieh,Undirected,,1,Figur,Genderrolle,Genderneutral
+Milizangehöriger,Angehöriger,Undirected,,1,Figur,Genderrolle,Mann
+Milizangehöriger,Schwarzhemd,Undirected,,1,Figur,Genderrolle,Mann
+Milizangehöriger,Faschist,Undirected,,1,Figur,Genderrolle,Mann
+Rudolf Schmitz,Reisender,Undirected,,1,Figur,Genderrolle,Mann
+Rudolf Schmitz,Gegenüber,Undirected,,1,Figur,Genderrolle,Genderneutral
+Rudolf Schmitz,Konkurrenz,Undirected,,1,Figur,Genderrolle,Genderneutral
+Rudolf Schmitz,Redakteur,Undirected,,1,Figur,Genderrolle,Mann
+Rudolf Schmitz,Österreich-Ungarer,Undirected,,1,Figur,Genderrolle,Mann
+Rudolf Schmitz,Sprachtelent,Undirected,,1,Figur,Genderrolle,Genderneutral
+Verleger,Verleger,Undirected,,1,Figur,Genderrolle,Mann
+Rudolf Schmitz,Schmitz,Undirected,,1,Figur,Genderrolle,Mann
+Rudolf Schmitz,Egoist,Undirected,,1,Figur,Genderrolle,Mann
+Rumbaud,Rimbaud,Undirected,,1,Figur,Genderrolle,Mann
+Rudolf Schmitz,Korrespondent,Undirected,,1,Figur,Genderrolle,Mann
+Rudolf Schmitz,Bohemien,Undirected,,1,Figur,Genderrolle,Mann
+Rudolf Schmitz,Herr Schmitz,Undirected,,1,Figur,Genderrolle,Mann
+Milizangehöriger,Faschisten,Undirected,,1,Figur,Genderrolle,Mann
+Rudolf Schmitz,Philosoph,Undirected,,1,Figur,Genderrolle,Mann
+Revolutionsführer,Führer,Undirected,,1,Figur,Genderrolle,Mann
+Revolutionsführer,keine Kaufleute,Undirected,,1,Figur,Genderrolle,Genderneutral
+Kaufleute,Kaufleut,Undirected,,1,Figur,Genderrolle,Genderneutral
+Alexander der Große,Alexander der Große,Undirected,,1,Figur,Genderrolle,Mann
+ein Schaffner,Schaffner,Undirected,,1,Figur,Genderrolle,Mann
+die Deutschen,Menschen,Undirected,,1,Figur,Genderrolle,Genderneutral
+Deutsch-Russen,Emigranten,Undirected,,1,Figur,Genderrolle,Genderneutral
+ein Schaffner,Schwätzer,Undirected,,1,Figur,Genderrolle,Mann
+ein Schaffner,Bursche,Undirected,,1,Figur,Genderrolle,Mann
+Rudold Schmitz,kein Kaufmann,Undirected,,1,Figur,Genderrolle,Mann
+Rudold Schmitz,Sonderkorrespondent,Undirected,,1,Figur,Genderrolle,Mann
+Rudold Schmitz,Poet,Undirected,,1,Figur,Genderrolle,Mann
+Rudold Schmitz,Mensch,Undirected,,1,Figur,Genderrolle,Genderneutral
+Verehrerinnen,Vereherinnen,Undirected,,1,Figur,Genderrolle,Frau
+Rudolf Schmitz,Reisebegleiter,Undirected,,1,Figur,Genderrolle,Mann
+die Europäer,Europäer,Undirected,,1,Figur,Genderrolle,Mann
+Rudolf Schmitz,kein soldat,Undirected,,1,Figur,Genderrolle,Mann
+Alois Kobler,Bruder,Undirected,,1,Figur,Genderrolle,Mann
+Alois Kobler,Alois,Undirected,,1,Figur,Genderrolle,MAnn
+eine Frau,Fraunzimmer,Undirected,,1,Figur,Genderrolle,Genderneutral
+ein Sanitätsarzt,Sanitätsarzt,Undirected,,1,Figur,Genderrolle,Mann
+ein Sanitätsarzt,Mediziner,Undirected,,1,Figur,Genderrolle,Mann
+Mutter Kobler,Mutter,Undirected,,1,Figur,Genderrolle,Frau
+Vater Kobler,Vater,Undirected,,1,Figur,Genderrolle,Mann
+Großeltern Kobler,Großeltern,Undirected,,1,Figur,Genderrolle,Genderneutral
+Tante Marie Kobler,Tante Marie,Undirected,,1,Figur,Genderrolle,Frau
+Rudolf Schmitz,Bekannter,Undirected,,1,Figur,Genderrolle,Mann
+der Bankier,Bankier,Undirected,,1,Figur,Genderrolle,Mann
+anderer Wolfgang,Wolfgang,Undirected,,1,Figur,Genderrolle,MAnn
+eine Prostituierte,Prostituierte,Undirected,,1,Figur,Genderrolle,Frau
+ein Bekannter,Bekannter,Undirected,,1,Figur,Genderrolle,Mann
+Rudolf Schmitz,Deutsch-Österreicher,Undirected,,1,Figur,Genderrolle,Mann
+Napoleon,Napoleon,Undirected,,1,Figur,Genderrolle,Mann
+Napoleon,Stalin,Undirected,,1,Figur,Genderrolle,Mann
+Josef Stalin,Stalin,Undirected,,1,Figur,Genderrolle,Mann
+eine Polin,Polin,Undirected,,1,Figur,Genderrolle,Frau
+Restaurantangestellte,Büfettdame,Undirected,,1,Figur,Genderrolle,Frau
+Kellner,Kellner,Undirected,,1,Figur,Genderrolle,Mann
+Edgar Allan Poe,Edgar Allan Poe,Undirected,,1,Figur,Genderrolle,Mann
+Rudolf Schmitz,Stimmungsmensch,Undirected,,1,Figur,Genderrolle,Mann
+Rudolf Schmitz,Frau,Undirected,,1,Figur,Genderrolle,Frau
+Helleninnen,Helleninnen,Undirected,,1,Figur,Genderrolle,Frau
+Helene Glanz,Schönste,Undirected,,1,Figur,Genderrolle,Frau
+Helene Glanz,Paneuropa,Undirected,,1,Figur,Genderrolle,Frau
+Rudolf Schmitz,Stier,Undirected,,1,Figur,Genderrolle,Gendeneutral
+Rudolf Schmitz,Panstier,Undirected,,1,Figur,Genderrolle,Gendeneutral
+Helene Glanz,Helene Glanz,Undirected,,1,Figur,Genderrolle,Frau
+Alois Kobler,Soldat,Undirected,,1,Figur,Genderrolle,Mann
+Bernard Shaw,Bernard Shaw,Undirected,,1,Figur,Genderrolle,Mann
+Bernard Shaw,Irländer,Undirected,,1,Figur,Genderrolle,Mann
+Bernard Shaw,Nobel,Undirected,,1,Figur,Genderrolle,Mann
+Rudolf Schmitz,Kind,Undirected,,1,Figur,Genderrolle,Genderneutral
+Tante Natalie Schmitz,Tante Natalie,Undirected,,1,Figur,Genderrolle,Frau
+Tante Natalie Schmitz,Tante,Undirected,,1,Figur,Genderrolle,Frau
+ein Deckoffizier,ein Deckoffizier,Undirected,,1,Figur,Genderrolle,Mann
+die Franzosen,Faschisten,Undirected,,1,Figur,Genderrolle,Mann
+Mariann (?Token Herr von Bogner1154),Mariann,Undirected,,1,Figur,Genderrolle,Frau
+Graf von Monte Christo,Graf von Monte Christo,Undirected,,1,Figur,Genderrolle,Mann
+französische Kolonialvölker,Kolonialvölker,Undirected,,1,Figur,Genderrolle,Genderneutral
+Franzosen,Franzosen,Undirected,,1,Figur,Genderrolle,Mann
+Schwarze,Schwarze,Undirected,,1,Figur,Genderrolle,Genderneutral
+Schwarze,Neger,Undirected,,1,Figur,Genderrolle,Mann
+Plantagenbesitzer,Plantagenbesitzer,Undirected,,1,Figur,Genderrolle,Mann
+Rudolf Schmitz,Weiße,Undirected,,1,Figur,Genderrolle,Mann
+Weiße,Weiße,Undirected,,1,Figur,Genderrolle,Mann
+Rudolf Schmitz,Bestien,Undirected,,1,Figur,Genderrolle,Mann
+Weiße,Bestien,Undirected,,1,Figur,Genderrolle,Mann
+ein Kellner,Garcon,Undirected,,1,Figur,Genderrolle,Mann
+Bajadere,Bajadere,Undirected,,1,Figur,Genderrolle,Frau
+Rudolf Schmitz,Literat,Undirected,,1,Figur,Genderrolle,Mann
+Bajadere,Gelbe,Undirected,,1,Figur,Genderrolle,Frau
+Bajadere,Gottes Ebenbild,Undirected,,1,Figur,Genderrolle,Genderneutral
+Matrosen,Matrosen,Undirected,,1,Figur,Genderrolle,Mann
+Matrosen,Völkergemisch,Undirected,,1,Figur,Genderrolle,MAnn
+eine Bajadere,Hur,Undirected,,1,Figur,Genderrolle,Frau
+Bajadere,Huren,Undirected,,1,Figur,Genderrolle,Frau
+ein Ober,Ober,Undirected,,1,Figur,Genderrolle,Mann
+Prostituierte,Weiber,Undirected,,1,Figur,Genderrolle,Frau
+ein Prokurist,Prokurist,Undirected,,1,Figur,Genderrolle,Mann
+Frau eines Prokuristen,Frau,Undirected,,1,Figur,Genderrolle,Frau
+Karl Marx,Marx,Undirected,,1,Figur,Genderrolle,Mann
+Pförtnerin,Pförtnerin,Undirected,,1,Figur,Genderrolle,Frau
+Pförtnerin,Alte,Undirected,,1,Figur,Genderrolle,Frau
+die Madame,Madame,Undirected,,1,Figur,Genderrolle,Frau
+die Madame,Dame,Undirected,,1,Figur,Genderrolle,Frau
+Rudolf Schmitz,Älterer,Undirected,,1,Figur,Genderrolle,Mann
+Rudolf Schmitz,kein Amerikaner,Undirected,,1,Figur,Genderrolle,Mann
+Soldaten,Soldaten,Undirected,,1,Figur,Genderrolle,Mann
+Prostituierte,Mädchen,Undirected,,1,Figur,Genderrolle,Frau
+Gäste,Gäste,Undirected,,1,Figur,Genderrolle,Genderneutral
+Sportstudenten,Sportstudenten,Undirected,,1,Figur,Genderrolle,Mann
+erster Herr,Herren,Undirected,,1,Figur,Genderrolle,Mann
+zweiter Herr,Herren,Undirected,,1,Figur,Genderrolle,Mann
+erster Herr,Junggeselle,Undirected,,1,Figur,Genderrolle,Mann
+ein Pianist,ein Pianist,Undirected,,1,Figur,Genderrolle,Mann
+ein Pianist,Regierungsrat,Undirected,,1,Figur,Genderrolle,Mann
+ein Kellner,Kellner,Undirected,,1,Figur,Genderrolle,Mann
+ein Kellner,Adolf Menjou,Undirected,,1,Figur,Genderrolle,Mann
+Prostituierte,Dirnen,Undirected,,1,Figur,Genderrolle,Frau
+erste Prostituierte,Dame,Undirected,,1,Figur,Genderrolle,Frau
+Irmgard,Deutsche,Undirected,,1,Figur,Genderrolle,Frau
+zweite Prostituerte,Negerin,Undirected,,1,Figur,Genderrolle,Frau
+Prostituierte,Kolleginnen,Undirected,,1,Figur,Genderrolle,Frau
+Prostituierte,Französinnen,Undirected,,1,Figur,Genderrolle,Frau
+Prostituierte,Rumäninnen,Undirected,,1,Figur,Genderrolle,Frau
+Prostituierte,Däninnen,Undirected,,1,Figur,Genderrolle,Frau
+Prostituierte,Engländerinnen,Undirected,,1,Figur,Genderrolle,Frau
+Prostituierte,Ungarinnen,Undirected,,1,Figur,Genderrolle,Frau
+Irmgard,Irmgard,Undirected,,1,Figur,Genderrolle,Frau
+Irmgard,Verkäuferin,Undirected,,1,Figur,Genderrolle,Frau
+Irmgard,Fabrikarbeiterin,Undirected,,1,Figur,Genderrolle,Frau
+Irmgard,Landkind,Undirected,,1,Figur,Genderrolle,Genderneutral
+Karl Zeschke,Karl Zeschke,Undirected,,1,Figur,Genderrolle,Mann
+Rudolf Schmitz,Schriftsteller,Undirected,,1,Figur,Genderrolle,Mann
+Irmgard,Weiberl,Undirected,,1,Figur,Genderrolle,Frau
+Van Gogh,Van Gogh,Undirected,,1,Figur,Genderrolle,Mann
+Van Gogh,Maler,Undirected,,1,Figur,Genderrolle,Mann
+Rudolf Schmitz,kein Lyriker,Undirected,,1,Figur,Genderrolle,Mann
+eine Dame,Dame,Undirected,,1,Figur,Genderrolle,Frau
+Alfons Kobler,kein Amerikaner,Undirected,,1,Figur,Genderrolle,Mann
+Alfons Kobler,Bestien,Undirected,,1,Figur,Genderrolle,Mann
+Alfons Kobler,Weiße,Undirected,,1,Figur,Genderrolle,Mann
+Alfons Kobler,Verehrter,Undirected,,1,Figur,Genderrolle,Mann
+Alfons Kobler,Oberstleutnant,Undirected,,1,Figur,Genderrolle,Mann
+Alfons Kobler,Veterinär,Undirected,,1,Figur,Genderrolle,Mann
+Alfons Kobler,Eminenz,Undirected,,1,Figur,Genderrolle,Mann
+Alfons Kobler,Kommerzialrat,Undirected,,1,Figur,Genderrolle,Mann
+Alfons Kobler,General,Undirected,,1,Figur,Genderrolle,Mann
+Alfons Kobler,Maejstät,Undirected,,1,Figur,Genderrolle,Mann
+Alfons Kobler,Baron,Undirected,,1,Figur,Genderrolle,Mann
+Alfons Kobler,Reisender,Undirected,,1,Figur,Genderrolle,Mann
+Alfons Kobler,Mittelstandsprößling,Undirected,,1,Figur,Genderrolle,Mann
+Alfons Kobler,Kind,Undirected,,1,Figur,Genderrolle,Genderneutral
+Alfons Kobler,kein Pazifist,Undirected,,1,Figur,Genderrolle,Mann
+Alfons Kobler,Abstinenzler,Undirected,,1,Figur,Genderrolle,Mann
+Alfons Kobler,Hochstapler,Undirected,,1,Figur,Genderrolle,Mann
+Alfons Kobler,Schnorrer,Undirected,,1,Figur,Genderrolle,Mann
+Alfons Kobler,kein Soldat,Undirected,,1,Figur,Genderrolle,Mann
+Alfons Kobler,Soldat,Undirected,,1,Figur,Genderrolle,Mann
+Alfons Kobler,Faschist,Undirected,,1,Figur,Genderrolle,Mann
+Alfons Kobler,Nihilist,Undirected,,1,Figur,Genderrolle,Mann
+Alfons Kobler,Signor,Undirected,,1,Figur,Genderrolle,Mann
+Alfons Kobler,Deutsche,Undirected,,1,Figur,Genderrolle,Gendeneutral
+Alfons Kobler,Handelsleute,Undirected,,1,Figur,Genderrolle,Gendeneutral
+Alfons Kobler,Leutl,Undirected,,1,Figur,Genderrolle,Gendeneutral
+Alfons Kobler,Deutscher,Undirected,,1,Figur,Genderrolle,Mann
+Alfons Kobler,Angestellter,Undirected,,1,Figur,Genderrolle,Mann
+Alfons Kobler,Mann,Undirected,,1,Figur,Genderrolle,Mann
+Alfons Kobler,Bolschewik,Undirected,,1,Figur,Genderrolle,Mann
+Alfons Kobler,Demokrat,Undirected,,1,Figur,Genderrolle,MAnn
+Alfons Kobler,kein Emigrant,Undirected,,1,Figur,Genderrolle,Mann
+Alfons Kobler,Kaufmann,Undirected,,1,Figur,Genderrolle,Mann
+Alfons Kobler,Herren,Undirected,,1,Figur,Genderrolle,Mann
+Alfons Kobler,kein Narziß,Undirected,,1,Figur,Genderrolle,Mann
+Alfons Kobler,Freund,Undirected,,1,Figur,Genderrolle,Mann
+Alfons Kobler,Darling,Undirected,,1,Figur,Genderrolle,Genderneutral
+Alfons Kobler,Alfons,Undirected,,1,Figur,Genderrolle,Mann
+Alfons Kobler,Mensch,Undirected,,1,Figur,Genderrolle,Genderneutral
+Alfons Kobler,Subjekt,Undirected,,1,Figur,Genderrolle,Genderneutral
+Alfons Kobler,Enttäuschung,Undirected,,1,Figur,Genderrolle,Genderneutral
+Alfons Kobler,Schurken,Undirected,,1,Figur,Genderrolle,Mann
+Alfons Kobler,Herr,Undirected,,1,Figur,Genderrolle,Mann
+Alfons Kobler,Verkäufer,Undirected,,1,Figur,Genderrolle,Mann
+Alfons Kobler,Herr Alfons Kobler,Undirected,,1,Figur,Genderrolle,Mann
+Alfons Kobler,Kobler,Undirected,,1,Figur,Genderrolle,Mann
+Alfons Kobler,Herr Kobler,Undirected,,1,Figur,Genderrolle,Mann

@@ -1,0 +1,143 @@
+Id,Label,node type,gender
+Alfred,Alfred,Figur,
+Alfred Charlesworth,Alfred Charlesworth,Figur,
+Annie,Annie,Figur,
+Barker,Barker,Figur,
+Bergleute,Bergleute,Figur,
+Bergmannsfrauen,Bergmannsfrauen,Figur,
+Bill Hodgkinson,Bill Hodgkinson,Figur,
+Bürgersleute,Bürgersleute,Figur,
+Flüchtling,Flüchtling,Figur,
+Frau,Frau,Rolle,weiblich
+Frau Anthony,Frau Anthony,Figur,
+Frau Bower,Frau Bower,Figur,
+Frau Kirk,Frau Kirk,Figur,
+Frau von John Field,Frau von John Field,Figur,
+Frauen,Frauen,Figur,
+Geldleute,Geldleute,Figur,
+George Coppard,George Coppard,Figur,
+Gerald Coppard,Gerald Coppard,Figur,
+Gertrude,Gertrude,Figur,
+Gertrude Morel,Gertrude Morel,Figur,
+Gertrudes Lehrerin,Gertrudes Lehrerin,Figur,
+Gertrudes Mutter,Gertrudes Mutter,Figur,
+Giles,Giles,Figur,
+Gott,Gott,Figur,
+Großmutter Morel,Großmutter Morel,Figur,
+Großvater Morel,Großvater Morel,Figur,
+Großvater von Frau Morel,Großvater von Frau Morel,Figur,
+Guckkastendame,Guckkastendame,Figur,
+Hausvater,Hausvater,Figur,
+Hose,Hose,Figur,
+Jerry Purdy,Jerry Purdy,Figur,
+Jerrys Kinder,Jerrys Kinder,Figur,
+Jerrys Schwester,Jerrys Schwester,Figur,
+Jerrys Tochter,Jerrys Tochter,Figur,
+John Field,John Field,Figur,
+John Fields Vater,John Fields Vater,Figur,
+Karl der Zweite,Karl der Zweite,Figur,
+Kinder,Kinder,Figur,
+Kneipbrüder,Kneipbrüder,Figur,
+Kokosnussmann,Kokosnussmann,Figur,
+Krämer,Krämer,Figur,
+Lehrerin,Lehrerin,Figur,
+Lord Palmerstone,Lord Palmerstone,Figur,
+Lumpensammler,Lumpensammler,Figur,
+Mädchen,Mädchen,Rolle,weiblich
+Mr Heaton,Mr Heaton,Figur,
+Mr Heatons Frau,Mr Heatons Frau,Figur,
+Mr. Heaton,Mr. Heaton,Figur,
+Mrs Coppard,Mrs Coppard,Figur,
+Mrs. Heaton,Mrs. Heaton,Figur,
+Mutter von Walter,Mutter von Walter,Figur,
+Nachbarin,Nachbarin,Rolle,weiblich
+Paul,Paul,Figur,
+Schänkmädchen,Schänkmädchen,Figur,
+Schwestern von Walter,Schwestern von Walter,Figur,
+Tochter Purdy,Tochter Purdy,Figur,
+Wallace,Wallace,Figur,
+Walter Morel,Walter Morel,Figur,
+Wäscherin,Wäscherin,Figur,
+William,William,Figur,
+Allerschönster,Allerschönster,Rolle,männlich
+alte Frau,alte Frau,Rolle,weiblich
+ältere Frau,ältere Frau,Rolle,weiblich
+Bergmann,Bergmann,Rolle,männlich
+Betriebsleiter,Betriebsleiter,Rolle,männlich
+Busenfreund,Busenfreund,Rolle,männlich
+Calvinist,Calvinist,Rolle,männlich
+Chorknabe,Chorknabe,Rolle,männlich
+Dame,Dame,Rolle,weiblich
+der Alte,der Alte,Rolle,männlich
+Dienstmädchen,Dienstmädchen,Rolle,weiblich
+Ding,Ding,Rolle,genderneutral
+Edelmann,Edelmann,Rolle,männlich
+Ekel,Ekel,Rolle,genderneutral
+Frühaufsteher,Frühaufsteher,Rolle,männlich
+Gatte,Gatte,Rolle,männlich
+Gebieter,Gebieter,Rolle,männlich
+Geistlicher,Geistlicher,Rolle,männlich
+Glaubensschwärmer,Glaubensschwärmer,Rolle,männlich
+Großvater,Großvater,Rolle,männlich
+Helferin,Helferin,Rolle,weiblich
+Herr,Herr,Rolle,männlich
+Herr Graf,Herr Graf,Rolle,männlich
+Heultriene,Heultriene,Rolle,weiblich
+Hexe,Hexe,Rolle,weiblich
+Junge,Junge,Rolle,männlich
+junge Frau,junge Frau,Rolle,weiblich
+junger Mann,junger Mann,Rolle,männlich
+kein Mädchen,kein Mädchen,Rolle,männlich
+kein Prediger,kein Prediger,Rolle,männlich
+Kerl,Kerl,Rolle,männlich
+Kind,Kind,Rolle,genderneutral
+Kleiner,Kleiner,Rolle,männlich
+Kleines,Kleines,Rolle,genderneutral
+König,König,Rolle,männlich
+Kumpel,Kumpel,Rolle,männlich
+Lamm,Lamm,Rolle,genderneutral
+Lehrer,Lehrer,Rolle,männlich
+Liebe,Liebe,Rolle,weiblich
+Lügner,Lügner,Rolle,männlich
+Lügnerin,Lügnerin,Rolle,weiblich
+Lüjnersche,Lüjnersche,Rolle,weiblich
+Lump,Lump,Rolle,männlich
+Mann,Mann,Rolle,männlich
+Maschinist,Maschinist,Rolle,männlich
+Meister,Meister,Rolle,männlich
+Mensch,Mensch,Rolle,genderneutral
+Mutter,Mutter,Rolle,weiblich
+Nachbarn,Nachbarn,Rolle,genderneutral
+Narr,Narr,Rolle,männlich
+Nichtsnutz,Nichtsnutz,Rolle,genderneutral
+Obermaschinist,Obermaschinist,Rolle,männlich
+Paar,Paar,Rolle,genderneutral
+Pate,Pate,Rolle,männlich
+Pfaffe,Pfaffe,Rolle,männlich
+Pfiffikus,Pfiffikus,Rolle,männlich
+Plappermaul,Plappermaul,Rolle,genderneutral
+Prahlhans,Prahlhans,Rolle,männlich
+Prediger,Prediger,Rolle,männlich
+Puritaner,Puritaner,Rolle,genderneutral
+Reisende,Reisende,Rolle,genderneutral
+Schauspieler,Schauspieler,Rolle,männlich
+Schenkmädchen,Schenkmädchen,Rolle,weiblich
+Schlepperjunge,Schlepperjunge,Rolle,männlich
+Schnapsgegner,Schnapsgegner,Rolle,männlich
+Schuft,Schuft,Rolle,männlich
+Schwätzer,Schwätzer,Rolle,männlich
+Schwester,Schwester,Rolle,weiblich
+Schwiegermutter,Schwiegermutter,Rolle,weiblich
+Sohn,Sohn,Rolle,männlich
+Steiger,Steiger,Rolle,männlich
+Tochter,Tochter,Rolle,weiblich
+Toter,Toter,Rolle,männlich
+Ungeborenes,Ungeborenes,Rolle,genderneutral
+Vater,Vater,Rolle,männlich
+Verliebter,Verliebter,Rolle,männlich
+Walt,Walt,Rolle,männlich
+Weib,Weib,Rolle,weiblich
+Weibsbild,Weibsbild,Rolle,weiblich
+Wesen,Wesen,Rolle,genderneutral
+Wirtin,Wirtin,Rolle,weiblich
+Witwe,Witwe,Rolle,weiblich
